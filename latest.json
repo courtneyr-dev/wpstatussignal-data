@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-11-11T00:50:27.872Z",
+  "generatedAt": "2026-11-11T03:18:39.798Z",
   "items": [
+    {
+      "id": "make:core:127062",
+      "source": "make",
+      "teams": [
+        "core"
+      ],
+      "type": "post",
+      "title": "New Block Support in WordPress 7.2: Text Shadow (textShadow)",
+      "url": "https://make.wordpress.org/core/2026/11/11/new-block-support-in-wordpress-7-2-text-shadow/",
+      "time": "2026-11-11T01:36:13Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
     {
       "id": "make:core:126923",
       "source": "make",
@@ -348,20 +362,6 @@
       "title": "NO_BACKSLASH_ESCAPES SQL mode is now turned off by default in WordPress 7.2",
       "url": "https://make.wordpress.org/core/2026/10/09/no_backslash_escapes-sql-mode-is-now-turned-off-by-default-in-wordpress-7-2/",
       "time": "2026-10-09T18:13:41Z",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "make:core:126106",
-      "source": "make",
-      "teams": [
-        "core"
-      ],
-      "type": "post",
-      "title": "Progress Report: <code>wp_kses()</code>",
-      "url": "https://make.wordpress.org/core/2026/10/07/progress-report-wp_kses/",
-      "time": "2026-10-07T19:57:21Z",
       "ask": "none",
       "personas": [],
       "confidence": 1
@@ -6961,6 +6961,1055 @@
       "confidence": 1
     },
     {
+      "id": "site:dev-blog:https://developer.wordpress.org/news/2026/10/whats-new-for-developers-october-2026/",
+      "source": "site",
+      "teams": [
+        "core"
+      ],
+      "type": "post",
+      "title": "What’s new for developers? (October 2026)",
+      "url": "https://developer.wordpress.org/news/2026/10/whats-new-for-developers-october-2026/",
+      "time": "2026-10-14T19:56:09.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "Developer Blog"
+    },
+    {
+      "id": "site:dev-blog:https://developer.wordpress.org/news/2026/09/whats-new-for-developers-september-2026/",
+      "source": "site",
+      "teams": [
+        "core"
+      ],
+      "type": "post",
+      "title": "What’s new for developers? (September 2026)",
+      "url": "https://developer.wordpress.org/news/2026/09/whats-new-for-developers-september-2026/",
+      "time": "2026-09-10T22:18:51.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "Developer Blog"
+    },
+    {
+      "id": "site:dev-blog:https://developer.wordpress.org/news/2026/08/hands-on-with-the-wordpress-7-1-icon-registration-api/",
+      "source": "site",
+      "teams": [
+        "core"
+      ],
+      "type": "post",
+      "title": "Hands-on with the WordPress 7.1 Icon Registration API",
+      "url": "https://developer.wordpress.org/news/2026/08/hands-on-with-the-wordpress-7-1-icon-registration-api/",
+      "time": "2026-08-18T20:44:17.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "Developer Blog"
+    },
+    {
+      "id": "site:dev-blog:https://developer.wordpress.org/news/2026/08/whats-new-for-developers-august-2026/",
+      "source": "site",
+      "teams": [
+        "core"
+      ],
+      "type": "post",
+      "title": "What’s new for developers? (August 2026)",
+      "url": "https://developer.wordpress.org/news/2026/08/whats-new-for-developers-august-2026/",
+      "time": "2026-08-10T21:18:51.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "Developer Blog"
+    },
+    {
+      "id": "site:dev-blog:https://developer.wordpress.org/news/2026/08/rethinking-do_action-events-as-objects-hooks-as-class-names/",
+      "source": "site",
+      "teams": [
+        "core"
+      ],
+      "type": "post",
+      "title": "Rethinking do_action(): Events as objects, hooks as class names",
+      "url": "https://developer.wordpress.org/news/2026/08/rethinking-do_action-events-as-objects-hooks-as-class-names/",
+      "time": "2026-08-03T21:00:34.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "Developer Blog"
+    },
+    {
+      "id": "site:dev-blog:https://developer.wordpress.org/news/2026/07/build-your-first-ai-powered-wordpress-plugin/",
+      "source": "site",
+      "teams": [
+        "core"
+      ],
+      "type": "post",
+      "title": "Build your first AI-Powered WordPress plugin",
+      "url": "https://developer.wordpress.org/news/2026/07/build-your-first-ai-powered-wordpress-plugin/",
+      "time": "2026-07-30T17:39:44.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "Developer Blog"
+    },
+    {
+      "id": "site:dev-blog:https://developer.wordpress.org/news/2026/07/on-brand-maintenance-mode-for-wordpress-block-themes/",
+      "source": "site",
+      "teams": [
+        "core"
+      ],
+      "type": "post",
+      "title": "On-brand maintenance mode for WordPress Block Themes",
+      "url": "https://developer.wordpress.org/news/2026/07/on-brand-maintenance-mode-for-wordpress-block-themes/",
+      "time": "2026-07-13T11:22:06.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "Developer Blog"
+    },
+    {
+      "id": "site:dev-blog:https://developer.wordpress.org/news/2026/07/whats-new-for-developers-july-2026/",
+      "source": "site",
+      "teams": [
+        "core"
+      ],
+      "type": "post",
+      "title": "What’s new for developers (July 2026)",
+      "url": "https://developer.wordpress.org/news/2026/07/whats-new-for-developers-july-2026/",
+      "time": "2026-07-10T14:17:56.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "Developer Blog"
+    },
+    {
+      "id": "site:dev-blog:https://developer.wordpress.org/news/2026/06/dynamically-loading-template-parts-in-block-themes/",
+      "source": "site",
+      "teams": [
+        "core"
+      ],
+      "type": "post",
+      "title": "Dynamically loading template parts in block themes",
+      "url": "https://developer.wordpress.org/news/2026/06/dynamically-loading-template-parts-in-block-themes/",
+      "time": "2026-06-18T21:28:46.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "Developer Blog"
+    },
+    {
+      "id": "site:dev-blog:https://developer.wordpress.org/news/2026/06/whats-new-for-developers-june-2026/",
+      "source": "site",
+      "teams": [
+        "core"
+      ],
+      "type": "post",
+      "title": "What’s new for developers? (June 2026)",
+      "url": "https://developer.wordpress.org/news/2026/06/whats-new-for-developers-june-2026/",
+      "time": "2026-06-10T16:08:10.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "Developer Blog"
+    },
+    {
+      "id": "site:learn:https://learn.wordpress.org/learn-wordpress-newsletter-january-2025/",
+      "source": "site",
+      "teams": [
+        "training"
+      ],
+      "type": "post",
+      "title": "Learn WordPress Newsletter – January 2025",
+      "url": "https://learn.wordpress.org/learn-wordpress-newsletter-january-2025/",
+      "time": "2025-01-21T07:11:01.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "Learn WordPress"
+    },
+    {
+      "id": "site:learn:https://learn.wordpress.org/learn-wordpress-newsletter-december-2024/",
+      "source": "site",
+      "teams": [
+        "training"
+      ],
+      "type": "post",
+      "title": "Learn WordPress Newsletter – December 2024",
+      "url": "https://learn.wordpress.org/learn-wordpress-newsletter-december-2024/",
+      "time": "2024-12-03T05:28:20.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "Learn WordPress"
+    },
+    {
+      "id": "site:learn:https://learn.wordpress.org/learn-wordpress-newsletter-november-2024/",
+      "source": "site",
+      "teams": [
+        "training"
+      ],
+      "type": "post",
+      "title": "Learn WordPress Newsletter – November 2024",
+      "url": "https://learn.wordpress.org/learn-wordpress-newsletter-november-2024/",
+      "time": "2024-11-01T07:34:10.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "Learn WordPress"
+    },
+    {
+      "id": "site:learn:https://learn.wordpress.org/learn-wordpress-newsletter-september-2024/",
+      "source": "site",
+      "teams": [
+        "training"
+      ],
+      "type": "post",
+      "title": "Learn WordPress Newsletter – September 2024",
+      "url": "https://learn.wordpress.org/learn-wordpress-newsletter-september-2024/",
+      "time": "2024-09-26T18:34:20.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "Learn WordPress"
+    },
+    {
+      "id": "site:learn:https://learn.wordpress.org/learn-wordpress-newsletter-august-2024/",
+      "source": "site",
+      "teams": [
+        "training"
+      ],
+      "type": "post",
+      "title": "Learn WordPress Newsletter – August 2024",
+      "url": "https://learn.wordpress.org/learn-wordpress-newsletter-august-2024/",
+      "time": "2024-08-02T12:37:57.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "Learn WordPress"
+    },
+    {
+      "id": "site:learn:https://learn.wordpress.org/learn-wordpress-newsletter-july-2024/",
+      "source": "site",
+      "teams": [
+        "training"
+      ],
+      "type": "post",
+      "title": "Learn WordPress Newsletter – July 2024",
+      "url": "https://learn.wordpress.org/learn-wordpress-newsletter-july-2024/",
+      "time": "2024-07-01T00:00:00.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "Learn WordPress"
+    },
+    {
+      "id": "site:learn:https://learn.wordpress.org/learn-wordpress-newsletter-june-2024/",
+      "source": "site",
+      "teams": [
+        "training"
+      ],
+      "type": "post",
+      "title": "Learn WordPress Newsletter – June 2024",
+      "url": "https://learn.wordpress.org/learn-wordpress-newsletter-june-2024/",
+      "time": "2024-06-04T16:07:12.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "Learn WordPress"
+    },
+    {
+      "id": "site:learn:https://learn.wordpress.org/learn-wordpress-newsletter-may-2024/",
+      "source": "site",
+      "teams": [
+        "training"
+      ],
+      "type": "post",
+      "title": "Learn WordPress Newsletter – May 2024",
+      "url": "https://learn.wordpress.org/learn-wordpress-newsletter-may-2024/",
+      "time": "2024-05-03T02:28:19.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "Learn WordPress"
+    },
+    {
+      "id": "site:learn:https://learn.wordpress.org/learn-wordpress-newsletter-april-2024/",
+      "source": "site",
+      "teams": [
+        "training"
+      ],
+      "type": "post",
+      "title": "Learn WordPress Newsletter – April 2024",
+      "url": "https://learn.wordpress.org/learn-wordpress-newsletter-april-2024/",
+      "time": "2024-04-03T02:50:22.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "Learn WordPress"
+    },
+    {
+      "id": "site:learn:https://learn.wordpress.org/learn-wordpress-newsletter-march-2024/",
+      "source": "site",
+      "teams": [
+        "training"
+      ],
+      "type": "post",
+      "title": "Learn WordPress Newsletter – March 2024",
+      "url": "https://learn.wordpress.org/learn-wordpress-newsletter-march-2024/",
+      "time": "2024-03-04T03:04:02.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "Learn WordPress"
+    },
+    {
+      "id": "site:learn:https://learn.wordpress.org/learn-wordpress-newsletter-february-2024/",
+      "source": "site",
+      "teams": [
+        "training"
+      ],
+      "type": "post",
+      "title": "Learn WordPress Newsletter – February 2024",
+      "url": "https://learn.wordpress.org/learn-wordpress-newsletter-february-2024/",
+      "time": "2024-02-08T07:03:23.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "Learn WordPress"
+    },
+    {
+      "id": "site:learn:https://learn.wordpress.org/learn-wordpress-newsletter-january-2024/",
+      "source": "site",
+      "teams": [
+        "training"
+      ],
+      "type": "post",
+      "title": "Learn WordPress Newsletter – January 2024",
+      "url": "https://learn.wordpress.org/learn-wordpress-newsletter-january-2024/",
+      "time": "2024-01-08T03:47:50.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "Learn WordPress"
+    },
+    {
+      "id": "site:learn:https://learn.wordpress.org/learn-wordpress-newsletter-december-2023/",
+      "source": "site",
+      "teams": [
+        "training"
+      ],
+      "type": "post",
+      "title": "Learn WordPress Newsletter – December 2023",
+      "url": "https://learn.wordpress.org/learn-wordpress-newsletter-december-2023/",
+      "time": "2023-12-01T07:59:24.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "Learn WordPress"
+    },
+    {
+      "id": "site:learn:https://learn.wordpress.org/learn-wordpress-newsletter-november-2023/",
+      "source": "site",
+      "teams": [
+        "training"
+      ],
+      "type": "post",
+      "title": "Learn WordPress Newsletter – November 2023",
+      "url": "https://learn.wordpress.org/learn-wordpress-newsletter-november-2023/",
+      "time": "2023-11-01T07:00:00.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "Learn WordPress"
+    },
+    {
+      "id": "site:learn:https://learn.wordpress.org/learn-wordpress-newsletter-october-2023/",
+      "source": "site",
+      "teams": [
+        "training"
+      ],
+      "type": "post",
+      "title": "Learn WordPress Newsletter – October 2023",
+      "url": "https://learn.wordpress.org/learn-wordpress-newsletter-october-2023/",
+      "time": "2023-10-02T04:41:02.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "Learn WordPress"
+    },
+    {
+      "id": "site:learn:https://learn.wordpress.org/learn-wordpress-newsletter-september-2023/",
+      "source": "site",
+      "teams": [
+        "training"
+      ],
+      "type": "post",
+      "title": "Learn WordPress Newsletter – September 2023",
+      "url": "https://learn.wordpress.org/learn-wordpress-newsletter-september-2023/",
+      "time": "2023-09-02T08:47:30.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "Learn WordPress"
+    },
+    {
+      "id": "site:learn:https://learn.wordpress.org/learn-wordpress-august-newsletter/",
+      "source": "site",
+      "teams": [
+        "training"
+      ],
+      "type": "post",
+      "title": "Learn WordPress August Newsletter",
+      "url": "https://learn.wordpress.org/learn-wordpress-august-newsletter/",
+      "time": "2023-08-01T05:43:58.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "Learn WordPress"
+    },
+    {
+      "id": "site:learn:https://learn.wordpress.org/learn-wordpress-july-2023-newsletter/",
+      "source": "site",
+      "teams": [
+        "training"
+      ],
+      "type": "post",
+      "title": "Learn WordPress July 2023 Newsletter",
+      "url": "https://learn.wordpress.org/learn-wordpress-july-2023-newsletter/",
+      "time": "2023-07-03T22:00:00.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "Learn WordPress"
+    },
+    {
+      "id": "site:learn:https://learn.wordpress.org/learn-wordpress-june-2023-newsletter/",
+      "source": "site",
+      "teams": [
+        "training"
+      ],
+      "type": "post",
+      "title": "Learn WordPress June 2023 Newsletter",
+      "url": "https://learn.wordpress.org/learn-wordpress-june-2023-newsletter/",
+      "time": "2023-06-01T13:03:17.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "Learn WordPress"
+    },
+    {
+      "id": "site:learn:https://learn.wordpress.org/learn-wordpress-may-2023-newsletter/",
+      "source": "site",
+      "teams": [
+        "training"
+      ],
+      "type": "post",
+      "title": "Learn WordPress May 2023 Newsletter",
+      "url": "https://learn.wordpress.org/learn-wordpress-may-2023-newsletter/",
+      "time": "2023-05-01T03:11:19.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "Learn WordPress"
+    },
+    {
+      "id": "site:learn:https://learn.wordpress.org/learn-wordpress-april-2023-newsletter/",
+      "source": "site",
+      "teams": [
+        "training"
+      ],
+      "type": "post",
+      "title": "Learn WordPress April 2023 Newsletter",
+      "url": "https://learn.wordpress.org/learn-wordpress-april-2023-newsletter/",
+      "time": "2023-04-03T07:00:00.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "Learn WordPress"
+    },
+    {
+      "id": "site:learn:https://learn.wordpress.org/learn-wordpress-march-newsletter/",
+      "source": "site",
+      "teams": [
+        "training"
+      ],
+      "type": "post",
+      "title": "Learn WordPress March Newsletter",
+      "url": "https://learn.wordpress.org/learn-wordpress-march-newsletter/",
+      "time": "2023-03-01T07:00:00.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "Learn WordPress"
+    },
+    {
+      "id": "site:wordcamp-central:https://central.wordcamp.org/news/2026/11/a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/",
+      "source": "site",
+      "teams": [
+        "community"
+      ],
+      "type": "post",
+      "title": "A Shoutout to Meahadi Hasan: From the Classroom to the Global WordPress Community",
+      "url": "https://central.wordcamp.org/news/2026/11/a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/",
+      "time": "2026-11-06T12:27:01.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordCamp Central"
+    },
+    {
+      "id": "site:wordcamp-central:https://central.wordcamp.org/news/2026/11/wordcamp-sylhet-2026-no-swag-all-heart/",
+      "source": "site",
+      "teams": [
+        "community"
+      ],
+      "type": "post",
+      "title": "WordCamp Sylhet 2026: No Swag, All Heart",
+      "url": "https://central.wordcamp.org/news/2026/11/wordcamp-sylhet-2026-no-swag-all-heart/",
+      "time": "2026-11-01T15:04:39.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordCamp Central"
+    },
+    {
+      "id": "site:wordcamp-central:https://central.wordcamp.org/news/2026/10/wordpress-campus-connect-at-presidency-university-building-skills-exploring-careers-and-inspiring-the-next-generation/",
+      "source": "site",
+      "teams": [
+        "community"
+      ],
+      "type": "post",
+      "title": "WordPress Campus Connect at Presidency University: Building Skills, Exploring Careers, and Inspiring the Next Generation",
+      "url": "https://central.wordcamp.org/news/2026/10/wordpress-campus-connect-at-presidency-university-building-skills-exploring-careers-and-inspiring-the-next-generation/",
+      "time": "2026-10-30T14:42:22.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordCamp Central"
+    },
+    {
+      "id": "site:wordcamp-central:https://central.wordcamp.org/news/2026/10/wordpress-campus-connect-ahmad-education-dhaka-2026/",
+      "source": "site",
+      "teams": [
+        "community"
+      ],
+      "type": "post",
+      "title": "WordPress Campus Connect Ahmad Education, Dhaka 2026",
+      "url": "https://central.wordcamp.org/news/2026/10/wordpress-campus-connect-ahmad-education-dhaka-2026/",
+      "time": "2026-10-19T11:04:06.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordCamp Central"
+    },
+    {
+      "id": "site:wordcamp-central:https://central.wordcamp.org/news/2026/10/wordcamp-jinja-2026-recap-three-tracks-two-days-and-creative-currents-on-the-nile/",
+      "source": "site",
+      "teams": [
+        "community"
+      ],
+      "type": "post",
+      "title": "WordCamp Jinja 2026 Recap: Three Tracks, Two Days and Creative Currents on the Nile",
+      "url": "https://central.wordcamp.org/news/2026/10/wordcamp-jinja-2026-recap-three-tracks-two-days-and-creative-currents-on-the-nile/",
+      "time": "2026-10-15T19:54:36.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordCamp Central"
+    },
+    {
+      "id": "site:wordcamp-central:https://central.wordcamp.org/news/2026/07/wordcamp-rajshahi-2026-celebrating-community-learning-and-open-source/",
+      "source": "site",
+      "teams": [
+        "community"
+      ],
+      "type": "post",
+      "title": "WordCamp Rajshahi 2026: Celebrating Community, Learning, and Open Source",
+      "url": "https://central.wordcamp.org/news/2026/07/wordcamp-rajshahi-2026-celebrating-community-learning-and-open-source/",
+      "time": "2026-07-20T19:05:31.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordCamp Central"
+    },
+    {
+      "id": "site:wordcamp-central:https://central.wordcamp.org/news/2026/05/happy-birthday-wordpress/",
+      "source": "site",
+      "teams": [
+        "community"
+      ],
+      "type": "post",
+      "title": "Happy Birthday, WordPress",
+      "url": "https://central.wordcamp.org/news/2026/05/happy-birthday-wordpress/",
+      "time": "2026-05-27T12:40:37.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordCamp Central"
+    },
+    {
+      "id": "site:wordcamp-central:https://central.wordcamp.org/news/2026/05/wordcamp-kampala-2026-tech-for-social-good-in-a-rapidly-evolving-digital-world/",
+      "source": "site",
+      "teams": [
+        "community"
+      ],
+      "type": "post",
+      "title": "WordCamp Kampala 2026: Tech for Social Good in a Rapidly Evolving Digital World",
+      "url": "https://central.wordcamp.org/news/2026/05/wordcamp-kampala-2026-tech-for-social-good-in-a-rapidly-evolving-digital-world/",
+      "time": "2026-05-08T13:15:45.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordCamp Central"
+    },
+    {
+      "id": "site:wordcamp-central:https://central.wordcamp.org/news/2026/05/a-journey-to-remember-my-wordcamp-asia-2026-experience-in-mumbai/",
+      "source": "site",
+      "teams": [
+        "community"
+      ],
+      "type": "post",
+      "title": "A Journey to Remember: My WordCamp Asia 2026 Experience in Mumbai",
+      "url": "https://central.wordcamp.org/news/2026/05/a-journey-to-remember-my-wordcamp-asia-2026-experience-in-mumbai/",
+      "time": "2026-05-07T17:36:44.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordCamp Central"
+    },
+    {
+      "id": "site:wordcamp-central:https://central.wordcamp.org/news/2026/03/wordpress-campus-connect-jinja-2025-recap-piloting-africas-first-and-largest-campus-connect-program-across-12-campuses-in-eastern-uganda/",
+      "source": "site",
+      "teams": [
+        "community"
+      ],
+      "type": "post",
+      "title": "WordPress Campus Connect Jinja 2025 Recap: Piloting Africa’s First and Largest Campus Connect Program Across 12 Campuses in Eastern Uganda",
+      "url": "https://central.wordcamp.org/news/2026/03/wordpress-campus-connect-jinja-2025-recap-piloting-africas-first-and-largest-campus-connect-program-across-12-campuses-in-eastern-uganda/",
+      "time": "2026-03-19T13:10:16.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordCamp Central"
+    },
+    {
+      "id": "site:wordcamp-central:https://central.wordcamp.org/news/2026/02/introducing-wordcamp-mukono-2026-sustainable-growth-building-a-lasting-wordpress-future/",
+      "source": "site",
+      "teams": [
+        "community"
+      ],
+      "type": "post",
+      "title": "Introducing WordCamp Mukono 2026: Sustainable Growth, Building a Lasting WordPress Future",
+      "url": "https://central.wordcamp.org/news/2026/02/introducing-wordcamp-mukono-2026-sustainable-growth-building-a-lasting-wordpress-future/",
+      "time": "2026-02-20T09:48:51.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordCamp Central"
+    },
+    {
+      "id": "site:wordcamp-central:https://central.wordcamp.org/news/2026/02/wordpress-tech-congress-wordcamp-valencia-2025-tradition-and-innovation/",
+      "source": "site",
+      "teams": [
+        "community"
+      ],
+      "type": "post",
+      "title": "WordPress Tech Congress, WordCamp Valencia 2025. Tradition and Innovation",
+      "url": "https://central.wordcamp.org/news/2026/02/wordpress-tech-congress-wordcamp-valencia-2025-tradition-and-innovation/",
+      "time": "2026-02-11T09:00:00.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordCamp Central"
+    },
+    {
+      "id": "site:wordcamp-central:https://central.wordcamp.org/news/2026/02/wordcamp-bhopal-2025-a-decade-of-community-a-weekend-that-felt-like-home/",
+      "source": "site",
+      "teams": [
+        "community"
+      ],
+      "type": "post",
+      "title": "WordCamp Bhopal 2025: A Decade of Community, A Weekend That Felt Like Home",
+      "url": "https://central.wordcamp.org/news/2026/02/wordcamp-bhopal-2025-a-decade-of-community-a-weekend-that-felt-like-home/",
+      "time": "2026-02-09T09:00:00.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordCamp Central"
+    },
+    {
+      "id": "site:wordcamp-central:https://central.wordcamp.org/news/2026/02/wordcamp-port-harcourt-2026-a-community-led-wordpress-event-in-nigeria/",
+      "source": "site",
+      "teams": [
+        "community"
+      ],
+      "type": "post",
+      "title": "WordCamp Port Harcourt 2026: A Community-Led WordPress Event in Nigeria",
+      "url": "https://central.wordcamp.org/news/2026/02/wordcamp-port-harcourt-2026-a-community-led-wordpress-event-in-nigeria/",
+      "time": "2026-02-06T11:54:46.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordCamp Central"
+    },
+    {
+      "id": "site:wordcamp-central:https://central.wordcamp.org/news/2025/11/wordpress-udupi-community-empowers-300-students-across-coastal-karnataka-through-campus-connect/",
+      "source": "site",
+      "teams": [
+        "community"
+      ],
+      "type": "post",
+      "title": "WordPress Udupi Community Empowers 300+ Students Across Coastal Karnataka Through Campus Connect",
+      "url": "https://central.wordcamp.org/news/2025/11/wordpress-udupi-community-empowers-300-students-across-coastal-karnataka-through-campus-connect/",
+      "time": "2025-11-10T13:19:09.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordCamp Central"
+    },
+    {
+      "id": "site:foundation:https://wordpressfoundation.org/news/2026/2026-wcus-kim-parsell-scholarship-recipient/",
+      "source": "site",
+      "teams": [
+        "foundation"
+      ],
+      "type": "post",
+      "title": "Announcing the 2026 Kim Parsell Memorial Scholarship Recipient: Jeanherline Santiago",
+      "url": "https://wordpressfoundation.org/news/2026/2026-wcus-kim-parsell-scholarship-recipient/",
+      "time": "2026-09-01T20:54:21.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress Foundation"
+    },
+    {
+      "id": "site:foundation:https://wordpressfoundation.org/news/2026/open-horizons-in-action-what-our-first-cohort-has-been-up-to/",
+      "source": "site",
+      "teams": [
+        "foundation"
+      ],
+      "type": "post",
+      "title": "Open Horizons in Action: What Our First Cohort Has Been Up To",
+      "url": "https://wordpressfoundation.org/news/2026/open-horizons-in-action-what-our-first-cohort-has-been-up-to/",
+      "time": "2026-05-28T20:12:35.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress Foundation"
+    },
+    {
+      "id": "site:foundation:https://wordpressfoundation.org/news/2025/recognizing-the-2025-wordcamp-asia-kim-parsell-memorial-scholarship-recipients/",
+      "source": "site",
+      "teams": [
+        "foundation"
+      ],
+      "type": "post",
+      "title": "Recognizing the 2025 WordCamp Asia Kim Parsell Memorial Scholarship Recipients",
+      "url": "https://wordpressfoundation.org/news/2025/recognizing-the-2025-wordcamp-asia-kim-parsell-memorial-scholarship-recipients/",
+      "time": "2025-11-21T21:07:42.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress Foundation"
+    },
+    {
+      "id": "site:foundation:https://wordpressfoundation.org/news/2025/thank-you-automattic-announcing-the-open-horizons-scholarship/",
+      "source": "site",
+      "teams": [
+        "foundation"
+      ],
+      "type": "post",
+      "title": "Thank You, Automattic: Announcing the Open Horizons Scholarship",
+      "url": "https://wordpressfoundation.org/news/2025/thank-you-automattic-announcing-the-open-horizons-scholarship/",
+      "time": "2025-05-28T19:28:55.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress Foundation"
+    },
+    {
+      "id": "site:foundation:https://wordpressfoundation.org/news/2024/announcing-the-2025-wordcamp-europe-kim-parsell-memorial-scholarship-recipient-eleni-stergatou/",
+      "source": "site",
+      "teams": [
+        "foundation"
+      ],
+      "type": "post",
+      "title": "Announcing the 2025 WordCamp Europe Kim Parsell Memorial Scholarship Recipient: Eleni Stergatou",
+      "url": "https://wordpressfoundation.org/news/2024/announcing-the-2025-wordcamp-europe-kim-parsell-memorial-scholarship-recipient-eleni-stergatou/",
+      "time": "2024-12-20T14:38:26.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress Foundation"
+    },
+    {
+      "id": "site:foundation:https://wordpressfoundation.org/news/2024/kim-parsell-memorial-scholarship-expands-to-wordcamp-asia-and-wordcamp-europe/",
+      "source": "site",
+      "teams": [
+        "foundation"
+      ],
+      "type": "post",
+      "title": "Kim Parsell Memorial Scholarship Expands to WordCamp Asia and WordCamp Europe!",
+      "url": "https://wordpressfoundation.org/news/2024/kim-parsell-memorial-scholarship-expands-to-wordcamp-asia-and-wordcamp-europe/",
+      "time": "2024-11-04T16:43:16.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress Foundation"
+    },
+    {
+      "id": "site:foundation:https://wordpressfoundation.org/news/2024/meeting-minutes/",
+      "source": "site",
+      "teams": [
+        "foundation"
+      ],
+      "type": "post",
+      "title": "2024 WordPress Foundation Meeting Minutes",
+      "url": "https://wordpressfoundation.org/news/2024/meeting-minutes/",
+      "time": "2024-10-18T16:09:45.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress Foundation"
+    },
+    {
+      "id": "site:foundation:https://wordpressfoundation.org/news/2024/wordpress-foundation-donation/",
+      "source": "site",
+      "teams": [
+        "foundation"
+      ],
+      "type": "post",
+      "title": "WordPress Foundation Donates $100,000 to Internet Archive",
+      "url": "https://wordpressfoundation.org/news/2024/wordpress-foundation-donation/",
+      "time": "2024-10-17T19:54:58.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress Foundation"
+    },
+    {
+      "id": "site:foundation:https://wordpressfoundation.org/news/2024/announcing-the-2024-kim-parsell-memorial-scholarship-recipient-cynthia-norman/",
+      "source": "site",
+      "teams": [
+        "foundation"
+      ],
+      "type": "post",
+      "title": "Announcing the 2024 Kim Parsell Memorial Scholarship Recipient: Cynthia Norman",
+      "url": "https://wordpressfoundation.org/news/2024/announcing-the-2024-kim-parsell-memorial-scholarship-recipient-cynthia-norman/",
+      "time": "2024-06-18T17:00:00.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress Foundation"
+    },
+    {
+      "id": "site:foundation:https://wordpressfoundation.org/news/2024/kim-parsell-2024/",
+      "source": "site",
+      "teams": [
+        "foundation"
+      ],
+      "type": "post",
+      "title": "Apply for the Kim Parsell Memorial Scholarship for WordCamp US 2024",
+      "url": "https://wordpressfoundation.org/news/2024/kim-parsell-2024/",
+      "time": "2024-04-18T23:55:25.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress Foundation"
+    },
+    {
+      "id": "site:do-action:https://doaction.org/event/a-coruna-2026/",
+      "source": "site",
+      "teams": [
+        "do-action"
+      ],
+      "type": "post",
+      "title": "A Coruña 2026",
+      "url": "https://doaction.org/event/a-coruna-2026/",
+      "time": "2026-10-14T17:25:03.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "do_action events"
+    },
+    {
+      "id": "site:do-action:https://doaction.org/event/do_action-charity-hackathon-uyo-2026/",
+      "source": "site",
+      "teams": [
+        "do-action"
+      ],
+      "type": "post",
+      "title": "Do_action Charity Hackathon Uyo 2026",
+      "url": "https://doaction.org/event/do_action-charity-hackathon-uyo-2026/",
+      "time": "2026-07-01T21:19:10.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "do_action events"
+    },
+    {
+      "id": "site:do-action:https://doaction.org/event/pontevedra-2025/",
+      "source": "site",
+      "teams": [
+        "do-action"
+      ],
+      "type": "post",
+      "title": "Pontevedra 2025",
+      "url": "https://doaction.org/event/pontevedra-2025/",
+      "time": "2025-10-02T16:45:09.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "do_action events"
+    },
+    {
+      "id": "site:do-action:https://doaction.org/event/pontevedra-2024/",
+      "source": "site",
+      "teams": [
+        "do-action"
+      ],
+      "type": "post",
+      "title": "Pontevedra 2024",
+      "url": "https://doaction.org/event/pontevedra-2024/",
+      "time": "2024-09-17T18:45:16.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "do_action events"
+    },
+    {
+      "id": "site:do-action:https://doaction.org/event/bhopal-2024/",
+      "source": "site",
+      "teams": [
+        "do-action"
+      ],
+      "type": "post",
+      "title": "do_action Bhopal 2024",
+      "url": "https://doaction.org/event/bhopal-2024/",
+      "time": "2024-08-23T01:35:44.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "do_action events"
+    },
+    {
+      "id": "site:do-action:https://doaction.org/event/do_action-cagliari-2024/",
+      "source": "site",
+      "teams": [
+        "do-action"
+      ],
+      "type": "post",
+      "title": "do_action Cagliari 2024",
+      "url": "https://doaction.org/event/do_action-cagliari-2024/",
+      "time": "2024-07-30T07:34:16.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "do_action events"
+    },
+    {
+      "id": "site:do-action:https://doaction.org/event/do_action-ahmedabad-2024/",
+      "source": "site",
+      "teams": [
+        "do-action"
+      ],
+      "type": "post",
+      "title": "do_action Ahmedabad 2024",
+      "url": "https://doaction.org/event/do_action-ahmedabad-2024/",
+      "time": "2024-06-03T18:18:39.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "do_action events"
+    },
+    {
+      "id": "site:do-action:https://doaction.org/event/mumbai-2024/",
+      "source": "site",
+      "teams": [
+        "do-action"
+      ],
+      "type": "post",
+      "title": "Mumbai 2024",
+      "url": "https://doaction.org/event/mumbai-2024/",
+      "time": "2024-04-16T18:00:48.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "do_action events"
+    },
+    {
+      "id": "site:do-action:https://doaction.org/event/do_action-port-harcourt/",
+      "source": "site",
+      "teams": [
+        "do-action"
+      ],
+      "type": "post",
+      "title": "Do_action Charity Hackathon Port Harcourt 2024",
+      "url": "https://doaction.org/event/do_action-port-harcourt/",
+      "time": "2024-02-19T12:29:35.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "do_action events"
+    },
+    {
+      "id": "site:do-action:https://doaction.org/event/pontevedra-2023/",
+      "source": "site",
+      "teams": [
+        "do-action"
+      ],
+      "type": "post",
+      "title": "Pontevedra 2023",
+      "url": "https://doaction.org/event/pontevedra-2023/",
+      "time": "2024-01-10T10:52:05.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "do_action events"
+    },
+    {
+      "source": "trac",
+      "teams": [
+        "core"
+      ],
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "time": "2026-11-11T01:57:20.000Z",
+      "id": "trac:core:ticket:63534",
+      "type": "ticket",
+      "title": "#63534 Add `link_to` label to post types",
+      "status": "closed",
+      "url": "https://core.trac.wordpress.org/ticket/63534#comment:11"
+    },
+    {
+      "source": "trac",
+      "teams": [
+        "core"
+      ],
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "time": "2026-11-11T01:55:12.000Z",
+      "id": "trac:core:ticket:66439",
+      "type": "ticket",
+      "title": "#66439 Block Parser: `<!--` inside a Custom HTML block swallows the block ...",
+      "status": "closed",
+      "url": "https://core.trac.wordpress.org/ticket/66439#comment:9"
+    },
+    {
+      "source": "trac",
+      "teams": [
+        "core"
+      ],
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "time": "2026-11-11T00:49:35.000Z",
+      "id": "trac:core:changeset:65401",
+      "type": "commit",
+      "title": "[65401] Docs: Add missing documentation for the `view_script_module_ids` ...",
+      "url": "https://core.trac.wordpress.org/changeset/65401"
+    },
+    {
       "source": "trac",
       "teams": [
         "core"
@@ -8218,50 +9267,6 @@
       "title": "#57224 tests for wp_widgets_add_menu()",
       "status": "reopened",
       "url": "https://core.trac.wordpress.org/ticket/57224#comment:6"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "core"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-09T19:04:39.000Z",
-      "id": "trac:core:ticket:60179",
-      "type": "ticket",
-      "title": "#60179 Add unit tests for wp_widgets_add_menu",
-      "status": "closed",
-      "url": "https://core.trac.wordpress.org/ticket/60179#comment:6"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "core"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-09T18:58:39.000Z",
-      "id": "trac:core:changeset:65354",
-      "type": "commit",
-      "title": "[65354] Build/Test Tools: Add a remember method to the E2E site fixtures.  A ...",
-      "url": "https://core.trac.wordpress.org/changeset/65354"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "core"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-09T18:48:23.000Z",
-      "id": "trac:core:ticket:66635",
-      "type": "ticket",
-      "title": "#66635 Harden reaction and note permissions",
-      "status": "created",
-      "url": "https://core.trac.wordpress.org/ticket/66635"
     },
     {
       "source": "trac",
@@ -9720,15 +10725,45 @@
       "url": "https://meta.trac.wordpress.org/changeset/15511"
     },
     {
-      "id": "github:WordPress/wordpress-develop#15855",
+      "id": "github:WordPress/wordpress-develop#15825",
       "source": "github",
       "teams": [
         "core"
       ],
       "type": "pull",
-      "title": "Media: Only trust core's flag for cross-origin isolation",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/15855",
-      "time": "2026-11-11T00:46:02.000Z",
+      "title": "Rewrite Rules: Send no-cache and noindex headers for random content that is not redirected",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/15825",
+      "time": "2026-11-11T03:17:53.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-develop#15485",
+      "source": "github",
+      "teams": [
+        "core"
+      ],
+      "type": "pull",
+      "title": "Block Supports: Add a helper that returns every support's classes and styles",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/15485",
+      "time": "2026-11-11T02:19:31.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-develop#15487",
+      "source": "github",
+      "teams": [
+        "core"
+      ],
+      "type": "pull",
+      "title": "HTTP: Avoid writing response headers into streamed files (Trac #66484)",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/15487",
+      "time": "2026-11-11T01:42:10.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -9743,7 +10778,22 @@
       "type": "pull",
       "title": "Media: Stop adding a cache-busting query arg to media source URLs",
       "url": "https://github.com/WordPress/wordpress-develop/pull/15869",
-      "time": "2026-11-11T00:39:26.000Z",
+      "time": "2026-11-11T00:53:22.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-develop#15855",
+      "source": "github",
+      "teams": [
+        "core"
+      ],
+      "type": "pull",
+      "title": "Media: Only trust core's flag for cross-origin isolation",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/15855",
+      "time": "2026-11-11T00:46:02.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -9900,45 +10950,15 @@
       "confidence": 1
     },
     {
-      "id": "github:WordPress/wordpress-develop#12778",
+      "id": "github:WordPress/gutenberg#78367",
       "source": "github",
       "teams": [
-        "core"
+        "core-editor"
       ],
       "type": "pull",
-      "title": "Build/Test Tools: Format copied Gutenberg style registry",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/12778",
-      "time": "2026-11-10T21:57:12.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/wordpress-develop#15850",
-      "source": "github",
-      "teams": [
-        "core"
-      ],
-      "type": "pull",
-      "title": "Build/Test Tools: Add tests for the PHPStan extensions",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/15850",
-      "time": "2026-11-10T21:45:31.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/wordpress-develop#10537",
-      "source": "github",
-      "teams": [
-        "core"
-      ],
-      "type": "pull",
-      "title": "REST API: Log doing_it_wrong notices to debug.log",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/10537",
-      "time": "2026-11-10T20:42:20.000Z",
+      "title": "Connectors: Show filesystem credentials modal on plugin install",
+      "url": "https://github.com/WordPress/gutenberg/pull/78367",
+      "time": "2026-11-11T03:19:04.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -9953,7 +10973,82 @@
       "type": "pull",
       "title": "RTC: Apply only the editor's own change when its block list lags the shared document",
       "url": "https://github.com/WordPress/gutenberg/pull/85977",
-      "time": "2026-11-11T00:50:38.000Z",
+      "time": "2026-11-11T03:18:13.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#86593",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Navigation: Add minimum width and height support",
+      "url": "https://github.com/WordPress/gutenberg/pull/86593",
+      "time": "2026-11-11T03:18:08.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#86594",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Navigation Link: Add minimum width and height support",
+      "url": "https://github.com/WordPress/gutenberg/pull/86594",
+      "time": "2026-11-11T03:17:38.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#86354",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "chore: add .d.ts to vendored font library",
+      "url": "https://github.com/WordPress/gutenberg/pull/86354",
+      "time": "2026-11-11T03:02:52.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#82368",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Notes: expose the sidebar threads as a list instead of a tree",
+      "url": "https://github.com/WordPress/gutenberg/pull/82368",
+      "time": "2026-11-11T03:02:44.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#85813",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Increase row span when text overflows its grid cell and increase grid rows if needed",
+      "url": "https://github.com/WordPress/gutenberg/pull/85813",
+      "time": "2026-11-11T02:57:41.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -9966,9 +11061,99 @@
         "core-editor"
       ],
       "type": "pull",
-      "title": "Upload Media: Export isClientSideProcessable()",
+      "title": "Upload Media: Export isClientSideSupportedFormat()",
       "url": "https://github.com/WordPress/gutenberg/pull/86541",
-      "time": "2026-11-11T00:44:31.000Z",
+      "time": "2026-11-11T02:44:59.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#81846",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Core Data: Discard entity record responses superseded by a newer request",
+      "url": "https://github.com/WordPress/gutenberg/pull/81846",
+      "time": "2026-11-11T02:31:44.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#85811",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Ensure grid rows always have a height equivalent to column width",
+      "url": "https://github.com/WordPress/gutenberg/pull/85811",
+      "time": "2026-11-11T02:15:49.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#85870",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "issue",
+      "title": "7.2 Dev Note Tracking Issue",
+      "url": "https://github.com/WordPress/gutenberg/issues/85870",
+      "time": "2026-11-11T01:37:43.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#63702",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "issue",
+      "title": "Content `text` property is not accessible on multiple updateBlockAttributes calls.",
+      "url": "https://github.com/WordPress/gutenberg/issues/63702",
+      "time": "2026-11-11T01:25:33.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#85840",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Add layout and block spacing support to Post Terms Block",
+      "url": "https://github.com/WordPress/gutenberg/pull/85840",
+      "time": "2026-11-11T01:23:43.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#84909",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "(PoC) UI PHP components: Add Card component",
+      "url": "https://github.com/WordPress/gutenberg/pull/84909",
+      "time": "2026-11-11T01:01:49.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -9984,186 +11169,6 @@
       "title": "Add block data to REST API",
       "url": "https://github.com/WordPress/gutenberg/pull/2649",
       "time": "2026-11-11T00:33:25.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#86333",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "PHPStan: Update to 2.3.5 and recommend --fix for the baseline",
-      "url": "https://github.com/WordPress/gutenberg/pull/86333",
-      "time": "2026-11-11T00:29:27.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#86134",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Gallery: Use a distinct icon for the Gallery Grid variation",
-      "url": "https://github.com/WordPress/gutenberg/pull/86134",
-      "time": "2026-11-11T00:23:14.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#84651",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Script Modules: Fix missing translations of script modules",
-      "url": "https://github.com/WordPress/gutenberg/pull/84651",
-      "time": "2026-11-11T00:17:27.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#79440",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Image: Add static aria-label fallback to lightbox trigger button",
-      "url": "https://github.com/WordPress/gutenberg/pull/79440",
-      "time": "2026-11-11T00:02:11.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#79380",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "issue",
-      "title": "Image lightbox trigger button has no accessible name without JavaScript (named only at hydration)",
-      "url": "https://github.com/WordPress/gutenberg/issues/79380",
-      "time": "2026-11-11T00:02:09.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#86587",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Block Editor: Keep lock and visibility toolbar buttons with state",
-      "url": "https://github.com/WordPress/gutenberg/pull/86587",
-      "time": "2026-11-10T23:55:42.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#86078",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Block Parser: Match updates from Core’s default parser.",
-      "url": "https://github.com/WordPress/gutenberg/pull/86078",
-      "time": "2026-11-10T23:54:19.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#85792",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "RTC: Fix CRDT document missing in draft promotion",
-      "url": "https://github.com/WordPress/gutenberg/pull/85792",
-      "time": "2026-11-10T23:46:22.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#82368",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Notes: expose the sidebar threads as a list instead of a tree",
-      "url": "https://github.com/WordPress/gutenberg/pull/82368",
-      "time": "2026-11-10T23:39:28.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#86619",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Navigation: Migrate overlay selection to UI SelectControl",
-      "url": "https://github.com/WordPress/gutenberg/pull/86619",
-      "time": "2026-11-10T23:28:56.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#86212",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "RTC: Fix missing blocks in CRDT when blocks are available again",
-      "url": "https://github.com/WordPress/gutenberg/pull/86212",
-      "time": "2026-11-10T23:25:47.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#86414",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Media: Try an experimental media folders prototype",
-      "url": "https://github.com/WordPress/gutenberg/pull/86414",
-      "time": "2026-11-10T23:19:31.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -11462,17 +12467,6 @@
       "owner": ""
     },
     {
-      "id": 66439,
-      "title": "Block Parser: `<!--` inside a Custom HTML block swallows the block closer and nests all later blocks",
-      "url": "https://core.trac.wordpress.org/ticket/66439",
-      "status": "new",
-      "type": "defect (bug)",
-      "priority": "normal",
-      "milestone": "7.2",
-      "component": "Editor",
-      "owner": ""
-    },
-    {
       "id": 66591,
       "title": "Script Modules: Translations are not printed for script modules that classic scripts depend on",
       "url": "https://core.trac.wordpress.org/ticket/66591",
@@ -12548,6 +13542,17 @@
       "priority": "normal",
       "milestone": "7.2",
       "component": "Editor",
+      "owner": "audrasjb"
+    },
+    {
+      "id": 65116,
+      "title": "Feature request: On This Day dashboard widget",
+      "url": "https://core.trac.wordpress.org/ticket/65116",
+      "status": "reopened",
+      "type": "feature request",
+      "priority": "normal",
+      "milestone": "7.2",
+      "component": "Widgets",
       "owner": "audrasjb"
     }
   ]
