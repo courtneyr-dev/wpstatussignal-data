@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T03:18:39.798Z",
+  "generatedAt": "2026-11-11T03:22:37.320Z",
   "items": [
     {
       "id": "make:core:127062",
@@ -10725,6 +10725,21 @@
       "url": "https://meta.trac.wordpress.org/changeset/15511"
     },
     {
+      "id": "github:WordPress/wordpress-develop#14202",
+      "source": "github",
+      "teams": [
+        "core"
+      ],
+      "type": "pull",
+      "title": "AI Client: Add filters for customizing model selection and generation parameters",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/14202",
+      "time": "2026-11-11T03:21:25.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
       "id": "github:WordPress/wordpress-develop#15825",
       "source": "github",
       "teams": [
@@ -10935,21 +10950,6 @@
       "confidence": 1
     },
     {
-      "id": "github:WordPress/wordpress-develop#14145",
-      "source": "github",
-      "teams": [
-        "core"
-      ],
-      "type": "pull",
-      "title": "Tests: Add a separate PHPUnit configuration file for PHPUnit 10.1 and later",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/14145",
-      "time": "2026-11-10T22:20:26.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
       "id": "github:WordPress/gutenberg#78367",
       "source": "github",
       "teams": [
@@ -10958,7 +10958,22 @@
       "type": "pull",
       "title": "Connectors: Show filesystem credentials modal on plugin install",
       "url": "https://github.com/WordPress/gutenberg/pull/78367",
-      "time": "2026-11-11T03:19:04.000Z",
+      "time": "2026-11-11T03:22:35.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#86630",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Image Editor: Rename mapEditToOriginal to getImageEdits",
+      "url": "https://github.com/WordPress/gutenberg/pull/86630",
+      "time": "2026-11-11T03:22:26.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -11154,21 +11169,6 @@
       "title": "(PoC) UI PHP components: Add Card component",
       "url": "https://github.com/WordPress/gutenberg/pull/84909",
       "time": "2026-11-11T01:01:49.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#2649",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Add block data to REST API",
-      "url": "https://github.com/WordPress/gutenberg/pull/2649",
-      "time": "2026-11-11T00:33:25.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
