@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T00:40:30.785Z",
+  "generatedAt": "2026-11-13T03:22:35.993Z",
   "items": [
     {
       "id": "make:core:127050",
@@ -8071,6 +8071,154 @@
       "ask": "none",
       "personas": [],
       "confidence": 1,
+      "time": "2026-11-13T02:54:29.000Z",
+      "id": "trac:core:ticket:66215",
+      "type": "ticket",
+      "title": "#66215 Build/Test Tools: Use `config.policy` instead of deprecated ...",
+      "status": "closed",
+      "url": "https://core.trac.wordpress.org/ticket/66215#comment:8"
+    },
+    {
+      "source": "trac",
+      "teams": [
+        "core"
+      ],
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "time": "2026-11-13T02:53:38.000Z",
+      "id": "trac:core:changeset:65467",
+      "type": "commit",
+      "title": "[65467] Build/Test Tools: Update GitHub-hosted runners.  The `ubuntu-26.04` ...",
+      "url": "https://core.trac.wordpress.org/changeset/65467"
+    },
+    {
+      "source": "trac",
+      "teams": [
+        "core"
+      ],
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "time": "2026-11-13T02:42:54.000Z",
+      "id": "trac:core:ticket:66692",
+      "type": "ticket",
+      "title": "#66692 Secrets API: Site Health and Site Health Info ignore network-scope ...",
+      "status": "created",
+      "url": "https://core.trac.wordpress.org/ticket/66692"
+    },
+    {
+      "source": "trac",
+      "teams": [
+        "core"
+      ],
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "time": "2026-11-13T02:39:15.000Z",
+      "id": "trac:core:ticket:66691",
+      "type": "ticket",
+      "title": "#66691 Secrets API: Root key rotation and docs assume one root key per ...",
+      "status": "created",
+      "url": "https://core.trac.wordpress.org/ticket/66691"
+    },
+    {
+      "source": "trac",
+      "teams": [
+        "core"
+      ],
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "time": "2026-11-13T02:33:22.000Z",
+      "id": "trac:core:ticket:66690",
+      "type": "ticket",
+      "title": "#66690 Secrets API: Stores and providers are not told which site or network ...",
+      "status": "created",
+      "url": "https://core.trac.wordpress.org/ticket/66690"
+    },
+    {
+      "source": "trac",
+      "teams": [
+        "core"
+      ],
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "time": "2026-11-13T02:17:23.000Z",
+      "id": "trac:core:ticket:66689",
+      "type": "ticket",
+      "title": "#66689 Secrets API: Moving a site to another network makes its secrets unreadable",
+      "status": "created",
+      "url": "https://core.trac.wordpress.org/ticket/66689"
+    },
+    {
+      "source": "trac",
+      "teams": [
+        "core"
+      ],
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "time": "2026-11-13T02:12:22.000Z",
+      "id": "trac:core:ticket:66688",
+      "type": "ticket",
+      "title": "#66688 Secrets API: Switching to a site on another network encrypts and ...",
+      "status": "created",
+      "url": "https://core.trac.wordpress.org/ticket/66688"
+    },
+    {
+      "source": "trac",
+      "teams": [
+        "core"
+      ],
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "time": "2026-11-13T02:07:42.000Z",
+      "id": "trac:core:ticket:66687",
+      "type": "ticket",
+      "title": "#66687 Secrets API: Site Health says no secrets are stored on a ...",
+      "status": "created",
+      "url": "https://core.trac.wordpress.org/ticket/66687"
+    },
+    {
+      "source": "trac",
+      "teams": [
+        "core"
+      ],
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "time": "2026-11-13T01:29:48.000Z",
+      "id": "trac:core:ticket:66686",
+      "type": "ticket",
+      "title": "#66686 Secrets API: Network-scope secrets are lost when a single site is ...",
+      "status": "created",
+      "url": "https://core.trac.wordpress.org/ticket/66686"
+    },
+    {
+      "source": "trac",
+      "teams": [
+        "core"
+      ],
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "time": "2026-11-13T01:28:17.000Z",
+      "id": "trac:core:changeset:65466",
+      "type": "commit",
+      "title": "[65466] Security: Mark two more Secrets API parameters as sensitive.  ...",
+      "url": "https://core.trac.wordpress.org/changeset/65466"
+    },
+    {
+      "source": "trac",
+      "teams": [
+        "core"
+      ],
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
       "time": "2026-11-12T23:36:02.000Z",
       "id": "trac:core:ticket:66117",
       "type": "ticket",
@@ -9358,1578 +9506,15 @@
       "url": "https://core.trac.wordpress.org/changeset/65410"
     },
     {
-      "source": "trac",
-      "teams": [
-        "core"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-12T03:30:19.000Z",
-      "id": "trac:core:changeset:65409",
-      "type": "commit",
-      "title": "[65409] Tests: Limit upload directory isolation to the Core test suite.  ...",
-      "url": "https://core.trac.wordpress.org/changeset/65409"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "core"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-12T02:22:02.000Z",
-      "id": "trac:core:ticket:66667",
-      "type": "ticket",
-      "title": "#66667 Global Styles: Scope custom block state styles to feature selectors",
-      "status": "created",
-      "url": "https://core.trac.wordpress.org/ticket/66667"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "core"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-12T02:15:34.000Z",
-      "id": "trac:core:changeset:65408",
-      "type": "commit",
-      "title": "[65408] Blocks: Correctly document the blockName property as being nullable.  ...",
-      "url": "https://core.trac.wordpress.org/changeset/65408"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "core"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-12T01:56:08.000Z",
-      "id": "trac:core:ticket:66666",
-      "type": "ticket",
-      "title": "#66666 wp_get_image_alttext() raises PHP warnings for JPEGs with Extended XMP",
-      "status": "created",
-      "url": "https://core.trac.wordpress.org/ticket/66666"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "core"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-11T23:56:12.000Z",
-      "id": "trac:core:changeset:65407",
-      "type": "commit",
-      "title": "[65407] Docs: Remove duplicate words and correct a typo in inline comments.  ...",
-      "url": "https://core.trac.wordpress.org/changeset/65407"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "core"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-11T23:47:01.000Z",
-      "id": "trac:core:changeset:65406",
-      "type": "commit",
-      "title": "[65406] Docs: Correct the order of annotations in some files per the ...",
-      "url": "https://core.trac.wordpress.org/changeset/65406"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "core"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-11T21:40:30.000Z",
-      "id": "trac:core:changeset:65405",
-      "type": "commit",
-      "title": "[65405] Blocks: Non-string documents should parse as empty arrays.  Following ...",
-      "url": "https://core.trac.wordpress.org/changeset/65405"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "core"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-11T20:34:03.000Z",
-      "id": "trac:core:ticket:66665",
-      "type": "ticket",
-      "title": "#66665 Abilities API: prepare_input() can pass callbacks input that their ...",
-      "status": "created",
-      "url": "https://core.trac.wordpress.org/ticket/66665"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "core"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-11T20:32:52.000Z",
-      "id": "trac:core:ticket:66664",
-      "type": "ticket",
-      "title": "#66664 Posts, Post Types: get_boundary_post() returns posts in the excluded ...",
-      "status": "created",
-      "url": "https://core.trac.wordpress.org/ticket/66664"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-12T22:24:26.000Z",
-      "id": "trac:meta:changeset:15571",
-      "type": "commit",
-      "title": "[15571] Translation Teams: Don't read post content when no post is queried  ...",
-      "url": "https://meta.trac.wordpress.org/changeset/15571"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-12T21:55:48.000Z",
-      "id": "trac:meta:ticket:4683",
-      "type": "ticket",
-      "title": "#4683 Make / Polyglots locale filters",
-      "status": "closed",
-      "url": "https://meta.trac.wordpress.org/ticket/4683#comment:2"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-12T21:55:47.000Z",
-      "id": "trac:meta:changeset:15570",
-      "type": "commit",
-      "title": "[15570] International Sites (Rosetta): Rosetta: Translation Teams: Give each ...",
-      "url": "https://meta.trac.wordpress.org/changeset/15570"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-12T21:29:12.000Z",
-      "id": "trac:meta:ticket:7917",
-      "type": "ticket",
-      "title": "#7917 Devhub: Add SCF handbook",
-      "status": "closed",
-      "url": "https://meta.trac.wordpress.org/ticket/7917#comment:2"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-12T21:20:31.000Z",
-      "id": "trac:meta:ticket:4685",
-      "type": "ticket",
-      "title": "#4685 Disallow /changeset in https://core.trac.wordpress.org/robots.txt",
-      "status": "closed",
-      "url": "https://meta.trac.wordpress.org/ticket/4685#comment:8"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-12T21:20:30.000Z",
-      "id": "trac:meta:changeset:15569",
-      "type": "commit",
-      "title": "[15569] Trac: Keep path-to-path changeset diffs out of search results  Props ...",
-      "url": "https://meta.trac.wordpress.org/changeset/15569"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-12T19:12:26.000Z",
-      "id": "trac:meta:ticket:8499",
-      "type": "ticket",
-      "title": "#8499 2FA: Don't automatically submit verification code after entering six digits",
-      "status": "created",
-      "url": "https://meta.trac.wordpress.org/ticket/8499"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-12T17:49:03.000Z",
-      "id": "trac:meta:changeset:15568",
-      "type": "commit",
-      "title": "[15568] Make/Core: Remove the compact view code left without its toggle on ...",
-      "url": "https://meta.trac.wordpress.org/changeset/15568"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-12T17:47:58.000Z",
-      "id": "trac:meta:changeset:15567",
-      "type": "commit",
-      "title": "[15567] Translation Events: Stop a script error on every click in an event's ...",
-      "url": "https://meta.trac.wordpress.org/changeset/15567"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-12T17:46:41.000Z",
-      "id": "trac:meta:ticket:5455",
-      "type": "ticket",
-      "title": "#5455 HelpHub: Correct post type and taxonomy labels",
-      "status": "closed",
-      "url": "https://meta.trac.wordpress.org/ticket/5455#comment:2"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-12T17:40:57.000Z",
-      "id": "trac:meta:changeset:15566",
-      "type": "commit",
-      "title": "[15566] Support HelpHub: Sync with Git WordPress/wporg-documentation-2022@f5d4bca",
-      "url": "https://meta.trac.wordpress.org/changeset/15566"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-12T17:15:48.000Z",
-      "id": "trac:meta:ticket:5753",
-      "type": "ticket",
-      "title": "#5753 Improve recognition for internationalization efforts on wp40% page",
-      "status": "closed",
-      "url": "https://meta.trac.wordpress.org/ticket/5753#comment:8"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-12T17:15:47.000Z",
-      "id": "trac:meta:changeset:15565",
-      "type": "commit",
-      "title": "[15565] WordPress.org Site: Main Theme: Update WordPress translation support ...",
-      "url": "https://meta.trac.wordpress.org/changeset/15565"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-12T17:11:29.000Z",
-      "id": "trac:meta:ticket:5459",
-      "type": "ticket",
-      "title": "#5459 Locale Banner should suggest user locale on localised pages",
-      "status": "closed",
-      "url": "https://meta.trac.wordpress.org/ticket/5459#comment:2"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-12T17:11:28.000Z",
-      "id": "trac:meta:changeset:15564",
-      "type": "commit",
-      "title": "[15564] Plugin Directory: Point readers of a localized directory to a language ...",
-      "url": "https://meta.trac.wordpress.org/changeset/15564"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-12T17:06:29.000Z",
-      "id": "trac:meta:ticket:5791",
-      "type": "ticket",
-      "title": "#5791 When a plugin page is available in a sub language, it doesn't get ...",
-      "status": "closed",
-      "url": "https://meta.trac.wordpress.org/ticket/5791#comment:5"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-12T17:06:28.000Z",
-      "id": "trac:meta:changeset:15563",
-      "type": "commit",
-      "title": "[15563] Plugin Directory: Suggest a plugin translation in a regional variant ...",
-      "url": "https://meta.trac.wordpress.org/changeset/15563"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-12T16:59:15.000Z",
-      "id": "trac:meta:changeset:15562",
-      "type": "commit",
-      "title": "[15562] Make (Get Involved) / P2: Trac Links: Stop doubled links and broken ...",
-      "url": "https://meta.trac.wordpress.org/changeset/15562"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-12T16:57:40.000Z",
-      "id": "trac:meta:ticket:5749",
-      "type": "ticket",
-      "title": "#5749 GitHub integration: Showing \"All checks pass\" on failing PR",
-      "status": "closed",
-      "url": "https://meta.trac.wordpress.org/ticket/5749#comment:4"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-12T16:57:39.000Z",
-      "id": "trac:meta:changeset:15561",
-      "type": "commit",
-      "title": "[15561] Trac: Trac PRs: Show failing checks instead of “All checks pass”  ...",
-      "url": "https://meta.trac.wordpress.org/changeset/15561"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-12T16:55:00.000Z",
-      "id": "trac:meta:ticket:5359",
-      "type": "ticket",
-      "title": "#5359 Misc 404s / broken links should be 301'd and/or corrected",
-      "status": "closed",
-      "url": "https://meta.trac.wordpress.org/ticket/5359#comment:6"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-12T16:54:59.000Z",
-      "id": "trac:meta:changeset:15560",
-      "type": "commit",
-      "title": "[15560] General: Redirects: Send long-dead legacy URLs to their current pages  ...",
-      "url": "https://meta.trac.wordpress.org/changeset/15560"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-12T16:46:20.000Z",
-      "id": "trac:meta:ticket:5665",
-      "type": "ticket",
-      "title": "#5665 Add support for comma separated revision numbers on Make blogs",
-      "status": "closed",
-      "url": "https://meta.trac.wordpress.org/ticket/5665#comment:4"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-12T16:46:20.000Z",
-      "id": "trac:meta:changeset:15559",
-      "type": "commit",
-      "title": "[15559] Trac Links: Link comma-separated revision lists on Make blogs  Props ...",
-      "url": "https://meta.trac.wordpress.org/changeset/15559"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-12T16:42:01.000Z",
-      "id": "trac:meta:ticket:8497",
-      "type": "ticket",
-      "title": "#8497 Trac logo 404",
-      "status": "closed",
-      "url": "https://meta.trac.wordpress.org/ticket/8497#comment:1"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-12T16:42:00.000Z",
-      "id": "trac:meta:changeset:15558",
-      "type": "commit",
-      "title": "[15558] Trac: Don't render the default placeholder header logo.  Closes ...",
-      "url": "https://meta.trac.wordpress.org/changeset/15558"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-12T16:40:03.000Z",
-      "id": "trac:meta:ticket:8498",
-      "type": "ticket",
-      "title": "#8498 Enable Code Syntax Block on Make/Hosting",
-      "status": "created",
-      "url": "https://meta.trac.wordpress.org/ticket/8498"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-12T16:33:16.000Z",
-      "id": "trac:meta:ticket:5523",
-      "type": "ticket",
-      "title": "#5523 Noindex wordpress.tv archives",
-      "status": "closed",
-      "url": "https://meta.trac.wordpress.org/ticket/5523#comment:7"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-12T16:33:15.000Z",
-      "id": "trac:meta:changeset:15557",
-      "type": "commit",
-      "title": "[15557] WordPress.tv: Keep tag, speaker and year archives out of search ...",
-      "url": "https://meta.trac.wordpress.org/changeset/15557"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-12T16:31:45.000Z",
-      "id": "trac:meta:ticket:5387",
-      "type": "ticket",
-      "title": "#5387 Twitter Card Not Found",
-      "status": "closed",
-      "url": "https://meta.trac.wordpress.org/ticket/5387#comment:2"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-12T16:31:44.000Z",
-      "id": "trac:meta:changeset:15556",
-      "type": "commit",
-      "title": "[15556] Support Forums: Show the opening post, not the byline, in shared topic ...",
-      "url": "https://meta.trac.wordpress.org/changeset/15556"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-12T16:25:04.000Z",
-      "id": "trac:meta:changeset:15555",
-      "type": "commit",
-      "title": "[15555] Plugin Directory: Don't treat files committed directly into tags as ...",
-      "url": "https://meta.trac.wordpress.org/changeset/15555"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-11T22:16:17.000Z",
-      "id": "trac:meta:changeset:15554",
-      "type": "commit",
-      "title": "[15554] Trac: Bump cache.",
-      "url": "https://meta.trac.wordpress.org/changeset/15554"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-11T22:15:19.000Z",
-      "id": "trac:meta:changeset:15553",
-      "type": "commit",
-      "title": "[15553] Coding Standards: Print inline scripts through the core helper  Closes ...",
-      "url": "https://meta.trac.wordpress.org/changeset/15553"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-11T22:02:47.000Z",
-      "id": "trac:meta:ticket:5859",
-      "type": "ticket",
-      "title": "#5859 Improve video thumbnail images",
-      "status": "closed",
-      "url": "https://meta.trac.wordpress.org/ticket/5859#comment:4"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-11T22:02:47.000Z",
-      "id": "trac:meta:changeset:15552",
-      "type": "commit",
-      "title": "[15552] WordPress.tv: Load video grids faster by fetching thumbnails at ...",
-      "url": "https://meta.trac.wordpress.org/changeset/15552"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-11T21:55:14.000Z",
-      "id": "trac:meta:ticket:4412",
-      "type": "ticket",
-      "title": "#4412 Invalid paginated support topic requests should return a 404",
-      "status": "closed",
-      "url": "https://meta.trac.wordpress.org/ticket/4412#comment:7"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-11T21:55:14.000Z",
-      "id": "trac:meta:changeset:15551",
-      "type": "commit",
-      "title": "[15551] Support Forums: Return a 404 for topic pages past the last page of ...",
-      "url": "https://meta.trac.wordpress.org/changeset/15551"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-11T21:35:10.000Z",
-      "id": "trac:meta:ticket:6199",
-      "type": "ticket",
-      "title": "#6199 Split Translation Contributors into two groups: Recent, and older",
-      "status": "closed",
-      "url": "https://meta.trac.wordpress.org/ticket/6199#comment:6"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-11T21:35:09.000Z",
-      "id": "trac:meta:changeset:15550",
-      "type": "commit",
-      "title": "[15550] Translate Site & Plugins: Split project contributors into current and ...",
-      "url": "https://meta.trac.wordpress.org/changeset/15550"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-11T21:27:08.000Z",
-      "id": "trac:meta:ticket:6085",
-      "type": "ticket",
-      "title": "#6085 insufficient contrast of the link in the menu",
-      "status": "closed",
-      "url": "https://meta.trac.wordpress.org/ticket/6085#comment:3"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-11T21:27:04.000Z",
-      "id": "trac:meta:changeset:15549",
-      "type": "commit",
-      "title": "[15549] WordPress.org Site: Translate, Trac: Raise the contrast of the header ...",
-      "url": "https://meta.trac.wordpress.org/changeset/15549"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-11T21:20:10.000Z",
-      "id": "trac:meta:ticket:8060",
-      "type": "ticket",
-      "title": "#8060 Plugins missing when querying by author in Plugin Info API",
-      "status": "closed",
-      "url": "https://meta.trac.wordpress.org/ticket/8060#comment:6"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-11T21:20:09.000Z",
-      "id": "trac:meta:changeset:15548",
-      "type": "commit",
-      "title": "[15548] Plugin Directory: Always list the plugin owner as a contributor  Props ...",
-      "url": "https://meta.trac.wordpress.org/changeset/15548"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-11T20:27:15.000Z",
-      "id": "trac:meta:ticket:7720",
-      "type": "ticket",
-      "title": "#7720 Slack notifications can trigger on some comments",
-      "status": "closed",
-      "url": "https://meta.trac.wordpress.org/ticket/7720#comment:5"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-11T20:27:14.000Z",
-      "id": "trac:meta:changeset:15547",
-      "type": "commit",
-      "title": "[15547] Trac: Slack: Don't announce attachment notifications as new tickets  ...",
-      "url": "https://meta.trac.wordpress.org/changeset/15547"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-11T20:25:38.000Z",
-      "id": "trac:meta:ticket:8111",
-      "type": "ticket",
-      "title": "#8111 Closed plugin name still showing in various places",
-      "status": "closed",
-      "url": "https://meta.trac.wordpress.org/ticket/8111#comment:2"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-11T20:25:37.000Z",
-      "id": "trac:meta:changeset:15546",
-      "type": "commit",
-      "title": "[15546] Plugin Directory: Show closed plugins by their slug everywhere on the ...",
-      "url": "https://meta.trac.wordpress.org/changeset/15546"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-11T20:17:31.000Z",
-      "id": "trac:meta:ticket:6516",
-      "type": "ticket",
-      "title": "#6516 Update the \"Update PHP\" support page",
-      "status": "closed",
-      "url": "https://meta.trac.wordpress.org/ticket/6516#comment:15"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-11T20:17:30.000Z",
-      "id": "trac:meta:changeset:15545",
-      "type": "commit",
-      "title": "[15545] Support Forums: Drop the PHP Compatibility Checker from the Update PHP ...",
-      "url": "https://meta.trac.wordpress.org/changeset/15545"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-11T20:15:47.000Z",
-      "id": "trac:meta:changeset:15544",
-      "type": "commit",
-      "title": "[15544] Trac Templates: small cleanup  Props timse201. Closes ...",
-      "url": "https://meta.trac.wordpress.org/changeset/15544"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-11T20:06:41.000Z",
-      "id": "trac:meta:changeset:15543",
-      "type": "commit",
-      "title": "[15543] Jobs: Add the block theme redesign and its companion plugin  Closes ...",
-      "url": "https://meta.trac.wordpress.org/changeset/15543"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-11T19:28:16.000Z",
-      "id": "trac:meta:ticket:8294",
-      "type": "ticket",
-      "title": "#8294 Photo Directory : Button label disappears on click/focus",
-      "status": "closed",
-      "url": "https://meta.trac.wordpress.org/ticket/8294#comment:10"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-11T17:16:52.000Z",
-      "id": "trac:meta:ticket:8199",
-      "type": "ticket",
-      "title": "#8199 \"Original Size\" download option is not actually the true original size",
-      "status": "closed",
-      "url": "https://meta.trac.wordpress.org/ticket/8199#comment:4"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-11T17:14:33.000Z",
-      "id": "trac:meta:changeset:15542",
-      "type": "commit",
-      "title": "[15542] Official WordPress Events: Import events from WordPress Groups  Closes ...",
-      "url": "https://meta.trac.wordpress.org/changeset/15542"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-11T16:51:01.000Z",
-      "id": "trac:meta:ticket:6768",
-      "type": "ticket",
-      "title": "#6768 Investigate broken 'jobs page' URLs",
-      "status": "closed",
-      "url": "https://meta.trac.wordpress.org/ticket/6768#comment:9"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-11T16:51:00.000Z",
-      "id": "trac:meta:changeset:15541",
-      "type": "commit",
-      "title": "[15541] WordPress.org Site: Bad Requests: Serve a 404 for a non-numeric `p` ...",
-      "url": "https://meta.trac.wordpress.org/changeset/15541"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-11T16:16:54.000Z",
-      "id": "trac:meta:ticket:6765",
-      "type": "ticket",
-      "title": "#6765 Rosetta sites with no news articles should noindex the news archive",
-      "status": "closed",
-      "url": "https://meta.trac.wordpress.org/ticket/6765#comment:3"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-11T16:16:54.000Z",
-      "id": "trac:meta:changeset:15540",
-      "type": "commit",
-      "title": "[15540] General: SEO: Noindex the posts page when it has no posts  Props ...",
-      "url": "https://meta.trac.wordpress.org/changeset/15540"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-11T08:31:30.000Z",
-      "id": "trac:meta:ticket:8496",
-      "type": "ticket",
-      "title": "#8496 Duplicate Search Widgets Displayed in the Sidebar on Make WordPress ...",
-      "status": "created",
-      "url": "https://meta.trac.wordpress.org/ticket/8496"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-11T00:38:25.000Z",
-      "id": "trac:meta:ticket:7592",
-      "type": "ticket",
-      "title": "#7592 Improve the button design",
-      "status": "closed",
-      "url": "https://meta.trac.wordpress.org/ticket/7592#comment:2"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-10T22:42:09.000Z",
-      "id": "trac:meta:ticket:7143",
-      "type": "ticket",
-      "title": "#7143 WordPress.tv subtitle upload not working.",
-      "status": "closed",
-      "url": "https://meta.trac.wordpress.org/ticket/7143#comment:5"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-10T22:42:08.000Z",
-      "id": "trac:meta:changeset:15539",
-      "type": "commit",
-      "title": "[15539] WordPress.tv: Remove the Flash-era VideoPress footer script  Props ...",
-      "url": "https://meta.trac.wordpress.org/changeset/15539"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-10T22:28:06.000Z",
-      "id": "trac:meta:changeset:15538",
-      "type": "commit",
-      "title": "[15538] Events API: Validate and sanitize all request input at parse time  ...",
-      "url": "https://meta.trac.wordpress.org/changeset/15538"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-10T22:11:37.000Z",
-      "id": "trac:meta:ticket:7649",
-      "type": "ticket",
-      "title": "#7649 Wrong Url Redirection in Breadcrums",
-      "status": "closed",
-      "url": "https://meta.trac.wordpress.org/ticket/7649#comment:3"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-10T22:11:37.000Z",
-      "id": "trac:meta:changeset:15537",
-      "type": "commit",
-      "title": "[15537] Translate Site & Plugins: Translate: Merge the Plugins and Themes ...",
-      "url": "https://meta.trac.wordpress.org/changeset/15537"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-10T21:48:12.000Z",
-      "id": "trac:meta:ticket:8115",
-      "type": "ticket",
-      "title": "#8115 Replace Tonesque due to deprecation.",
-      "status": "closed",
-      "url": "https://meta.trac.wordpress.org/ticket/8115#comment:6"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-10T21:48:12.000Z",
-      "id": "trac:meta:changeset:15536",
-      "type": "commit",
-      "title": "[15536] Plugin Directory: Drop the banner color used for generated icons  ...",
-      "url": "https://meta.trac.wordpress.org/changeset/15536"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-10T21:37:54.000Z",
-      "id": "trac:meta:ticket:8061",
-      "type": "ticket",
-      "title": "#8061 Accessibility Issues Found on WordPress CLI Page",
-      "status": "closed",
-      "url": "https://meta.trac.wordpress.org/ticket/8061#comment:3"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-10T21:37:53.000Z",
-      "id": "trac:meta:changeset:15535",
-      "type": "commit",
-      "title": "[15535] Make: Use a plain button to close the mobile sidebar  Props obenland, ...",
-      "url": "https://meta.trac.wordpress.org/changeset/15535"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-10T20:54:48.000Z",
-      "id": "trac:meta:changeset:15534",
-      "type": "commit",
-      "title": "[15534] Support Forums: Restore the global footer background on 404 pages  ...",
-      "url": "https://meta.trac.wordpress.org/changeset/15534"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-10T20:48:39.000Z",
-      "id": "trac:meta:ticket:7700",
-      "type": "ticket",
-      "title": "#7700 Content missing and/or with styles problem  on Support site",
-      "status": "closed",
-      "url": "https://meta.trac.wordpress.org/ticket/7700#comment:3"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-10T20:48:39.000Z",
-      "id": "trac:meta:changeset:15533",
-      "type": "commit",
-      "title": "[15533] Support Forums: Restore full-width, padded background paragraphs and ...",
-      "url": "https://meta.trac.wordpress.org/changeset/15533"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-10T20:47:15.000Z",
-      "id": "trac:meta:ticket:8495",
-      "type": "ticket",
-      "title": "#8495 Plugin Directory: Identify plugins that consume WP AI Client",
-      "status": "created",
-      "url": "https://meta.trac.wordpress.org/ticket/8495"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-10T20:44:29.000Z",
-      "id": "trac:meta:ticket:7703",
-      "type": "ticket",
-      "title": "#7703 Wrong link and missing elements in breadcrumb on Support site",
-      "status": "closed",
-      "url": "https://meta.trac.wordpress.org/ticket/7703#comment:2"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-10T20:44:28.000Z",
-      "id": "trac:meta:changeset:15532",
-      "type": "commit",
-      "title": "[15532] HelpHub: Point article breadcrumbs at Support and show the category  ...",
-      "url": "https://meta.trac.wordpress.org/changeset/15532"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-10T20:17:52.000Z",
-      "id": "trac:meta:ticket:8125",
-      "type": "ticket",
-      "title": "#8125 Add missing and inconsistent alt attributes to homepage images on ...",
-      "status": "closed",
-      "url": "https://meta.trac.wordpress.org/ticket/8125#comment:7"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-10T20:17:52.000Z",
-      "id": "trac:meta:ticket:7853",
-      "type": "ticket",
-      "title": "#7853 Tags do not present related posts",
-      "status": "closed",
-      "url": "https://meta.trac.wordpress.org/ticket/7853#comment:1"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-10T20:17:43.000Z",
-      "id": "trac:meta:ticket:7918",
-      "type": "ticket",
-      "title": "#7918 Remove any link to cafelog.com on WordPress.org",
-      "status": "closed",
-      "url": "https://meta.trac.wordpress.org/ticket/7918#comment:6"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-10T20:17:43.000Z",
-      "id": "trac:meta:ticket:8029",
-      "type": "ticket",
-      "title": "#8029 Submit button is Different",
-      "status": "closed",
-      "url": "https://meta.trac.wordpress.org/ticket/8029#comment:4"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-10T20:17:42.000Z",
-      "id": "trac:meta:ticket:8332",
-      "type": "ticket",
-      "title": "#8332 Active category highlight not working correctly",
-      "status": "closed",
-      "url": "https://meta.trac.wordpress.org/ticket/8332#comment:1"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-10T19:28:25.000Z",
-      "id": "trac:meta:changeset:15531",
-      "type": "commit",
-      "title": "[15531] Plugin Directory: Fix rejection reason in bulk form.  Props ...",
-      "url": "https://meta.trac.wordpress.org/changeset/15531"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-10T17:48:23.000Z",
-      "id": "trac:meta:ticket:7812",
-      "type": "ticket",
-      "title": "#7812 Plugin Blueprints: Can set WP / PHP version to old values which ...",
-      "status": "closed",
-      "url": "https://meta.trac.wordpress.org/ticket/7812#comment:2"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-10T17:48:23.000Z",
-      "id": "trac:meta:changeset:15530",
-      "type": "commit",
-      "title": "[15530] Plugin Directory: Preview custom blueprints on the latest WordPress  ...",
-      "url": "https://meta.trac.wordpress.org/changeset/15530"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-10T17:39:36.000Z",
-      "id": "trac:meta:ticket:7799",
-      "type": "ticket",
-      "title": "#7799 Adding multiple tags separated by commas in support forum only ...",
-      "status": "closed",
-      "url": "https://meta.trac.wordpress.org/ticket/7799#comment:2"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-10T17:39:35.000Z",
-      "id": "trac:meta:changeset:15529",
-      "type": "commit",
-      "title": "[15529] Support Forums: Say that only existing tags can be added  Props ...",
-      "url": "https://meta.trac.wordpress.org/changeset/15529"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-10T17:38:31.000Z",
-      "id": "trac:meta:ticket:8305",
-      "type": "ticket",
-      "title": "#8305 Plugin screenshot lightbox has nested controls",
-      "status": "closed",
-      "url": "https://meta.trac.wordpress.org/ticket/8305#comment:6"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-10T17:38:30.000Z",
-      "id": "trac:meta:changeset:15528",
-      "type": "commit",
-      "title": "[15528] Plugin Directory: Unwrap the screenshot fallback links when JS runs  ...",
-      "url": "https://meta.trac.wordpress.org/changeset/15528"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-10T17:35:26.000Z",
-      "id": "trac:meta:ticket:8386",
-      "type": "ticket",
-      "title": "#8386 Textarea border disappears after resizing on Documentation ...",
-      "status": "closed",
-      "url": "https://meta.trac.wordpress.org/ticket/8386#comment:5"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-10T17:35:25.000Z",
-      "id": "trac:meta:changeset:15527",
-      "type": "commit",
-      "title": "[15527] Make (Get Involved) / P2: Make: Keep resized sidebar textareas inside ...",
-      "url": "https://meta.trac.wordpress.org/changeset/15527"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-10T17:31:04.000Z",
-      "id": "trac:meta:changeset:15526",
-      "type": "commit",
-      "title": "[15526] Plugin Directory: Updates to rejection emails.  Props frantorres, ...",
-      "url": "https://meta.trac.wordpress.org/changeset/15526"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-10T17:28:06.000Z",
-      "id": "trac:meta:ticket:5567",
-      "type": "ticket",
-      "title": "#5567 Adapt the page title on filtered plugin review archives",
-      "status": "closed",
-      "url": "https://meta.trac.wordpress.org/ticket/5567#comment:6"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-10T17:28:06.000Z",
-      "id": "trac:meta:changeset:15525",
-      "type": "commit",
-      "title": "[15525] Support Forums: Include the star filter in the reviews page title  ...",
-      "url": "https://meta.trac.wordpress.org/changeset/15525"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-10T17:24:05.000Z",
-      "id": "trac:meta:changeset:15524",
-      "type": "commit",
-      "title": "[15524] Support Forums: Keep the modlook tools for moderators on old topics  ...",
-      "url": "https://meta.trac.wordpress.org/changeset/15524"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-10T17:17:19.000Z",
-      "id": "trac:meta:changeset:15523",
-      "type": "commit",
-      "title": "[15523] Environments: Fix jobs, WordPress.tv and Support Forums envs failing ...",
-      "url": "https://meta.trac.wordpress.org/changeset/15523"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-10T17:03:49.000Z",
-      "id": "trac:meta:changeset:15522",
-      "type": "commit",
-      "title": "[15522] WordPress.tv: Update the wptv-27 README.  Props manolitostone. Closes ...",
-      "url": "https://meta.trac.wordpress.org/changeset/15522"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-10T16:58:32.000Z",
-      "id": "trac:meta:changeset:15521",
-      "type": "commit",
-      "title": "[15521] Plugin Directory: Allow common SVG shapes in block icons.  Props ...",
-      "url": "https://meta.trac.wordpress.org/changeset/15521"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-10T16:54:59.000Z",
-      "id": "trac:meta:ticket:6902",
-      "type": "ticket",
-      "title": "#6902 Starting newlines aren't visible in the translation editor",
-      "status": "closed",
-      "url": "https://meta.trac.wordpress.org/ticket/6902#comment:3"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-10T16:54:58.000Z",
-      "id": "trac:meta:changeset:15520",
-      "type": "commit",
-      "title": "[15520] Translate: Keep a translation's leading newline in the editor  Props ...",
-      "url": "https://meta.trac.wordpress.org/changeset/15520"
-    },
-    {
-      "id": "github:WordPress/wordpress-develop#15954",
+      "id": "github:WordPress/wordpress-develop#13770",
       "source": "github",
       "teams": [
         "core"
       ],
       "type": "pull",
-      "title": "Media: Skip the multisite upload space check for sideloaded sub-sizes",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/15954",
-      "time": "2026-11-13T00:37:16.000Z",
+      "title": "Privacy: Check request status in wp_privacy_send_personal_data_export_email()",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/13770",
+      "time": "2026-11-13T02:37:04.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -10944,7 +9529,37 @@
       "type": "pull",
       "title": "Media: Allow sideloading sub-sizes in the attachment's output format on multisite",
       "url": "https://github.com/WordPress/wordpress-develop/pull/15952",
-      "time": "2026-11-13T00:36:48.000Z",
+      "time": "2026-11-13T01:59:22.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-develop#15850",
+      "source": "github",
+      "teams": [
+        "core"
+      ],
+      "type": "pull",
+      "title": "Build/Test Tools: Add tests for the PHPStan extensions",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/15850",
+      "time": "2026-11-13T01:29:52.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-develop#15954",
+      "source": "github",
+      "teams": [
+        "core"
+      ],
+      "type": "pull",
+      "title": "Media: Skip the multisite upload space check for sideloaded sub-sizes",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/15954",
+      "time": "2026-11-13T00:37:16.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -11116,30 +9731,135 @@
       "confidence": 1
     },
     {
-      "id": "github:WordPress/wordpress-develop#15943",
+      "id": "github:WordPress/gutenberg#86780",
       "source": "github",
       "teams": [
-        "core"
+        "core-editor"
       ],
       "type": "pull",
-      "title": "5.8 Branch: Build/Test Tools: Remove script to run Gutenberg E2E tests in Core.",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/15943",
-      "time": "2026-11-12T22:06:47.000Z",
+      "title": "GradientPicker: Preserve stop identity while editing",
+      "url": "https://github.com/WordPress/gutenberg/pull/86780",
+      "time": "2026-11-13T03:22:29.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/wordpress-develop#15942",
+      "id": "github:WordPress/gutenberg#86781",
       "source": "github",
       "teams": [
-        "core"
+        "core-editor"
       ],
       "type": "pull",
-      "title": "5.9 Branch: Build/Test Tools: Remove script to run Gutenberg E2E tests in Core.",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/15942",
-      "time": "2026-11-12T22:06:45.000Z",
+      "title": "ResizableBox: Increase z-index of the corner drag handles so that they always sit on top",
+      "url": "https://github.com/WordPress/gutenberg/pull/86781",
+      "time": "2026-11-13T03:21:05.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#86017",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Allow explicit placement for auto grid children and multi-direction block movers",
+      "url": "https://github.com/WordPress/gutenberg/pull/86017",
+      "time": "2026-11-13T03:06:15.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#86779",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "[WP 7.2] Icons: Rename file to folder, add actual file icon. (#86526)",
+      "url": "https://github.com/WordPress/gutenberg/pull/86779",
+      "time": "2026-11-13T02:48:49.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#86778",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "wp-build: Fall back to a content hash of the build when package.json has no version",
+      "url": "https://github.com/WordPress/gutenberg/pull/86778",
+      "time": "2026-11-13T02:20:29.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#86772",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "issue",
+      "title": "@wordpress/build: Missing package.json version results in `,` (comma) as the version in build/constants.php",
+      "url": "https://github.com/WordPress/gutenberg/issues/86772",
+      "time": "2026-11-13T02:19:11.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#81728",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Block Library: Add Description List block",
+      "url": "https://github.com/WordPress/gutenberg/pull/81728",
+      "time": "2026-11-13T02:00:44.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#86777",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Bump hono from 4.13.11 to 4.13.18 in /test/ai-development",
+      "url": "https://github.com/WordPress/gutenberg/pull/86777",
+      "time": "2026-11-13T01:52:20.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#70123",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "issue",
+      "title": "Deprecation API not triggered due to missing apiVersion in deprecated object block",
+      "url": "https://github.com/WordPress/gutenberg/issues/70123",
+      "time": "2026-11-13T01:25:27.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -11154,7 +9874,37 @@
       "type": "pull",
       "title": "ColorPalette: Preserve swatch identity across index changes",
       "url": "https://github.com/WordPress/gutenberg/pull/86776",
-      "time": "2026-11-13T00:36:59.000Z",
+      "time": "2026-11-13T01:15:24.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#61904",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "issue",
+      "title": "Enable contextual content editing from within the site editor",
+      "url": "https://github.com/WordPress/gutenberg/issues/61904",
+      "time": "2026-11-13T01:12:43.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#86282",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Block Supports: Add translate property on X and Y axis to Transform supports",
+      "url": "https://github.com/WordPress/gutenberg/pull/86282",
+      "time": "2026-11-13T00:50:21.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -11170,21 +9920,6 @@
       "title": "Notes: Validate reaction keys instead of stripping tags",
       "url": "https://github.com/WordPress/gutenberg/pull/86775",
       "time": "2026-11-13T00:32:40.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#86774",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Templates: Keep accented letters in new template and template part slugs",
-      "url": "https://github.com/WordPress/gutenberg/pull/86774",
-      "time": "2026-11-13T00:22:59.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -11215,156 +9950,6 @@
       "title": "Avatar: Reuse the initials segmenter for the same locale",
       "url": "https://github.com/WordPress/gutenberg/pull/86773",
       "time": "2026-11-13T00:19:55.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#86733",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Image: Add border style support",
-      "url": "https://github.com/WordPress/gutenberg/pull/86733",
-      "time": "2026-11-13T00:15:54.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#82362",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Client-side media: Process image edits (crop, rotate, flip) with wasm-vips",
-      "url": "https://github.com/WordPress/gutenberg/pull/82362",
-      "time": "2026-11-13T00:06:15.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#86726",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Block Editor: Keep block clientId on same-block variation transforms",
-      "url": "https://github.com/WordPress/gutenberg/pull/86726",
-      "time": "2026-11-13T00:00:26.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#24660",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "issue",
-      "title": "Allow using featured image as background for a group block",
-      "url": "https://github.com/WordPress/gutenberg/issues/24660",
-      "time": "2026-11-12T23:53:41.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#86772",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "issue",
-      "title": "@wordpress/build: Missing package.json version results in `,` (comma) as the version in build/constants.php",
-      "url": "https://github.com/WordPress/gutenberg/issues/86772",
-      "time": "2026-11-12T23:43:11.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#86771",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Menu: Keep unchanged context values stable",
-      "url": "https://github.com/WordPress/gutenberg/pull/86771",
-      "time": "2026-11-12T23:40:56.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#86750",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Notes: Fix low text contrast in inactive notes",
-      "url": "https://github.com/WordPress/gutenberg/pull/86750",
-      "time": "2026-11-12T23:08:49.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#86770",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "SandBox: Restore current content after iframe reloads",
-      "url": "https://github.com/WordPress/gutenberg/pull/86770",
-      "time": "2026-11-12T23:07:17.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#86703",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Blocks: Fix duplicated content when implicitly closing a final open block.",
-      "url": "https://github.com/WordPress/gutenberg/pull/86703",
-      "time": "2026-11-12T23:03:32.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#86471",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Notes: Keep a new note attached when the post isn't saved",
-      "url": "https://github.com/WordPress/gutenberg/pull/86471",
-      "time": "2026-11-12T23:02:02.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -11596,6 +10181,36 @@
       "confidence": 1
     },
     {
+      "id": "github:WordPress/ai#1318",
+      "source": "github",
+      "teams": [
+        "core-ai"
+      ],
+      "type": "pull",
+      "title": "AI Workspace: document it as the one agent",
+      "url": "https://github.com/WordPress/ai/pull/1318",
+      "time": "2026-11-13T02:13:23.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/ai#1316",
+      "source": "github",
+      "teams": [
+        "core-ai"
+      ],
+      "type": "pull",
+      "title": "AI Workspace: AI suggestions and \"Ask AI\" in the Command Palette",
+      "url": "https://github.com/WordPress/ai/pull/1316",
+      "time": "2026-11-13T02:12:14.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
       "id": "github:WordPress/ai#1314",
       "source": "github",
       "teams": [
@@ -11605,21 +10220,6 @@
       "title": "AI Workspace: propose changes to existing posts and the site title, applied on approval",
       "url": "https://github.com/WordPress/ai/pull/1314",
       "time": "2026-11-12T23:59:02.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/ai#1318",
-      "source": "github",
-      "teams": [
-        "core-ai"
-      ],
-      "type": "pull",
-      "title": "AI Workspace: document it as the one agent",
-      "url": "https://github.com/WordPress/ai/pull/1318",
-      "time": "2026-11-12T23:56:18.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -11650,21 +10250,6 @@
       "title": "AI Workspace: answer site questions and link to the right admin screen",
       "url": "https://github.com/WordPress/ai/pull/1315",
       "time": "2026-11-13T00:13:58.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/ai#1316",
-      "source": "github",
-      "teams": [
-        "core-ai"
-      ],
-      "type": "pull",
-      "title": "AI Workspace: AI suggestions and \"Ask AI\" in the Command Palette",
-      "url": "https://github.com/WordPress/ai/pull/1316",
-      "time": "2026-11-12T23:53:39.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -11829,7 +10414,22 @@
       "type": "pull",
       "title": "[ php-wasm ] Report php-wasm as the SAPI name of web requests",
       "url": "https://github.com/WordPress/wordpress-playground/pull/4597",
-      "time": "2026-11-12T23:38:55.000Z",
+      "time": "2026-11-13T03:19:43.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-playground#4557",
+      "source": "github",
+      "teams": [
+        "playground"
+      ],
+      "type": "pull",
+      "title": "Serve WP Cloud static releases without PHP workers",
+      "url": "https://github.com/WordPress/wordpress-playground/pull/4557",
+      "time": "2026-11-13T02:29:14.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -12025,21 +10625,6 @@
       "title": "[Blueprints] Use published plugin and theme names in startup progress",
       "url": "https://github.com/WordPress/wordpress-playground/pull/4435",
       "time": "2026-11-12T07:23:49.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/wordpress-playground#4601",
-      "source": "github",
-      "teams": [
-        "playground"
-      ],
-      "type": "pull",
-      "title": "[Website] Open the matching Dock pane from the overlay query parameter",
-      "url": "https://github.com/WordPress/wordpress-playground/pull/4601",
-      "time": "2026-11-12T07:12:59.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -12638,6 +11223,204 @@
   ],
   "tickets": [
     {
+      "id": 65806,
+      "title": "Media Library Search Includes Extra URL Parameters Added After Search",
+      "url": "https://core.trac.wordpress.org/ticket/65806",
+      "status": "new",
+      "type": "defect (bug)",
+      "priority": "normal",
+      "milestone": "7.2",
+      "component": "Media",
+      "owner": ""
+    },
+    {
+      "id": 66052,
+      "title": "wp_list_pages: incorrect description of $args['include']",
+      "url": "https://core.trac.wordpress.org/ticket/66052",
+      "status": "new",
+      "type": "defect (bug)",
+      "priority": "normal",
+      "milestone": "7.2",
+      "component": "General",
+      "owner": ""
+    },
+    {
+      "id": 66273,
+      "title": "wp_get_state_declarations_with_fallback_border_styles does not always return an array",
+      "url": "https://core.trac.wordpress.org/ticket/66273",
+      "status": "new",
+      "type": "defect (bug)",
+      "priority": "normal",
+      "milestone": "7.2",
+      "component": "General",
+      "owner": ""
+    },
+    {
+      "id": 65415,
+      "title": "WordPress 7.0 inclusion of PHPMailer 7.0.2 breaks .user.ini override of sendmail_from",
+      "url": "https://core.trac.wordpress.org/ticket/65415",
+      "status": "new",
+      "type": "defect (bug)",
+      "priority": "normal",
+      "milestone": "7.2",
+      "component": "Mail",
+      "owner": ""
+    },
+    {
+      "id": 54484,
+      "title": "REST API returns (empty) array for Meta but Schema has type object",
+      "url": "https://core.trac.wordpress.org/ticket/54484",
+      "status": "assigned",
+      "type": "defect (bug)",
+      "priority": "normal",
+      "milestone": "7.2",
+      "component": "REST API",
+      "owner": "flixos90"
+    },
+    {
+      "id": 66499,
+      "title": "Update GitHub-hosted runners to `ubuntu-26.04`",
+      "url": "https://core.trac.wordpress.org/ticket/66499",
+      "status": "assigned",
+      "type": "task (blessed)",
+      "priority": "normal",
+      "milestone": "7.2",
+      "component": "Build/Test Tools",
+      "owner": "desrosj"
+    },
+    {
+      "id": 56887,
+      "title": "wp_exif_date2ts throws notice on slash formatted date",
+      "url": "https://core.trac.wordpress.org/ticket/56887",
+      "status": "accepted",
+      "type": "defect (bug)",
+      "priority": "normal",
+      "milestone": "7.2",
+      "component": "Date/Time",
+      "owner": "pbearne"
+    },
+    {
+      "id": 66153,
+      "title": "wptexturize alters the content of math elements, including the LaTeX annotation",
+      "url": "https://core.trac.wordpress.org/ticket/66153",
+      "status": "new",
+      "type": "defect (bug)",
+      "priority": "normal",
+      "milestone": "7.2",
+      "component": "Formatting",
+      "owner": ""
+    },
+    {
+      "id": 66692,
+      "title": "Secrets API: Site Health and Site Health Info ignore network-scope secrets on a single site",
+      "url": "https://core.trac.wordpress.org/ticket/66692",
+      "status": "new",
+      "type": "defect (bug)",
+      "priority": "normal",
+      "milestone": "7.2",
+      "component": "Security",
+      "owner": ""
+    },
+    {
+      "id": 60552,
+      "title": "Add hook to WP_Sitemaps::render_sitemaps()",
+      "url": "https://core.trac.wordpress.org/ticket/60552",
+      "status": "reopened",
+      "type": "defect (bug)",
+      "priority": "normal",
+      "milestone": "7.2",
+      "component": "Sitemaps",
+      "owner": ""
+    },
+    {
+      "id": 66691,
+      "title": "Secrets API: Root key rotation and docs assume one root key per install, but each network has its own",
+      "url": "https://core.trac.wordpress.org/ticket/66691",
+      "status": "new",
+      "type": "defect (bug)",
+      "priority": "normal",
+      "milestone": "7.2",
+      "component": "Security",
+      "owner": ""
+    },
+    {
+      "id": 65758,
+      "title": "added check for post status in wp_privacy_send_personal_data_export_email()",
+      "url": "https://core.trac.wordpress.org/ticket/65758",
+      "status": "new",
+      "type": "defect (bug)",
+      "priority": "normal",
+      "milestone": "7.2",
+      "component": "General",
+      "owner": ""
+    },
+    {
+      "id": 66690,
+      "title": "Secrets API: Stores and providers are not told which site or network they serve, and nothing checks that they isolate sites",
+      "url": "https://core.trac.wordpress.org/ticket/66690",
+      "status": "new",
+      "type": "defect (bug)",
+      "priority": "normal",
+      "milestone": "7.2",
+      "component": "Security",
+      "owner": ""
+    },
+    {
+      "id": 66689,
+      "title": "Secrets API: Moving a site to another network makes its secrets unreadable",
+      "url": "https://core.trac.wordpress.org/ticket/66689",
+      "status": "new",
+      "type": "defect (bug)",
+      "priority": "normal",
+      "milestone": "7.2",
+      "component": "Security",
+      "owner": ""
+    },
+    {
+      "id": 66688,
+      "title": "Secrets API: Switching to a site on another network encrypts and decrypts its secrets with the wrong root key",
+      "url": "https://core.trac.wordpress.org/ticket/66688",
+      "status": "new",
+      "type": "defect (bug)",
+      "priority": "normal",
+      "milestone": "7.2",
+      "component": "Security",
+      "owner": ""
+    },
+    {
+      "id": 66687,
+      "title": "Secrets API: Site Health says no secrets are stored on a just-converted network, and suggests replacing the key",
+      "url": "https://core.trac.wordpress.org/ticket/66687",
+      "status": "new",
+      "type": "defect (bug)",
+      "priority": "normal",
+      "milestone": "7.2",
+      "component": "Security",
+      "owner": ""
+    },
+    {
+      "id": 66686,
+      "title": "Secrets API: Network-scope secrets are lost when a single site is converted to multisite",
+      "url": "https://core.trac.wordpress.org/ticket/66686",
+      "status": "new",
+      "type": "defect (bug)",
+      "priority": "normal",
+      "milestone": "7.2",
+      "component": "Security",
+      "owner": ""
+    },
+    {
+      "id": 66325,
+      "title": "Abilities API: Allow abilities to declare required capabilities",
+      "url": "https://core.trac.wordpress.org/ticket/66325",
+      "status": "reopened",
+      "type": "enhancement",
+      "priority": "normal",
+      "milestone": "7.2",
+      "component": "Abilities API",
+      "owner": "gziolo"
+    },
+    {
       "id": 66635,
       "title": "Harden reaction and note permissions",
       "url": "https://core.trac.wordpress.org/ticket/66635",
@@ -12713,17 +11496,6 @@
       "milestone": "7.2",
       "component": "Query",
       "owner": "jorbin"
-    },
-    {
-      "id": 66325,
-      "title": "Abilities API: Allow abilities to declare required capabilities",
-      "url": "https://core.trac.wordpress.org/ticket/66325",
-      "status": "reopened",
-      "type": "enhancement",
-      "priority": "normal",
-      "milestone": "7.2",
-      "component": "Abilities API",
-      "owner": "gziolo"
     },
     {
       "id": 66565,
@@ -12823,17 +11595,6 @@
       "milestone": "7.2",
       "component": "Build/Test Tools",
       "owner": ""
-    },
-    {
-      "id": 66499,
-      "title": "Update GitHub-hosted runners to `ubuntu-26.04`",
-      "url": "https://core.trac.wordpress.org/ticket/66499",
-      "status": "assigned",
-      "type": "task (blessed)",
-      "priority": "normal",
-      "milestone": "7.2",
-      "component": "Build/Test Tools",
-      "owner": "desrosj"
     },
     {
       "id": 66013,
@@ -13559,182 +12320,6 @@
       "priority": "normal",
       "milestone": "7.2",
       "component": "Interactivity API",
-      "owner": ""
-    },
-    {
-      "id": 62064,
-      "title": "Refresh Authorize Application page UI",
-      "url": "https://core.trac.wordpress.org/ticket/62064",
-      "status": "new",
-      "type": "defect (bug)",
-      "priority": "normal",
-      "milestone": "7.2",
-      "component": "Application Passwords",
-      "owner": ""
-    },
-    {
-      "id": 66451,
-      "title": "Ipsum Theme: Missing Text Controls in the Global Styles",
-      "url": "https://core.trac.wordpress.org/ticket/66451",
-      "status": "new",
-      "type": "defect (bug)",
-      "priority": "normal",
-      "milestone": "7.2",
-      "component": "General",
-      "owner": ""
-    },
-    {
-      "id": 66462,
-      "title": "wp_read_image_metadata() uses a bare EXIF UserComment character code (\"ASCII\") as the title and caption",
-      "url": "https://core.trac.wordpress.org/ticket/66462",
-      "status": "new",
-      "type": "defect (bug)",
-      "priority": "normal",
-      "milestone": "7.2",
-      "component": "Media",
-      "owner": ""
-    },
-    {
-      "id": 66453,
-      "title": "edit_block_binding check changes the registered post type object and ignores its edit_post capability",
-      "url": "https://core.trac.wordpress.org/ticket/66453",
-      "status": "new",
-      "type": "defect (bug)",
-      "priority": "normal",
-      "milestone": "7.2",
-      "component": "Role/Capability",
-      "owner": ""
-    },
-    {
-      "id": 66108,
-      "title": "Fatal error in wp_insert_term() when the term name is not a string",
-      "url": "https://core.trac.wordpress.org/ticket/66108",
-      "status": "reviewing",
-      "type": "defect (bug)",
-      "priority": "normal",
-      "milestone": "7.2",
-      "component": "XML-RPC",
-      "owner": "westonruter"
-    },
-    {
-      "id": 62924,
-      "title": "TinyMCE uses deprecated “unload” event listener",
-      "url": "https://core.trac.wordpress.org/ticket/62924",
-      "status": "new",
-      "type": "defect (bug)",
-      "priority": "normal",
-      "milestone": "7.2",
-      "component": "TinyMCE",
-      "owner": ""
-    },
-    {
-      "id": 56897,
-      "title": "First time contributor welcome message improvements",
-      "url": "https://core.trac.wordpress.org/ticket/56897",
-      "status": "new",
-      "type": "task (blessed)",
-      "priority": "normal",
-      "milestone": "7.2",
-      "component": "General",
-      "owner": ""
-    },
-    {
-      "id": 63617,
-      "title": "Account for when artifacts expire or go missing during performance testing",
-      "url": "https://core.trac.wordpress.org/ticket/63617",
-      "status": "new",
-      "type": "defect (bug)",
-      "priority": "normal",
-      "milestone": "7.2",
-      "component": "Build/Test Tools",
-      "owner": ""
-    },
-    {
-      "id": 66165,
-      "title": "Link ratings show even when disabled",
-      "url": "https://core.trac.wordpress.org/ticket/66165",
-      "status": "new",
-      "type": "defect (bug)",
-      "priority": "normal",
-      "milestone": "7.2",
-      "component": "Widgets",
-      "owner": ""
-    },
-    {
-      "id": 66073,
-      "title": "Tests: Let WP_Test_REST_Controller_Testcase reflect read-only routes",
-      "url": "https://core.trac.wordpress.org/ticket/66073",
-      "status": "accepted",
-      "type": "task (blessed)",
-      "priority": "normal",
-      "milestone": "7.2",
-      "component": "Build/Test Tools",
-      "owner": "lancewillett"
-    },
-    {
-      "id": 65958,
-      "title": "Reordering a meta box destroys any TinyMCE editor inside it",
-      "url": "https://core.trac.wordpress.org/ticket/65958",
-      "status": "new",
-      "type": "defect (bug)",
-      "priority": "normal",
-      "milestone": "7.2",
-      "component": "Administration",
-      "owner": ""
-    },
-    {
-      "id": 49799,
-      "title": "get_the_terms() object term cache check too strict?",
-      "url": "https://core.trac.wordpress.org/ticket/49799",
-      "status": "accepted",
-      "type": "defect (bug)",
-      "priority": "normal",
-      "milestone": "7.2",
-      "component": "Taxonomy",
-      "owner": "lancewillett"
-    },
-    {
-      "id": 65693,
-      "title": "Tests: Refactor wp_cache_get_multiple() and wp_cache_delete_multiple() to improve isolation and edge-case coverage",
-      "url": "https://core.trac.wordpress.org/ticket/65693",
-      "status": "accepted",
-      "type": "enhancement",
-      "priority": "normal",
-      "milestone": "7.2",
-      "component": "Build/Test Tools",
-      "owner": "lancewillett"
-    },
-    {
-      "id": 62196,
-      "title": "Improve documentation for using the local Docker environment on Windows",
-      "url": "https://core.trac.wordpress.org/ticket/62196",
-      "status": "accepted",
-      "type": "defect (bug)",
-      "priority": "normal",
-      "milestone": "7.2",
-      "component": "Build/Test Tools",
-      "owner": "lancewillett"
-    },
-    {
-      "id": 65030,
-      "title": "Customize: `isLinkPreviewable()` regex overrides `customize_allowed_urls` filter for sites with `/wp-content/` in home URL",
-      "url": "https://core.trac.wordpress.org/ticket/65030",
-      "status": "accepted",
-      "type": "defect (bug)",
-      "priority": "normal",
-      "milestone": "7.2",
-      "component": "Customize",
-      "owner": "westonruter"
-    },
-    {
-      "id": 66007,
-      "title": "wp_update_term() reports success when the database write is rejected",
-      "url": "https://core.trac.wordpress.org/ticket/66007",
-      "status": "reviewing",
-      "type": "defect (bug)",
-      "priority": "normal",
-      "milestone": "7.2",
-      "component": "Taxonomy",
       "owner": ""
     }
   ]
