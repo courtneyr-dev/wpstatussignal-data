@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T00:37:31.652Z",
+  "generatedAt": "2026-11-14T03:20:53.368Z",
   "items": [
     {
       "id": "make:core:126952",
@@ -10894,6 +10894,36 @@
       "url": "https://meta.trac.wordpress.org/ticket/6768#comment:9"
     },
     {
+      "id": "github:WordPress/wordpress-develop#15912",
+      "source": "github",
+      "teams": [
+        "core"
+      ],
+      "type": "pull",
+      "title": "Query: Send the random content redirect on template_redirect.",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/15912",
+      "time": "2026-11-14T02:45:28.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-develop#15988",
+      "source": "github",
+      "teams": [
+        "core"
+      ],
+      "type": "pull",
+      "title": "Secrets API: Map `manage_secrets` to `manage_options` instead of storing it on the administrator role",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/15988",
+      "time": "2026-11-14T02:36:20.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
       "id": "github:WordPress/wordpress-develop#12732",
       "source": "github",
       "teams": [
@@ -11089,30 +11119,75 @@
       "confidence": 1
     },
     {
-      "id": "github:WordPress/wordpress-develop#15707",
+      "id": "github:WordPress/gutenberg#86822",
       "source": "github",
       "teams": [
-        "core"
+        "core-editor"
       ],
       "type": "pull",
-      "title": "Build/Test Tools: Upgrade Node.js to 24.x in the 6.3 branch",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/15707",
-      "time": "2026-11-13T18:49:05.000Z",
+      "title": "Media Utils: Migrate media picker overlays to `@wordpress/ui`",
+      "url": "https://github.com/WordPress/gutenberg/pull/86822",
+      "time": "2026-11-14T03:19:30.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/wordpress-develop#15706",
+      "id": "github:WordPress/gutenberg#86843",
       "source": "github",
       "teams": [
-        "core"
+        "core-editor"
       ],
       "type": "pull",
-      "title": "Build/Test Tools: Upgrade Node.js to 24.x in the 5.8 branch",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/15706",
-      "time": "2026-11-13T18:49:03.000Z",
+      "title": "Components: Preserve legacy overlays inside WordPress UI portals",
+      "url": "https://github.com/WordPress/gutenberg/pull/86843",
+      "time": "2026-11-14T03:16:35.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#86819",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "DataForm: Migrate compatible flyouts and dialogs to `@wordpress/ui`",
+      "url": "https://github.com/WordPress/gutenberg/pull/86819",
+      "time": "2026-11-14T03:14:10.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#78029",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Edit Site: Migrate Quick Edit panel from `Modal` to `@wordpress/ui` `Drawer`",
+      "url": "https://github.com/WordPress/gutenberg/pull/78029",
+      "time": "2026-11-14T02:59:15.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#86846",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Data: Convert persistence plugin tests to TypeScript",
+      "url": "https://github.com/WordPress/gutenberg/pull/86846",
+      "time": "2026-11-14T02:46:37.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -11127,22 +11202,7 @@
       "type": "pull",
       "title": "Abilities: Accept a date-time without an offset in the `date-time` schema format",
       "url": "https://github.com/WordPress/gutenberg/pull/86845",
-      "time": "2026-11-14T00:32:09.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#86822",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Media Utils: Migrate media picker overlays to `@wordpress/ui`",
-      "url": "https://github.com/WordPress/gutenberg/pull/86822",
-      "time": "2026-11-14T00:17:51.000Z",
+      "time": "2026-11-14T00:44:13.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -11158,36 +11218,6 @@
       "title": "Abilities: Accept non-ASCII URLs in the `uri` schema format",
       "url": "https://github.com/WordPress/gutenberg/pull/86844",
       "time": "2026-11-14T00:06:48.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#86843",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Components: Preserve legacy overlays inside WordPress UI portals",
-      "url": "https://github.com/WordPress/gutenberg/pull/86843",
-      "time": "2026-11-14T00:05:57.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#78029",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Edit Site: Migrate Quick Edit panel from `Modal` to `@wordpress/ui` `Drawer`",
-      "url": "https://github.com/WordPress/gutenberg/pull/78029",
-      "time": "2026-11-13T23:59:25.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -11314,30 +11344,15 @@
       "confidence": 1
     },
     {
-      "id": "github:WordPress/gutenberg#86834",
+      "id": "github:WordPress/performance#2512",
       "source": "github",
       "teams": [
-        "core-editor"
+        "core-performance"
       ],
       "type": "pull",
-      "title": "Upload Media: warn when an image uploads without all of its sizes, and keep it when the site is out of storage space.",
-      "url": "https://github.com/WordPress/gutenberg/pull/86834",
-      "time": "2026-11-13T20:55:50.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#85743",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Global Styles inheritance UI: Show inspector controls by value and add a reset menu",
-      "url": "https://github.com/WordPress/gutenberg/pull/85743",
-      "time": "2026-11-13T20:36:06.000Z",
+      "title": "Add support for prerender_until_script mode and origin trial token",
+      "url": "https://github.com/WordPress/performance/pull/2512",
+      "time": "2026-11-14T02:05:23.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -11554,15 +11569,15 @@
       "confidence": 1
     },
     {
-      "id": "github:WordPress/performance#2515",
+      "id": "github:WordPress/ai#1382",
       "source": "github",
       "teams": [
-        "core-performance"
+        "core-ai"
       ],
       "type": "pull",
-      "title": "Server-Timing: Reuse the WordPress 6.9 template enhancement output buffer",
-      "url": "https://github.com/WordPress/performance/pull/2515",
-      "time": "2026-11-06T01:05:38.000Z",
+      "title": "AI Workspace: show cards for proposal kinds another plugin registers",
+      "url": "https://github.com/WordPress/ai/pull/1382",
+      "time": "2026-11-14T01:35:07.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -11773,21 +11788,6 @@
       "title": "Experiment: Add Table Caption Generation ",
       "url": "https://github.com/WordPress/ai/pull/1342",
       "time": "2026-11-12T23:43:35.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/ai#1365",
-      "source": "github",
-      "teams": [
-        "core-ai"
-      ],
-      "type": "pull",
-      "title": "Add a Wapuu-guided Get started guide with use cases to Settings > AI",
-      "url": "https://github.com/WordPress/ai/pull/1365",
-      "time": "2026-11-12T22:01:17.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -12019,6 +12019,21 @@
       "confidence": 1
     },
     {
+      "id": "github:WordPress/openverse#5700",
+      "source": "github",
+      "teams": [
+        "openverse"
+      ],
+      "type": "pull",
+      "title": "Update dependency @playwright/test to v1.65.1",
+      "url": "https://github.com/WordPress/openverse/pull/5700",
+      "time": "2026-11-14T00:39:58.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
       "id": "github:WordPress/openverse#255",
       "source": "github",
       "teams": [
@@ -12028,21 +12043,6 @@
       "title": "Dependency Dashboard",
       "url": "https://github.com/WordPress/openverse/issues/255",
       "time": "2026-11-14T00:28:27.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/openverse#5700",
-      "source": "github",
-      "teams": [
-        "openverse"
-      ],
-      "type": "pull",
-      "title": "Update dependency @playwright/test to v1.65.1",
-      "url": "https://github.com/WordPress/openverse/pull/5700",
-      "time": "2026-11-14T00:28:26.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -12603,6 +12603,17 @@
   ],
   "tickets": [
     {
+      "id": 66696,
+      "title": "Secrets API: New `manage_secrets` capability is not used.",
+      "url": "https://core.trac.wordpress.org/ticket/66696",
+      "status": "new",
+      "type": "defect (bug)",
+      "priority": "normal",
+      "milestone": "7.2",
+      "component": "Security",
+      "owner": ""
+    },
+    {
       "id": 66052,
       "title": "wp_list_pages: incorrect description of $args['include']",
       "url": "https://core.trac.wordpress.org/ticket/66052",
@@ -12623,17 +12634,6 @@
       "milestone": "7.2",
       "component": "Security",
       "owner": "whyisjake"
-    },
-    {
-      "id": 66696,
-      "title": "Secrets API: New `manage_secrets` capability is not used.",
-      "url": "https://core.trac.wordpress.org/ticket/66696",
-      "status": "new",
-      "type": "defect (bug)",
-      "priority": "normal",
-      "milestone": "7.2",
-      "component": "Security",
-      "owner": ""
     },
     {
       "id": 42990,
