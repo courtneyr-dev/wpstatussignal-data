@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T18:20:24.407Z",
+  "generatedAt": "2026-11-14T21:20:17.425Z",
   "items": [
     {
       "id": "make:core:126952",
@@ -9485,6 +9485,36 @@
       "ask": "none",
       "personas": [],
       "confidence": 1,
+      "time": "2026-11-14T19:55:44.000Z",
+      "id": "trac:meta:ticket:8501",
+      "type": "ticket",
+      "title": "#8501 Please reactivate my Slack account (@zhdan)",
+      "status": "closed",
+      "url": "https://meta.trac.wordpress.org/ticket/8501#comment:3"
+    },
+    {
+      "source": "trac",
+      "teams": [
+        "meta"
+      ],
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "time": "2026-11-14T19:03:23.000Z",
+      "id": "trac:meta:ticket:5363",
+      "type": "ticket",
+      "title": "#5363 Upgrade Markdown library",
+      "status": "reopened",
+      "url": "https://meta.trac.wordpress.org/ticket/5363#comment:4"
+    },
+    {
+      "source": "trac",
+      "teams": [
+        "meta"
+      ],
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
       "time": "2026-11-14T17:51:05.000Z",
       "id": "trac:meta:ticket:8502",
       "type": "ticket",
@@ -9506,21 +9536,6 @@
       "title": "#6486 The design of WordCampTV video lists is deteriorating at mobile screen ...",
       "status": "closed",
       "url": "https://meta.trac.wordpress.org/ticket/6486#comment:2"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-14T16:47:20.000Z",
-      "id": "trac:meta:ticket:8501",
-      "type": "ticket",
-      "title": "#8501 Please reactivate my Slack account (@zhdan)",
-      "status": "created",
-      "url": "https://meta.trac.wordpress.org/ticket/8501"
     },
     {
       "source": "trac",
@@ -10870,43 +10885,30 @@
       "url": "https://meta.trac.wordpress.org/changeset/15545"
     },
     {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-11T20:15:47.000Z",
-      "id": "trac:meta:changeset:15544",
-      "type": "commit",
-      "title": "[15544] Trac Templates: small cleanup  Props timse201. Closes ...",
-      "url": "https://meta.trac.wordpress.org/changeset/15544"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-11T20:06:41.000Z",
-      "id": "trac:meta:changeset:15543",
-      "type": "commit",
-      "title": "[15543] Jobs: Add the block theme redesign and its companion plugin  Closes ...",
-      "url": "https://meta.trac.wordpress.org/changeset/15543"
-    },
-    {
-      "id": "github:WordPress/wordpress-develop#16000",
+      "id": "github:WordPress/wordpress-develop#16002",
       "source": "github",
       "teams": [
         "core"
       ],
       "type": "pull",
-      "title": "Code Modernization: Use the null coalescing assignment operator in `blocks.php`",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/16000",
-      "time": "2026-11-14T18:13:07.000Z",
+      "title": "Build/Test Tools: Add and enable a PHPStan rule requiring `@phpstan-impure` on methods that change state",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/16002",
+      "time": "2026-11-14T21:20:39.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-develop#16001",
+      "source": "github",
+      "teams": [
+        "core"
+      ],
+      "type": "pull",
+      "title": "Bootstrap/Load: Add functions to read string input vars.",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/16001",
+      "time": "2026-11-14T19:16:32.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -10921,7 +10923,22 @@
       "type": "pull",
       "title": "Code Modernization: Use the null coalescing assignment operator for installer API arguments",
       "url": "https://github.com/WordPress/wordpress-develop/pull/15999",
-      "time": "2026-11-14T18:07:40.000Z",
+      "time": "2026-11-14T18:24:11.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-develop#16000",
+      "source": "github",
+      "teams": [
+        "core"
+      ],
+      "type": "pull",
+      "title": "Code Modernization: Use the null coalescing assignment operator in `blocks.php`",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/16000",
+      "time": "2026-11-14T18:13:07.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -11093,30 +11110,30 @@
       "confidence": 1
     },
     {
-      "id": "github:WordPress/wordpress-develop#15990",
+      "id": "github:WordPress/gutenberg#86831",
       "source": "github",
       "teams": [
-        "core"
+        "core-editor"
       ],
-      "type": "pull",
-      "title": "Networks and Sites: Show the selected site roles in user dropdowns",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/15990",
-      "time": "2026-11-14T06:30:53.000Z",
+      "type": "issue",
+      "title": "Navigation Block: Deleting a newly created navigation overlay template throws an error: can't access property \"filter\", e.itemIds is undefined",
+      "url": "https://github.com/WordPress/gutenberg/issues/86831",
+      "time": "2026-11-14T20:23:01.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/wordpress-develop#13521",
+      "id": "github:WordPress/gutenberg#86465",
       "source": "github",
       "teams": [
-        "core"
+        "core-editor"
       ],
       "type": "pull",
-      "title": "Fatal error in wp_insert_term() when the term name is not a string",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/13521",
-      "time": "2026-11-14T05:17:01.000Z",
+      "title": "Post Date: Avoid displaying \"Invalid date\" for a non-date datetime value",
+      "url": "https://github.com/WordPress/gutenberg/pull/86465",
+      "time": "2026-11-14T19:21:53.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -11312,36 +11329,6 @@
       "title": "[WP 7.2] Icons: Rename file to folder, add actual file icon. (#86526)",
       "url": "https://github.com/WordPress/gutenberg/pull/86779",
       "time": "2026-11-14T10:31:15.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#78029",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Edit Site: Migrate Quick Edit panel from `Modal` to `@wordpress/ui` `Drawer`",
-      "url": "https://github.com/WordPress/gutenberg/pull/78029",
-      "time": "2026-11-14T09:00:42.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#86710",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Format library: Warn when inline text and highlight colors have low contrast",
-      "url": "https://github.com/WordPress/gutenberg/pull/86710",
-      "time": "2026-11-14T06:39:12.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -11798,6 +11785,21 @@
       "confidence": 1
     },
     {
+      "id": "github:WordPress/wordpress-playground#4613",
+      "source": "github",
+      "teams": [
+        "playground"
+      ],
+      "type": "pull",
+      "title": "[Website] Serve WP Cloud static files directly from release folders",
+      "url": "https://github.com/WordPress/wordpress-playground/pull/4613",
+      "time": "2026-11-14T18:32:55.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
       "id": "github:WordPress/wordpress-playground#4615",
       "source": "github",
       "teams": [
@@ -11837,21 +11839,6 @@
       "title": "[Docs] Clarify self-hosting setup and update Portuguese, Spanish, and French translations",
       "url": "https://github.com/WordPress/wordpress-playground/pull/4573",
       "time": "2026-11-14T09:55:31.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/wordpress-playground#4613",
-      "source": "github",
-      "teams": [
-        "playground"
-      ],
-      "type": "pull",
-      "title": "[Website] Serve WP Cloud static files directly from release folders",
-      "url": "https://github.com/WordPress/wordpress-playground/pull/4613",
-      "time": "2026-11-14T06:21:00.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -12248,6 +12235,21 @@
       "confidence": 1
     },
     {
+      "id": "github:WordPress/Learn#3736",
+      "source": "github",
+      "teams": [
+        "training"
+      ],
+      "type": "issue",
+      "title": "Spanish translation for \"Principles of Free Software and the WordPress project\"",
+      "url": "https://github.com/WordPress/Learn/issues/3736",
+      "time": "2026-11-14T21:11:18.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
       "id": "github:WordPress/Learn#3732",
       "source": "github",
       "teams": [
@@ -12428,21 +12430,6 @@
       "confidence": 1
     },
     {
-      "id": "github:WordPress/Learn#3736",
-      "source": "github",
-      "teams": [
-        "training"
-      ],
-      "type": "issue",
-      "title": "Spanish translation for \"Principles of Free Software and the WordPress project\"",
-      "url": "https://github.com/WordPress/Learn/issues/3736",
-      "time": "2026-11-05T01:26:53.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
       "id": "github:WordPress/Learn#3735",
       "source": "github",
       "teams": [
@@ -12606,6 +12593,17 @@
     }
   ],
   "tickets": [
+    {
+      "id": 65817,
+      "title": "PHPStan code quality improvements for 7.2",
+      "url": "https://core.trac.wordpress.org/ticket/65817",
+      "status": "reviewing",
+      "type": "task (blessed)",
+      "priority": "normal",
+      "milestone": "7.2",
+      "component": "General",
+      "owner": "westonruter"
+    },
     {
       "id": 65823,
       "title": "Code Quality: Use the null coalescing assignment operator (??=)",
@@ -12880,17 +12878,6 @@
       "milestone": "7.2",
       "component": "Query",
       "owner": "jorbin"
-    },
-    {
-      "id": 65817,
-      "title": "PHPStan code quality improvements for 7.2",
-      "url": "https://core.trac.wordpress.org/ticket/65817",
-      "status": "reviewing",
-      "type": "task (blessed)",
-      "priority": "normal",
-      "milestone": "7.2",
-      "component": "General",
-      "owner": "westonruter"
     },
     {
       "id": 65845,
