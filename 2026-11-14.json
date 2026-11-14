@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T09:20:20.505Z",
+  "generatedAt": "2026-11-14T12:22:50.520Z",
   "items": [
     {
       "id": "make:core:126952",
@@ -1949,6 +1949,48 @@
       "confidence": 1
     },
     {
+      "id": "make:polyglots:75657",
+      "source": "make",
+      "teams": [
+        "polyglots"
+      ],
+      "type": "post",
+      "title": "PTE Request for Subscribe Form for Listmonk",
+      "url": "https://make.wordpress.org/polyglots/2026/11/14/pte-request-for-subscribe-form-for-listmonk/",
+      "time": "2026-11-14T11:10:37Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "make:polyglots:75659",
+      "source": "make",
+      "teams": [
+        "polyglots"
+      ],
+      "type": "post",
+      "title": "PTE Request for STM EU-B2B",
+      "url": "https://make.wordpress.org/polyglots/2026/11/14/pte-request-for-stm-eu-b2b/",
+      "time": "2026-11-14T10:58:04Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "make:polyglots:75643",
+      "source": "make",
+      "teams": [
+        "polyglots"
+      ],
+      "type": "post",
+      "title": "PTE Request for Nevua Booking…",
+      "url": "https://make.wordpress.org/polyglots/2026/11/14/pte-request-for-nevua-booking/",
+      "time": "2026-11-14T09:49:39Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
       "id": "make:polyglots:75647",
       "source": "make",
       "teams": [
@@ -2322,48 +2364,6 @@
       "title": "PTE Request for 3task Post…",
       "url": "https://make.wordpress.org/polyglots/2026/11/12/pte-request-for-3task-post/",
       "time": "2026-11-12T11:58:16Z",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "make:polyglots:75546",
-      "source": "make",
-      "teams": [
-        "polyglots"
-      ],
-      "type": "post",
-      "title": "PTE Request for iGuRu Daily Privacy Stats",
-      "url": "https://make.wordpress.org/polyglots/2026/11/12/pte-request-for-iguru-daily-privacy-stats/",
-      "time": "2026-11-12T10:35:05Z",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "make:polyglots:75516",
-      "source": "make",
-      "teams": [
-        "polyglots"
-      ],
-      "type": "post",
-      "title": "PTE Request for ZA-ONE Business…",
-      "url": "https://make.wordpress.org/polyglots/2026/11/12/pte-request-for-za-one-business/",
-      "time": "2026-11-12T09:50:36Z",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "make:polyglots:75519",
-      "source": "make",
-      "teams": [
-        "polyglots"
-      ],
-      "type": "post",
-      "title": "PTE Request for Trackful – Server-Side Tracking",
-      "url": "https://make.wordpress.org/polyglots/2026/11/12/pte-request-for-trackful-server-side-tracking/",
-      "time": "2026-11-12T09:50:28Z",
       "ask": "none",
       "personas": [],
       "confidence": 1
@@ -10896,6 +10896,21 @@
       "url": "https://meta.trac.wordpress.org/ticket/6768#comment:9"
     },
     {
+      "id": "github:WordPress/wordpress-develop#15871",
+      "source": "github",
+      "teams": [
+        "core"
+      ],
+      "type": "pull",
+      "title": "Command Palette: Make every admin screen faster by loading the palette only when it is opened",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/15871",
+      "time": "2026-11-14T12:19:50.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
       "id": "github:WordPress/wordpress-develop#15992",
       "source": "github",
       "teams": [
@@ -11046,21 +11061,6 @@
       "confidence": 1
     },
     {
-      "id": "github:WordPress/wordpress-develop#15871",
-      "source": "github",
-      "teams": [
-        "core"
-      ],
-      "type": "pull",
-      "title": "Command Palette: Make every admin screen faster by loading the palette only when it is opened",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/15871",
-      "time": "2026-11-13T23:49:46.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
       "id": "github:WordPress/wordpress-develop#12249",
       "source": "github",
       "teams": [
@@ -11129,7 +11129,7 @@
       "type": "pull",
       "title": "Components: Replace Button busy stripes with a spinner",
       "url": "https://github.com/WordPress/gutenberg/pull/85960",
-      "time": "2026-11-14T09:14:17.000Z",
+      "time": "2026-11-14T11:49:44.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -11144,7 +11144,22 @@
       "type": "pull",
       "title": "[WP 7.2] Icons: Rename file to folder, add actual file icon. (#86526)",
       "url": "https://github.com/WordPress/gutenberg/pull/86779",
-      "time": "2026-11-14T09:07:36.000Z",
+      "time": "2026-11-14T10:31:15.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#86849",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Avatar: Enable viewport state values for image size",
+      "url": "https://github.com/WordPress/gutenberg/pull/86849",
+      "time": "2026-11-14T10:05:56.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -11325,21 +11340,6 @@
       "title": "Navigation: Fade out the overlay menu when it closes",
       "url": "https://github.com/WordPress/gutenberg/pull/85820",
       "time": "2026-11-14T04:23:14.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#86845",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Abilities: Accept a date-time without an offset in the `date-time` schema format",
-      "url": "https://github.com/WordPress/gutenberg/pull/86845",
-      "time": "2026-11-14T00:44:13.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -11796,6 +11796,36 @@
       "confidence": 1
     },
     {
+      "id": "github:WordPress/wordpress-playground#4574",
+      "source": "github",
+      "teams": [
+        "playground"
+      ],
+      "type": "pull",
+      "title": "Publish versioned php-wasm runtimes on playground.wordpress.net",
+      "url": "https://github.com/WordPress/wordpress-playground/pull/4574",
+      "time": "2026-11-14T10:25:37.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-playground#4573",
+      "source": "github",
+      "teams": [
+        "playground"
+      ],
+      "type": "pull",
+      "title": "[Docs] Clarify self-hosting setup and update Portuguese, Spanish, and French translations",
+      "url": "https://github.com/WordPress/wordpress-playground/pull/4573",
+      "time": "2026-11-14T09:55:31.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
       "id": "github:WordPress/wordpress-playground#4613",
       "source": "github",
       "teams": [
@@ -11805,21 +11835,6 @@
       "title": "[Website] Serve WP Cloud static files directly from release folders",
       "url": "https://github.com/WordPress/wordpress-playground/pull/4613",
       "time": "2026-11-14T06:21:00.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/wordpress-playground#4574",
-      "source": "github",
-      "teams": [
-        "playground"
-      ],
-      "type": "pull",
-      "title": "Publish versioned php-wasm runtimes on playground.wordpress.net",
-      "url": "https://github.com/WordPress/wordpress-playground/pull/4574",
-      "time": "2026-11-13T19:33:22.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -12006,30 +12021,15 @@
       "confidence": 1
     },
     {
-      "id": "github:WordPress/wordpress-playground#4606",
-      "source": "github",
-      "teams": [
-        "playground"
-      ],
-      "type": "pull",
-      "title": "[CLI] Validate WordPress versions and harden download cache keys",
-      "url": "https://github.com/WordPress/wordpress-playground/pull/4606",
-      "time": "2026-11-12T22:47:57.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/openverse#5749",
+      "id": "github:WordPress/openverse#255",
       "source": "github",
       "teams": [
         "openverse"
       ],
-      "type": "pull",
-      "title": "Update workflows",
-      "url": "https://github.com/WordPress/openverse/pull/5749",
-      "time": "2026-11-14T09:20:53.000Z",
+      "type": "issue",
+      "title": "Dependency Dashboard",
+      "url": "https://github.com/WordPress/openverse/issues/255",
+      "time": "2026-11-14T12:19:16.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -12044,202 +12044,202 @@
       "type": "pull",
       "title": "Update dependency starlette to v1 [SECURITY]",
       "url": "https://github.com/WordPress/openverse/pull/5748",
-      "time": "2026-11-14T09:20:45.000Z",
+      "time": "2026-11-14T12:19:10.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/openverse#5747",
+      "id": "github:WordPress/openverse#5638",
       "source": "github",
       "teams": [
         "openverse"
       ],
       "type": "pull",
-      "title": "Update dependency soupsieve to v4 [SECURITY]",
-      "url": "https://github.com/WordPress/openverse/pull/5747",
-      "time": "2026-11-14T09:20:33.000Z",
+      "title": "Update dependency pytest to v9 [SECURITY]",
+      "url": "https://github.com/WordPress/openverse/pull/5638",
+      "time": "2026-11-14T12:19:00.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/openverse#5746",
+      "id": "github:WordPress/openverse#5739",
       "source": "github",
       "teams": [
         "openverse"
       ],
       "type": "pull",
-      "title": "Update dependency setuptools to v84 [SECURITY]",
-      "url": "https://github.com/WordPress/openverse/pull/5746",
-      "time": "2026-11-14T09:20:19.000Z",
+      "title": "Update dependency torch to v2.13.0 [SECURITY]",
+      "url": "https://github.com/WordPress/openverse/pull/5739",
+      "time": "2026-11-14T12:18:53.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/openverse#5742",
+      "id": "github:WordPress/openverse#5768",
       "source": "github",
       "teams": [
         "openverse"
       ],
       "type": "pull",
-      "title": "Update dependency cryptography to v49 [SECURITY]",
-      "url": "https://github.com/WordPress/openverse/pull/5742",
-      "time": "2026-11-14T09:20:19.000Z",
+      "title": "Update dependency oauthlib to v4 [SECURITY]",
+      "url": "https://github.com/WordPress/openverse/pull/5768",
+      "time": "2026-11-14T12:18:33.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/openverse#5724",
+      "id": "github:WordPress/openverse#5767",
       "source": "github",
       "teams": [
         "openverse"
       ],
       "type": "pull",
-      "title": "Update dependency anyio to v4.14.2 [SECURITY]",
-      "url": "https://github.com/WordPress/openverse/pull/5724",
-      "time": "2026-11-14T09:20:10.000Z",
+      "title": "Update dependency cryptography to v50 [SECURITY]",
+      "url": "https://github.com/WordPress/openverse/pull/5767",
+      "time": "2026-11-14T12:18:27.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/openverse#5745",
+      "id": "github:WordPress/openverse#5732",
       "source": "github",
       "teams": [
         "openverse"
       ],
       "type": "pull",
-      "title": "Update dependency pillow to v13 [SECURITY]",
-      "url": "https://github.com/WordPress/openverse/pull/5745",
-      "time": "2026-11-14T09:20:08.000Z",
+      "title": "Update dependency nbconvert to v7.17.2 [SECURITY]",
+      "url": "https://github.com/WordPress/openverse/pull/5732",
+      "time": "2026-11-14T12:15:44.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/openverse#5744",
+      "id": "github:WordPress/openverse#5766",
       "source": "github",
       "teams": [
         "openverse"
       ],
       "type": "pull",
-      "title": "Update dependency fsspec to v2026 [SECURITY]",
-      "url": "https://github.com/WordPress/openverse/pull/5744",
-      "time": "2026-11-14T09:20:01.000Z",
+      "title": "Update dependency sqlparse to v0.6.0 [SECURITY]",
+      "url": "https://github.com/WordPress/openverse/pull/5766",
+      "time": "2026-11-14T12:15:31.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/openverse#5741",
+      "id": "github:WordPress/openverse#5765",
       "source": "github",
       "teams": [
         "openverse"
       ],
       "type": "pull",
-      "title": "Update dependency urllib3 to v2.8.0 [SECURITY]",
-      "url": "https://github.com/WordPress/openverse/pull/5741",
-      "time": "2026-11-14T09:19:59.000Z",
+      "title": "Update dependency notebook to v7.6.3 [SECURITY]",
+      "url": "https://github.com/WordPress/openverse/pull/5765",
+      "time": "2026-11-14T12:15:18.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/openverse#5761",
+      "id": "github:WordPress/openverse#5723",
       "source": "github",
       "teams": [
         "openverse"
       ],
       "type": "pull",
-      "title": "Update dependency werkzeug to v3.1.6 [SECURITY]",
-      "url": "https://github.com/WordPress/openverse/pull/5761",
-      "time": "2026-11-14T09:19:57.000Z",
+      "title": "Update dependency sentencepiece to v0.2.1 [SECURITY]",
+      "url": "https://github.com/WordPress/openverse/pull/5723",
+      "time": "2026-11-14T12:15:13.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/openverse#5743",
+      "id": "github:WordPress/openverse#5752",
       "source": "github",
       "teams": [
         "openverse"
       ],
       "type": "pull",
-      "title": "Update dependency filelock to v4 [SECURITY]",
-      "url": "https://github.com/WordPress/openverse/pull/5743",
-      "time": "2026-11-14T09:19:54.000Z",
+      "title": "Update dependency django to v5.2.17 [SECURITY]",
+      "url": "https://github.com/WordPress/openverse/pull/5752",
+      "time": "2026-11-14T12:15:04.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/openverse#5740",
+      "id": "github:WordPress/openverse#5757",
       "source": "github",
       "teams": [
         "openverse"
       ],
       "type": "pull",
-      "title": "Update dependency tornado to v6.6.1 [SECURITY]",
-      "url": "https://github.com/WordPress/openverse/pull/5740",
-      "time": "2026-11-14T09:19:13.000Z",
+      "title": "Update dependency aiohttp to v3.14.4 [SECURITY]",
+      "url": "https://github.com/WordPress/openverse/pull/5757",
+      "time": "2026-11-14T12:14:57.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/openverse#5738",
+      "id": "github:WordPress/openverse#5764",
       "source": "github",
       "teams": [
         "openverse"
       ],
       "type": "pull",
-      "title": "Update dependency requests to v2.33.0 [SECURITY]",
-      "url": "https://github.com/WordPress/openverse/pull/5738",
-      "time": "2026-11-14T09:16:55.000Z",
+      "title": "Update dependency werkzeug to v3.1.9 [SECURITY]",
+      "url": "https://github.com/WordPress/openverse/pull/5764",
+      "time": "2026-11-14T12:14:51.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/openverse#5760",
+      "id": "github:WordPress/openverse#5763",
       "source": "github",
       "teams": [
         "openverse"
       ],
       "type": "pull",
-      "title": "Update dependency python-dotenv to v1.2.2 [SECURITY]",
-      "url": "https://github.com/WordPress/openverse/pull/5760",
-      "time": "2026-11-14T09:16:44.000Z",
+      "title": "Update dependency mistune to v3.3.3 [SECURITY]",
+      "url": "https://github.com/WordPress/openverse/pull/5763",
+      "time": "2026-11-14T12:14:39.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/openverse#5735",
+      "id": "github:WordPress/openverse#5750",
       "source": "github",
       "teams": [
         "openverse"
       ],
       "type": "pull",
-      "title": "Update dependency pygments to v2.20.0 [SECURITY]",
-      "url": "https://github.com/WordPress/openverse/pull/5735",
-      "time": "2026-11-14T09:16:34.000Z",
+      "title": "Update @openverse/eslint-plugin",
+      "url": "https://github.com/WordPress/openverse/pull/5750",
+      "time": "2026-11-14T09:30:16.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
