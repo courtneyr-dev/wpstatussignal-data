@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T06:26:12.208Z",
+  "generatedAt": "2026-11-14T09:20:20.505Z",
   "items": [
     {
       "id": "make:core:126952",
@@ -1949,6 +1949,34 @@
       "confidence": 1
     },
     {
+      "id": "make:polyglots:75647",
+      "source": "make",
+      "teams": [
+        "polyglots"
+      ],
+      "type": "post",
+      "title": "PTE Request for SiteBeacon Reporter",
+      "url": "https://make.wordpress.org/polyglots/2026/11/14/pte-request-for-sitebeacon-reporter/",
+      "time": "2026-11-14T06:45:51Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "make:polyglots:75645",
+      "source": "make",
+      "teams": [
+        "polyglots"
+      ],
+      "type": "post",
+      "title": "Hi Polyglots,",
+      "url": "https://make.wordpress.org/polyglots/2026/11/14/hi-polyglots-137/",
+      "time": "2026-11-14T06:28:24Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
       "id": "make:polyglots:75638",
       "source": "make",
       "teams": [
@@ -2336,34 +2364,6 @@
       "title": "PTE Request for Trackful – Server-Side Tracking",
       "url": "https://make.wordpress.org/polyglots/2026/11/12/pte-request-for-trackful-server-side-tracking/",
       "time": "2026-11-12T09:50:28Z",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "make:polyglots:75528",
-      "source": "make",
-      "teams": [
-        "polyglots"
-      ],
-      "type": "post",
-      "title": "PTE Request for Pageseal",
-      "url": "https://make.wordpress.org/polyglots/2026/11/12/pte-request-for-pageseal/",
-      "time": "2026-11-12T09:50:21Z",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "make:polyglots:75526",
-      "source": "make",
-      "teams": [
-        "polyglots"
-      ],
-      "type": "post",
-      "title": "## Solicitud de permisos PTE…",
-      "url": "https://make.wordpress.org/polyglots/2026/11/12/solicitud-de-permisos-pte/",
-      "time": "2026-11-12T09:50:13Z",
       "ask": "none",
       "personas": [],
       "confidence": 1
@@ -10896,6 +10896,66 @@
       "url": "https://meta.trac.wordpress.org/ticket/6768#comment:9"
     },
     {
+      "id": "github:WordPress/wordpress-develop#15992",
+      "source": "github",
+      "teams": [
+        "core"
+      ],
+      "type": "pull",
+      "title": "Administration: Ensure consistent spacing when flex filter search form wraps",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/15992",
+      "time": "2026-11-14T07:15:34.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-develop#15965",
+      "source": "github",
+      "teams": [
+        "core"
+      ],
+      "type": "pull",
+      "title": "Security: Find a pre-conversion root key in the Secrets API key source check.",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/15965",
+      "time": "2026-11-14T07:01:14.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-develop#15991",
+      "source": "github",
+      "teams": [
+        "core"
+      ],
+      "type": "pull",
+      "title": "Toolbar: Add Dashboard, Plugins, and Themes to the site name menu in admin and editors",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/15991",
+      "time": "2026-11-14T06:47:45.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-develop#15990",
+      "source": "github",
+      "teams": [
+        "core"
+      ],
+      "type": "pull",
+      "title": "Networks and Sites: Show the selected site roles in user dropdowns",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/15990",
+      "time": "2026-11-14T06:30:53.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
       "id": "github:WordPress/wordpress-develop#13521",
       "source": "github",
       "teams": [
@@ -11061,60 +11121,75 @@
       "confidence": 1
     },
     {
-      "id": "github:WordPress/wordpress-develop#14810",
+      "id": "github:WordPress/gutenberg#85960",
       "source": "github",
       "teams": [
-        "core"
+        "core-editor"
       ],
       "type": "pull",
-      "title": "REST API: Return 400 when an upload is rejected for a client reason",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/14810",
-      "time": "2026-11-13T20:20:25.000Z",
+      "title": "Components: Replace Button busy stripes with a spinner",
+      "url": "https://github.com/WordPress/gutenberg/pull/85960",
+      "time": "2026-11-14T09:14:17.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/wordpress-develop#15987",
+      "id": "github:WordPress/gutenberg#86779",
       "source": "github",
       "teams": [
-        "core"
+        "core-editor"
       ],
       "type": "pull",
-      "title": "Abilities API: Declare the `uri` format for the `link` output of `core/content-query`",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/15987",
-      "time": "2026-11-13T19:09:03.000Z",
+      "title": "[WP 7.2] Icons: Rename file to folder, add actual file icon. (#86526)",
+      "url": "https://github.com/WordPress/gutenberg/pull/86779",
+      "time": "2026-11-14T09:07:36.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/wordpress-develop#14058",
+      "id": "github:WordPress/gutenberg#78029",
       "source": "github",
       "teams": [
-        "core"
+        "core-editor"
       ],
       "type": "pull",
-      "title": "Build/Test Tools: Opt in to the npm supply chain defaults",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/14058",
-      "time": "2026-11-13T18:55:33.000Z",
+      "title": "Edit Site: Migrate Quick Edit panel from `Modal` to `@wordpress/ui` `Drawer`",
+      "url": "https://github.com/WordPress/gutenberg/pull/78029",
+      "time": "2026-11-14T09:00:42.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/wordpress-develop#15957",
+      "id": "github:WordPress/gutenberg#86710",
       "source": "github",
       "teams": [
-        "core"
+        "core-editor"
       ],
       "type": "pull",
-      "title": "Build/Test Tools: Measure wp-admin in the browser and check performance budgets",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/15957",
-      "time": "2026-11-13T18:53:07.000Z",
+      "title": "Format library: Warn when inline text and highlight colors have low contrast",
+      "url": "https://github.com/WordPress/gutenberg/pull/86710",
+      "time": "2026-11-14T06:39:12.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#86711",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Block editor: Show canvas tooltips on the first mouse movement",
+      "url": "https://github.com/WordPress/gutenberg/pull/86711",
+      "time": "2026-11-14T06:37:40.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -11175,21 +11250,6 @@
       "title": "Media Utils: Migrate media picker overlays to `@wordpress/ui`",
       "url": "https://github.com/WordPress/gutenberg/pull/86822",
       "time": "2026-11-14T06:20:47.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#78029",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Edit Site: Migrate Quick Edit panel from `Modal` to `@wordpress/ui` `Drawer`",
-      "url": "https://github.com/WordPress/gutenberg/pull/78029",
-      "time": "2026-11-14T06:20:39.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -11280,66 +11340,6 @@
       "title": "Abilities: Accept a date-time without an offset in the `date-time` schema format",
       "url": "https://github.com/WordPress/gutenberg/pull/86845",
       "time": "2026-11-14T00:44:13.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#86844",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Abilities: Accept non-ASCII URLs in the `uri` schema format",
-      "url": "https://github.com/WordPress/gutenberg/pull/86844",
-      "time": "2026-11-14T00:06:48.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#85960",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Components: Replace Button busy stripes with a spinner",
-      "url": "https://github.com/WordPress/gutenberg/pull/85960",
-      "time": "2026-11-13T22:41:59.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#86809",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "DatePicker: Use WPDS tokens for calendar styling",
-      "url": "https://github.com/WordPress/gutenberg/pull/86809",
-      "time": "2026-11-13T22:28:25.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#86839",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Fix iOS keyboard not opening on a tap into another block after Done",
-      "url": "https://github.com/WordPress/gutenberg/pull/86839",
-      "time": "2026-11-13T21:38:51.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -11571,6 +11571,36 @@
       "confidence": 1
     },
     {
+      "id": "github:WordPress/ai#1385",
+      "source": "github",
+      "teams": [
+        "core-ai"
+      ],
+      "type": "pull",
+      "title": "Uninstall: Remove Text to Speech post meta",
+      "url": "https://github.com/WordPress/ai/pull/1385",
+      "time": "2026-11-14T09:04:30.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/ai#1384",
+      "source": "github",
+      "teams": [
+        "core-ai"
+      ],
+      "type": "issue",
+      "title": "Text to Speech post meta is left behind when the plugin is deleted",
+      "url": "https://github.com/WordPress/ai/issues/1384",
+      "time": "2026-11-14T08:46:41.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
       "id": "github:WordPress/ai#1383",
       "source": "github",
       "teams": [
@@ -11760,36 +11790,6 @@
       "title": "Add a `core/terms-query` ability (taxonomies, categories, tags)",
       "url": "https://github.com/WordPress/ai/issues/1063",
       "time": "2026-11-13T03:47:06.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/ai#1305",
-      "source": "github",
-      "teams": [
-        "core-ai"
-      ],
-      "type": "issue",
-      "title": "An ability to update a post's featured image and other non-content fields",
-      "url": "https://github.com/WordPress/ai/issues/1305",
-      "time": "2026-11-13T03:46:31.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/ai#1303",
-      "source": "github",
-      "teams": [
-        "core-ai"
-      ],
-      "type": "issue",
-      "title": "Add a read ability for block templates and whether the active theme supports them",
-      "url": "https://github.com/WordPress/ai/issues/1303",
-      "time": "2026-11-13T03:45:49.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -12021,96 +12021,6 @@
       "confidence": 1
     },
     {
-      "id": "github:WordPress/openverse#5728",
-      "source": "github",
-      "teams": [
-        "openverse"
-      ],
-      "type": "pull",
-      "title": "Update dependency idna to v3.15 [SECURITY]",
-      "url": "https://github.com/WordPress/openverse/pull/5728",
-      "time": "2026-11-14T06:25:33.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/openverse#5704",
-      "source": "github",
-      "teams": [
-        "openverse"
-      ],
-      "type": "pull",
-      "title": "Update dependency @actions/github to v9",
-      "url": "https://github.com/WordPress/openverse/pull/5704",
-      "time": "2026-11-14T06:24:53.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/openverse#5724",
-      "source": "github",
-      "teams": [
-        "openverse"
-      ],
-      "type": "pull",
-      "title": "Update dependency anyio to v4.14.2 [SECURITY]",
-      "url": "https://github.com/WordPress/openverse/pull/5724",
-      "time": "2026-11-14T06:24:50.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/openverse#5751",
-      "source": "github",
-      "teams": [
-        "openverse"
-      ],
-      "type": "pull",
-      "title": "Update dependency @opentelemetry/api to ~1.10.0",
-      "url": "https://github.com/WordPress/openverse/pull/5751",
-      "time": "2026-11-14T06:24:35.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/openverse#255",
-      "source": "github",
-      "teams": [
-        "openverse"
-      ],
-      "type": "issue",
-      "title": "Dependency Dashboard",
-      "url": "https://github.com/WordPress/openverse/issues/255",
-      "time": "2026-11-14T06:24:21.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/openverse#5750",
-      "source": "github",
-      "teams": [
-        "openverse"
-      ],
-      "type": "pull",
-      "title": "Update @openverse/eslint-plugin",
-      "url": "https://github.com/WordPress/openverse/pull/5750",
-      "time": "2026-11-14T06:24:18.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
       "id": "github:WordPress/openverse#5749",
       "source": "github",
       "teams": [
@@ -12119,7 +12029,7 @@
       "type": "pull",
       "title": "Update workflows",
       "url": "https://github.com/WordPress/openverse/pull/5749",
-      "time": "2026-11-14T06:23:55.000Z",
+      "time": "2026-11-14T09:20:53.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -12134,7 +12044,7 @@
       "type": "pull",
       "title": "Update dependency starlette to v1 [SECURITY]",
       "url": "https://github.com/WordPress/openverse/pull/5748",
-      "time": "2026-11-14T06:23:49.000Z",
+      "time": "2026-11-14T09:20:45.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -12149,7 +12059,7 @@
       "type": "pull",
       "title": "Update dependency soupsieve to v4 [SECURITY]",
       "url": "https://github.com/WordPress/openverse/pull/5747",
-      "time": "2026-11-14T06:23:38.000Z",
+      "time": "2026-11-14T09:20:33.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -12164,52 +12074,7 @@
       "type": "pull",
       "title": "Update dependency setuptools to v84 [SECURITY]",
       "url": "https://github.com/WordPress/openverse/pull/5746",
-      "time": "2026-11-14T06:23:26.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/openverse#5745",
-      "source": "github",
-      "teams": [
-        "openverse"
-      ],
-      "type": "pull",
-      "title": "Update dependency pillow to v13 [SECURITY]",
-      "url": "https://github.com/WordPress/openverse/pull/5745",
-      "time": "2026-11-14T06:23:12.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/openverse#5744",
-      "source": "github",
-      "teams": [
-        "openverse"
-      ],
-      "type": "pull",
-      "title": "Update dependency fsspec to v2026 [SECURITY]",
-      "url": "https://github.com/WordPress/openverse/pull/5744",
-      "time": "2026-11-14T06:22:42.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/openverse#5743",
-      "source": "github",
-      "teams": [
-        "openverse"
-      ],
-      "type": "pull",
-      "title": "Update dependency filelock to v4 [SECURITY]",
-      "url": "https://github.com/WordPress/openverse/pull/5743",
-      "time": "2026-11-14T06:22:36.000Z",
+      "time": "2026-11-14T09:20:19.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -12224,7 +12089,52 @@
       "type": "pull",
       "title": "Update dependency cryptography to v49 [SECURITY]",
       "url": "https://github.com/WordPress/openverse/pull/5742",
-      "time": "2026-11-14T06:22:26.000Z",
+      "time": "2026-11-14T09:20:19.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/openverse#5724",
+      "source": "github",
+      "teams": [
+        "openverse"
+      ],
+      "type": "pull",
+      "title": "Update dependency anyio to v4.14.2 [SECURITY]",
+      "url": "https://github.com/WordPress/openverse/pull/5724",
+      "time": "2026-11-14T09:20:10.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/openverse#5745",
+      "source": "github",
+      "teams": [
+        "openverse"
+      ],
+      "type": "pull",
+      "title": "Update dependency pillow to v13 [SECURITY]",
+      "url": "https://github.com/WordPress/openverse/pull/5745",
+      "time": "2026-11-14T09:20:08.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/openverse#5744",
+      "source": "github",
+      "teams": [
+        "openverse"
+      ],
+      "type": "pull",
+      "title": "Update dependency fsspec to v2026 [SECURITY]",
+      "url": "https://github.com/WordPress/openverse/pull/5744",
+      "time": "2026-11-14T09:20:01.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -12239,7 +12149,97 @@
       "type": "pull",
       "title": "Update dependency urllib3 to v2.8.0 [SECURITY]",
       "url": "https://github.com/WordPress/openverse/pull/5741",
-      "time": "2026-11-14T06:22:16.000Z",
+      "time": "2026-11-14T09:19:59.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/openverse#5761",
+      "source": "github",
+      "teams": [
+        "openverse"
+      ],
+      "type": "pull",
+      "title": "Update dependency werkzeug to v3.1.6 [SECURITY]",
+      "url": "https://github.com/WordPress/openverse/pull/5761",
+      "time": "2026-11-14T09:19:57.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/openverse#5743",
+      "source": "github",
+      "teams": [
+        "openverse"
+      ],
+      "type": "pull",
+      "title": "Update dependency filelock to v4 [SECURITY]",
+      "url": "https://github.com/WordPress/openverse/pull/5743",
+      "time": "2026-11-14T09:19:54.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/openverse#5740",
+      "source": "github",
+      "teams": [
+        "openverse"
+      ],
+      "type": "pull",
+      "title": "Update dependency tornado to v6.6.1 [SECURITY]",
+      "url": "https://github.com/WordPress/openverse/pull/5740",
+      "time": "2026-11-14T09:19:13.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/openverse#5738",
+      "source": "github",
+      "teams": [
+        "openverse"
+      ],
+      "type": "pull",
+      "title": "Update dependency requests to v2.33.0 [SECURITY]",
+      "url": "https://github.com/WordPress/openverse/pull/5738",
+      "time": "2026-11-14T09:16:55.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/openverse#5760",
+      "source": "github",
+      "teams": [
+        "openverse"
+      ],
+      "type": "pull",
+      "title": "Update dependency python-dotenv to v1.2.2 [SECURITY]",
+      "url": "https://github.com/WordPress/openverse/pull/5760",
+      "time": "2026-11-14T09:16:44.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/openverse#5735",
+      "source": "github",
+      "teams": [
+        "openverse"
+      ],
+      "type": "pull",
+      "title": "Update dependency pygments to v2.20.0 [SECURITY]",
+      "url": "https://github.com/WordPress/openverse/pull/5735",
+      "time": "2026-11-14T09:16:34.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -12605,6 +12605,28 @@
   ],
   "tickets": [
     {
+      "id": 66687,
+      "title": "Secrets API: Site Health says no secrets are stored on a just-converted network, and suggests replacing the key",
+      "url": "https://core.trac.wordpress.org/ticket/66687",
+      "status": "new",
+      "type": "defect (bug)",
+      "priority": "normal",
+      "milestone": "7.2",
+      "component": "Security",
+      "owner": ""
+    },
+    {
+      "id": 66696,
+      "title": "Secrets API: New `manage_secrets` capability is not used.",
+      "url": "https://core.trac.wordpress.org/ticket/66696",
+      "status": "new",
+      "type": "defect (bug)",
+      "priority": "normal",
+      "milestone": "7.2",
+      "component": "Security",
+      "owner": ""
+    },
+    {
       "id": 66662,
       "title": "Random content redirect should not combine with search (?s=…&random)",
       "url": "https://core.trac.wordpress.org/ticket/66662",
@@ -12669,17 +12691,6 @@
       "milestone": "7.2",
       "component": "Security",
       "owner": "whyisjake"
-    },
-    {
-      "id": 66696,
-      "title": "Secrets API: New `manage_secrets` capability is not used.",
-      "url": "https://core.trac.wordpress.org/ticket/66696",
-      "status": "new",
-      "type": "defect (bug)",
-      "priority": "normal",
-      "milestone": "7.2",
-      "component": "Security",
-      "owner": ""
     },
     {
       "id": 42990,
@@ -12784,17 +12795,6 @@
       "id": 66686,
       "title": "Secrets API: Network-scope secrets are lost when a single site is converted to multisite",
       "url": "https://core.trac.wordpress.org/ticket/66686",
-      "status": "new",
-      "type": "defect (bug)",
-      "priority": "normal",
-      "milestone": "7.2",
-      "component": "Security",
-      "owner": ""
-    },
-    {
-      "id": 66687,
-      "title": "Secrets API: Site Health says no secrets are stored on a just-converted network, and suggests replacing the key",
-      "url": "https://core.trac.wordpress.org/ticket/66687",
       "status": "new",
       "type": "defect (bug)",
       "priority": "normal",
