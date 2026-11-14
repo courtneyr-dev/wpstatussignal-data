@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T15:19:51.062Z",
+  "generatedAt": "2026-11-14T18:20:24.407Z",
   "items": [
     {
       "id": "make:core:126952",
@@ -1949,6 +1949,76 @@
       "confidence": 1
     },
     {
+      "id": "make:polyglots:75670",
+      "source": "make",
+      "teams": [
+        "polyglots"
+      ],
+      "type": "post",
+      "title": "PTE Request for Ganancia Real,…",
+      "url": "https://make.wordpress.org/polyglots/2026/11/14/pte-request-for-ganancia-real/",
+      "time": "2026-11-14T16:56:55Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "make:polyglots:75674",
+      "source": "make",
+      "teams": [
+        "polyglots"
+      ],
+      "type": "post",
+      "title": "PTE Request for SEO GEO Watch",
+      "url": "https://make.wordpress.org/polyglots/2026/11/14/pte-request-for-seo-geo-watch/",
+      "time": "2026-11-14T16:56:41Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "make:polyglots:75672",
+      "source": "make",
+      "teams": [
+        "polyglots"
+      ],
+      "type": "post",
+      "title": "Hello Polyglots team!",
+      "url": "https://make.wordpress.org/polyglots/2026/11/14/hello-polyglots-team-171/",
+      "time": "2026-11-14T16:56:32Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "make:polyglots:75666",
+      "source": "make",
+      "teams": [
+        "polyglots"
+      ],
+      "type": "post",
+      "title": "PTE Request for Sincrion Sync for Mercado Libre",
+      "url": "https://make.wordpress.org/polyglots/2026/11/14/pte-request-for-sincrion-sync-for-mercado-libre/",
+      "time": "2026-11-14T16:56:24Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "make:polyglots:75664",
+      "source": "make",
+      "teams": [
+        "polyglots"
+      ],
+      "type": "post",
+      "title": "PTE Request for Content Sync,…",
+      "url": "https://make.wordpress.org/polyglots/2026/11/14/pte-request-for-content-sync/",
+      "time": "2026-11-14T16:56:17Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
       "id": "make:polyglots:75668",
       "source": "make",
       "teams": [
@@ -2294,76 +2364,6 @@
       "title": "PTE Request for Hikosachi Protector",
       "url": "https://make.wordpress.org/polyglots/2026/11/12/pte-request-for-hikosachi-protector/",
       "time": "2026-11-12T20:05:03Z",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "make:polyglots:75550",
-      "source": "make",
-      "teams": [
-        "polyglots"
-      ],
-      "type": "post",
-      "title": "PTE Request for MediaAgentAI",
-      "url": "https://make.wordpress.org/polyglots/2026/11/12/pte-request-for-mediaagentai/",
-      "time": "2026-11-12T16:59:34Z",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "make:polyglots:75559",
-      "source": "make",
-      "teams": [
-        "polyglots"
-      ],
-      "type": "post",
-      "title": "PTE Request for NoviDeck",
-      "url": "https://make.wordpress.org/polyglots/2026/11/12/pte-request-for-novideck/",
-      "time": "2026-11-12T16:59:27Z",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "make:polyglots:75561",
-      "source": "make",
-      "teams": [
-        "polyglots"
-      ],
-      "type": "post",
-      "title": "PTE Request for GresQuote",
-      "url": "https://make.wordpress.org/polyglots/2026/11/12/pte-request-for-gresquote/",
-      "time": "2026-11-12T16:59:19Z",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "make:polyglots:75555",
-      "source": "make",
-      "teams": [
-        "polyglots"
-      ],
-      "type": "post",
-      "title": "PTE Request for Preorvo Pre-Orders…",
-      "url": "https://make.wordpress.org/polyglots/2026/11/12/pte-request-for-preorvo-pre-orders/",
-      "time": "2026-11-12T16:59:11Z",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "make:polyglots:75557",
-      "source": "make",
-      "teams": [
-        "polyglots"
-      ],
-      "type": "post",
-      "title": "PTE Request for morkva IBAN…",
-      "url": "https://make.wordpress.org/polyglots/2026/11/12/pte-request-for-morkva-iban/",
-      "time": "2026-11-12T14:11:08Z",
       "ask": "none",
       "personas": [],
       "confidence": 1
@@ -9485,6 +9485,51 @@
       "ask": "none",
       "personas": [],
       "confidence": 1,
+      "time": "2026-11-14T17:51:05.000Z",
+      "id": "trac:meta:ticket:8502",
+      "type": "ticket",
+      "title": "#8502 Trac notification emails use trac@localhost as Reply-To",
+      "status": "created",
+      "url": "https://meta.trac.wordpress.org/ticket/8502"
+    },
+    {
+      "source": "trac",
+      "teams": [
+        "meta"
+      ],
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "time": "2026-11-14T17:46:29.000Z",
+      "id": "trac:meta:ticket:6486",
+      "type": "ticket",
+      "title": "#6486 The design of WordCampTV video lists is deteriorating at mobile screen ...",
+      "status": "closed",
+      "url": "https://meta.trac.wordpress.org/ticket/6486#comment:2"
+    },
+    {
+      "source": "trac",
+      "teams": [
+        "meta"
+      ],
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "time": "2026-11-14T16:47:20.000Z",
+      "id": "trac:meta:ticket:8501",
+      "type": "ticket",
+      "title": "#8501 Please reactivate my Slack account (@zhdan)",
+      "status": "created",
+      "url": "https://meta.trac.wordpress.org/ticket/8501"
+    },
+    {
+      "source": "trac",
+      "teams": [
+        "meta"
+      ],
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
       "time": "2026-11-14T14:16:04.000Z",
       "id": "trac:meta:ticket:6225",
       "type": "ticket",
@@ -10853,48 +10898,49 @@
       "url": "https://meta.trac.wordpress.org/changeset/15543"
     },
     {
-      "source": "trac",
+      "id": "github:WordPress/wordpress-develop#16000",
+      "source": "github",
       "teams": [
-        "meta"
+        "core"
       ],
+      "type": "pull",
+      "title": "Code Modernization: Use the null coalescing assignment operator in `blocks.php`",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/16000",
+      "time": "2026-11-14T18:13:07.000Z",
+      "status": "open",
       "ask": "none",
       "personas": [],
-      "confidence": 1,
-      "time": "2026-11-11T19:28:16.000Z",
-      "id": "trac:meta:ticket:8294",
-      "type": "ticket",
-      "title": "#8294 Photo Directory : Button label disappears on click/focus",
-      "status": "closed",
-      "url": "https://meta.trac.wordpress.org/ticket/8294#comment:10"
+      "confidence": 1
     },
     {
-      "source": "trac",
+      "id": "github:WordPress/wordpress-develop#15999",
+      "source": "github",
       "teams": [
-        "meta"
+        "core"
       ],
+      "type": "pull",
+      "title": "Code Modernization: Use the null coalescing assignment operator for installer API arguments",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/15999",
+      "time": "2026-11-14T18:07:40.000Z",
+      "status": "open",
       "ask": "none",
       "personas": [],
-      "confidence": 1,
-      "time": "2026-11-11T17:16:52.000Z",
-      "id": "trac:meta:ticket:8199",
-      "type": "ticket",
-      "title": "#8199 \"Original Size\" download option is not actually the true original size",
-      "status": "closed",
-      "url": "https://meta.trac.wordpress.org/ticket/8199#comment:4"
+      "confidence": 1
     },
     {
-      "source": "trac",
+      "id": "github:WordPress/wordpress-develop#15993",
+      "source": "github",
       "teams": [
-        "meta"
+        "core"
       ],
+      "type": "pull",
+      "title": "Code Quality: Use `??=` for simple default value assignments",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/15993",
+      "time": "2026-11-14T17:50:54.000Z",
+      "status": "open",
       "ask": "none",
       "personas": [],
-      "confidence": 1,
-      "time": "2026-11-11T17:14:33.000Z",
-      "id": "trac:meta:changeset:15542",
-      "type": "commit",
-      "title": "[15542] Official WordPress Events: Import events from WordPress Groups  Closes ...",
-      "url": "https://meta.trac.wordpress.org/changeset/15542"
+      "confidence": 1
     },
     {
       "id": "github:WordPress/wordpress-develop#15998",
@@ -10981,21 +11027,6 @@
       "title": "#60552 - Add wp_doing_sitemaps action hook to WP_Sitemaps::render_sitemaps()",
       "url": "https://github.com/WordPress/wordpress-develop/pull/12044",
       "time": "2026-11-14T14:03:58.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/wordpress-develop#15993",
-      "source": "github",
-      "teams": [
-        "core"
-      ],
-      "type": "pull",
-      "title": "Code Quality: Use `??=` for simple default value assignments",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/15993",
-      "time": "2026-11-14T13:54:29.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -11092,30 +11123,90 @@
       "confidence": 1
     },
     {
-      "id": "github:WordPress/wordpress-develop#15916",
+      "id": "github:WordPress/gutenberg#85960",
       "source": "github",
       "teams": [
-        "core"
+        "core-editor"
       ],
       "type": "pull",
-      "title": "Query: Redirect searches for random content to the search results.",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/15916",
-      "time": "2026-11-14T04:27:17.000Z",
+      "title": "Components: Replace Button busy stripes with a spinner",
+      "url": "https://github.com/WordPress/gutenberg/pull/85960",
+      "time": "2026-11-14T18:01:56.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/wordpress-develop#15974",
+      "id": "github:WordPress/gutenberg#86834",
       "source": "github",
       "teams": [
-        "core"
+        "core-editor"
       ],
       "type": "pull",
-      "title": "Secrets API: Report a failed read of a secret's record, or of the list, as an error",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/15974",
-      "time": "2026-11-14T03:44:27.000Z",
+      "title": "Upload Media: warn when an image uploads without all of its sizes, and keep it when the site is out of storage space.",
+      "url": "https://github.com/WordPress/gutenberg/pull/86834",
+      "time": "2026-11-14T17:15:30.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#86115",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Global Styles Engine: Remove private API usage from package",
+      "url": "https://github.com/WordPress/gutenberg/pull/86115",
+      "time": "2026-11-14T16:46:59.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#86651",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Tests: Use strict assertions in theme.json variables and variation tests",
+      "url": "https://github.com/WordPress/gutenberg/pull/86651",
+      "time": "2026-11-14T16:32:42.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#86230",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Social Links: Enable viewport state values for icon size",
+      "url": "https://github.com/WordPress/gutenberg/pull/86230",
+      "time": "2026-11-14T16:20:06.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#86338",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Format library: Add a special characters inserter",
+      "url": "https://github.com/WordPress/gutenberg/pull/86338",
+      "time": "2026-11-14T16:11:42.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -11161,21 +11252,6 @@
       "title": "Global Styles: Migrate state menus to WordPress UI",
       "url": "https://github.com/WordPress/gutenberg/pull/86821",
       "time": "2026-11-14T14:09:15.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#85960",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Components: Replace Button busy stripes with a spinner",
-      "url": "https://github.com/WordPress/gutenberg/pull/85960",
-      "time": "2026-11-14T14:05:25.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -11266,81 +11342,6 @@
       "title": "Format library: Warn when inline text and highlight colors have low contrast",
       "url": "https://github.com/WordPress/gutenberg/pull/86710",
       "time": "2026-11-14T06:39:12.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#86711",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Block editor: Show canvas tooltips on the first mouse movement",
-      "url": "https://github.com/WordPress/gutenberg/pull/86711",
-      "time": "2026-11-14T06:37:40.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#86848",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Block Editor: Keep the floating toolbar clear of slash inserter results",
-      "url": "https://github.com/WordPress/gutenberg/pull/86848",
-      "time": "2026-11-14T06:25:52.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#64342",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "issue",
-      "title": "Popover component overlapping toolbar ",
-      "url": "https://github.com/WordPress/gutenberg/issues/64342",
-      "time": "2026-11-14T06:25:17.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#86819",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "DataForm: Migrate compatible flyouts and dialogs to `@wordpress/ui`",
-      "url": "https://github.com/WordPress/gutenberg/pull/86819",
-      "time": "2026-11-14T06:23:22.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#86822",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Media Utils: Migrate media picker overlays to `@wordpress/ui`",
-      "url": "https://github.com/WordPress/gutenberg/pull/86822",
-      "time": "2026-11-14T06:20:47.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -12030,7 +12031,7 @@
       "type": "issue",
       "title": "Dependency Dashboard",
       "url": "https://github.com/WordPress/openverse/issues/255",
-      "time": "2026-11-14T12:19:16.000Z",
+      "time": "2026-11-14T18:16:08.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -12045,7 +12046,7 @@
       "type": "pull",
       "title": "Update dependency starlette to v1 [SECURITY]",
       "url": "https://github.com/WordPress/openverse/pull/5748",
-      "time": "2026-11-14T12:19:10.000Z",
+      "time": "2026-11-14T18:16:02.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -12060,7 +12061,22 @@
       "type": "pull",
       "title": "Update dependency pytest to v9 [SECURITY]",
       "url": "https://github.com/WordPress/openverse/pull/5638",
-      "time": "2026-11-14T12:19:00.000Z",
+      "time": "2026-11-14T18:15:52.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/openverse#5769",
+      "source": "github",
+      "teams": [
+        "openverse"
+      ],
+      "type": "pull",
+      "title": "Update dependency oauthlib to v4.0.1 [SECURITY]",
+      "url": "https://github.com/WordPress/openverse/pull/5769",
+      "time": "2026-11-14T18:12:39.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -12075,22 +12091,7 @@
       "type": "pull",
       "title": "Update dependency torch to v2.13.0 [SECURITY]",
       "url": "https://github.com/WordPress/openverse/pull/5739",
-      "time": "2026-11-14T12:18:53.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/openverse#5723",
-      "source": "github",
-      "teams": [
-        "openverse"
-      ],
-      "type": "pull",
-      "title": "Update dependency sentencepiece to v0.2.1 [SECURITY]",
-      "url": "https://github.com/WordPress/openverse/pull/5723",
-      "time": "2026-11-14T12:15:13.000Z",
+      "time": "2026-11-14T18:12:39.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -12105,7 +12106,7 @@
       "type": "pull",
       "title": "Update dependency django to v5.2.17 [SECURITY]",
       "url": "https://github.com/WordPress/openverse/pull/5752",
-      "time": "2026-11-14T12:15:04.000Z",
+      "time": "2026-11-14T18:12:29.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -12120,7 +12121,22 @@
       "type": "pull",
       "title": "Update dependency aiohttp to v3.14.4 [SECURITY]",
       "url": "https://github.com/WordPress/openverse/pull/5757",
-      "time": "2026-11-14T12:14:57.000Z",
+      "time": "2026-11-14T18:12:20.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/openverse#5723",
+      "source": "github",
+      "teams": [
+        "openverse"
+      ],
+      "type": "pull",
+      "title": "Update dependency sentencepiece to v0.2.1 [SECURITY]",
+      "url": "https://github.com/WordPress/openverse/pull/5723",
+      "time": "2026-11-14T18:12:16.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -12226,21 +12242,6 @@
       "title": "Update dependency @playwright/test to v1.65.1",
       "url": "https://github.com/WordPress/openverse/pull/5700",
       "time": "2026-11-14T00:39:58.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/openverse#5474",
-      "source": "github",
-      "teams": [
-        "openverse"
-      ],
-      "type": "pull",
-      "title": "Update dependency pook to v2.1.6",
-      "url": "https://github.com/WordPress/openverse/pull/5474",
-      "time": "2026-11-14T00:28:16.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -12606,6 +12607,17 @@
   ],
   "tickets": [
     {
+      "id": 65823,
+      "title": "Code Quality: Use the null coalescing assignment operator (??=)",
+      "url": "https://core.trac.wordpress.org/ticket/65823",
+      "status": "new",
+      "type": "task (blessed)",
+      "priority": "normal",
+      "milestone": "7.2",
+      "component": "General",
+      "owner": ""
+    },
+    {
       "id": 42990,
       "title": "Deprecate WP_UnitTestCase::_make_attachment",
       "url": "https://core.trac.wordpress.org/ticket/42990",
@@ -12633,17 +12645,6 @@
       "url": "https://core.trac.wordpress.org/ticket/65758",
       "status": "new",
       "type": "defect (bug)",
-      "priority": "normal",
-      "milestone": "7.2",
-      "component": "General",
-      "owner": ""
-    },
-    {
-      "id": 65823,
-      "title": "Code Quality: Use the null coalescing assignment operator (??=)",
-      "url": "https://core.trac.wordpress.org/ticket/65823",
-      "status": "new",
-      "type": "task (blessed)",
       "priority": "normal",
       "milestone": "7.2",
       "component": "General",
