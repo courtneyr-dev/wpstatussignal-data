@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T09:20:12.231Z",
+  "generatedAt": "2026-11-15T12:23:57.505Z",
   "items": [
     {
       "id": "make:core:126952",
@@ -1949,6 +1949,76 @@
       "confidence": 1
     },
     {
+      "id": "make:polyglots:75701",
+      "source": "make",
+      "teams": [
+        "polyglots"
+      ],
+      "type": "post",
+      "title": "PTE Request for Verificador de Comprobantes for WooCommerce",
+      "url": "https://make.wordpress.org/polyglots/2026/11/15/pte-request-for-verificador-de-comprobantes-for-woocommerce/",
+      "time": "2026-11-15T11:01:07Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "make:polyglots:75706",
+      "source": "make",
+      "teams": [
+        "polyglots"
+      ],
+      "type": "post",
+      "title": "**PTE Request for Bigfoot Open…",
+      "url": "https://make.wordpress.org/polyglots/2026/11/15/pte-request-for-bigfoot-open/",
+      "time": "2026-11-15T11:00:59Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "make:polyglots:75711",
+      "source": "make",
+      "teams": [
+        "polyglots"
+      ],
+      "type": "post",
+      "title": "PTE Request for ManTek Newsroom Blocks",
+      "url": "https://make.wordpress.org/polyglots/2026/11/15/pte-request-for-mantek-newsroom-blocks/",
+      "time": "2026-11-15T11:00:52Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "make:polyglots:75724",
+      "source": "make",
+      "teams": [
+        "polyglots"
+      ],
+      "type": "post",
+      "title": "PTE Request for NeedToMe AI…",
+      "url": "https://make.wordpress.org/polyglots/2026/11/15/pte-request-for-needtome-ai-2/",
+      "time": "2026-11-15T10:05:57Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "make:polyglots:75722",
+      "source": "make",
+      "teams": [
+        "polyglots"
+      ],
+      "type": "post",
+      "title": "PTE Request for NeedToMe AI…",
+      "url": "https://make.wordpress.org/polyglots/2026/11/15/pte-request-for-needtome-ai/",
+      "time": "2026-11-15T10:04:56Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
       "id": "make:polyglots:75715",
       "source": "make",
       "teams": [
@@ -2294,76 +2364,6 @@
       "title": "PTE Request for Tendr",
       "url": "https://make.wordpress.org/polyglots/2026/11/13/pte-request-for-tendr/",
       "time": "2026-11-13T19:46:57Z",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "make:polyglots:75611",
-      "source": "make",
-      "teams": [
-        "polyglots"
-      ],
-      "type": "post",
-      "title": "PTE Request for The-Y CRM…",
-      "url": "https://make.wordpress.org/polyglots/2026/11/13/pte-request-for-the-y-crm/",
-      "time": "2026-11-13T19:46:50Z",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "make:polyglots:75615",
-      "source": "make",
-      "teams": [
-        "polyglots"
-      ],
-      "type": "post",
-      "title": "Title: Request PTE for OliForge…",
-      "url": "https://make.wordpress.org/polyglots/2026/11/13/title-request-pte-for-oliforge/",
-      "time": "2026-11-13T19:46:42Z",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "make:polyglots:75619",
-      "source": "make",
-      "teams": [
-        "polyglots"
-      ],
-      "type": "post",
-      "title": "PTE Request for Red Jaguar…",
-      "url": "https://make.wordpress.org/polyglots/2026/11/13/pte-request-for-red-jaguar-2/",
-      "time": "2026-11-13T19:18:02Z",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "make:polyglots:75617",
-      "source": "make",
-      "teams": [
-        "polyglots"
-      ],
-      "type": "post",
-      "title": "Hello Polyglots team,",
-      "url": "https://make.wordpress.org/polyglots/2026/11/13/hello-polyglots-team-170/",
-      "time": "2026-11-13T17:25:19Z",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "make:polyglots:75603",
-      "source": "make",
-      "teams": [
-        "polyglots"
-      ],
-      "type": "post",
-      "title": "PTE Request for Wonderful Sync",
-      "url": "https://make.wordpress.org/polyglots/2026/11/13/pte-request-for-wonderful-sync/",
-      "time": "2026-11-13T12:46:09Z",
       "ask": "none",
       "personas": [],
       "confidence": 1
@@ -7531,7 +7531,7 @@
         "community"
       ],
       "type": "post",
-      "title": "WordPress Campus Connect Compact Polytechnic Institute",
+      "title": "WordPress Campus Connect 2026 at Compact Polytechnic Institute, Feni",
       "url": "https://central.wordcamp.org/news/2026/11/wordpress-campus-connect-compact-polytechnic-institute/",
       "time": "2026-11-13T09:21:42.000Z",
       "ask": "none",
@@ -8057,12 +8057,27 @@
       "ask": "none",
       "personas": [],
       "confidence": 1,
-      "time": "2026-11-15T09:19:07.000Z",
+      "time": "2026-11-15T10:03:08.000Z",
+      "id": "trac:core:ticket:66699",
+      "type": "ticket",
+      "title": "#66699 REST API: Sideloading a same-site image URL makes a blocking loopback ...",
+      "status": "created",
+      "url": "https://core.trac.wordpress.org/ticket/66699"
+    },
+    {
+      "source": "trac",
+      "teams": [
+        "core"
+      ],
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "time": "2026-11-15T09:47:21.000Z",
       "id": "trac:core:ticket:66698",
       "type": "ticket",
       "title": "#66698 Comment posted despite comments are not allowed",
-      "status": "created",
-      "url": "https://core.trac.wordpress.org/ticket/66698"
+      "status": "closed",
+      "url": "https://core.trac.wordpress.org/ticket/66698#comment:1"
     },
     {
       "source": "trac",
@@ -9448,34 +9463,6 @@
       "type": "commit",
       "title": "[65460] Build/Test Tools: Check database readiness over TCP.  Merges r59484, ...",
       "url": "https://core.trac.wordpress.org/changeset/65460"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "core"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-12T23:20:02.000Z",
-      "id": "trac:core:changeset:65459",
-      "type": "commit",
-      "title": "[65459] Build/Test Tools: Check database readiness over TCP.  Merges r59484, ...",
-      "url": "https://core.trac.wordpress.org/changeset/65459"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "core"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-12T23:19:08.000Z",
-      "id": "trac:core:changeset:65458",
-      "type": "commit",
-      "title": "[65458] Build/Test Tools: Check database readiness over TCP.  Merges r59484, ...",
-      "url": "https://core.trac.wordpress.org/changeset/65458"
     },
     {
       "source": "trac",
@@ -10887,6 +10874,21 @@
       "url": "https://meta.trac.wordpress.org/ticket/8111#comment:2"
     },
     {
+      "id": "github:WordPress/wordpress-develop#10537",
+      "source": "github",
+      "teams": [
+        "core"
+      ],
+      "type": "pull",
+      "title": "REST API: Log doing_it_wrong notices to debug.log",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/10537",
+      "time": "2026-11-15T09:29:57.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
       "id": "github:WordPress/wordpress-develop#8884",
       "source": "github",
       "teams": [
@@ -11097,15 +11099,15 @@
       "confidence": 1
     },
     {
-      "id": "github:WordPress/wordpress-develop#15993",
+      "id": "github:WordPress/gutenberg#86855",
       "source": "github",
       "teams": [
-        "core"
+        "core-editor"
       ],
       "type": "pull",
-      "title": "Code Quality: Use `??=` for simple default value assignments",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/15993",
-      "time": "2026-11-14T17:50:54.000Z",
+      "title": "Toolbar: Keep the pressed and focus indicator square",
+      "url": "https://github.com/WordPress/gutenberg/pull/86855",
+      "time": "2026-11-15T09:58:24.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -11120,22 +11122,22 @@
       "type": "pull",
       "title": "Block Mover: Fix clipped focus ring",
       "url": "https://github.com/WordPress/gutenberg/pull/86857",
-      "time": "2026-11-15T09:19:51.000Z",
+      "time": "2026-11-15T09:58:09.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/gutenberg#86854",
+      "id": "github:WordPress/gutenberg#86699",
       "source": "github",
       "teams": [
         "core-editor"
       ],
       "type": "pull",
-      "title": "[WP 7.2] Icons: Map a conservative set of Dashicons to `core-admin` icons (#86708)",
-      "url": "https://github.com/WordPress/gutenberg/pull/86854",
-      "time": "2026-11-15T09:10:31.000Z",
+      "title": "wp-build: Fix Plugin Check errors in the generated PHP files",
+      "url": "https://github.com/WordPress/gutenberg/pull/86699",
+      "time": "2026-11-15T09:39:56.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -11166,21 +11168,6 @@
       "title": "Navigation Block: Deleting a newly created navigation overlay template throws an error: can't access property \"filter\", e.itemIds is undefined",
       "url": "https://github.com/WordPress/gutenberg/issues/86831",
       "time": "2026-11-15T08:56:07.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#86855",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Toolbar: Keep the pressed and focus indicator square",
-      "url": "https://github.com/WordPress/gutenberg/pull/86855",
-      "time": "2026-11-15T08:53:10.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -12012,6 +11999,96 @@
       "confidence": 1
     },
     {
+      "id": "github:WordPress/openverse#255",
+      "source": "github",
+      "teams": [
+        "openverse"
+      ],
+      "type": "issue",
+      "title": "Dependency Dashboard",
+      "url": "https://github.com/WordPress/openverse/issues/255",
+      "time": "2026-11-15T12:19:07.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/openverse#5748",
+      "source": "github",
+      "teams": [
+        "openverse"
+      ],
+      "type": "pull",
+      "title": "Update dependency starlette to v1 [SECURITY]",
+      "url": "https://github.com/WordPress/openverse/pull/5748",
+      "time": "2026-11-15T12:19:01.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/openverse#5776",
+      "source": "github",
+      "teams": [
+        "openverse"
+      ],
+      "type": "pull",
+      "title": "Update dependency pytest to v9 [SECURITY]",
+      "url": "https://github.com/WordPress/openverse/pull/5776",
+      "time": "2026-11-15T12:18:50.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/openverse#5739",
+      "source": "github",
+      "teams": [
+        "openverse"
+      ],
+      "type": "pull",
+      "title": "Update dependency torch to v2.13.0 [SECURITY]",
+      "url": "https://github.com/WordPress/openverse/pull/5739",
+      "time": "2026-11-15T12:15:36.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/openverse#5752",
+      "source": "github",
+      "teams": [
+        "openverse"
+      ],
+      "type": "pull",
+      "title": "Update dependency django to v5.2.17 [SECURITY]",
+      "url": "https://github.com/WordPress/openverse/pull/5752",
+      "time": "2026-11-15T12:15:26.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/openverse#5757",
+      "source": "github",
+      "teams": [
+        "openverse"
+      ],
+      "type": "pull",
+      "title": "Update dependency aiohttp to v3.14.4 [SECURITY]",
+      "url": "https://github.com/WordPress/openverse/pull/5757",
+      "time": "2026-11-15T12:15:17.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
       "id": "github:WordPress/openverse#5777",
       "source": "github",
       "teams": [
@@ -12036,111 +12113,6 @@
       "title": "Update workflows",
       "url": "https://github.com/WordPress/openverse/pull/5749",
       "time": "2026-11-15T06:37:15.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/openverse#5776",
-      "source": "github",
-      "teams": [
-        "openverse"
-      ],
-      "type": "pull",
-      "title": "Update dependency pytest to v9 [SECURITY]",
-      "url": "https://github.com/WordPress/openverse/pull/5776",
-      "time": "2026-11-15T06:36:44.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/openverse#255",
-      "source": "github",
-      "teams": [
-        "openverse"
-      ],
-      "type": "issue",
-      "title": "Dependency Dashboard",
-      "url": "https://github.com/WordPress/openverse/issues/255",
-      "time": "2026-11-15T06:36:40.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/openverse#5748",
-      "source": "github",
-      "teams": [
-        "openverse"
-      ],
-      "type": "pull",
-      "title": "Update dependency starlette to v1 [SECURITY]",
-      "url": "https://github.com/WordPress/openverse/pull/5748",
-      "time": "2026-11-15T06:36:19.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/openverse#5739",
-      "source": "github",
-      "teams": [
-        "openverse"
-      ],
-      "type": "pull",
-      "title": "Update dependency torch to v2.13.0 [SECURITY]",
-      "url": "https://github.com/WordPress/openverse/pull/5739",
-      "time": "2026-11-15T06:32:46.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/openverse#5752",
-      "source": "github",
-      "teams": [
-        "openverse"
-      ],
-      "type": "pull",
-      "title": "Update dependency django to v5.2.17 [SECURITY]",
-      "url": "https://github.com/WordPress/openverse/pull/5752",
-      "time": "2026-11-15T06:32:36.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/openverse#5757",
-      "source": "github",
-      "teams": [
-        "openverse"
-      ],
-      "type": "pull",
-      "title": "Update dependency aiohttp to v3.14.4 [SECURITY]",
-      "url": "https://github.com/WordPress/openverse/pull/5757",
-      "time": "2026-11-15T06:32:26.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/openverse#5723",
-      "source": "github",
-      "teams": [
-        "openverse"
-      ],
-      "type": "pull",
-      "title": "Update dependency sentencepiece to v0.2.1 [SECURITY]",
-      "url": "https://github.com/WordPress/openverse/pull/5723",
-      "time": "2026-11-15T06:32:20.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -12231,6 +12203,21 @@
       "title": "Update dependency pook to v2.1.6",
       "url": "https://github.com/WordPress/openverse/pull/5474",
       "time": "2026-11-14T00:28:16.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/openverse#5705",
+      "source": "github",
+      "teams": [
+        "openverse"
+      ],
+      "type": "pull",
+      "title": "Update Node.js to v26",
+      "url": "https://github.com/WordPress/openverse/pull/5705",
+      "time": "2026-11-13T15:13:22.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
