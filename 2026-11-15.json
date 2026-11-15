@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T00:42:51.517Z",
+  "generatedAt": "2026-11-15T03:22:22.243Z",
   "items": [
     {
       "id": "make:core:126952",
@@ -1949,6 +1949,20 @@
       "confidence": 1
     },
     {
+      "id": "make:polyglots:75703",
+      "source": "make",
+      "teams": [
+        "polyglots"
+      ],
+      "type": "post",
+      "title": "PTE Request for WGRank Translate",
+      "url": "https://make.wordpress.org/polyglots/2026/11/15/pte-request-for-wgrank-translate/",
+      "time": "2026-11-15T01:28:47Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
       "id": "make:polyglots:75699",
       "source": "make",
       "teams": [
@@ -2350,20 +2364,6 @@
       "title": "Request for PTE: CoreSeal –…",
       "url": "https://make.wordpress.org/polyglots/2026/11/13/request-for-pte-coreseal/",
       "time": "2026-11-13T08:17:09Z",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "make:polyglots:75585",
-      "source": "make",
-      "teams": [
-        "polyglots"
-      ],
-      "type": "post",
-      "title": "PTE Request for Access Governance for WordPress",
-      "url": "https://make.wordpress.org/polyglots/2026/11/13/pte-request-for-access-governance-for-wordpress/",
-      "time": "2026-11-13T07:30:40Z",
       "ask": "none",
       "personas": [],
       "confidence": 1
@@ -10887,6 +10887,36 @@
       "url": "https://meta.trac.wordpress.org/ticket/8111#comment:2"
     },
     {
+      "id": "github:WordPress/wordpress-develop#15917",
+      "source": "github",
+      "teams": [
+        "core"
+      ],
+      "type": "pull",
+      "title": "HTML API: Refactor `excerpt_remove_footnotes().",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/15917",
+      "time": "2026-11-15T02:57:46.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-develop#16003",
+      "source": "github",
+      "teams": [
+        "core"
+      ],
+      "type": "pull",
+      "title": "Build/Test Tools: Stop PHPStan remembering possibly impure return values",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/16003",
+      "time": "2026-11-15T02:55:59.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
       "id": "github:WordPress/wordpress-develop#16002",
       "source": "github",
       "teams": [
@@ -11076,36 +11106,6 @@
       "title": "Administration: Ensure consistent spacing when flex filter search form wraps",
       "url": "https://github.com/WordPress/wordpress-develop/pull/15992",
       "time": "2026-11-14T07:15:34.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/wordpress-develop#15965",
-      "source": "github",
-      "teams": [
-        "core"
-      ],
-      "type": "pull",
-      "title": "Security: Find a pre-conversion root key in the Secrets API key source check.",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/15965",
-      "time": "2026-11-14T07:01:14.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/wordpress-develop#15991",
-      "source": "github",
-      "teams": [
-        "core"
-      ],
-      "type": "pull",
-      "title": "Toolbar: Add Dashboard, Plugins, and Themes to the site name menu in admin and editors",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/15991",
-      "time": "2026-11-14T06:47:45.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -12012,15 +12012,30 @@
       "confidence": 1
     },
     {
-      "id": "github:WordPress/openverse#255",
+      "id": "github:WordPress/openverse#5772",
       "source": "github",
       "teams": [
         "openverse"
       ],
-      "type": "issue",
-      "title": "Dependency Dashboard",
-      "url": "https://github.com/WordPress/openverse/issues/255",
-      "time": "2026-11-15T00:35:02.000Z",
+      "type": "pull",
+      "title": "Publish changelog for frontend-2026.11.15.02.59.47",
+      "url": "https://github.com/WordPress/openverse/pull/5772",
+      "time": "2026-11-15T03:16:54.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/openverse#5771",
+      "source": "github",
+      "teams": [
+        "openverse"
+      ],
+      "type": "pull",
+      "title": "Publish changelog for catalog-2026.11.15.00.30.07",
+      "url": "https://github.com/WordPress/openverse/pull/5771",
+      "time": "2026-11-15T03:07:32.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -12035,7 +12050,52 @@
       "type": "pull",
       "title": "Update dependency starlette to v1 [SECURITY]",
       "url": "https://github.com/WordPress/openverse/pull/5748",
-      "time": "2026-11-15T00:34:56.000Z",
+      "time": "2026-11-15T03:02:43.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/openverse#5723",
+      "source": "github",
+      "teams": [
+        "openverse"
+      ],
+      "type": "pull",
+      "title": "Update dependency sentencepiece to v0.2.1 [SECURITY]",
+      "url": "https://github.com/WordPress/openverse/pull/5723",
+      "time": "2026-11-15T03:02:33.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/openverse#5770",
+      "source": "github",
+      "teams": [
+        "openverse"
+      ],
+      "type": "pull",
+      "title": "Update security-flagged dependencies in the API and indexer worker",
+      "url": "https://github.com/WordPress/openverse/pull/5770",
+      "time": "2026-11-15T02:55:43.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/openverse#255",
+      "source": "github",
+      "teams": [
+        "openverse"
+      ],
+      "type": "issue",
+      "title": "Dependency Dashboard",
+      "url": "https://github.com/WordPress/openverse/issues/255",
+      "time": "2026-11-15T00:35:02.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -12096,36 +12156,6 @@
       "title": "Update dependency aiohttp to v3.14.4 [SECURITY]",
       "url": "https://github.com/WordPress/openverse/pull/5757",
       "time": "2026-11-15T00:30:54.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/openverse#5723",
-      "source": "github",
-      "teams": [
-        "openverse"
-      ],
-      "type": "pull",
-      "title": "Update dependency sentencepiece to v0.2.1 [SECURITY]",
-      "url": "https://github.com/WordPress/openverse/pull/5723",
-      "time": "2026-11-15T00:30:49.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/openverse#5750",
-      "source": "github",
-      "teams": [
-        "openverse"
-      ],
-      "type": "pull",
-      "title": "Update @openverse/eslint-plugin",
-      "url": "https://github.com/WordPress/openverse/pull/5750",
-      "time": "2026-11-14T09:30:16.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -12201,36 +12231,6 @@
       "title": "Update dependency @opentelemetry/api to ~1.10.0",
       "url": "https://github.com/WordPress/openverse/pull/5751",
       "time": "2026-11-14T06:33:40.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/openverse#5700",
-      "source": "github",
-      "teams": [
-        "openverse"
-      ],
-      "type": "pull",
-      "title": "Update dependency @playwright/test to v1.65.1",
-      "url": "https://github.com/WordPress/openverse/pull/5700",
-      "time": "2026-11-14T00:39:58.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/openverse#5474",
-      "source": "github",
-      "teams": [
-        "openverse"
-      ],
-      "type": "pull",
-      "title": "Update dependency pook to v2.1.6",
-      "url": "https://github.com/WordPress/openverse/pull/5474",
-      "time": "2026-11-14T00:28:16.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -12596,14 +12596,14 @@
   ],
   "tickets": [
     {
-      "id": 65823,
-      "title": "Code Quality: Use the null coalescing assignment operator (??=)",
-      "url": "https://core.trac.wordpress.org/ticket/65823",
+      "id": 66668,
+      "title": "HTML API: excerpt_remove_footnotes() is fragile to equivalent HTML",
+      "url": "https://core.trac.wordpress.org/ticket/66668",
       "status": "new",
-      "type": "task (blessed)",
+      "type": "defect (bug)",
       "priority": "normal",
       "milestone": "7.2",
-      "component": "General",
+      "component": "HTML API",
       "owner": ""
     },
     {
@@ -12616,6 +12616,17 @@
       "milestone": "7.2",
       "component": "General",
       "owner": "westonruter"
+    },
+    {
+      "id": 65823,
+      "title": "Code Quality: Use the null coalescing assignment operator (??=)",
+      "url": "https://core.trac.wordpress.org/ticket/65823",
+      "status": "new",
+      "type": "task (blessed)",
+      "priority": "normal",
+      "milestone": "7.2",
+      "component": "General",
+      "owner": ""
     },
     {
       "id": 42990,
@@ -13110,17 +13121,6 @@
       "priority": "normal",
       "milestone": "7.2",
       "component": "Emoji",
-      "owner": ""
-    },
-    {
-      "id": 66668,
-      "title": "HTML API: excerpt_remove_footnotes() is fragile to equivalent HTML",
-      "url": "https://core.trac.wordpress.org/ticket/66668",
-      "status": "new",
-      "type": "defect (bug)",
-      "priority": "normal",
-      "milestone": "7.2",
-      "component": "HTML API",
       "owner": ""
     },
     {
