@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T15:20:31.514Z",
+  "generatedAt": "2026-11-15T18:20:36.375Z",
   "items": [
     {
       "id": "make:core:126952",
@@ -1949,6 +1949,104 @@
       "confidence": 1
     },
     {
+      "id": "make:polyglots:75764",
+      "source": "make",
+      "teams": [
+        "polyglots"
+      ],
+      "type": "post",
+      "title": "PTE Request for CityFee and OrderProof",
+      "url": "https://make.wordpress.org/polyglots/2026/11/15/pte-request-for-cityfee-and-orderproof/",
+      "time": "2026-11-15T17:15:24Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "make:polyglots:75649",
+      "source": "make",
+      "teams": [
+        "polyglots"
+      ],
+      "type": "post",
+      "title": "Hello Polyglots team,",
+      "url": "https://make.wordpress.org/polyglots/2026/11/15/hello-polyglots-team-173/",
+      "time": "2026-11-15T15:50:49Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "make:polyglots:75744",
+      "source": "make",
+      "teams": [
+        "polyglots"
+      ],
+      "type": "post",
+      "title": "I am the plugin author…",
+      "url": "https://make.wordpress.org/polyglots/2026/11/15/i-am-the-plugin-author-237/",
+      "time": "2026-11-15T15:40:36Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "make:polyglots:75746",
+      "source": "make",
+      "teams": [
+        "polyglots"
+      ],
+      "type": "post",
+      "title": "PTE Request for Svoista for WooCommerce",
+      "url": "https://make.wordpress.org/polyglots/2026/11/15/pte-request-for-svoista-for-woocommerce/",
+      "time": "2026-11-15T15:40:29Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "make:polyglots:75741",
+      "source": "make",
+      "teams": [
+        "polyglots"
+      ],
+      "type": "post",
+      "title": "PTE Request for Deleteweb Dati…",
+      "url": "https://make.wordpress.org/polyglots/2026/11/15/pte-request-for-deleteweb-dati/",
+      "time": "2026-11-15T15:40:22Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "make:polyglots:75750",
+      "source": "make",
+      "teams": [
+        "polyglots"
+      ],
+      "type": "post",
+      "title": "PTE Request for RezaTain SEO…",
+      "url": "https://make.wordpress.org/polyglots/2026/11/15/pte-request-for-rezatain-seo/",
+      "time": "2026-11-15T15:40:16Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "make:polyglots:75754",
+      "source": "make",
+      "teams": [
+        "polyglots"
+      ],
+      "type": "post",
+      "title": "PTE Request for Evangelische Termine…",
+      "url": "https://make.wordpress.org/polyglots/2026/11/15/pte-request-for-evangelische-termine/",
+      "time": "2026-11-15T15:20:53Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
       "id": "make:polyglots:75752",
       "source": "make",
       "teams": [
@@ -2266,104 +2364,6 @@
       "title": "PTE Request for STM EU-B2B",
       "url": "https://make.wordpress.org/polyglots/2026/11/14/pte-request-for-stm-eu-b2b/",
       "time": "2026-11-14T10:58:04Z",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "make:polyglots:75643",
-      "source": "make",
-      "teams": [
-        "polyglots"
-      ],
-      "type": "post",
-      "title": "PTE Request for Nevua Booking…",
-      "url": "https://make.wordpress.org/polyglots/2026/11/14/pte-request-for-nevua-booking/",
-      "time": "2026-11-14T09:49:39Z",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "make:polyglots:75647",
-      "source": "make",
-      "teams": [
-        "polyglots"
-      ],
-      "type": "post",
-      "title": "PTE Request for SiteBeacon Reporter",
-      "url": "https://make.wordpress.org/polyglots/2026/11/14/pte-request-for-sitebeacon-reporter/",
-      "time": "2026-11-14T06:45:51Z",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "make:polyglots:75645",
-      "source": "make",
-      "teams": [
-        "polyglots"
-      ],
-      "type": "post",
-      "title": "Hi Polyglots,",
-      "url": "https://make.wordpress.org/polyglots/2026/11/14/hi-polyglots-137/",
-      "time": "2026-11-14T06:28:24Z",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "make:polyglots:75638",
-      "source": "make",
-      "teams": [
-        "polyglots"
-      ],
-      "type": "post",
-      "title": "PTE Request for WapLab Care",
-      "url": "https://make.wordpress.org/polyglots/2026/11/13/pte-request-for-waplab-care/",
-      "time": "2026-11-13T23:51:36Z",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "make:polyglots:75635",
-      "source": "make",
-      "teams": [
-        "polyglots"
-      ],
-      "type": "post",
-      "title": "PTE Request for Pageseal (es_ES, fr_FR, en_GB)",
-      "url": "https://make.wordpress.org/polyglots/2026/11/13/i-am-the-plugin-author-236/",
-      "time": "2026-11-13T20:42:14Z",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "make:polyglots:75605",
-      "source": "make",
-      "teams": [
-        "polyglots"
-      ],
-      "type": "post",
-      "title": "PTE Request for Kuennert IT Form Manager",
-      "url": "https://make.wordpress.org/polyglots/2026/11/13/pte-request-for-kuennert-it-form-manager/",
-      "time": "2026-11-13T19:47:19Z",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "make:polyglots:75607",
-      "source": "make",
-      "teams": [
-        "polyglots"
-      ],
-      "type": "post",
-      "title": "PTE Request for Formulix Math & Chemistry Blocks",
-      "url": "https://make.wordpress.org/polyglots/2026/11/13/pte-request-for-formulix-math-chemistry-blocks/",
-      "time": "2026-11-13T19:47:11Z",
       "ask": "none",
       "personas": [],
       "confidence": 1
@@ -8057,6 +8057,36 @@
       "ask": "none",
       "personas": [],
       "confidence": 1,
+      "time": "2026-11-15T15:42:44.000Z",
+      "id": "trac:core:ticket:66703",
+      "type": "ticket",
+      "title": "#66703 WP_Entity_Fields_Registry::doing_entity_fields_api_init() uses ...",
+      "status": "created",
+      "url": "https://core.trac.wordpress.org/ticket/66703"
+    },
+    {
+      "source": "trac",
+      "teams": [
+        "core"
+      ],
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "time": "2026-11-15T15:22:15.000Z",
+      "id": "trac:core:ticket:66698",
+      "type": "ticket",
+      "title": "#66698 Comment posted despite comments are not allowed",
+      "status": "reopened",
+      "url": "https://core.trac.wordpress.org/ticket/66698#comment:2"
+    },
+    {
+      "source": "trac",
+      "teams": [
+        "core"
+      ],
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
       "time": "2026-11-15T15:03:04.000Z",
       "id": "trac:core:ticket:66702",
       "type": "ticket",
@@ -8108,21 +8138,6 @@
       "title": "#66699 REST API: Sideloading a same-site image URL makes a blocking loopback ...",
       "status": "created",
       "url": "https://core.trac.wordpress.org/ticket/66699"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "core"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-15T09:47:21.000Z",
-      "id": "trac:core:ticket:66698",
-      "type": "ticket",
-      "title": "#66698 Comment posted despite comments are not allowed",
-      "status": "closed",
-      "url": "https://core.trac.wordpress.org/ticket/66698#comment:1"
     },
     {
       "source": "trac",
@@ -9438,34 +9453,6 @@
       "type": "commit",
       "title": "[65465] Build/Test Tools: Parse expectation annotations without PHPUnit.  Read ...",
       "url": "https://core.trac.wordpress.org/changeset/65465"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "core"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-12T23:27:33.000Z",
-      "id": "trac:core:changeset:65464",
-      "type": "commit",
-      "title": "[65464] Build/Test Tools: Check database readiness over TCP.  Merges r59484, ...",
-      "url": "https://core.trac.wordpress.org/changeset/65464"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "core"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-12T23:26:43.000Z",
-      "id": "trac:core:changeset:65463",
-      "type": "commit",
-      "title": "[65463] Build/Test Tools: Check database readiness over TCP.  Merges r59484, ...",
-      "url": "https://core.trac.wordpress.org/changeset/65463"
     },
     {
       "source": "trac",
@@ -10877,6 +10864,51 @@
       "url": "https://meta.trac.wordpress.org/ticket/8111#comment:2"
     },
     {
+      "id": "github:WordPress/wordpress-develop#16010",
+      "source": "github",
+      "teams": [
+        "core"
+      ],
+      "type": "pull",
+      "title": "REST API: Read same-site sideload URLs from disk to avoid loopback requests",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/16010",
+      "time": "2026-11-15T17:39:43.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-develop#16004",
+      "source": "github",
+      "teams": [
+        "core"
+      ],
+      "type": "pull",
+      "title": "Code Modernization: Use the null coalescing assignment operator in comment.php",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/16004",
+      "time": "2026-11-15T16:31:24.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-develop#16009",
+      "source": "github",
+      "teams": [
+        "core"
+      ],
+      "type": "pull",
+      "title": "Editor: Track wp_entity_fields_api_init firing internally in WP_Entity_Fields_Registry",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/16009",
+      "time": "2026-11-15T16:24:58.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
       "id": "github:WordPress/wordpress-develop#15871",
       "source": "github",
       "teams": [
@@ -10885,7 +10917,7 @@
       "type": "pull",
       "title": "Command Palette: Make every admin screen faster by loading the palette only when it is opened",
       "url": "https://github.com/WordPress/wordpress-develop/pull/15871",
-      "time": "2026-11-15T15:19:11.000Z",
+      "time": "2026-11-15T16:18:12.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -10901,21 +10933,6 @@
       "title": "Code Modernization: Use the null coalescing assignment operator in `blocks.php`",
       "url": "https://github.com/WordPress/wordpress-develop/pull/16000",
       "time": "2026-11-15T13:23:32.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/wordpress-develop#16004",
-      "source": "github",
-      "teams": [
-        "core"
-      ],
-      "type": "pull",
-      "title": "Code Modernization: Use the null coalescing assignment operator in comment.php",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/16004",
-      "time": "2026-11-15T13:19:48.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -11072,30 +11089,15 @@
       "confidence": 1
     },
     {
-      "id": "github:WordPress/wordpress-develop#16003",
+      "id": "github:WordPress/gutenberg#86702",
       "source": "github",
       "teams": [
-        "core"
+        "core-editor"
       ],
       "type": "pull",
-      "title": "Build/Test Tools: Stop PHPStan remembering possibly impure return values",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/16003",
-      "time": "2026-11-15T02:55:59.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/wordpress-develop#16002",
-      "source": "github",
-      "teams": [
-        "core"
-      ],
-      "type": "pull",
-      "title": "Build/Test Tools: Add and enable a PHPStan rule requiring `@phpstan-impure` on methods that change state",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/16002",
-      "time": "2026-11-14T21:20:39.000Z",
+      "title": "Block Editor: Pass computed font size to contrast checker warning hook",
+      "url": "https://github.com/WordPress/gutenberg/pull/86702",
+      "time": "2026-11-15T16:52:28.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -11312,15 +11314,15 @@
       "confidence": 1
     },
     {
-      "id": "github:WordPress/gutenberg#80433",
+      "id": "github:WordPress/performance#2512",
       "source": "github",
       "teams": [
-        "core-editor"
+        "core-performance"
       ],
       "type": "pull",
-      "title": "Suggestion mode 7/10: inline live wiring",
-      "url": "https://github.com/WordPress/gutenberg/pull/80433",
-      "time": "2026-11-15T05:42:17.000Z",
+      "title": "Add support for prerender_until_script mode and origin trial token",
+      "url": "https://github.com/WordPress/performance/pull/2512",
+      "time": "2026-11-15T17:12:47.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -11335,22 +11337,7 @@
       "type": "pull",
       "title": "Add native loading=lazy support for video elements",
       "url": "https://github.com/WordPress/performance/pull/2450",
-      "time": "2026-11-14T23:39:10.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/performance#2512",
-      "source": "github",
-      "teams": [
-        "core-performance"
-      ],
-      "type": "pull",
-      "title": "Add support for prerender_until_script mode and origin trial token",
-      "url": "https://github.com/WordPress/performance/pull/2512",
-      "time": "2026-11-14T13:14:24.000Z",
+      "time": "2026-11-15T15:36:56.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -11777,6 +11764,21 @@
       "confidence": 1
     },
     {
+      "id": "github:WordPress/wordpress-playground#4613",
+      "source": "github",
+      "teams": [
+        "playground"
+      ],
+      "type": "pull",
+      "title": "[Website] Serve WP Cloud static files directly from release folders",
+      "url": "https://github.com/WordPress/wordpress-playground/pull/4613",
+      "time": "2026-11-15T17:02:55.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
       "id": "github:WordPress/wordpress-playground#4580",
       "source": "github",
       "teams": [
@@ -11786,21 +11788,6 @@
       "title": "reprint wont copy website: error 400",
       "url": "https://github.com/WordPress/wordpress-playground/issues/4580",
       "time": "2026-11-15T14:35:45.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/wordpress-playground#4613",
-      "source": "github",
-      "teams": [
-        "playground"
-      ],
-      "type": "pull",
-      "title": "[Website] Serve WP Cloud static files directly from release folders",
-      "url": "https://github.com/WordPress/wordpress-playground/pull/4613",
-      "time": "2026-11-15T04:45:39.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -12010,7 +11997,7 @@
       "type": "issue",
       "title": "Dependency Dashboard",
       "url": "https://github.com/WordPress/openverse/issues/255",
-      "time": "2026-11-15T12:19:07.000Z",
+      "time": "2026-11-15T18:16:47.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -12025,7 +12012,7 @@
       "type": "pull",
       "title": "Update dependency starlette to v1 [SECURITY]",
       "url": "https://github.com/WordPress/openverse/pull/5748",
-      "time": "2026-11-15T12:19:01.000Z",
+      "time": "2026-11-15T18:16:41.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -12040,22 +12027,7 @@
       "type": "pull",
       "title": "Update dependency pytest to v9 [SECURITY]",
       "url": "https://github.com/WordPress/openverse/pull/5776",
-      "time": "2026-11-15T12:18:50.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/openverse#5739",
-      "source": "github",
-      "teams": [
-        "openverse"
-      ],
-      "type": "pull",
-      "title": "Update dependency torch to v2.13.0 [SECURITY]",
-      "url": "https://github.com/WordPress/openverse/pull/5739",
-      "time": "2026-11-15T12:15:36.000Z",
+      "time": "2026-11-15T18:16:31.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -12070,7 +12042,7 @@
       "type": "pull",
       "title": "Update dependency django to v5.2.17 [SECURITY]",
       "url": "https://github.com/WordPress/openverse/pull/5752",
-      "time": "2026-11-15T12:15:26.000Z",
+      "time": "2026-11-15T18:16:06.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -12085,7 +12057,7 @@
       "type": "pull",
       "title": "Update dependency aiohttp to v3.14.4 [SECURITY]",
       "url": "https://github.com/WordPress/openverse/pull/5757",
-      "time": "2026-11-15T12:15:17.000Z",
+      "time": "2026-11-15T18:16:02.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -12221,6 +12193,21 @@
       "title": "Update Node.js to v26",
       "url": "https://github.com/WordPress/openverse/pull/5705",
       "time": "2026-11-13T15:13:22.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/openverse#5683",
+      "source": "github",
+      "teams": [
+        "openverse"
+      ],
+      "type": "pull",
+      "title": "Document replacing Elasticsearch master nodes",
+      "url": "https://github.com/WordPress/openverse/pull/5683",
+      "time": "2026-11-13T15:00:55.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
