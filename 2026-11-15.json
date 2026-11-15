@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T06:26:52.136Z",
+  "generatedAt": "2026-11-15T09:20:12.231Z",
   "items": [
     {
       "id": "make:core:126952",
@@ -1949,6 +1949,48 @@
       "confidence": 1
     },
     {
+      "id": "make:polyglots:75715",
+      "source": "make",
+      "teams": [
+        "polyglots"
+      ],
+      "type": "post",
+      "title": "Hello Polyglots team,",
+      "url": "https://make.wordpress.org/polyglots/2026/11/15/hello-polyglots-team-172/",
+      "time": "2026-11-15T09:10:08Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "make:polyglots:75713",
+      "source": "make",
+      "teams": [
+        "polyglots"
+      ],
+      "type": "post",
+      "title": "PTE Request for Perkbase for WooCommerce",
+      "url": "https://make.wordpress.org/polyglots/2026/11/15/pte-request-for-perkbase-for-woocommerce/",
+      "time": "2026-11-15T08:39:32Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "make:polyglots:75708",
+      "source": "make",
+      "teams": [
+        "polyglots"
+      ],
+      "type": "post",
+      "title": "PTE Request for Depicter – Multiple Locales",
+      "url": "https://make.wordpress.org/polyglots/2026/11/15/pte-request-for-depicter-multiple-locales/",
+      "time": "2026-11-15T08:06:48Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
       "id": "make:polyglots:75703",
       "source": "make",
       "teams": [
@@ -2322,48 +2364,6 @@
       "title": "PTE Request for Wonderful Sync",
       "url": "https://make.wordpress.org/polyglots/2026/11/13/pte-request-for-wonderful-sync/",
       "time": "2026-11-13T12:46:09Z",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "make:polyglots:75598",
-      "source": "make",
-      "teams": [
-        "polyglots"
-      ],
-      "type": "post",
-      "title": "PTE Request for Lemoo Search",
-      "url": "https://make.wordpress.org/polyglots/2026/11/13/pte-request-for-lemoo-search/",
-      "time": "2026-11-13T12:38:30Z",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "make:polyglots:75583",
-      "source": "make",
-      "teams": [
-        "polyglots"
-      ],
-      "type": "post",
-      "title": "PTE Request for Syntopia Pay for ePay.bg",
-      "url": "https://make.wordpress.org/polyglots/2026/11/13/pte-request-for-syntopia-pay-for-epay-bg/",
-      "time": "2026-11-13T08:49:04Z",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "make:polyglots:75587",
-      "source": "make",
-      "teams": [
-        "polyglots"
-      ],
-      "type": "post",
-      "title": "Request for PTE: CoreSeal –…",
-      "url": "https://make.wordpress.org/polyglots/2026/11/13/request-for-pte-coreseal/",
-      "time": "2026-11-13T08:17:09Z",
       "ask": "none",
       "personas": [],
       "confidence": 1
@@ -8057,6 +8057,21 @@
       "ask": "none",
       "personas": [],
       "confidence": 1,
+      "time": "2026-11-15T09:19:07.000Z",
+      "id": "trac:core:ticket:66698",
+      "type": "ticket",
+      "title": "#66698 Comment posted despite comments are not allowed",
+      "status": "created",
+      "url": "https://core.trac.wordpress.org/ticket/66698"
+    },
+    {
+      "source": "trac",
+      "teams": [
+        "core"
+      ],
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
       "time": "2026-11-14T23:47:14.000Z",
       "id": "trac:core:changeset:65529",
       "type": "commit",
@@ -9461,21 +9476,6 @@
       "type": "commit",
       "title": "[65458] Build/Test Tools: Check database readiness over TCP.  Merges r59484, ...",
       "url": "https://core.trac.wordpress.org/changeset/65458"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "core"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-12T23:18:00.000Z",
-      "id": "trac:core:ticket:66649",
-      "type": "ticket",
-      "title": "#66649 Update PHPMailer to 7.2.0",
-      "status": "closed",
-      "url": "https://core.trac.wordpress.org/ticket/66649#comment:2"
     },
     {
       "source": "trac",
@@ -10887,6 +10887,36 @@
       "url": "https://meta.trac.wordpress.org/ticket/8111#comment:2"
     },
     {
+      "id": "github:WordPress/wordpress-develop#8884",
+      "source": "github",
+      "teams": [
+        "core"
+      ],
+      "type": "pull",
+      "title": "Refactor EXIF date handling and add unit tests",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/8884",
+      "time": "2026-11-15T08:31:34.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-develop#12759",
+      "source": "github",
+      "teams": [
+        "core"
+      ],
+      "type": "pull",
+      "title": "65758 added check for post status in wp_privacy_send_personal_data_export_email()",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/12759",
+      "time": "2026-11-15T08:13:47.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
       "id": "github:WordPress/wordpress-develop#16008",
       "source": "github",
       "teams": [
@@ -11082,30 +11112,165 @@
       "confidence": 1
     },
     {
-      "id": "github:WordPress/wordpress-develop#15998",
+      "id": "github:WordPress/gutenberg#86857",
       "source": "github",
       "teams": [
-        "core"
+        "core-editor"
       ],
       "type": "pull",
-      "title": "Tests: Use `create_upload_object()` in crop image ajax helper",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/15998",
-      "time": "2026-11-14T14:57:47.000Z",
+      "title": "Block Mover: Fix clipped focus ring",
+      "url": "https://github.com/WordPress/gutenberg/pull/86857",
+      "time": "2026-11-15T09:19:51.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/wordpress-develop#15996",
+      "id": "github:WordPress/gutenberg#86854",
       "source": "github",
       "teams": [
-        "core"
+        "core-editor"
       ],
       "type": "pull",
-      "title": "Tests: Use `create_upload_object()` in more attachment image tests.",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/15996",
-      "time": "2026-11-14T14:51:21.000Z",
+      "title": "[WP 7.2] Icons: Map a conservative set of Dashicons to `core-admin` icons (#86708)",
+      "url": "https://github.com/WordPress/gutenberg/pull/86854",
+      "time": "2026-11-15T09:10:31.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#81728",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Block Library: Add Description List block",
+      "url": "https://github.com/WordPress/gutenberg/pull/81728",
+      "time": "2026-11-15T08:59:56.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#86831",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "issue",
+      "title": "Navigation Block: Deleting a newly created navigation overlay template throws an error: can't access property \"filter\", e.itemIds is undefined",
+      "url": "https://github.com/WordPress/gutenberg/issues/86831",
+      "time": "2026-11-15T08:56:07.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#86855",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Toolbar: Keep the pressed and focus indicator square",
+      "url": "https://github.com/WordPress/gutenberg/pull/86855",
+      "time": "2026-11-15T08:53:10.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#86856",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Font Library: Announce search results to screen readers",
+      "url": "https://github.com/WordPress/gutenberg/pull/86856",
+      "time": "2026-11-15T08:16:45.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#86656",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Image: Keep the lightbox intact when it's reopened right after closing",
+      "url": "https://github.com/WordPress/gutenberg/pull/86656",
+      "time": "2026-11-15T08:00:59.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#86852",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Block Editor: Fix block hover outline flicker when moving between elements of a block",
+      "url": "https://github.com/WordPress/gutenberg/pull/86852",
+      "time": "2026-11-15T07:58:54.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#86851",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "issue",
+      "title": "a11y: Should we use Highlight/HighlightText instead of SelectedItem/SelectedItemText?",
+      "url": "https://github.com/WordPress/gutenberg/issues/86851",
+      "time": "2026-11-15T07:05:21.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#86801",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Comments Title & Comments Form: Remove anchor support that conflicts with their fixed IDs",
+      "url": "https://github.com/WordPress/gutenberg/pull/86801",
+      "time": "2026-11-15T06:28:24.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#86800",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "issue",
+      "title": "Comments Title & Comments Form: HTML anchor is ignored because the block already outputs an `id`",
+      "url": "https://github.com/WordPress/gutenberg/issues/86800",
+      "time": "2026-11-15T06:27:54.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -11142,21 +11307,6 @@
       "confidence": 1
     },
     {
-      "id": "github:WordPress/gutenberg#86779",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "[WP 7.2] Icons: Rename file to folder, add actual file icon. (#86526)",
-      "url": "https://github.com/WordPress/gutenberg/pull/86779",
-      "time": "2026-11-15T06:21:13.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
       "id": "github:WordPress/gutenberg#82048",
       "source": "github",
       "teams": [
@@ -11181,156 +11331,6 @@
       "title": "Suggestion mode 7/10: inline live wiring",
       "url": "https://github.com/WordPress/gutenberg/pull/80433",
       "time": "2026-11-15T05:42:17.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#86206",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Suggestion mode 8/10: overlapping suggestions",
-      "url": "https://github.com/WordPress/gutenberg/pull/86206",
-      "time": "2026-11-15T05:40:59.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#78994",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Suggest mode: combined feature branch for Playground testing (draft)",
-      "url": "https://github.com/WordPress/gutenberg/pull/78994",
-      "time": "2026-11-15T05:40:54.000Z",
-      "status": "open",
-      "ask": "needs-testing",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#80432",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Suggestion mode 6/10: review UI (Apply / Reject sidebar and summary)",
-      "url": "https://github.com/WordPress/gutenberg/pull/80432",
-      "time": "2026-11-15T05:40:36.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#80428",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Suggestion mode 2/10: suggestion storage, REST controller, and provider",
-      "url": "https://github.com/WordPress/gutenberg/pull/80428",
-      "time": "2026-11-15T05:40:35.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#80431",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Suggestion mode 5/10: inline suggestion operations",
-      "url": "https://github.com/WordPress/gutenberg/pull/80431",
-      "time": "2026-11-15T05:40:15.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#80429",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Suggestion mode 3/10: block-level capture (attribute and structural)",
-      "url": "https://github.com/WordPress/gutenberg/pull/80429",
-      "time": "2026-11-15T05:39:41.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#80427",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Suggestion mode 1/10: editor intent (edit/suggest) and experiment gate",
-      "url": "https://github.com/WordPress/gutenberg/pull/80427",
-      "time": "2026-11-15T05:37:21.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#80430",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Suggestion mode 4/10: inline marker primitive",
-      "url": "https://github.com/WordPress/gutenberg/pull/80430",
-      "time": "2026-11-15T05:36:56.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#82047",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Suggestion mode 9/10: architecture documentation",
-      "url": "https://github.com/WordPress/gutenberg/pull/82047",
-      "time": "2026-11-15T05:18:42.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#86791",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Core Data: Don't wait for the site entity to read a registered root entity",
-      "url": "https://github.com/WordPress/gutenberg/pull/86791",
-      "time": "2026-11-15T03:29:23.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -12012,105 +12012,15 @@
       "confidence": 1
     },
     {
-      "id": "github:WordPress/openverse#5748",
+      "id": "github:WordPress/openverse#5777",
       "source": "github",
       "teams": [
         "openverse"
       ],
       "type": "pull",
-      "title": "Update dependency starlette to v1 [SECURITY]",
-      "url": "https://github.com/WordPress/openverse/pull/5748",
-      "time": "2026-11-15T06:21:45.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/openverse#255",
-      "source": "github",
-      "teams": [
-        "openverse"
-      ],
-      "type": "issue",
-      "title": "Dependency Dashboard",
-      "url": "https://github.com/WordPress/openverse/issues/255",
-      "time": "2026-11-15T06:21:23.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/openverse#5638",
-      "source": "github",
-      "teams": [
-        "openverse"
-      ],
-      "type": "pull",
-      "title": "Update dependency pytest to v9 [SECURITY]",
-      "url": "https://github.com/WordPress/openverse/pull/5638",
-      "time": "2026-11-15T06:21:06.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/openverse#5723",
-      "source": "github",
-      "teams": [
-        "openverse"
-      ],
-      "type": "pull",
-      "title": "Update dependency sentencepiece to v0.2.1 [SECURITY]",
-      "url": "https://github.com/WordPress/openverse/pull/5723",
-      "time": "2026-11-15T06:18:02.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/openverse#5739",
-      "source": "github",
-      "teams": [
-        "openverse"
-      ],
-      "type": "pull",
-      "title": "Update dependency torch to v2.13.0 [SECURITY]",
-      "url": "https://github.com/WordPress/openverse/pull/5739",
-      "time": "2026-11-15T06:17:55.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/openverse#5752",
-      "source": "github",
-      "teams": [
-        "openverse"
-      ],
-      "type": "pull",
-      "title": "Update dependency django to v5.2.17 [SECURITY]",
-      "url": "https://github.com/WordPress/openverse/pull/5752",
-      "time": "2026-11-15T06:17:46.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/openverse#5757",
-      "source": "github",
-      "teams": [
-        "openverse"
-      ],
-      "type": "pull",
-      "title": "Update dependency aiohttp to v3.14.4 [SECURITY]",
-      "url": "https://github.com/WordPress/openverse/pull/5757",
-      "time": "2026-11-15T06:17:37.000Z",
+      "title": "Update actions/cache action to v6",
+      "url": "https://github.com/WordPress/openverse/pull/5777",
+      "time": "2026-11-15T06:47:02.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -12125,7 +12035,127 @@
       "type": "pull",
       "title": "Update workflows",
       "url": "https://github.com/WordPress/openverse/pull/5749",
-      "time": "2026-11-14T09:21:24.000Z",
+      "time": "2026-11-15T06:37:15.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/openverse#5776",
+      "source": "github",
+      "teams": [
+        "openverse"
+      ],
+      "type": "pull",
+      "title": "Update dependency pytest to v9 [SECURITY]",
+      "url": "https://github.com/WordPress/openverse/pull/5776",
+      "time": "2026-11-15T06:36:44.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/openverse#255",
+      "source": "github",
+      "teams": [
+        "openverse"
+      ],
+      "type": "issue",
+      "title": "Dependency Dashboard",
+      "url": "https://github.com/WordPress/openverse/issues/255",
+      "time": "2026-11-15T06:36:40.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/openverse#5748",
+      "source": "github",
+      "teams": [
+        "openverse"
+      ],
+      "type": "pull",
+      "title": "Update dependency starlette to v1 [SECURITY]",
+      "url": "https://github.com/WordPress/openverse/pull/5748",
+      "time": "2026-11-15T06:36:19.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/openverse#5739",
+      "source": "github",
+      "teams": [
+        "openverse"
+      ],
+      "type": "pull",
+      "title": "Update dependency torch to v2.13.0 [SECURITY]",
+      "url": "https://github.com/WordPress/openverse/pull/5739",
+      "time": "2026-11-15T06:32:46.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/openverse#5752",
+      "source": "github",
+      "teams": [
+        "openverse"
+      ],
+      "type": "pull",
+      "title": "Update dependency django to v5.2.17 [SECURITY]",
+      "url": "https://github.com/WordPress/openverse/pull/5752",
+      "time": "2026-11-15T06:32:36.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/openverse#5757",
+      "source": "github",
+      "teams": [
+        "openverse"
+      ],
+      "type": "pull",
+      "title": "Update dependency aiohttp to v3.14.4 [SECURITY]",
+      "url": "https://github.com/WordPress/openverse/pull/5757",
+      "time": "2026-11-15T06:32:26.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/openverse#5723",
+      "source": "github",
+      "teams": [
+        "openverse"
+      ],
+      "type": "pull",
+      "title": "Update dependency sentencepiece to v0.2.1 [SECURITY]",
+      "url": "https://github.com/WordPress/openverse/pull/5723",
+      "time": "2026-11-15T06:32:20.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/openverse#5775",
+      "source": "github",
+      "teams": [
+        "openverse"
+      ],
+      "type": "pull",
+      "title": "Prepare the catalog DAGs for Airflow 3 on Airflow 2.11.2",
+      "url": "https://github.com/WordPress/openverse/pull/5775",
+      "time": "2026-11-15T06:31:55.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -12201,36 +12231,6 @@
       "title": "Update dependency pook to v2.1.6",
       "url": "https://github.com/WordPress/openverse/pull/5474",
       "time": "2026-11-14T00:28:16.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/openverse#5705",
-      "source": "github",
-      "teams": [
-        "openverse"
-      ],
-      "type": "pull",
-      "title": "Update Node.js to v26",
-      "url": "https://github.com/WordPress/openverse/pull/5705",
-      "time": "2026-11-13T15:13:22.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/openverse#5683",
-      "source": "github",
-      "teams": [
-        "openverse"
-      ],
-      "type": "pull",
-      "title": "Document replacing Elasticsearch master nodes",
-      "url": "https://github.com/WordPress/openverse/pull/5683",
-      "time": "2026-11-13T15:00:55.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -12596,6 +12596,17 @@
   ],
   "tickets": [
     {
+      "id": 65758,
+      "title": "added check for post status in wp_privacy_send_personal_data_export_email()",
+      "url": "https://core.trac.wordpress.org/ticket/65758",
+      "status": "new",
+      "type": "defect (bug)",
+      "priority": "normal",
+      "milestone": "7.2",
+      "component": "General",
+      "owner": ""
+    },
+    {
       "id": 65875,
       "title": "Bump default theme versions for WordPress 7.2",
       "url": "https://core.trac.wordpress.org/ticket/65875",
@@ -12659,17 +12670,6 @@
       "priority": "normal",
       "milestone": "7.2",
       "component": "Sitemaps",
-      "owner": ""
-    },
-    {
-      "id": 65758,
-      "title": "added check for post status in wp_privacy_send_personal_data_export_email()",
-      "url": "https://core.trac.wordpress.org/ticket/65758",
-      "status": "new",
-      "type": "defect (bug)",
-      "priority": "normal",
-      "milestone": "7.2",
-      "component": "General",
       "owner": ""
     },
     {
