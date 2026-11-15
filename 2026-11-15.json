@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T12:23:57.505Z",
+  "generatedAt": "2026-11-15T15:20:31.514Z",
   "items": [
     {
       "id": "make:core:126952",
@@ -1949,6 +1949,34 @@
       "confidence": 1
     },
     {
+      "id": "make:polyglots:75752",
+      "source": "make",
+      "teams": [
+        "polyglots"
+      ],
+      "type": "post",
+      "title": "PTE Request for Mail Validator",
+      "url": "https://make.wordpress.org/polyglots/2026/11/15/pte-request-for-mail-validator/",
+      "time": "2026-11-15T15:06:12Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "make:polyglots:75748",
+      "source": "make",
+      "teams": [
+        "polyglots"
+      ],
+      "type": "post",
+      "title": "PTE Request for GruVer Subscribe",
+      "url": "https://make.wordpress.org/polyglots/2026/11/15/pte-request-for-gruver-subscribe/",
+      "time": "2026-11-15T13:41:10Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
       "id": "make:polyglots:75701",
       "source": "make",
       "teams": [
@@ -2336,34 +2364,6 @@
       "title": "PTE Request for Formulix Math & Chemistry Blocks",
       "url": "https://make.wordpress.org/polyglots/2026/11/13/pte-request-for-formulix-math-chemistry-blocks/",
       "time": "2026-11-13T19:47:11Z",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "make:polyglots:75609",
-      "source": "make",
-      "teams": [
-        "polyglots"
-      ],
-      "type": "post",
-      "title": "PTE Request for PayHaze for WooCommerce",
-      "url": "https://make.wordpress.org/polyglots/2026/11/13/pte-request-for-payhaze-for-woocommerce/",
-      "time": "2026-11-13T19:47:04Z",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "make:polyglots:75613",
-      "source": "make",
-      "teams": [
-        "polyglots"
-      ],
-      "type": "post",
-      "title": "PTE Request for Tendr",
-      "url": "https://make.wordpress.org/polyglots/2026/11/13/pte-request-for-tendr/",
-      "time": "2026-11-13T19:46:57Z",
       "ask": "none",
       "personas": [],
       "confidence": 1
@@ -8057,6 +8057,51 @@
       "ask": "none",
       "personas": [],
       "confidence": 1,
+      "time": "2026-11-15T15:03:04.000Z",
+      "id": "trac:core:ticket:66702",
+      "type": "ticket",
+      "title": "#66702 # Two-Factor plugin —race condition in second-factor rate limiting",
+      "status": "created",
+      "url": "https://core.trac.wordpress.org/ticket/66702"
+    },
+    {
+      "source": "trac",
+      "teams": [
+        "core"
+      ],
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "time": "2026-11-15T12:47:37.000Z",
+      "id": "trac:core:ticket:66701",
+      "type": "ticket",
+      "title": "#66701 Introduce CURLOPT_CONNECTTIMEOUT distinction in WP_Http cURL transport",
+      "status": "created",
+      "url": "https://core.trac.wordpress.org/ticket/66701"
+    },
+    {
+      "source": "trac",
+      "teams": [
+        "core"
+      ],
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "time": "2026-11-15T12:46:27.000Z",
+      "id": "trac:core:ticket:66700",
+      "type": "ticket",
+      "title": "#66700 Add public Cache-Control headers and stale-while-revalidate support ...",
+      "status": "created",
+      "url": "https://core.trac.wordpress.org/ticket/66700"
+    },
+    {
+      "source": "trac",
+      "teams": [
+        "core"
+      ],
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
       "time": "2026-11-15T10:03:08.000Z",
       "id": "trac:core:ticket:66699",
       "type": "ticket",
@@ -9421,48 +9466,6 @@
       "type": "commit",
       "title": "[65463] Build/Test Tools: Check database readiness over TCP.  Merges r59484, ...",
       "url": "https://core.trac.wordpress.org/changeset/65463"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "core"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-12T23:25:40.000Z",
-      "id": "trac:core:changeset:65462",
-      "type": "commit",
-      "title": "[65462] Build/Test Tools: Check database readiness over TCP.  Merges r59484, ...",
-      "url": "https://core.trac.wordpress.org/changeset/65462"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "core"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-12T23:24:39.000Z",
-      "id": "trac:core:changeset:65461",
-      "type": "commit",
-      "title": "[65461] Build/Test Tools: Check database readiness over TCP.  Merges r59484, ...",
-      "url": "https://core.trac.wordpress.org/changeset/65461"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "core"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-12T23:21:29.000Z",
-      "id": "trac:core:changeset:65460",
-      "type": "commit",
-      "title": "[65460] Build/Test Tools: Check database readiness over TCP.  Merges r59484, ...",
-      "url": "https://core.trac.wordpress.org/changeset/65460"
     },
     {
       "source": "trac",
@@ -10874,6 +10877,81 @@
       "url": "https://meta.trac.wordpress.org/ticket/8111#comment:2"
     },
     {
+      "id": "github:WordPress/wordpress-develop#15871",
+      "source": "github",
+      "teams": [
+        "core"
+      ],
+      "type": "pull",
+      "title": "Command Palette: Make every admin screen faster by loading the palette only when it is opened",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/15871",
+      "time": "2026-11-15T15:19:11.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-develop#16000",
+      "source": "github",
+      "teams": [
+        "core"
+      ],
+      "type": "pull",
+      "title": "Code Modernization: Use the null coalescing assignment operator in `blocks.php`",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/16000",
+      "time": "2026-11-15T13:23:32.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-develop#16004",
+      "source": "github",
+      "teams": [
+        "core"
+      ],
+      "type": "pull",
+      "title": "Code Modernization: Use the null coalescing assignment operator in comment.php",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/16004",
+      "time": "2026-11-15T13:19:48.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-develop#16005",
+      "source": "github",
+      "teams": [
+        "core"
+      ],
+      "type": "pull",
+      "title": "Code Modernization: Use the null coalescing assignment operator in option.php",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/16005",
+      "time": "2026-11-15T13:19:33.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-develop#12793",
+      "source": "github",
+      "teams": [
+        "core"
+      ],
+      "type": "pull",
+      "title": "Privacy: Rename \"Complete request\" to \"Close request\" on the Erase Personal Data screen",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/12793",
+      "time": "2026-11-15T13:06:38.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
       "id": "github:WordPress/wordpress-develop#10537",
       "source": "github",
       "teams": [
@@ -10964,36 +11042,6 @@
       "confidence": 1
     },
     {
-      "id": "github:WordPress/wordpress-develop#16005",
-      "source": "github",
-      "teams": [
-        "core"
-      ],
-      "type": "pull",
-      "title": "Code Modernization: Use the null coalescing assignment operator in option.php",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/16005",
-      "time": "2026-11-15T05:36:04.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/wordpress-develop#16004",
-      "source": "github",
-      "teams": [
-        "core"
-      ],
-      "type": "pull",
-      "title": "Code Modernization: Use the null coalescing assignment operator in comment.php",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/16004",
-      "time": "2026-11-15T05:32:05.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
       "id": "github:WordPress/wordpress-develop#14810",
       "source": "github",
       "teams": [
@@ -11048,51 +11096,6 @@
       "title": "Build/Test Tools: Add and enable a PHPStan rule requiring `@phpstan-impure` on methods that change state",
       "url": "https://github.com/WordPress/wordpress-develop/pull/16002",
       "time": "2026-11-14T21:20:39.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/wordpress-develop#16001",
-      "source": "github",
-      "teams": [
-        "core"
-      ],
-      "type": "pull",
-      "title": "Bootstrap/Load: Add functions to read string input vars.",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/16001",
-      "time": "2026-11-14T19:16:32.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/wordpress-develop#15999",
-      "source": "github",
-      "teams": [
-        "core"
-      ],
-      "type": "pull",
-      "title": "Code Modernization: Use the null coalescing assignment operator for installer API arguments",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/15999",
-      "time": "2026-11-14T18:24:11.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/wordpress-develop#16000",
-      "source": "github",
-      "teams": [
-        "core"
-      ],
-      "type": "pull",
-      "title": "Code Modernization: Use the null coalescing assignment operator in `blocks.php`",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/16000",
-      "time": "2026-11-14T18:13:07.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -11774,6 +11777,21 @@
       "confidence": 1
     },
     {
+      "id": "github:WordPress/wordpress-playground#4580",
+      "source": "github",
+      "teams": [
+        "playground"
+      ],
+      "type": "issue",
+      "title": "reprint wont copy website: error 400",
+      "url": "https://github.com/WordPress/wordpress-playground/issues/4580",
+      "time": "2026-11-15T14:35:45.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
       "id": "github:WordPress/wordpress-playground#4613",
       "source": "github",
       "teams": [
@@ -11978,21 +11996,6 @@
       "title": "[Remote Access] Bind host responses to the approved attempt and channel",
       "url": "https://github.com/WordPress/wordpress-playground/pull/4609",
       "time": "2026-11-12T22:52:54.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/wordpress-playground#4608",
-      "source": "github",
-      "teams": [
-        "playground"
-      ],
-      "type": "pull",
-      "title": "[website] Verify TLS certificates in the GitHub OAuth token exchange",
-      "url": "https://github.com/WordPress/wordpress-playground/pull/4608",
-      "time": "2026-11-12T22:49:01.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -12583,6 +12586,17 @@
   ],
   "tickets": [
     {
+      "id": 65823,
+      "title": "Code Quality: Use the null coalescing assignment operator (??=)",
+      "url": "https://core.trac.wordpress.org/ticket/65823",
+      "status": "new",
+      "type": "task (blessed)",
+      "priority": "normal",
+      "milestone": "7.2",
+      "component": "General",
+      "owner": ""
+    },
+    {
       "id": 65758,
       "title": "added check for post status in wp_privacy_send_personal_data_export_email()",
       "url": "https://core.trac.wordpress.org/ticket/65758",
@@ -12602,17 +12616,6 @@
       "priority": "normal",
       "milestone": "7.2",
       "component": "Bundled Theme",
-      "owner": ""
-    },
-    {
-      "id": 65823,
-      "title": "Code Quality: Use the null coalescing assignment operator (??=)",
-      "url": "https://core.trac.wordpress.org/ticket/65823",
-      "status": "new",
-      "type": "task (blessed)",
-      "priority": "normal",
-      "milestone": "7.2",
-      "component": "General",
       "owner": ""
     },
     {
