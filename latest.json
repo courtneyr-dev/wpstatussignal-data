@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T21:20:17.425Z",
+  "generatedAt": "2026-11-15T00:42:51.517Z",
   "items": [
     {
       "id": "make:core:126952",
@@ -1949,6 +1949,62 @@
       "confidence": 1
     },
     {
+      "id": "make:polyglots:75699",
+      "source": "make",
+      "teams": [
+        "polyglots"
+      ],
+      "type": "post",
+      "title": "Hello Spanish (Mexico) Team,",
+      "url": "https://make.wordpress.org/polyglots/2026/11/14/hello-spanish-mexico-team/",
+      "time": "2026-11-14T23:45:25Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "make:polyglots:75696",
+      "source": "make",
+      "teams": [
+        "polyglots"
+      ],
+      "type": "post",
+      "title": "BMI Adult & Kid Calculator PTE request (Turkish)",
+      "url": "https://make.wordpress.org/polyglots/2026/11/14/bmi-adult-kid-calculator-pte-request-turkish/",
+      "time": "2026-11-14T22:04:49Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "make:polyglots:75693",
+      "source": "make",
+      "teams": [
+        "polyglots"
+      ],
+      "type": "post",
+      "title": "Request: Polish (pl_PL) PTE for Boring Quote",
+      "url": "https://make.wordpress.org/polyglots/2026/11/14/request-polish-pl_pl-pte-for-boring-quote/",
+      "time": "2026-11-14T21:56:14Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "make:polyglots:75690",
+      "source": "make",
+      "teams": [
+        "polyglots"
+      ],
+      "type": "post",
+      "title": "PTE Request for Talkward –…",
+      "url": "https://make.wordpress.org/polyglots/2026/11/14/pte-request-for-talkward/",
+      "time": "2026-11-14T21:56:04Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
       "id": "make:polyglots:75670",
       "source": "make",
       "teams": [
@@ -2308,62 +2364,6 @@
       "title": "PTE Request for Access Governance for WordPress",
       "url": "https://make.wordpress.org/polyglots/2026/11/13/pte-request-for-access-governance-for-wordpress/",
       "time": "2026-11-13T07:30:40Z",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "make:polyglots:75580",
-      "source": "make",
-      "teams": [
-        "polyglots"
-      ],
-      "type": "post",
-      "title": "PTE Request for JustReview – Review Widgets for Google and Other Sources",
-      "url": "https://make.wordpress.org/polyglots/2026/11/12/pte-request-for-justreview-review-widgets-for-google-and-other-sources/",
-      "time": "2026-11-12T23:44:01Z",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "make:polyglots:75577",
-      "source": "make",
-      "teams": [
-        "polyglots"
-      ],
-      "type": "post",
-      "title": "Czech translation review for vstupenky.online",
-      "url": "https://make.wordpress.org/polyglots/2026/11/12/czech-translation-review-for-vstupenky-online/",
-      "time": "2026-11-12T23:43:53Z",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "make:polyglots:75572",
-      "source": "make",
-      "teams": [
-        "polyglots"
-      ],
-      "type": "post",
-      "title": "[uk] Quality Assurance Audit of…",
-      "url": "https://make.wordpress.org/polyglots/2026/11/12/uk-quality-assurance-audit-of/",
-      "time": "2026-11-12T23:02:49Z",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "make:polyglots:75570",
-      "source": "make",
-      "teams": [
-        "polyglots"
-      ],
-      "type": "post",
-      "title": "PTE Request for Hikosachi Protector",
-      "url": "https://make.wordpress.org/polyglots/2026/11/12/pte-request-for-hikosachi-protector/",
-      "time": "2026-11-12T20:05:03Z",
       "ask": "none",
       "personas": [],
       "confidence": 1
@@ -8057,10 +8057,24 @@
       "ask": "none",
       "personas": [],
       "confidence": 1,
+      "time": "2026-11-14T23:47:14.000Z",
+      "id": "trac:core:changeset:65529",
+      "type": "commit",
+      "title": "[65529] Code Modernization: Use the null coalescing assignment operator for ...",
+      "url": "https://core.trac.wordpress.org/changeset/65529"
+    },
+    {
+      "source": "trac",
+      "teams": [
+        "core"
+      ],
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
       "time": "2026-11-14T15:09:39.000Z",
       "id": "trac:core:ticket:66697",
       "type": "ticket",
-      "title": "#66697 Add a native Rename File feature to the WordPress Media Library, ...",
+      "title": "#66697 Add Native File Renaming for Existing Media Library Attachments",
       "status": "created",
       "url": "https://core.trac.wordpress.org/ticket/66697"
     },
@@ -9466,16 +9480,47 @@
     {
       "source": "trac",
       "teams": [
-        "core"
+        "meta"
       ],
       "ask": "none",
       "personas": [],
       "confidence": 1,
-      "time": "2026-11-12T23:17:59.000Z",
-      "id": "trac:core:changeset:65457",
-      "type": "commit",
-      "title": "[65457] External Libraries: Upgrade PHPMailer to version 7.2.0.  Changes in ...",
-      "url": "https://core.trac.wordpress.org/changeset/65457"
+      "time": "2026-11-15T00:15:37.000Z",
+      "id": "trac:meta:ticket:7949",
+      "type": "ticket",
+      "title": "#7949 In WordPress.org/patterns \"Add background image\" button not working",
+      "status": "closed",
+      "url": "https://meta.trac.wordpress.org/ticket/7949#comment:2"
+    },
+    {
+      "source": "trac",
+      "teams": [
+        "meta"
+      ],
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "time": "2026-11-15T00:15:03.000Z",
+      "id": "trac:meta:ticket:8448",
+      "type": "ticket",
+      "title": "#8448 Email notification sometimes not arriving for new comments",
+      "status": "closed",
+      "url": "https://meta.trac.wordpress.org/ticket/8448#comment:4"
+    },
+    {
+      "source": "trac",
+      "teams": [
+        "meta"
+      ],
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "time": "2026-11-14T23:19:36.000Z",
+      "id": "trac:meta:ticket:8503",
+      "type": "ticket",
+      "title": "#8503 Plugins API: totals differ by browse value, page silently capped at ...",
+      "status": "created",
+      "url": "https://meta.trac.wordpress.org/ticket/8503"
     },
     {
       "source": "trac",
@@ -10842,49 +10887,6 @@
       "url": "https://meta.trac.wordpress.org/ticket/8111#comment:2"
     },
     {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-11T20:25:37.000Z",
-      "id": "trac:meta:changeset:15546",
-      "type": "commit",
-      "title": "[15546] Plugin Directory: Show closed plugins by their slug everywhere on the ...",
-      "url": "https://meta.trac.wordpress.org/changeset/15546"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-11T20:17:31.000Z",
-      "id": "trac:meta:ticket:6516",
-      "type": "ticket",
-      "title": "#6516 Update the \"Update PHP\" support page",
-      "status": "closed",
-      "url": "https://meta.trac.wordpress.org/ticket/6516#comment:15"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-11T20:17:30.000Z",
-      "id": "trac:meta:changeset:15545",
-      "type": "commit",
-      "title": "[15545] Support Forums: Drop the PHP Compatibility Checker from the Update PHP ...",
-      "url": "https://meta.trac.wordpress.org/changeset/15545"
-    },
-    {
       "id": "github:WordPress/wordpress-develop#16002",
       "source": "github",
       "teams": [
@@ -11118,7 +11120,7 @@
       "type": "issue",
       "title": "Navigation Block: Deleting a newly created navigation overlay template throws an error: can't access property \"filter\", e.itemIds is undefined",
       "url": "https://github.com/WordPress/gutenberg/issues/86831",
-      "time": "2026-11-14T20:23:01.000Z",
+      "time": "2026-11-14T21:45:28.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -11335,6 +11337,21 @@
       "confidence": 1
     },
     {
+      "id": "github:WordPress/performance#2450",
+      "source": "github",
+      "teams": [
+        "core-performance"
+      ],
+      "type": "pull",
+      "title": "Add native loading=lazy support for video elements",
+      "url": "https://github.com/WordPress/performance/pull/2450",
+      "time": "2026-11-14T23:39:10.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
       "id": "github:WordPress/performance#2512",
       "source": "github",
       "teams": [
@@ -11539,21 +11556,6 @@
       "title": "View Transitions: Ensure animation duration defaults to 1000ms when i…",
       "url": "https://github.com/WordPress/performance/pull/2706",
       "time": "2026-11-11T14:30:02.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/performance#2570",
-      "source": "github",
-      "teams": [
-        "core-performance"
-      ],
-      "type": "pull",
-      "title": "Link to image file should point to original upload regardless of fallback setting",
-      "url": "https://github.com/WordPress/performance/pull/2570",
-      "time": "2026-11-06T20:16:34.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -12018,7 +12020,7 @@
       "type": "issue",
       "title": "Dependency Dashboard",
       "url": "https://github.com/WordPress/openverse/issues/255",
-      "time": "2026-11-14T18:16:08.000Z",
+      "time": "2026-11-15T00:35:02.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -12033,7 +12035,7 @@
       "type": "pull",
       "title": "Update dependency starlette to v1 [SECURITY]",
       "url": "https://github.com/WordPress/openverse/pull/5748",
-      "time": "2026-11-14T18:16:02.000Z",
+      "time": "2026-11-15T00:34:56.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -12048,22 +12050,7 @@
       "type": "pull",
       "title": "Update dependency pytest to v9 [SECURITY]",
       "url": "https://github.com/WordPress/openverse/pull/5638",
-      "time": "2026-11-14T18:15:52.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/openverse#5769",
-      "source": "github",
-      "teams": [
-        "openverse"
-      ],
-      "type": "pull",
-      "title": "Update dependency oauthlib to v4.0.1 [SECURITY]",
-      "url": "https://github.com/WordPress/openverse/pull/5769",
-      "time": "2026-11-14T18:12:39.000Z",
+      "time": "2026-11-15T00:34:45.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -12078,7 +12065,7 @@
       "type": "pull",
       "title": "Update dependency torch to v2.13.0 [SECURITY]",
       "url": "https://github.com/WordPress/openverse/pull/5739",
-      "time": "2026-11-14T18:12:39.000Z",
+      "time": "2026-11-15T00:31:14.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -12093,7 +12080,7 @@
       "type": "pull",
       "title": "Update dependency django to v5.2.17 [SECURITY]",
       "url": "https://github.com/WordPress/openverse/pull/5752",
-      "time": "2026-11-14T18:12:29.000Z",
+      "time": "2026-11-15T00:31:03.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -12108,7 +12095,7 @@
       "type": "pull",
       "title": "Update dependency aiohttp to v3.14.4 [SECURITY]",
       "url": "https://github.com/WordPress/openverse/pull/5757",
-      "time": "2026-11-14T18:12:20.000Z",
+      "time": "2026-11-15T00:30:54.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -12123,7 +12110,7 @@
       "type": "pull",
       "title": "Update dependency sentencepiece to v0.2.1 [SECURITY]",
       "url": "https://github.com/WordPress/openverse/pull/5723",
-      "time": "2026-11-14T18:12:16.000Z",
+      "time": "2026-11-15T00:30:49.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -12235,6 +12222,21 @@
       "confidence": 1
     },
     {
+      "id": "github:WordPress/openverse#5474",
+      "source": "github",
+      "teams": [
+        "openverse"
+      ],
+      "type": "pull",
+      "title": "Update dependency pook to v2.1.6",
+      "url": "https://github.com/WordPress/openverse/pull/5474",
+      "time": "2026-11-14T00:28:16.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
       "id": "github:WordPress/Learn#3736",
       "source": "github",
       "teams": [
@@ -12304,21 +12306,6 @@
       "title": "Bump the actions group across 1 directory with 3 updates",
       "url": "https://github.com/WordPress/Learn/pull/3709",
       "time": "2026-11-11T17:06:02.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/Learn#3738",
-      "source": "github",
-      "teams": [
-        "training"
-      ],
-      "type": "issue",
-      "title": "Office Hours Meeting Recap, 28 October 2026 ",
-      "url": "https://github.com/WordPress/Learn/issues/3738",
-      "time": "2026-11-11T11:20:36.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -12454,6 +12441,21 @@
       "title": "Content feedback: vendor example in \"Group Management Topics\" places \"WordPress\" in the brand position (trademark)",
       "url": "https://github.com/WordPress/Learn/issues/3558",
       "time": "2026-11-04T20:29:39.000Z",
+      "status": "open",
+      "ask": "join",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/Learn#3544",
+      "source": "github",
+      "teams": [
+        "training"
+      ],
+      "type": "issue",
+      "title": "Feedback - Wording of the quiz question in lesson \"Managing spam on your site\"",
+      "url": "https://github.com/WordPress/Learn/issues/3544",
+      "time": "2026-11-04T19:03:19.000Z",
       "status": "open",
       "ask": "join",
       "personas": [],
@@ -12594,17 +12596,6 @@
   ],
   "tickets": [
     {
-      "id": 65817,
-      "title": "PHPStan code quality improvements for 7.2",
-      "url": "https://core.trac.wordpress.org/ticket/65817",
-      "status": "reviewing",
-      "type": "task (blessed)",
-      "priority": "normal",
-      "milestone": "7.2",
-      "component": "General",
-      "owner": "westonruter"
-    },
-    {
       "id": 65823,
       "title": "Code Quality: Use the null coalescing assignment operator (??=)",
       "url": "https://core.trac.wordpress.org/ticket/65823",
@@ -12614,6 +12605,17 @@
       "milestone": "7.2",
       "component": "General",
       "owner": ""
+    },
+    {
+      "id": 65817,
+      "title": "PHPStan code quality improvements for 7.2",
+      "url": "https://core.trac.wordpress.org/ticket/65817",
+      "status": "reviewing",
+      "type": "task (blessed)",
+      "priority": "normal",
+      "milestone": "7.2",
+      "component": "General",
+      "owner": "westonruter"
     },
     {
       "id": 42990,
