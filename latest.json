@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T03:22:22.243Z",
+  "generatedAt": "2026-11-15T06:26:52.136Z",
   "items": [
     {
       "id": "make:core:126952",
@@ -10887,6 +10887,96 @@
       "url": "https://meta.trac.wordpress.org/ticket/8111#comment:2"
     },
     {
+      "id": "github:WordPress/wordpress-develop#16008",
+      "source": "github",
+      "teams": [
+        "core"
+      ],
+      "type": "pull",
+      "title": "Register REST authentication hooks when loading the REST API",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/16008",
+      "time": "2026-11-15T06:23:23.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-develop#16007",
+      "source": "github",
+      "teams": [
+        "core"
+      ],
+      "type": "pull",
+      "title": "Handle malformed sidebar widget data when switching themes",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/16007",
+      "time": "2026-11-15T06:11:03.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-develop#16006",
+      "source": "github",
+      "teams": [
+        "core"
+      ],
+      "type": "pull",
+      "title": "Bundled themes version bumps for WordPress `7.2`",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/16006",
+      "time": "2026-11-15T06:01:15.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-develop#16005",
+      "source": "github",
+      "teams": [
+        "core"
+      ],
+      "type": "pull",
+      "title": "Code Modernization: Use the null coalescing assignment operator in option.php",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/16005",
+      "time": "2026-11-15T05:36:04.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-develop#16004",
+      "source": "github",
+      "teams": [
+        "core"
+      ],
+      "type": "pull",
+      "title": "Code Modernization: Use the null coalescing assignment operator in comment.php",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/16004",
+      "time": "2026-11-15T05:32:05.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-develop#14810",
+      "source": "github",
+      "teams": [
+        "core"
+      ],
+      "type": "pull",
+      "title": "REST API: Return 400 when an upload is rejected for a client reason",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/14810",
+      "time": "2026-11-15T05:18:14.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
       "id": "github:WordPress/wordpress-develop#15917",
       "source": "github",
       "teams": [
@@ -11022,300 +11112,30 @@
       "confidence": 1
     },
     {
-      "id": "github:WordPress/wordpress-develop#15997",
-      "source": "github",
-      "teams": [
-        "core"
-      ],
-      "type": "pull",
-      "title": "Upgrade/Install: Fix uneven margin and misaligned icon in update notices",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/15997",
-      "time": "2026-11-14T14:30:25.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/wordpress-develop#15995",
-      "source": "github",
-      "teams": [
-        "core"
-      ],
-      "type": "pull",
-      "title": "Tests: Use `create_upload_object()` in general template helpers",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/15995",
-      "time": "2026-11-14T14:21:45.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/wordpress-develop#15994",
-      "source": "github",
-      "teams": [
-        "core"
-      ],
-      "type": "pull",
-      "title": "Tests: Use `create_upload_object()` in `getAvailablePostMimeTypes` tests",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/15994",
-      "time": "2026-11-14T14:20:58.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/wordpress-develop#12044",
-      "source": "github",
-      "teams": [
-        "core"
-      ],
-      "type": "pull",
-      "title": "#60552 - Add wp_doing_sitemaps action hook to WP_Sitemaps::render_sitemaps()",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/12044",
-      "time": "2026-11-14T14:03:58.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/wordpress-develop#15871",
-      "source": "github",
-      "teams": [
-        "core"
-      ],
-      "type": "pull",
-      "title": "Command Palette: Make every admin screen faster by loading the palette only when it is opened",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/15871",
-      "time": "2026-11-14T12:19:50.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/wordpress-develop#15992",
-      "source": "github",
-      "teams": [
-        "core"
-      ],
-      "type": "pull",
-      "title": "Administration: Ensure consistent spacing when flex filter search form wraps",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/15992",
-      "time": "2026-11-14T07:15:34.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#86831",
+      "id": "github:WordPress/gutenberg#86810",
       "source": "github",
       "teams": [
         "core-editor"
       ],
       "type": "issue",
-      "title": "Navigation Block: Deleting a newly created navigation overlay template throws an error: can't access property \"filter\", e.itemIds is undefined",
-      "url": "https://github.com/WordPress/gutenberg/issues/86831",
-      "time": "2026-11-14T21:45:28.000Z",
+      "title": "Table: Column actions ignore merged cells (colspan/rowspan)",
+      "url": "https://github.com/WordPress/gutenberg/issues/86810",
+      "time": "2026-11-15T06:26:17.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/gutenberg#86465",
+      "id": "github:WordPress/gutenberg#86850",
       "source": "github",
       "teams": [
         "core-editor"
       ],
       "type": "pull",
-      "title": "Post Date: Avoid displaying \"Invalid date\" for a non-date datetime value",
-      "url": "https://github.com/WordPress/gutenberg/pull/86465",
-      "time": "2026-11-14T19:21:53.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#85960",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Components: Replace Button busy stripes with a spinner",
-      "url": "https://github.com/WordPress/gutenberg/pull/85960",
-      "time": "2026-11-14T18:01:56.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#86834",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Upload Media: warn when an image uploads without all of its sizes, and keep it when the site is out of storage space.",
-      "url": "https://github.com/WordPress/gutenberg/pull/86834",
-      "time": "2026-11-14T17:15:30.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#86115",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Global Styles Engine: Remove private API usage from package",
-      "url": "https://github.com/WordPress/gutenberg/pull/86115",
-      "time": "2026-11-14T16:46:59.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#86651",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Tests: Use strict assertions in theme.json variables and variation tests",
-      "url": "https://github.com/WordPress/gutenberg/pull/86651",
-      "time": "2026-11-14T16:32:42.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#86230",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Social Links: Enable viewport state values for icon size",
-      "url": "https://github.com/WordPress/gutenberg/pull/86230",
-      "time": "2026-11-14T16:20:06.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#86338",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Format library: Add a special characters inserter",
-      "url": "https://github.com/WordPress/gutenberg/pull/86338",
-      "time": "2026-11-14T16:11:42.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#86614",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Theme: Preserve saturated surfaces and enforce brand focus contrast",
-      "url": "https://github.com/WordPress/gutenberg/pull/86614",
-      "time": "2026-11-14T14:54:02.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#86849",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Avatar: Enable viewport state values for image size",
-      "url": "https://github.com/WordPress/gutenberg/pull/86849",
-      "time": "2026-11-14T14:16:35.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#86821",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Global Styles: Migrate state menus to WordPress UI",
-      "url": "https://github.com/WordPress/gutenberg/pull/86821",
-      "time": "2026-11-14T14:09:15.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#86625",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Boot: Keep the app pinned to the viewport when the admin menu is taller than the window",
-      "url": "https://github.com/WordPress/gutenberg/pull/86625",
-      "time": "2026-11-14T13:53:06.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#86828",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "issue",
-      "title": "RSS block: `html_entity_decode()` receives `null` for a feed item without a title (PHP 8.1 deprecation)",
-      "url": "https://github.com/WordPress/gutenberg/issues/86828",
-      "time": "2026-11-14T13:30:29.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#86791",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Core Data: Don't wait for the site entity to read a registered root entity",
-      "url": "https://github.com/WordPress/gutenberg/pull/86791",
-      "time": "2026-11-14T13:30:10.000Z",
+      "title": "Focus the post title when entering the Code Editor",
+      "url": "https://github.com/WordPress/gutenberg/pull/86850",
+      "time": "2026-11-15T06:23:05.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -11330,7 +11150,187 @@
       "type": "pull",
       "title": "[WP 7.2] Icons: Rename file to folder, add actual file icon. (#86526)",
       "url": "https://github.com/WordPress/gutenberg/pull/86779",
-      "time": "2026-11-14T10:31:15.000Z",
+      "time": "2026-11-15T06:21:13.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#82048",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Suggestion mode 10/10: end-to-end test suite",
+      "url": "https://github.com/WordPress/gutenberg/pull/82048",
+      "time": "2026-11-15T05:44:59.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#80433",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Suggestion mode 7/10: inline live wiring",
+      "url": "https://github.com/WordPress/gutenberg/pull/80433",
+      "time": "2026-11-15T05:42:17.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#86206",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Suggestion mode 8/10: overlapping suggestions",
+      "url": "https://github.com/WordPress/gutenberg/pull/86206",
+      "time": "2026-11-15T05:40:59.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#78994",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Suggest mode: combined feature branch for Playground testing (draft)",
+      "url": "https://github.com/WordPress/gutenberg/pull/78994",
+      "time": "2026-11-15T05:40:54.000Z",
+      "status": "open",
+      "ask": "needs-testing",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#80432",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Suggestion mode 6/10: review UI (Apply / Reject sidebar and summary)",
+      "url": "https://github.com/WordPress/gutenberg/pull/80432",
+      "time": "2026-11-15T05:40:36.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#80428",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Suggestion mode 2/10: suggestion storage, REST controller, and provider",
+      "url": "https://github.com/WordPress/gutenberg/pull/80428",
+      "time": "2026-11-15T05:40:35.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#80431",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Suggestion mode 5/10: inline suggestion operations",
+      "url": "https://github.com/WordPress/gutenberg/pull/80431",
+      "time": "2026-11-15T05:40:15.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#80429",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Suggestion mode 3/10: block-level capture (attribute and structural)",
+      "url": "https://github.com/WordPress/gutenberg/pull/80429",
+      "time": "2026-11-15T05:39:41.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#80427",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Suggestion mode 1/10: editor intent (edit/suggest) and experiment gate",
+      "url": "https://github.com/WordPress/gutenberg/pull/80427",
+      "time": "2026-11-15T05:37:21.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#80430",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Suggestion mode 4/10: inline marker primitive",
+      "url": "https://github.com/WordPress/gutenberg/pull/80430",
+      "time": "2026-11-15T05:36:56.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#82047",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Suggestion mode 9/10: architecture documentation",
+      "url": "https://github.com/WordPress/gutenberg/pull/82047",
+      "time": "2026-11-15T05:18:42.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#86791",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Core Data: Don't wait for the site entity to read a registered root entity",
+      "url": "https://github.com/WordPress/gutenberg/pull/86791",
+      "time": "2026-11-15T03:29:23.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -11795,7 +11795,7 @@
       "type": "pull",
       "title": "[Website] Serve WP Cloud static files directly from release folders",
       "url": "https://github.com/WordPress/wordpress-playground/pull/4613",
-      "time": "2026-11-14T18:32:55.000Z",
+      "time": "2026-11-15T04:45:39.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -12012,36 +12012,6 @@
       "confidence": 1
     },
     {
-      "id": "github:WordPress/openverse#5772",
-      "source": "github",
-      "teams": [
-        "openverse"
-      ],
-      "type": "pull",
-      "title": "Publish changelog for frontend-2026.11.15.02.59.47",
-      "url": "https://github.com/WordPress/openverse/pull/5772",
-      "time": "2026-11-15T03:16:54.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/openverse#5771",
-      "source": "github",
-      "teams": [
-        "openverse"
-      ],
-      "type": "pull",
-      "title": "Publish changelog for catalog-2026.11.15.00.30.07",
-      "url": "https://github.com/WordPress/openverse/pull/5771",
-      "time": "2026-11-15T03:07:32.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
       "id": "github:WordPress/openverse#5748",
       "source": "github",
       "teams": [
@@ -12050,37 +12020,7 @@
       "type": "pull",
       "title": "Update dependency starlette to v1 [SECURITY]",
       "url": "https://github.com/WordPress/openverse/pull/5748",
-      "time": "2026-11-15T03:02:43.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/openverse#5723",
-      "source": "github",
-      "teams": [
-        "openverse"
-      ],
-      "type": "pull",
-      "title": "Update dependency sentencepiece to v0.2.1 [SECURITY]",
-      "url": "https://github.com/WordPress/openverse/pull/5723",
-      "time": "2026-11-15T03:02:33.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/openverse#5770",
-      "source": "github",
-      "teams": [
-        "openverse"
-      ],
-      "type": "pull",
-      "title": "Update security-flagged dependencies in the API and indexer worker",
-      "url": "https://github.com/WordPress/openverse/pull/5770",
-      "time": "2026-11-15T02:55:43.000Z",
+      "time": "2026-11-15T06:21:45.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -12095,7 +12035,7 @@
       "type": "issue",
       "title": "Dependency Dashboard",
       "url": "https://github.com/WordPress/openverse/issues/255",
-      "time": "2026-11-15T00:35:02.000Z",
+      "time": "2026-11-15T06:21:23.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -12110,7 +12050,22 @@
       "type": "pull",
       "title": "Update dependency pytest to v9 [SECURITY]",
       "url": "https://github.com/WordPress/openverse/pull/5638",
-      "time": "2026-11-15T00:34:45.000Z",
+      "time": "2026-11-15T06:21:06.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/openverse#5723",
+      "source": "github",
+      "teams": [
+        "openverse"
+      ],
+      "type": "pull",
+      "title": "Update dependency sentencepiece to v0.2.1 [SECURITY]",
+      "url": "https://github.com/WordPress/openverse/pull/5723",
+      "time": "2026-11-15T06:18:02.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -12125,7 +12080,7 @@
       "type": "pull",
       "title": "Update dependency torch to v2.13.0 [SECURITY]",
       "url": "https://github.com/WordPress/openverse/pull/5739",
-      "time": "2026-11-15T00:31:14.000Z",
+      "time": "2026-11-15T06:17:55.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -12140,7 +12095,7 @@
       "type": "pull",
       "title": "Update dependency django to v5.2.17 [SECURITY]",
       "url": "https://github.com/WordPress/openverse/pull/5752",
-      "time": "2026-11-15T00:31:03.000Z",
+      "time": "2026-11-15T06:17:46.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -12155,7 +12110,7 @@
       "type": "pull",
       "title": "Update dependency aiohttp to v3.14.4 [SECURITY]",
       "url": "https://github.com/WordPress/openverse/pull/5757",
-      "time": "2026-11-15T00:30:54.000Z",
+      "time": "2026-11-15T06:17:37.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -12231,6 +12186,51 @@
       "title": "Update dependency @opentelemetry/api to ~1.10.0",
       "url": "https://github.com/WordPress/openverse/pull/5751",
       "time": "2026-11-14T06:33:40.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/openverse#5474",
+      "source": "github",
+      "teams": [
+        "openverse"
+      ],
+      "type": "pull",
+      "title": "Update dependency pook to v2.1.6",
+      "url": "https://github.com/WordPress/openverse/pull/5474",
+      "time": "2026-11-14T00:28:16.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/openverse#5705",
+      "source": "github",
+      "teams": [
+        "openverse"
+      ],
+      "type": "pull",
+      "title": "Update Node.js to v26",
+      "url": "https://github.com/WordPress/openverse/pull/5705",
+      "time": "2026-11-13T15:13:22.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/openverse#5683",
+      "source": "github",
+      "teams": [
+        "openverse"
+      ],
+      "type": "pull",
+      "title": "Document replacing Elasticsearch master nodes",
+      "url": "https://github.com/WordPress/openverse/pull/5683",
+      "time": "2026-11-13T15:00:55.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -12596,6 +12596,28 @@
   ],
   "tickets": [
     {
+      "id": 65875,
+      "title": "Bump default theme versions for WordPress 7.2",
+      "url": "https://core.trac.wordpress.org/ticket/65875",
+      "status": "new",
+      "type": "task (blessed)",
+      "priority": "normal",
+      "milestone": "7.2",
+      "component": "Bundled Theme",
+      "owner": ""
+    },
+    {
+      "id": 65823,
+      "title": "Code Quality: Use the null coalescing assignment operator (??=)",
+      "url": "https://core.trac.wordpress.org/ticket/65823",
+      "status": "new",
+      "type": "task (blessed)",
+      "priority": "normal",
+      "milestone": "7.2",
+      "component": "General",
+      "owner": ""
+    },
+    {
       "id": 66668,
       "title": "HTML API: excerpt_remove_footnotes() is fragile to equivalent HTML",
       "url": "https://core.trac.wordpress.org/ticket/66668",
@@ -12616,17 +12638,6 @@
       "milestone": "7.2",
       "component": "General",
       "owner": "westonruter"
-    },
-    {
-      "id": 65823,
-      "title": "Code Quality: Use the null coalescing assignment operator (??=)",
-      "url": "https://core.trac.wordpress.org/ticket/65823",
-      "status": "new",
-      "type": "task (blessed)",
-      "priority": "normal",
-      "milestone": "7.2",
-      "component": "General",
-      "owner": ""
     },
     {
       "id": 42990,
@@ -13682,17 +13693,6 @@
       "priority": "normal",
       "milestone": "7.2",
       "component": "TinyMCE",
-      "owner": ""
-    },
-    {
-      "id": 56897,
-      "title": "First time contributor welcome message improvements",
-      "url": "https://core.trac.wordpress.org/ticket/56897",
-      "status": "new",
-      "type": "task (blessed)",
-      "priority": "normal",
-      "milestone": "7.2",
-      "component": "General",
       "owner": ""
     }
   ]
