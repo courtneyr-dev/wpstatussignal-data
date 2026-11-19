@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T15:21:10.552Z",
+  "generatedAt": "2026-11-19T18:24:06.848Z",
   "items": [
     {
       "id": "make:core:127227",
@@ -382,6 +382,20 @@
       "confidence": 1
     },
     {
+      "id": "make:ai:1528",
+      "source": "make",
+      "teams": [
+        "core-ai"
+      ],
+      "type": "post",
+      "title": "AI Contributor Weekly Summary – 18 November 2026",
+      "url": "https://make.wordpress.org/ai/2026/11/19/ai-contributor-weekly-summary-18-november-2026/",
+      "time": "2026-11-19T16:25:12Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
       "id": "make:ai:1517",
       "source": "make",
       "teams": [
@@ -727,20 +741,6 @@
       "title": "WCEU 2026 – Retrospective",
       "url": "https://make.wordpress.org/ai/2026/06/25/wceu-2026-retrospective/",
       "time": "2026-06-25T12:55:36Z",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "make:ai:1215",
-      "source": "make",
-      "teams": [
-        "core-ai"
-      ],
-      "type": "post",
-      "title": "AI Contributor Weekly Summary – 17 June 2026",
-      "url": "https://make.wordpress.org/ai/2026/06/24/ai-contributor-weekly-summary-17-june-2026/",
-      "time": "2026-06-24T20:43:27Z",
       "ask": "none",
       "personas": [],
       "confidence": 1
@@ -1965,6 +1965,20 @@
       "confidence": 1
     },
     {
+      "id": "make:polyglots:76054",
+      "source": "make",
+      "teams": [
+        "polyglots"
+      ],
+      "type": "post",
+      "title": "PTE Request for Openverse (Hindi)",
+      "url": "https://make.wordpress.org/polyglots/2026/11/19/pte-request-for-openverse-hindi/",
+      "time": "2026-11-19T18:22:04Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
       "id": "make:polyglots:76010",
       "source": "make",
       "teams": [
@@ -2366,20 +2380,6 @@
       "title": "PTE Request for ZA-ONE Notify…",
       "url": "https://make.wordpress.org/polyglots/2026/11/18/pte-request-for-za-one-notify/",
       "time": "2026-11-18T00:19:16Z",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "make:polyglots:75910",
-      "source": "make",
-      "teams": [
-        "polyglots"
-      ],
-      "type": "post",
-      "title": "Translation review request: Email Health Check & Log for WooCommerce",
-      "url": "https://make.wordpress.org/polyglots/2026/11/17/translation-review-request-email-health-check-log-for-woocommerce/",
-      "time": "2026-11-17T20:42:53Z",
       "ask": "none",
       "personas": [],
       "confidence": 1
@@ -5733,6 +5733,20 @@
       "confidence": 1
     },
     {
+      "id": "make:playground:808",
+      "source": "make",
+      "teams": [
+        "playground"
+      ],
+      "type": "post",
+      "title": "Link to a file and line in WordPress Playground",
+      "url": "https://make.wordpress.org/playground/2026/11/19/link-to-a-file-and-line-in-wordpress-playground/",
+      "time": "2026-11-19T18:13:23Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
       "id": "make:playground:800",
       "source": "make",
       "teams": [
@@ -6050,20 +6064,6 @@
       "title": "Playground Meetings Summaries – February 2026",
       "url": "https://make.wordpress.org/playground/2026/03/03/playground-meetings-summaries-february-2026/",
       "time": "2026-03-03T12:22:34Z",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "make:playground:502",
-      "source": "make",
-      "teams": [
-        "playground"
-      ],
-      "type": "post",
-      "title": "Simplify your workflow with the new Playground CLI start command",
-      "url": "https://make.wordpress.org/playground/2026/02/24/simplify-your-workflow-with-the-new-playground-cli-start-command/",
-      "time": "2026-02-24T18:41:32Z",
       "ask": "none",
       "personas": [],
       "confidence": 1
@@ -8056,6 +8056,2976 @@
       "via": "do_action events"
     },
     {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/11/11/el-futuro-de-las-webs-multilingues-en-wordpress%ef%bc%9avoz-chatbots-e-ia-accesible/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "El futuro de las webs multilingües en WordPress：Voz, Chatbots e IA Accesible",
+      "url": "https://wordpress.tv/2026/11/11/el-futuro-de-las-webs-multilingues-en-wordpress%ef%bc%9avoz-chatbots-e-ia-accesible/",
+      "time": "2026-11-11T08:05:03.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/11/11/donde-se-te-esta-escapando-el-dinero-en-tu-tienda-wordpress/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Dónde se te está escapando el dinero en tu tienda WordPress",
+      "url": "https://wordpress.tv/2026/11/11/donde-se-te-esta-escapando-el-dinero-en-tu-tienda-wordpress/",
+      "time": "2026-11-11T08:00:49.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/11/06/accelerating-wordpress-theme-development-with-create-block-theme/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Accelerating WordPress Theme Development with Create Block Theme",
+      "url": "https://wordpress.tv/2026/11/06/accelerating-wordpress-theme-development-with-create-block-theme/",
+      "time": "2026-11-06T13:18:48.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/11/06/getting-familiar-with-wordpress-hooks/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Getting familiar with WordPress Hooks",
+      "url": "https://wordpress.tv/2026/11/06/getting-familiar-with-wordpress-hooks/",
+      "time": "2026-11-06T13:03:11.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/11/06/what-six-years-of-wordpress-support-taught-me-about-building-better-plugins/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "What Six Years of WordPress Support Taught Me About Building Better Plugins",
+      "url": "https://wordpress.tv/2026/11/06/what-six-years-of-wordpress-support-taught-me-about-building-better-plugins/",
+      "time": "2026-11-06T13:00:19.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/11/06/wooing-whatsapp-with-wordpress-a-saas-story/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Wooing WhatsApp with WordPress: A SaaS Story",
+      "url": "https://wordpress.tv/2026/11/06/wooing-whatsapp-with-wordpress-a-saas-story/",
+      "time": "2026-11-06T12:58:44.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/11/06/headless-wordpress-when-and-when-not-to-use-it/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Headless WordPress: When and When Not to Use It",
+      "url": "https://wordpress.tv/2026/11/06/headless-wordpress-when-and-when-not-to-use-it/",
+      "time": "2026-11-06T12:57:46.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/11/06/wordpress-for-ai-search/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "WordPress for AI Search",
+      "url": "https://wordpress.tv/2026/11/06/wordpress-for-ai-search/",
+      "time": "2026-11-06T12:56:05.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/11/06/ai-the-new-era-of-marketing-navigating-content-seo-and-agency-growth/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "AI & The New Era of Marketing: Navigating Content, SEO, and Agency Growth",
+      "url": "https://wordpress.tv/2026/11/06/ai-the-new-era-of-marketing-navigating-content-seo-and-agency-growth/",
+      "time": "2026-11-06T12:53:27.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/11/06/one-wordpress-thousands-of-websites-engineering-multisite-at-scale/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "One WordPress, Thousands of Websites: Engineering Multisite at Scale",
+      "url": "https://wordpress.tv/2026/11/06/one-wordpress-thousands-of-websites-engineering-multisite-at-scale/",
+      "time": "2026-11-06T12:52:21.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/11/06/turn-your-wordpress-site-into-a-rag-knowledge-base/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Turn Your WordPress Site into a RAG Knowledge Base",
+      "url": "https://wordpress.tv/2026/11/06/turn-your-wordpress-site-into-a-rag-knowledge-base/",
+      "time": "2026-11-06T12:51:19.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/11/06/let-ai-operate-your-wordpress-site-but-how/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Let AI Operate Your WordPress Site, But How?",
+      "url": "https://wordpress.tv/2026/11/06/let-ai-operate-your-wordpress-site-but-how/",
+      "time": "2026-11-06T12:50:03.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/11/03/educar-para-crear-no-solo-consumir-empleabilidad-y-ciudadania-digital-en-la-era-de-la-ia/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Educar para crear, no solo consumir: empleabilidad y ciudadanía digital en la era de la IA",
+      "url": "https://wordpress.tv/2026/11/03/educar-para-crear-no-solo-consumir-empleabilidad-y-ciudadania-digital-en-la-era-de-la-ia/",
+      "time": "2026-11-03T10:38:36.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/11/03/hay-un-poco-de-ia-en-tu-web-que-debes-tener-en-cuenta-para-cumplir-la-ley/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "¿Hay un poco de IA en tu web? Qué debes tener en cuenta para cumplir la ley",
+      "url": "https://wordpress.tv/2026/11/03/hay-un-poco-de-ia-en-tu-web-que-debes-tener-en-cuenta-para-cumplir-la-ley/",
+      "time": "2026-11-03T10:31:18.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/11/03/despedida-wordcamp-valencia-2026/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Despedida WordCamp Valencia 2026",
+      "url": "https://wordpress.tv/2026/11/03/despedida-wordcamp-valencia-2026/",
+      "time": "2026-11-03T10:28:47.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/11/03/wordpress-como-aula-viva-crear-publicar-medir-y-mejorar-proyectos-reales/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "WordPress como aula viva: crear, publicar, medir y mejorar proyectos reales",
+      "url": "https://wordpress.tv/2026/11/03/wordpress-como-aula-viva-crear-publicar-medir-y-mejorar-proyectos-reales/",
+      "time": "2026-11-03T10:28:27.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/11/03/ya-tienes-tu-web-y-ahora-que-marketing-para-que-la-gente-te-encuentre/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Ya tienes tu web. ¿Y ahora qué? Marketing para que la gente te encuentre",
+      "url": "https://wordpress.tv/2026/11/03/ya-tienes-tu-web-y-ahora-que-marketing-para-que-la-gente-te-encuentre/",
+      "time": "2026-11-03T10:28:17.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/11/03/por-que-tus-visitas-no-compran-aunque-tu-tienda-este-bien-hecha/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Por qué tus visitas no compran (aunque tu tienda esté bien hecha)",
+      "url": "https://wordpress.tv/2026/11/03/por-que-tus-visitas-no-compran-aunque-tu-tienda-este-bien-hecha/",
+      "time": "2026-11-03T10:28:08.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/11/03/la-artesania-de-un-sistema-de-diseno-sistematizar-sin-perder-el-detalle/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "La artesanía de un sistema de diseño: sistematizar sin perder el detalle",
+      "url": "https://wordpress.tv/2026/11/03/la-artesania-de-un-sistema-de-diseno-sistematizar-sin-perder-el-detalle/",
+      "time": "2026-11-03T10:27:54.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/11/03/es-mas-facil-de-lo-que-piensas-tus-primeros-pasos-con-wordpress/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Es más fácil de lo que piensas: tus primeros pasos con WordPress",
+      "url": "https://wordpress.tv/2026/11/03/es-mas-facil-de-lo-que-piensas-tus-primeros-pasos-con-wordpress/",
+      "time": "2026-11-03T10:27:41.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/11/03/como-estoy-ensenando-a-la-ia-a-desarrollar-proyectos-wordpress/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Cómo estoy enseñando a la IA a desarrollar proyectos WordPress",
+      "url": "https://wordpress.tv/2026/11/03/como-estoy-ensenando-a-la-ia-a-desarrollar-proyectos-wordpress/",
+      "time": "2026-11-03T10:27:29.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/11/03/la-web-de-tu-peluqueria-se-parece-a-la-de-mi-gestoria/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "La web de tu peluquería se parece a la de mi gestoría",
+      "url": "https://wordpress.tv/2026/11/03/la-web-de-tu-peluqueria-se-parece-a-la-de-mi-gestoria/",
+      "time": "2026-11-03T10:27:16.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/11/03/la-web-no-termina-cuando-se-publica-7-decisiones-para-que-un-proyecto-wordpress-sobreviva-diez-anos/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "La web no termina cuando se publica: 7 decisiones para que un proyecto WordPress sobreviva diez años",
+      "url": "https://wordpress.tv/2026/11/03/la-web-no-termina-cuando-se-publica-7-decisiones-para-que-un-proyecto-wordpress-sobreviva-diez-anos/",
+      "time": "2026-11-03T10:27:02.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/11/03/del-negocio-a-wordpress-como-construir-una-web-que-tenga-sentido-comercial/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Del negocio a WordPress: cómo construir una web que tenga sentido comercial",
+      "url": "https://wordpress.tv/2026/11/03/del-negocio-a-wordpress-como-construir-una-web-que-tenga-sentido-comercial/",
+      "time": "2026-11-03T10:26:48.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/11/03/como-hacer-una-auditoria-ux-de-una-web-wordpress-con-ia-y-ahorrar-horas-de-trabajo/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Cómo hacer una auditoría UX de una web WordPress con IA (y ahorrar horas de trabajo)",
+      "url": "https://wordpress.tv/2026/11/03/como-hacer-una-auditoria-ux-de-una-web-wordpress-con-ia-y-ahorrar-horas-de-trabajo/",
+      "time": "2026-11-03T10:26:35.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/11/03/tu-posible-cliente-te-ha-mandado-un-cuestionario-de-seguridad-guia-de-supervivencia/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Tu (posible) cliente te ha mandado un cuestionario de seguridad: guía de supervivencia",
+      "url": "https://wordpress.tv/2026/11/03/tu-posible-cliente-te-ha-mandado-un-cuestionario-de-seguridad-guia-de-supervivencia/",
+      "time": "2026-11-03T10:26:14.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/11/03/tu-cerebro-tambien-es-parte-de-tu-stack-neuroproductividad-para-profesionales/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Tu cerebro también es parte de tu stack: Neuroproductividad para profesionales",
+      "url": "https://wordpress.tv/2026/11/03/tu-cerebro-tambien-es-parte-de-tu-stack-neuroproductividad-para-profesionales/",
+      "time": "2026-11-03T10:25:49.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/11/03/beta-experimental-listo-para-produccion-como-aplicar-las-novedades-de-woocommerce-sin-liarla/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Beta, experimental, listo para producción: cómo aplicar las novedades de WooCommerce sin liarla",
+      "url": "https://wordpress.tv/2026/11/03/beta-experimental-listo-para-produccion-como-aplicar-las-novedades-de-woocommerce-sin-liarla/",
+      "time": "2026-11-03T10:25:25.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/11/03/bienvenida-wordcamp-valencia-2026/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Bienvenida WordCamp Valencia 2026",
+      "url": "https://wordpress.tv/2026/11/03/bienvenida-wordcamp-valencia-2026/",
+      "time": "2026-11-03T10:24:49.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/11/03/aunque-lo-compres-no-es-tuyo-licencias-y-propiedad-en-la-era-de-las-suscripciones/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Aunque lo compres, no es tuyo: licencias y propiedad en la era de las suscripciones",
+      "url": "https://wordpress.tv/2026/11/03/aunque-lo-compres-no-es-tuyo-licencias-y-propiedad-en-la-era-de-las-suscripciones/",
+      "time": "2026-11-03T09:52:14.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/11/03/nadie-contrata-wordpress-contratan-resultados-red-flags-y-green-flags/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Nadie contrata WordPress, contratan resultados: red flags y green flags",
+      "url": "https://wordpress.tv/2026/11/03/nadie-contrata-wordpress-contratan-resultados-red-flags-y-green-flags/",
+      "time": "2026-11-03T08:31:15.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/11/03/talento-convertido-en-contenido-multimedia-que-vende/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Talento convertido en contenido multimedia que vende",
+      "url": "https://wordpress.tv/2026/11/03/talento-convertido-en-contenido-multimedia-que-vende/",
+      "time": "2026-11-03T08:26:30.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/11/03/gestionando-equipos-remotos-en-la-era-de-la-inteligencia-artificial/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Gestionando equipos remotos en la era de la Inteligencia Artificial",
+      "url": "https://wordpress.tv/2026/11/03/gestionando-equipos-remotos-en-la-era-de-la-inteligencia-artificial/",
+      "time": "2026-11-03T08:26:20.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/11/03/el-equipo-que-nadie-ve/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "El equipo que nadie ve",
+      "url": "https://wordpress.tv/2026/11/03/el-equipo-que-nadie-ve/",
+      "time": "2026-11-03T08:26:10.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/11/03/tu-sitio-esta-preparado-para-que-lo-encuentre-una-ia-seo-en-la-era-de-ai-overviews-ai-mode-y-resp/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "¿Tu sitio está preparado para que lo encuentre una IA? SEO en la era de AI Overviews, AI Mode y resp",
+      "url": "https://wordpress.tv/2026/11/03/tu-sitio-esta-preparado-para-que-lo-encuentre-una-ia-seo-en-la-era-de-ai-overviews-ai-mode-y-resp/",
+      "time": "2026-11-03T08:26:01.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/11/03/del-carrito-al-resultado-la-disciplina-de-ejecutar/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Del carrito al resultado. «La disciplina de ejecutar»",
+      "url": "https://wordpress.tv/2026/11/03/del-carrito-al-resultado-la-disciplina-de-ejecutar/",
+      "time": "2026-11-03T08:25:54.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/11/03/las-marcas-que-conectan-nacen-donde-las-disciplinas-se-encuentran-creatividad-para-construir-y-crea/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Las marcas que conectan nacen donde las disciplinas se encuentran. Creatividad para construir y crea",
+      "url": "https://wordpress.tv/2026/11/03/las-marcas-que-conectan-nacen-donde-las-disciplinas-se-encuentran-creatividad-para-construir-y-crea/",
+      "time": "2026-11-03T08:25:38.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/11/03/the-creative-side-of-ai-with-elevenlabs/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "The creative side of AI with ElevenLabs",
+      "url": "https://wordpress.tv/2026/11/03/the-creative-side-of-ai-with-elevenlabs/",
+      "time": "2026-11-03T08:25:32.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/11/03/panel-de-comunidad-y-despedida/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Panel de Comunidad y despedida",
+      "url": "https://wordpress.tv/2026/11/03/panel-de-comunidad-y-despedida/",
+      "time": "2026-11-03T08:25:07.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/11/03/shute-y-sin-verguenza-las-oportunidades-no-llegan-solas-hay-que-ir-a-buscarlas/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Shute y sin vergüenza. Las oportunidades no llegan solas, hay que ir a buscarlas.",
+      "url": "https://wordpress.tv/2026/11/03/shute-y-sin-verguenza-las-oportunidades-no-llegan-solas-hay-que-ir-a-buscarlas/",
+      "time": "2026-11-03T08:24:38.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/11/03/arretez-de-perdre-des-leads-resilience-et-observabilite-des-integrations-wordpress/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Arrêtez de perdre des leads : résilience et observabilité des intégrations WordPress",
+      "url": "https://wordpress.tv/2026/11/03/arretez-de-perdre-des-leads-resilience-et-observabilite-des-integrations-wordpress/",
+      "time": "2026-11-03T07:27:01.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/11/03/le-quiz-securite/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Le Quiz Sécurité",
+      "url": "https://wordpress.tv/2026/11/03/le-quiz-securite/",
+      "time": "2026-11-03T07:25:06.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/11/02/seguridad-en-wordpress-con-presupuesto-cero/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Seguridad en WordPress con presupuesto cero",
+      "url": "https://wordpress.tv/2026/11/02/seguridad-en-wordpress-con-presupuesto-cero/",
+      "time": "2026-11-02T16:12:22.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/11/02/votre-tracking-est-il-vraiment-pret-pour-2026-la-checklist-complete/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Votre tracking est-il vraiment prêt pour 2026 ? La checklist complète",
+      "url": "https://wordpress.tv/2026/11/02/votre-tracking-est-il-vraiment-pret-pour-2026-la-checklist-complete/",
+      "time": "2026-11-02T10:06:35.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/11/02/reparer-10-ans-de-dette-technique/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Réparer 10 ans de dette technique",
+      "url": "https://wordpress.tv/2026/11/02/reparer-10-ans-de-dette-technique/",
+      "time": "2026-11-02T08:21:26.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/11/02/wordpress-comme-outil-de-production-collective-sortir-du-web-spaghetti/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "WordPress comme outil de production collective : sortir du web spaghetti",
+      "url": "https://wordpress.tv/2026/11/02/wordpress-comme-outil-de-production-collective-sortir-du-web-spaghetti/",
+      "time": "2026-11-02T08:19:50.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/11/02/et-si-on-deployait-wordpress-comme-en-2026/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Et si on déployait WordPress comme en 2026 ?",
+      "url": "https://wordpress.tv/2026/11/02/et-si-on-deployait-wordpress-comme-en-2026/",
+      "time": "2026-11-02T08:17:17.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/11/02/apprenez-a-votre-ia-a-vraiment-coder-comme-vous-les-fondamentaux-du-harness-engineering/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Apprenez à votre IA à vraiment coder comme vous : les fondamentaux du harness engineering",
+      "url": "https://wordpress.tv/2026/11/02/apprenez-a-votre-ia-a-vraiment-coder-comme-vous-les-fondamentaux-du-harness-engineering/",
+      "time": "2026-11-02T08:15:53.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/30/audit-et-compromission-dun-serveur-wordpress/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Audit et compromission d’un serveur WordPress",
+      "url": "https://wordpress.tv/2026/10/30/audit-et-compromission-dun-serveur-wordpress/",
+      "time": "2026-10-30T17:27:23.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/30/playwright-ou-comment-briser-le-quatrieme-mur/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Playwright, ou comment briser le quatrième mur",
+      "url": "https://wordpress.tv/2026/10/30/playwright-ou-comment-briser-le-quatrieme-mur/",
+      "time": "2026-10-30T17:14:05.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/29/how-to-suggest-urdu-translations-on-translate-wordpress-org/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "How to suggest Urdu translations on translate.wordpress.org",
+      "url": "https://wordpress.tv/2026/10/29/how-to-suggest-urdu-translations-on-translate-wordpress-org/",
+      "time": "2026-10-29T18:44:36.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/29/asap-as-simple-as-pitching-how-it-helped-me-closing-enterprise-wordpress-clients/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "ASAP — As Simple As Pitching – How it helped me closing enterprise WordPress clients",
+      "url": "https://wordpress.tv/2026/10/29/asap-as-simple-as-pitching-how-it-helped-me-closing-enterprise-wordpress-clients/",
+      "time": "2026-10-29T18:26:36.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/29/the-agentic-web-what-happens-when-your-user-isnt-human/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "The Agentic Web: What Happens When Your User Isn’t Human",
+      "url": "https://wordpress.tv/2026/10/29/the-agentic-web-what-happens-when-your-user-isnt-human/",
+      "time": "2026-10-29T18:06:42.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/29/accessibility-as-quality-simple-checks-everyone-can-run/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Accessibility as Quality: Simple Checks Everyone Can Run",
+      "url": "https://wordpress.tv/2026/10/29/accessibility-as-quality-simple-checks-everyone-can-run/",
+      "time": "2026-10-29T16:40:05.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/29/beyond-freelancing-building-a-sustainable-wordpress-business-from-a-tier-3-city/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Beyond Freelancing: Building a Sustainable WordPress Business from a Tier-3 City",
+      "url": "https://wordpress.tv/2026/10/29/beyond-freelancing-building-a-sustainable-wordpress-business-from-a-tier-3-city/",
+      "time": "2026-10-29T16:37:33.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/29/in-the-age-of-ai-meet-more-people/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "In the Age of AI, Meet More People",
+      "url": "https://wordpress.tv/2026/10/29/in-the-age-of-ai-meet-more-people/",
+      "time": "2026-10-29T16:36:15.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/29/from-overhead-to-output-how-we-rebuilt-our-agency-around-ai/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "From Overhead to Output: How We Rebuilt Our Agency Around AI",
+      "url": "https://wordpress.tv/2026/10/29/from-overhead-to-output-how-we-rebuilt-our-agency-around-ai/",
+      "time": "2026-10-29T16:32:44.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/29/the-ai-powered-wordpress-from-content-creation-to-conversion/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "The AI-Powered WordPress, from Content Creation to Conversion",
+      "url": "https://wordpress.tv/2026/10/29/the-ai-powered-wordpress-from-content-creation-to-conversion/",
+      "time": "2026-10-29T16:31:56.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/29/marketing-that-knows-your-customer-before-they-click/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Marketing That Knows Your Customer Before They Click",
+      "url": "https://wordpress.tv/2026/10/29/marketing-that-knows-your-customer-before-they-click/",
+      "time": "2026-10-29T16:30:24.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/29/beyond-posts-pages-managing-external-data-in-wordpress/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Beyond Posts & Pages: Managing External Data in WordPress",
+      "url": "https://wordpress.tv/2026/10/29/beyond-posts-pages-managing-external-data-in-wordpress/",
+      "time": "2026-10-29T13:10:36.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/29/youtube-wordpress-in-the-age-of-ai/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "YouTube + WordPress in the Age of AI",
+      "url": "https://wordpress.tv/2026/10/29/youtube-wordpress-in-the-age-of-ai/",
+      "time": "2026-10-29T13:05:56.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/28/consideracoes-finais-3/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Consideraçoes finais",
+      "url": "https://wordpress.tv/2026/10/28/consideracoes-finais-3/",
+      "time": "2026-10-28T18:21:59.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/28/building-got-cheap-taste-got-expensive/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Building Got Cheap. Taste Got Expensive.",
+      "url": "https://wordpress.tv/2026/10/28/building-got-cheap-taste-got-expensive/",
+      "time": "2026-10-28T18:21:38.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/28/keeping-it-real-creating-human-content-in-the-age-of-ai/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Keeping it real: Creating Human Content in the age of AI",
+      "url": "https://wordpress.tv/2026/10/28/keeping-it-real-creating-human-content-in-the-age-of-ai/",
+      "time": "2026-10-28T18:21:24.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/28/the-unautomatable-skill-selling-and-connecting-in-the-ai-era/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "The Unautomatable Skill: Selling and Connecting in the AI Era.",
+      "url": "https://wordpress.tv/2026/10/28/the-unautomatable-skill-selling-and-connecting-in-the-ai-era/",
+      "time": "2026-10-28T18:20:48.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/28/this-is-not-about-ai-why-your-brain-is-still-the-smartest-tool-in-the-room/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "This Is Not About AI! — Why Your Brain Is Still the Smartest Tool in the Room",
+      "url": "https://wordpress.tv/2026/10/28/this-is-not-about-ai-why-your-brain-is-still-the-smartest-tool-in-the-room/",
+      "time": "2026-10-28T18:20:34.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/28/como-a-ia-resolve-o-que-o-cliente-nao-sabe-explicar/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Como a IA resolve o que o cliente não sabe explicar",
+      "url": "https://wordpress.tv/2026/10/28/como-a-ia-resolve-o-que-o-cliente-nao-sabe-explicar/",
+      "time": "2026-10-28T18:18:51.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/28/quem-e-o-responsavel-quando-a-ia-decide-sozinha/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Quem é o responsável quando a IA decide sozinha?",
+      "url": "https://wordpress.tv/2026/10/28/quem-e-o-responsavel-quando-a-ia-decide-sozinha/",
+      "time": "2026-10-28T18:18:37.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/28/a-ia-nao-e-um-desconto-e-capacidade-mesmo-preco-mais-margem-e-servicos-que-antes-nao-cabiam-no-t/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "A IA não é um desconto. É capacidade. Mesmo preço, mais margem, e serviços que antes não cabiam no t",
+      "url": "https://wordpress.tv/2026/10/28/a-ia-nao-e-um-desconto-e-capacidade-mesmo-preco-mais-margem-e-servicos-que-antes-nao-cabiam-no-t/",
+      "time": "2026-10-28T18:18:24.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/28/a-ia-nao-gere-clientes-tu-sim/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "A IA não gere clientes. Tu sim.",
+      "url": "https://wordpress.tv/2026/10/28/a-ia-nao-gere-clientes-tu-sim/",
+      "time": "2026-10-28T18:18:13.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/28/there-is-no-blueprint-18-months-of-vibe-coding-wordpress/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "There Is No Blueprint: 18 months of vibe coding WordPress",
+      "url": "https://wordpress.tv/2026/10/28/there-is-no-blueprint-18-months-of-vibe-coding-wordpress/",
+      "time": "2026-10-28T18:18:03.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/28/prompt-challenge/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Prompt Challenge",
+      "url": "https://wordpress.tv/2026/10/28/prompt-challenge/",
+      "time": "2026-10-28T18:17:50.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/28/boas-praticas-de-desenvolvimento-seguro-com-inteligencia-artificial-no-wordpress/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Boas práticas de desenvolvimento seguro com Inteligência Artificial no WordPress",
+      "url": "https://wordpress.tv/2026/10/28/boas-praticas-de-desenvolvimento-seguro-com-inteligencia-artificial-no-wordpress/",
+      "time": "2026-10-28T18:17:38.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/28/wordpress-abilities-api-e-como-interagir-com-o-woocommerce-em-linguagem-humana/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "WordPress Abilities API e como interagir com o WooCommerce em linguagem humana",
+      "url": "https://wordpress.tv/2026/10/28/wordpress-abilities-api-e-como-interagir-com-o-woocommerce-em-linguagem-humana/",
+      "time": "2026-10-28T18:17:25.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/28/the-cleanup-economy-the-agency-service-your-next-client-is-creating-right-now/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "The cleanup economy: The agency service your next client is creating right now",
+      "url": "https://wordpress.tv/2026/10/28/the-cleanup-economy-the-agency-service-your-next-client-is-creating-right-now/",
+      "time": "2026-10-28T18:16:40.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/28/ai-isnt-just-agents-get-better-search-results-with-vector-embeddings/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "AI isn’t just agents: Get better search results with Vector Embeddings",
+      "url": "https://wordpress.tv/2026/10/28/ai-isnt-just-agents-get-better-search-results-with-vector-embeddings/",
+      "time": "2026-10-28T18:16:29.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/28/ai-with-boundaries-implementing-guardrails-and-evals-in-wordpress/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "AI with Boundaries: Implementing Guardrails and Evals in WordPress",
+      "url": "https://wordpress.tv/2026/10/28/ai-with-boundaries-implementing-guardrails-and-evals-in-wordpress/",
+      "time": "2026-10-28T18:16:16.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/28/practical-uses-for-wordpress-development-with-ai-assistance/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Practical Uses for WordPress Development with AI Assistance",
+      "url": "https://wordpress.tv/2026/10/28/practical-uses-for-wordpress-development-with-ai-assistance/",
+      "time": "2026-10-28T18:16:05.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/28/your-next-customer-is-an-agent/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Your next customer is an agent",
+      "url": "https://wordpress.tv/2026/10/28/your-next-customer-is-an-agent/",
+      "time": "2026-10-28T18:15:49.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/28/consideracoes-iniciais-3/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Consideraçoes iniciais",
+      "url": "https://wordpress.tv/2026/10/28/consideracoes-iniciais-3/",
+      "time": "2026-10-28T18:15:35.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/28/gestion-de-sites-via-mcp/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Gestion de sites via MCP",
+      "url": "https://wordpress.tv/2026/10/28/gestion-de-sites-via-mcp/",
+      "time": "2026-10-28T07:30:40.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/28/gutenberg-construire-pour-ceux-qui-vont-vraiment-lutiliser/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Gutenberg : construire pour ceux qui vont vraiment l’utiliser",
+      "url": "https://wordpress.tv/2026/10/28/gutenberg-construire-pour-ceux-qui-vont-vraiment-lutiliser/",
+      "time": "2026-10-28T07:29:16.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/26/le-multilingue-pour-les-nuls/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Le multilingue pour les nuls !",
+      "url": "https://wordpress.tv/2026/10/26/le-multilingue-pour-les-nuls/",
+      "time": "2026-10-26T08:59:03.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/26/7-erreurs-daccessibilite-que-je-retrouve-sur-presque-tous-les-sites-et-apps/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "7 erreurs d’accessibilité que je retrouve sur presque tous les sites et apps",
+      "url": "https://wordpress.tv/2026/10/26/7-erreurs-daccessibilite-que-je-retrouve-sur-presque-tous-les-sites-et-apps/",
+      "time": "2026-10-26T08:02:18.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/24/cuando-tu-proximo-usuario-no-sea-humano-que-cambia-cuando-la-ia-deja-de-mirar-y-empieza-a-decidir/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Cuando tu próximo usuario no sea humano Qué cambia cuando la IA deja de mirar y empieza a decidir.",
+      "url": "https://wordpress.tv/2026/10/24/cuando-tu-proximo-usuario-no-sea-humano-que-cambia-cuando-la-ia-deja-de-mirar-y-empieza-a-decidir/",
+      "time": "2026-10-24T11:20:44.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/23/como-contribuir-en-el-equipo-de-traduccion/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "¿Cómo Contribuir en el equipo de traducción?",
+      "url": "https://wordpress.tv/2026/10/23/como-contribuir-en-el-equipo-de-traduccion/",
+      "time": "2026-10-23T13:56:40.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/23/como-contribuir-con-subtitulos-en-wordpress-tv/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "¿Cómo contribuir con subtítulos en WordPress TV?",
+      "url": "https://wordpress.tv/2026/10/23/como-contribuir-con-subtitulos-en-wordpress-tv/",
+      "time": "2026-10-23T13:53:47.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/21/automatisation-des-mises-a-jour-wordpress-enjeux-et-exemple-avec-updatronix/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Automatisation des mises à jour WordPress, enjeux et exemple avec Updatronix",
+      "url": "https://wordpress.tv/2026/10/21/automatisation-des-mises-a-jour-wordpress-enjeux-et-exemple-avec-updatronix/",
+      "time": "2026-10-22T06:42:13.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/21/reconversion-et-pedagogie-ce-que-13-ans-dinfirmerie-mont-appris-pour-creer-des-sites-wordpress/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Reconversion et pédagogie : ce que 13 ans d’infirmerie m’ont appris pour créer des sites WordPress",
+      "url": "https://wordpress.tv/2026/10/21/reconversion-et-pedagogie-ce-que-13-ans-dinfirmerie-mont-appris-pour-creer-des-sites-wordpress/",
+      "time": "2026-10-22T06:40:17.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/21/geo-sur-wordpress-ce-qui-marche-ce-qui-rassure-ce-qui-fait-juste-du-bruit/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "GEO sur WordPress : ce qui marche, ce qui rassure, ce qui fait juste du bruit",
+      "url": "https://wordpress.tv/2026/10/21/geo-sur-wordpress-ce-qui-marche-ce-qui-rassure-ce-qui-fait-juste-du-bruit/",
+      "time": "2026-10-22T06:37:01.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/20/von-der-idee-zur-landingpage-wie-weit-komme-ich-heute-mit-ki-und-wordpress/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Von der Idee zur Landingpage: Wie weit komme ich heute mit KI und WordPress?",
+      "url": "https://wordpress.tv/2026/10/20/von-der-idee-zur-landingpage-wie-weit-komme-ich-heute-mit-ki-und-wordpress/",
+      "time": "2026-10-20T20:25:14.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/20/the-ai-shift-change-challenges-and-opportunities-for-tech-businesses/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "The AI Shift: Change, Challenges, and Opportunities for Tech Businesses",
+      "url": "https://wordpress.tv/2026/10/20/the-ai-shift-change-challenges-and-opportunities-for-tech-businesses/",
+      "time": "2026-10-20T20:17:19.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/20/how-a-16-year-old-built-a-free-classroom-for-millions-with-wordpress/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "How a 16-Year-Old Built a Free Classroom for Millions – With WordPress",
+      "url": "https://wordpress.tv/2026/10/20/how-a-16-year-old-built-a-free-classroom-for-millions-with-wordpress/",
+      "time": "2026-10-20T20:15:51.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/20/ai-as-a-bicycle-for-the-mind-the-1968-idea-behind-human-centered-ai/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "AI as a Bicycle for the Mind: The 1968 Idea Behind Human-Centered AI",
+      "url": "https://wordpress.tv/2026/10/20/ai-as-a-bicycle-for-the-mind-the-1968-idea-behind-human-centered-ai/",
+      "time": "2026-10-20T20:15:02.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/20/payments-are-fragmented-nepali-e-commerce-shouldnt/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Payments are Fragmented, Nepali E-commerce shouldn’t",
+      "url": "https://wordpress.tv/2026/10/20/payments-are-fragmented-nepali-e-commerce-shouldnt/",
+      "time": "2026-10-20T20:13:12.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/20/trust-but-verify-securing-ai-assisted-software-development/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Trust, but Verify: Securing AI-Assisted Software Development",
+      "url": "https://wordpress.tv/2026/10/20/trust-but-verify-securing-ai-assisted-software-development/",
+      "time": "2026-10-20T20:11:51.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/20/my-ai-powered-development-workflow/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "My AI-Powered Development Workflow",
+      "url": "https://wordpress.tv/2026/10/20/my-ai-powered-development-workflow/",
+      "time": "2026-10-20T19:13:49.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/20/what-running-wordpress-at-scale-taught-me-2/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "What Running WordPress at Scale Taught Me",
+      "url": "https://wordpress.tv/2026/10/20/what-running-wordpress-at-scale-taught-me-2/",
+      "time": "2026-10-20T19:08:36.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/20/wordpress-education-programs-what-they-are-and-how-you-can-be-part-of-it/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "WordPress Education Programs: What They Are and How You Can Be Part of It?",
+      "url": "https://wordpress.tv/2026/10/20/wordpress-education-programs-what-they-are-and-how-you-can-be-part-of-it/",
+      "time": "2026-10-20T19:06:18.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/20/my-3c-playbook-for-turning-conversations-into-clients/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "My 3C Playbook for Turning Conversations Into Clients",
+      "url": "https://wordpress.tv/2026/10/20/my-3c-playbook-for-turning-conversations-into-clients/",
+      "time": "2026-10-20T19:02:31.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/20/foss-licensing-everything-every-developer-should-know/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "FOSS & Licensing: Everything Every Developer Should Know",
+      "url": "https://wordpress.tv/2026/10/20/foss-licensing-everything-every-developer-should-know/",
+      "time": "2026-10-20T18:59:51.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/20/ai-should-serve-people-heres-how-to-make-sure-it-does/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "AI Should Serve People: Here’s How to Make Sure It Does",
+      "url": "https://wordpress.tv/2026/10/20/ai-should-serve-people-heres-how-to-make-sure-it-does/",
+      "time": "2026-10-20T18:53:47.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/20/wordpress-campus-connect-ahmad-education/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "WordPress Campus Connect Ahmad Education",
+      "url": "https://wordpress.tv/2026/10/20/wordpress-campus-connect-ahmad-education/",
+      "time": "2026-10-20T18:48:13.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/19/cierre-wordcamp-galicia-2026/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Cierre WordCamp Galicia 2026",
+      "url": "https://wordpress.tv/2026/10/19/cierre-wordcamp-galicia-2026/",
+      "time": "2026-10-19T19:39:50.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/19/despliegues-agiles-de-wordpress-con-ia/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Despliegues ágiles de WordPress con IA",
+      "url": "https://wordpress.tv/2026/10/19/despliegues-agiles-de-wordpress-con-ia/",
+      "time": "2026-10-19T19:28:23.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/19/fomo-jomo-se-nos-esta-yendo-la-olla/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "FOMO / JOMO: ¿se nos está yendo la olla?",
+      "url": "https://wordpress.tv/2026/10/19/fomo-jomo-se-nos-esta-yendo-la-olla/",
+      "time": "2026-10-19T19:26:29.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/19/wordpress-para-todos-demostrando-la-importancia-de-la-accesibilidad-web/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "WordPress para todos: demostrando la importancia de la accesibilidad web",
+      "url": "https://wordpress.tv/2026/10/19/wordpress-para-todos-demostrando-la-importancia-de-la-accesibilidad-web/",
+      "time": "2026-10-19T19:19:11.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/19/o-rss-esta-de-volta-ponte-ao-dia-cos-feeds-de-wordpress/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "O RSS está de volta! Ponte ao día cos feeds de WordPress",
+      "url": "https://wordpress.tv/2026/10/19/o-rss-esta-de-volta-ponte-ao-dia-cos-feeds-de-wordpress/",
+      "time": "2026-10-19T19:14:08.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/19/que-deberia-conecer-para-comezar-en-wp/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Que debería coñecer para comezar en WP?",
+      "url": "https://wordpress.tv/2026/10/19/que-deberia-conecer-para-comezar-en-wp/",
+      "time": "2026-10-19T19:12:47.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/19/los-10-errores-legales-mas-comunes-en-las-webs-hechas-con-wordpress/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Los 10 errores legales más comunes en las webs hechas con WordPress",
+      "url": "https://wordpress.tv/2026/10/19/los-10-errores-legales-mas-comunes-en-las-webs-hechas-con-wordpress/",
+      "time": "2026-10-19T18:29:20.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/19/expectativas-vs-realidad-como-con-shein-pero-ahora-hablando-de-tu-proyecto/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Expectativas vs realidad, como con Shein pero ahora hablando de tu proyecto",
+      "url": "https://wordpress.tv/2026/10/19/expectativas-vs-realidad-como-con-shein-pero-ahora-hablando-de-tu-proyecto/",
+      "time": "2026-10-19T18:27:18.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/19/mesa-redonda-comunidades/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Mesa redonda Comunidades",
+      "url": "https://wordpress.tv/2026/10/19/mesa-redonda-comunidades/",
+      "time": "2026-10-19T18:16:54.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/19/tu-web-es-multilingue-pero-google-no-lo-entiende-las-claves-de-hreflang-en-wordpress/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "¿Tu web es multilingüe pero Google no lo entiende? Las claves de hreflang en WordPress",
+      "url": "https://wordpress.tv/2026/10/19/tu-web-es-multilingue-pero-google-no-lo-entiende-las-claves-de-hreflang-en-wordpress/",
+      "time": "2026-10-19T18:07:07.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/19/optimizar-el-checkout-de-woocommerce-segun-el-tipo-de-negocio/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Optimizar el checkout de WooCommerce según el tipo de negocio",
+      "url": "https://wordpress.tv/2026/10/19/optimizar-el-checkout-de-woocommerce-segun-el-tipo-de-negocio/",
+      "time": "2026-10-19T18:02:44.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/19/el-futuro-de-los-profesionales-con-la-ia/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "El futuro de los profesionales con la IA",
+      "url": "https://wordpress.tv/2026/10/19/el-futuro-de-los-profesionales-con-la-ia/",
+      "time": "2026-10-19T17:46:51.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/19/el-futuro-de-la-ia-en-wordpress-orquestando-la-interactivity-api-block-bindings-y-llms/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "El futuro de la IA en WordPress: Orquestando la Interactivity API, Block Bindings y LLMs",
+      "url": "https://wordpress.tv/2026/10/19/el-futuro-de-la-ia-en-wordpress-orquestando-la-interactivity-api-block-bindings-y-llms/",
+      "time": "2026-10-19T17:40:03.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/19/disenar-mejor-en-wordpress-con-ayuda-de-ia/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Diseñar mejor en WordPress con ayuda de IA",
+      "url": "https://wordpress.tv/2026/10/19/disenar-mejor-en-wordpress-con-ayuda-de-ia/",
+      "time": "2026-10-19T17:37:00.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/19/houston-temos-un-pedido-a-odisea-de-internacionalizar-o-teu-woocommerce/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Houston, temos un pedido: A odisea de internacionalizar o teu WooCommerce!",
+      "url": "https://wordpress.tv/2026/10/19/houston-temos-un-pedido-a-odisea-de-internacionalizar-o-teu-woocommerce/",
+      "time": "2026-10-19T17:26:07.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/19/erase-unha-vez-un-proxecto-open-source/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Érase unha vez un proxecto Open Source",
+      "url": "https://wordpress.tv/2026/10/19/erase-unha-vez-un-proxecto-open-source/",
+      "time": "2026-10-19T17:24:44.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/19/coding-the-future-a-developers-guide-to-registering-wordpress-abilities/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Coding the Future: A Developer’s Guide to Registering WordPress Abilities",
+      "url": "https://wordpress.tv/2026/10/19/coding-the-future-a-developers-guide-to-registering-wordpress-abilities/",
+      "time": "2026-10-19T17:17:18.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/19/the-browser-is-the-agent-running-local-autonomous-ai-in-wordpress/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "The Browser is the Agent: Running Local, Autonomous AI in WordPress",
+      "url": "https://wordpress.tv/2026/10/19/the-browser-is-the-agent-running-local-autonomous-ai-in-wordpress/",
+      "time": "2026-10-19T17:13:33.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/19/apertura-wordcamp-galicia-2026/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Apertura WordCamp Galicia 2026",
+      "url": "https://wordpress.tv/2026/10/19/apertura-wordcamp-galicia-2026/",
+      "time": "2026-10-19T17:04:36.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/19/fast-seo-how-to-find-quick-wins-in-google-and-ai-search/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Fast SEO: How to Find Quick Wins in Google and AI Search",
+      "url": "https://wordpress.tv/2026/10/19/fast-seo-how-to-find-quick-wins-in-google-and-ai-search/",
+      "time": "2026-10-19T09:45:55.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/19/deep-insights-you-can-use-to-speed-up-wordpress/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Deep insights you can use to speed up WordPress",
+      "url": "https://wordpress.tv/2026/10/19/deep-insights-you-can-use-to-speed-up-wordpress/",
+      "time": "2026-10-19T09:44:47.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/19/from-open-web-to-ai-era/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "From Open Web to AI Era",
+      "url": "https://wordpress.tv/2026/10/19/from-open-web-to-ai-era/",
+      "time": "2026-10-19T09:30:34.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/19/pivots-and-burnout-what-i-learned-the-hard-way-that-every-wordpress-freelancer-should-know-before/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Pivots and Burnout: What I Learned (the Hard Way) That Every WordPress Freelancer Should Know Before",
+      "url": "https://wordpress.tv/2026/10/19/pivots-and-burnout-what-i-learned-the-hard-way-that-every-wordpress-freelancer-should-know-before/",
+      "time": "2026-10-19T09:26:49.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/19/what-running-wordpress-at-scale-taught-me/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "What Running WordPress at Scale Taught Me",
+      "url": "https://wordpress.tv/2026/10/19/what-running-wordpress-at-scale-taught-me/",
+      "time": "2026-10-19T09:21:19.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/19/creating-your-ai-os/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Creating Your AI OS",
+      "url": "https://wordpress.tv/2026/10/19/creating-your-ai-os/",
+      "time": "2026-10-19T09:16:44.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/19/remote-work-starter-lab/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Remote Work Starter Lab",
+      "url": "https://wordpress.tv/2026/10/19/remote-work-starter-lab/",
+      "time": "2026-10-19T09:05:48.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/19/the-ai-project-brain-using-notebooklm-to-align-business-goals-seo-and-ux/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "The AI Project Brain: Using NotebookLM to Align Business Goals, SEO, and UX",
+      "url": "https://wordpress.tv/2026/10/19/the-ai-project-brain-using-notebooklm-to-align-business-goals-seo-and-ux/",
+      "time": "2026-10-19T08:54:50.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/19/how-a-small-wordpress-agency-manages-remote-teams-across-time-zones/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "How a Small WordPress Agency Manages Remote Teams Across Time Zones",
+      "url": "https://wordpress.tv/2026/10/19/how-a-small-wordpress-agency-manages-remote-teams-across-time-zones/",
+      "time": "2026-10-19T08:51:32.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/19/open-talks-que-hace-la-comunidad-3-proyectos-reales/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Open talks: ¿Qué hace la comunidad? 3 proyectos reales",
+      "url": "https://wordpress.tv/2026/10/19/open-talks-que-hace-la-comunidad-3-proyectos-reales/",
+      "time": "2026-10-19T08:41:47.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/18/decolonizing-ai-designing-ai-beyond-silicon-valley/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Decolonizing AI: Designing AI Beyond Silicon Valley",
+      "url": "https://wordpress.tv/2026/10/18/decolonizing-ai-designing-ai-beyond-silicon-valley/",
+      "time": "2026-10-18T11:37:04.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/18/human-intelligence-in-the-age-of-ai-success-strategies-beyond-automation/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Human Intelligence in the Age of AI: Success Strategies Beyond Automation",
+      "url": "https://wordpress.tv/2026/10/18/human-intelligence-in-the-age-of-ai-success-strategies-beyond-automation/",
+      "time": "2026-10-18T11:32:31.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/18/a-decade-in-digital-agencies-what-actually-stuck/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "A Decade in Digital Agencies: What Actually Stuck",
+      "url": "https://wordpress.tv/2026/10/18/a-decade-in-digital-agencies-what-actually-stuck/",
+      "time": "2026-10-18T11:21:19.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/18/local-seo-in-2026/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Local SEO in 2026",
+      "url": "https://wordpress.tv/2026/10/18/local-seo-in-2026/",
+      "time": "2026-10-18T11:15:52.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/18/wordpress-7-que-hay-de-nuevo/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "WordPress 7: ¿Qué hay de nuevo?",
+      "url": "https://wordpress.tv/2026/10/18/wordpress-7-que-hay-de-nuevo/",
+      "time": "2026-10-18T10:58:56.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/15/najpierw-dzialasz-potem-zaczynasz-sobie-ufac/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Najpierw działasz. Potem zaczynasz sobie ufać",
+      "url": "https://wordpress.tv/2026/10/15/najpierw-dzialasz-potem-zaczynasz-sobie-ufac/",
+      "time": "2026-10-15T09:14:49.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/14/zmierzylem-60-000-wtyczek-prawie-wszystkie-sa-szybkie-czemu-twoja-strona-kuleje/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Zmierzylem 60 000 wtyczek. Prawie wszystkie są szybkie. Czemu Twoja strona kuleje?",
+      "url": "https://wordpress.tv/2026/10/14/zmierzylem-60-000-wtyczek-prawie-wszystkie-sa-szybkie-czemu-twoja-strona-kuleje/",
+      "time": "2026-10-14T20:33:18.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/14/vps-czy-hosting-wspoldzielony-co-naprawde-jest-bezpieczniejsze-dla-wordpressa/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "VPS czy hosting współdzielony? Co naprawdę jest bezpieczniejsze dla WordPressa?",
+      "url": "https://wordpress.tv/2026/10/14/vps-czy-hosting-wspoldzielony-co-naprawde-jest-bezpieczniejsze-dla-wordpressa/",
+      "time": "2026-10-14T20:33:09.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/14/reprint-przenies-wordpressa-na-inny-serwer-synchronizuj-zmiany/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Reprint: Przenieś WordPressa na inny serwer, synchronizuj zmiany",
+      "url": "https://wordpress.tv/2026/10/14/reprint-przenies-wordpressa-na-inny-serwer-synchronizuj-zmiany/",
+      "time": "2026-10-14T20:33:00.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/14/geo-na-wordpressie-co-zrobic-zeby-twoja-strone-cytowaly-llmy/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "GEO na WordPressie: co zrobić, żeby Twoją stronę cytowały LLM’y",
+      "url": "https://wordpress.tv/2026/10/14/geo-na-wordpressie-co-zrobic-zeby-twoja-strone-cytowaly-llmy/",
+      "time": "2026-10-14T20:32:51.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/14/jak-wypalic-neuroatypowego-pracownika/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Jak wypalić neuroatypowego pracownika?",
+      "url": "https://wordpress.tv/2026/10/14/jak-wypalic-neuroatypowego-pracownika/",
+      "time": "2026-10-14T20:32:42.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/14/na-poczatku-bylo-slowo/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Na początku było Słowo…",
+      "url": "https://wordpress.tv/2026/10/14/na-poczatku-bylo-slowo/",
+      "time": "2026-10-14T20:32:33.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/14/sroka-na-tropie-fake-newsow-jak-chronic-wordpressa-przed-dezinformacja/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Sroka na tropie fake newsów. Jak chronić WordPressa przed dezinformacją",
+      "url": "https://wordpress.tv/2026/10/14/sroka-na-tropie-fake-newsow-jak-chronic-wordpressa-przed-dezinformacja/",
+      "time": "2026-10-14T20:32:00.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/14/od-pisania-kodu-do-jego-rezyserii-jak-ai-zmienilo-moja-codzienna-prace-w-it/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Od pisania kodu do jego reżyserii: Jak AI zmieniło moją codzienną pracę w IT",
+      "url": "https://wordpress.tv/2026/10/14/od-pisania-kodu-do-jego-rezyserii-jak-ai-zmienilo-moja-codzienna-prace-w-it/",
+      "time": "2026-10-14T20:31:52.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/14/zwykla-praca-wielkie-marzenia-jak-przestac-czekac-na-idealny-moment/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Zwykła praca, wielkie marzenia. Jak przestać czekać na idealny moment.",
+      "url": "https://wordpress.tv/2026/10/14/zwykla-praca-wielkie-marzenia-jak-przestac-czekac-na-idealny-moment/",
+      "time": "2026-10-14T20:31:42.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/14/klient-kupuje-zanim-napisze-wiadomosc-jak-budowac-zaufanie-jeszcze-przed-pierwszym-kontaktem/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Klient kupuje, zanim napisze wiadomość. Jak budować zaufanie jeszcze przed pierwszym kontaktem.",
+      "url": "https://wordpress.tv/2026/10/14/klient-kupuje-zanim-napisze-wiadomosc-jak-budowac-zaufanie-jeszcze-przed-pierwszym-kontaktem/",
+      "time": "2026-10-14T20:31:34.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/14/klient-klamie-i-co-z-tego/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Klient kłamie! I co z tego?",
+      "url": "https://wordpress.tv/2026/10/14/klient-klamie-i-co-z-tego/",
+      "time": "2026-10-14T20:31:24.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/14/na-tiktoku-nie-ma-klientow-ile-kosztuje-cie-to-przekonanie-w-twoim-biznesie/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Na TikToku nie ma klientów? Ile kosztuje Cię to przekonanie w Twoim biznesie?",
+      "url": "https://wordpress.tv/2026/10/14/na-tiktoku-nie-ma-klientow-ile-kosztuje-cie-to-przekonanie-w-twoim-biznesie/",
+      "time": "2026-10-14T20:30:55.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/14/value-proposition-canvas-w-praktyce-zanim-wypuscisz-oferte-sprawdz-czego-naprawde-chce-klient/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Value Proposition Canvas w praktyce. Zanim wypuścisz ofertę, sprawdź czego naprawdę chce klient",
+      "url": "https://wordpress.tv/2026/10/14/value-proposition-canvas-w-praktyce-zanim-wypuscisz-oferte-sprawdz-czego-naprawde-chce-klient/",
+      "time": "2026-10-14T20:30:45.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/14/strona-to-nie-caly-system-sprzedazy-co-musi-sie-wydarzyc-przed-i-po-kliknieciu-wyslij/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Strona to nie cały system sprzedaży. Co musi się wydarzyć przed i po kliknięciu „Wyślij”?",
+      "url": "https://wordpress.tv/2026/10/14/strona-to-nie-caly-system-sprzedazy-co-musi-sie-wydarzyc-przed-i-po-kliknieciu-wyslij/",
+      "time": "2026-10-14T20:30:37.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/14/seo-dla-poczatkujacych-5-rzeczy-ktore-zrobisz-w-wordpressie-jeszcze-dzis/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "SEO dla początkujących: 5 rzeczy, które zrobisz w WordPressie jeszcze dziś",
+      "url": "https://wordpress.tv/2026/10/14/seo-dla-poczatkujacych-5-rzeczy-ktore-zrobisz-w-wordpressie-jeszcze-dzis/",
+      "time": "2026-10-14T20:30:28.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/14/the-promotion-trap-why-your-best-engineer-just-became-your-worst-leader-and-the-one-framework-that-fixes-it/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "The Promotion Trap. Why Your Best Engineer Just Became Your Worst Leader (And the One Framework That Fixes It)",
+      "url": "https://wordpress.tv/2026/10/14/the-promotion-trap-why-your-best-engineer-just-became-your-worst-leader-and-the-one-framework-that-fixes-it/",
+      "time": "2026-10-14T20:30:19.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/14/budowanie-marki-w-seo-to-bzdura/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Budowanie marki w SEO to bzdura!?",
+      "url": "https://wordpress.tv/2026/10/14/budowanie-marki-w-seo-to-bzdura/",
+      "time": "2026-10-14T20:29:49.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/14/wordpress-at-tens-of-millions-of-requests-postmeta-indexes-and-other-bottlenecks/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "WordPress at Tens of Millions of Requests: postmeta, indexes and other bottlenecks",
+      "url": "https://wordpress.tv/2026/10/14/wordpress-at-tens-of-millions-of-requests-postmeta-indexes-and-other-bottlenecks/",
+      "time": "2026-10-14T20:29:40.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/14/where-accessibility-actually-breaks/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Where Accessibility Actually Breaks",
+      "url": "https://wordpress.tv/2026/10/14/where-accessibility-actually-breaks/",
+      "time": "2026-10-14T20:29:31.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/14/jak-zaindeksowac-w-100-witryne-na-wordpressie-przy-wsparciu-search-console/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Jak zaindeksować w 100% witrynę na WordPressie przy wsparciu Search Console?",
+      "url": "https://wordpress.tv/2026/10/14/jak-zaindeksowac-w-100-witryne-na-wordpressie-przy-wsparciu-search-console/",
+      "time": "2026-10-14T20:29:21.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/14/znalezione-na-produkcji-perelki-z-audytow-calkiem-duzych-stron/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Znalezione na produkcji. Perełki z audytów całkiem dużych stron",
+      "url": "https://wordpress.tv/2026/10/14/znalezione-na-produkcji-perelki-z-audytow-calkiem-duzych-stron/",
+      "time": "2026-10-14T20:29:13.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/14/zaufanie-pod-kontrola-czego-ucza-nas-wspolczesne-ataki-supply-chain/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Zaufanie pod kontrolą: czego uczą nas współczesne ataki supply chain?",
+      "url": "https://wordpress.tv/2026/10/14/zaufanie-pod-kontrola-czego-ucza-nas-wspolczesne-ataki-supply-chain/",
+      "time": "2026-10-14T20:28:44.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/14/kto-dzis-pisze-zaklecia/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Kto dziś pisze zaklęcia?",
+      "url": "https://wordpress.tv/2026/10/14/kto-dzis-pisze-zaklecia/",
+      "time": "2026-10-14T20:28:35.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/14/mobbing-a-b2b-ryzyko-koszty-i-nowe-przepisy/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Mobbing a B2B. Ryzyko, koszty i nowe przepisy.",
+      "url": "https://wordpress.tv/2026/10/14/mobbing-a-b2b-ryzyko-koszty-i-nowe-przepisy/",
+      "time": "2026-10-14T20:28:27.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/14/wp-admin-wp-cron-wp-agent/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "wp-admin, wp-cron, wp-agent",
+      "url": "https://wordpress.tv/2026/10/14/wp-admin-wp-cron-wp-agent/",
+      "time": "2026-10-14T20:28:18.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/14/sklep-bez-programisty-instrukcja-od-programisty/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Sklep bez programisty. Instrukcja od programisty.",
+      "url": "https://wordpress.tv/2026/10/14/sklep-bez-programisty-instrukcja-od-programisty/",
+      "time": "2026-10-14T20:28:09.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/14/pinegrow-jak-buduje-motywy-wordpress-nie-znajac-php/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Pinegrow: jak buduję motywy WordPress, nie znając PHP?",
+      "url": "https://wordpress.tv/2026/10/14/pinegrow-jak-buduje-motywy-wordpress-nie-znajac-php/",
+      "time": "2026-10-14T20:27:40.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/14/jak-zmienic-wiedze-techniczna-w-skuteczny-warsztat-lub-kurs-metodyka-projektowania-procesow-rozwojowych-i-edukacyjnych/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Jak zmienić wiedzę techniczną w skuteczny warsztat lub kurs? Metodyka projektowania procesów rozwojowych i edukacyjnych",
+      "url": "https://wordpress.tv/2026/10/14/jak-zmienic-wiedze-techniczna-w-skuteczny-warsztat-lub-kurs-metodyka-projektowania-procesow-rozwojowych-i-edukacyjnych/",
+      "time": "2026-10-14T20:27:31.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/14/ai-zrobi-ci-slajd-ale-czy-zrobi-ci-wow/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "AI zrobi Ci slajd. Ale czy zrobi Ci „WOW”?",
+      "url": "https://wordpress.tv/2026/10/14/ai-zrobi-ci-slajd-ale-czy-zrobi-ci-wow/",
+      "time": "2026-10-14T20:27:22.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/14/woocommerce-pod-lupa-danych-czyli-jak-znalezc-powody-porzucania-koszykow/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "WooCommerce pod lupą danych, czyli jak znaleźć powody porzucania koszyków?",
+      "url": "https://wordpress.tv/2026/10/14/woocommerce-pod-lupa-danych-czyli-jak-znalezc-powody-porzucania-koszykow/",
+      "time": "2026-10-14T20:27:13.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/14/spolecznosc-to-nie-slack-jak-budowac-relacje-ktore-przetrwaja-konferencje/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Społeczność to nie Slack — jak budować relacje, które przetrwają konferencję",
+      "url": "https://wordpress.tv/2026/10/14/spolecznosc-to-nie-slack-jak-budowac-relacje-ktore-przetrwaja-konferencje/",
+      "time": "2026-10-14T20:27:05.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/14/rok-pozniej-co-wydarzylo-sie-w-edukacyjnych-programach-wordpressa/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Rok później: co wydarzyło się w edukacyjnych programach WordPressa",
+      "url": "https://wordpress.tv/2026/10/14/rok-pozniej-co-wydarzylo-sie-w-edukacyjnych-programach-wordpressa/",
+      "time": "2026-10-14T20:26:36.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/14/linkedin-cie-irytuje-swietnie-to-znaczy-ze-dotad-uzywales-tej-platformy-tak-samo-zle-jak-wszyscy-inni/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "LinkedIn Cię irytuje? Świetnie, to znaczy że dotąd używałeś tej platformy tak samo źle jak wszyscy inni.",
+      "url": "https://wordpress.tv/2026/10/14/linkedin-cie-irytuje-swietnie-to-znaczy-ze-dotad-uzywales-tej-platformy-tak-samo-zle-jak-wszyscy-inni/",
+      "time": "2026-10-14T20:26:27.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/14/ekspert-ktorego-nikt-nie-znajdzie/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Ekspert, którego nikt nie znajdzie",
+      "url": "https://wordpress.tv/2026/10/14/ekspert-ktorego-nikt-nie-znajdzie/",
+      "time": "2026-10-14T20:26:15.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/14/jak-domena-wplywa-na-sukces-strony-internetowej/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Jak domena wpływa na sukces strony internetowej?",
+      "url": "https://wordpress.tv/2026/10/14/jak-domena-wplywa-na-sukces-strony-internetowej/",
+      "time": "2026-10-14T20:26:06.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/14/system-ktorym-wycisniesz-wiecej-z-podcastu/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "System, którym wyciśniesz więcej z podcastu",
+      "url": "https://wordpress.tv/2026/10/14/system-ktorym-wycisniesz-wiecej-z-podcastu/",
+      "time": "2026-10-14T20:25:11.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/14/optymalizacja-wydajnosci-wordpressa-z-agentami-ai-w-loopie/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Optymalizacja wydajności WordPressa z agentami AI w loopie",
+      "url": "https://wordpress.tv/2026/10/14/optymalizacja-wydajnosci-wordpressa-z-agentami-ai-w-loopie/",
+      "time": "2026-10-14T20:25:03.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/14/integracja-systemow-w-e-commerce-od-zamowienia-do-ksiegowosci-z-ksef/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Integracja systemów w e-commerce: od zamówienia do księgowości z KSeF",
+      "url": "https://wordpress.tv/2026/10/14/integracja-systemow-w-e-commerce-od-zamowienia-do-ksiegowosci-z-ksef/",
+      "time": "2026-10-14T20:24:54.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/14/gdzie-jest-moja-strona-migracja-klienta-w-praktyce/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Gdzie jest moja strona? Migracja klienta w praktyce",
+      "url": "https://wordpress.tv/2026/10/14/gdzie-jest-moja-strona-migracja-klienta-w-praktyce/",
+      "time": "2026-10-14T20:24:45.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/14/nauka-programowania-w-dobie-ai-potrzebna-umiejetnosc-czy-relikt-przeszlosci/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Nauka programowania w dobie AI – potrzebna umiejętność czy relikt przeszłości?",
+      "url": "https://wordpress.tv/2026/10/14/nauka-programowania-w-dobie-ai-potrzebna-umiejetnosc-czy-relikt-przeszlosci/",
+      "time": "2026-10-14T20:24:36.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/14/wordpress-pokaz-co-potrafisz/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "WordPress, pokaż co potrafisz!",
+      "url": "https://wordpress.tv/2026/10/14/wordpress-pokaz-co-potrafisz/",
+      "time": "2026-10-14T20:24:27.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/14/poczuj-sie-odwaznie-przed-obiektywem-jak-budowac-autentyczna-marke-osobista-uzywajac-fotografii/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Poczuj się (od)ważnie przed obiektywem. Jak budować autentyczną markę osobistą używając fotografii?",
+      "url": "https://wordpress.tv/2026/10/14/poczuj-sie-odwaznie-przed-obiektywem-jak-budowac-autentyczna-marke-osobista-uzywajac-fotografii/",
+      "time": "2026-10-14T20:23:52.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/14/to-dry-or-not-to-dry-dlaczego-w-czasach-ai-generowanych-stron-warto-budowac-wlasne-systemy-design-tokens/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "To DRY or not to DRY? Dlaczego w czasach AI-generowanych stron warto budować własne systemy design tokens.",
+      "url": "https://wordpress.tv/2026/10/14/to-dry-or-not-to-dry-dlaczego-w-czasach-ai-generowanych-stron-warto-budowac-wlasne-systemy-design-tokens/",
+      "time": "2026-10-14T20:23:43.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/14/tata-na-sterydach-ai/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Tata na sterydach AI",
+      "url": "https://wordpress.tv/2026/10/14/tata-na-sterydach-ai/",
+      "time": "2026-10-14T20:23:34.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/14/jak-przejsc-od-eksperta-do-organizacji-ktora-nie-potrzebuje-wlasciciela-do-wszystkiego/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Jak przejść od eksperta do organizacji, która nie potrzebuje właściciela do wszystkiego",
+      "url": "https://wordpress.tv/2026/10/14/jak-przejsc-od-eksperta-do-organizacji-ktora-nie-potrzebuje-wlasciciela-do-wszystkiego/",
+      "time": "2026-10-14T20:23:25.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/14/zgralem-swoja-firme-na-dyskietke/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Zgrałem swoją firmę na dyskietkę",
+      "url": "https://wordpress.tv/2026/10/14/zgralem-swoja-firme-na-dyskietke/",
+      "time": "2026-10-14T20:21:24.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/13/et-si-une-ia-testait-votre-site-a-votre-place-apres-chaque-mise-a-jour/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Et si une IA testait votre site à votre place après chaque mise à jour ?",
+      "url": "https://wordpress.tv/2026/10/13/et-si-une-ia-testait-votre-site-a-votre-place-apres-chaque-mise-a-jour/",
+      "time": "2026-10-13T09:08:45.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/13/etre-une-femme-dans-le-web-du-syndrome-de-limposteur-a-lempowerment/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Être une femme dans le web : du syndrome de l’imposteur à l’empowerment",
+      "url": "https://wordpress.tv/2026/10/13/etre-une-femme-dans-le-web-du-syndrome-de-limposteur-a-lempowerment/",
+      "time": "2026-10-13T09:06:31.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/13/emojis-quand-les-%f0%9f%98%82-rencontrent-les-%f0%9f%91%93/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Emojis : quand les 😂 rencontrent les 👓",
+      "url": "https://wordpress.tv/2026/10/13/emojis-quand-les-%f0%9f%98%82-rencontrent-les-%f0%9f%91%93/",
+      "time": "2026-10-13T08:30:48.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/07/10-ans-de-wordpress-cote-client-dun-site-vitrine-a-une-plateforme-connectee-presque-autonome/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "10 ans de WordPress côté client : d’un site vitrine à une plateforme connectée (presque) autonome",
+      "url": "https://wordpress.tv/2026/10/07/10-ans-de-wordpress-cote-client-dun-site-vitrine-a-une-plateforme-connectee-presque-autonome/",
+      "time": "2026-10-08T06:47:51.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/07/lia-a-change-votre-facon-de-produire-elle-a-aussi-augmente-vos-risques-comment-vous-proteger/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "L’IA a changé votre façon de produire. Elle a aussi augmenté vos risques. Comment vous protéger ?",
+      "url": "https://wordpress.tv/2026/10/07/lia-a-change-votre-facon-de-produire-elle-a-aussi-augmente-vos-risques-comment-vous-proteger/",
+      "time": "2026-10-08T06:30:41.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/07/et-si-on-organisait-des-reunions-pas-chiantes/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Et si on organisait des réunions pas chiantes ?",
+      "url": "https://wordpress.tv/2026/10/07/et-si-on-organisait-des-reunions-pas-chiantes/",
+      "time": "2026-10-07T07:15:23.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/07/wordpress-est-un-logiciel-politise/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "WordPress est un logiciel politisé",
+      "url": "https://wordpress.tv/2026/10/07/wordpress-est-un-logiciel-politise/",
+      "time": "2026-10-07T07:06:32.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/10/06/comment-lancer-un-plugin-premium-wordpress-en-2026/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Comment lancer un plugin premium WordPress en 2026 ?",
+      "url": "https://wordpress.tv/2026/10/06/comment-lancer-un-plugin-premium-wordpress-en-2026/",
+      "time": "2026-10-07T06:38:12.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:learn-courses:https://learn.wordpress.org/course/wp-credits-foundations-haaga-helia/",
+      "source": "site",
+      "teams": [
+        "training"
+      ],
+      "type": "course",
+      "title": "WP Credits Foundations – Haaga-Helia",
+      "url": "https://learn.wordpress.org/course/wp-credits-foundations-haaga-helia/",
+      "time": "2026-10-21T15:38:29.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "Learn WordPress courses"
+    },
+    {
+      "id": "site:learn-courses:https://learn.wordpress.org/course/wordpress-credits-intro-to-contribution/",
+      "source": "site",
+      "teams": [
+        "training"
+      ],
+      "type": "course",
+      "title": "WordPress Credits – Intro to Contribution",
+      "url": "https://learn.wordpress.org/course/wordpress-credits-intro-to-contribution/",
+      "time": "2026-10-09T15:58:10.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "Learn WordPress courses"
+    },
+    {
+      "source": "trac",
+      "teams": [
+        "core"
+      ],
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "time": "2026-11-19T18:17:23.000Z",
+      "id": "trac:core:ticket:56897",
+      "type": "ticket",
+      "title": "#56897 First time contributor welcome message improvements",
+      "status": "closed",
+      "url": "https://core.trac.wordpress.org/ticket/56897#comment:26"
+    },
+    {
+      "source": "trac",
+      "teams": [
+        "core"
+      ],
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "time": "2026-11-19T16:49:55.000Z",
+      "id": "trac:core:ticket:66211",
+      "type": "ticket",
+      "title": "#66211 Tests: Make PHPUnit data providers public and static",
+      "status": "closed",
+      "url": "https://core.trac.wordpress.org/ticket/66211#comment:332"
+    },
+    {
+      "source": "trac",
+      "teams": [
+        "core"
+      ],
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "time": "2026-11-19T16:43:13.000Z",
+      "id": "trac:core:ticket:66229",
+      "type": "ticket",
+      "title": "#66229 Register and filter fields for DataViews/DataForm in the server",
+      "status": "reopened",
+      "url": "https://core.trac.wordpress.org/ticket/66229#comment:23"
+    },
+    {
+      "source": "trac",
+      "teams": [
+        "core"
+      ],
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "time": "2026-11-19T15:24:00.000Z",
+      "id": "trac:core:ticket:66758",
+      "type": "ticket",
+      "title": "#66758 Update outdated Apache 2.2 documentation link and fix file span ...",
+      "status": "created",
+      "url": "https://core.trac.wordpress.org/ticket/66758"
+    },
+    {
       "source": "trac",
       "teams": [
         "core"
@@ -9415,58 +12385,44 @@
     {
       "source": "trac",
       "teams": [
-        "core"
+        "meta"
       ],
       "ask": "none",
       "personas": [],
       "confidence": 1,
-      "time": "2026-11-18T18:43:10.000Z",
-      "id": "trac:core:changeset:65638",
+      "time": "2026-11-19T18:10:53.000Z",
+      "id": "trac:meta:changeset:15634",
       "type": "commit",
-      "title": "[65638] WordPress 5.5.25.",
-      "url": "https://core.trac.wordpress.org/changeset/65638"
+      "title": "[15634] BuddyPress.org/bbPress.org: Keep showcase and footer content inset at ...",
+      "url": "https://meta.trac.wordpress.org/changeset/15634"
     },
     {
       "source": "trac",
       "teams": [
-        "core"
+        "meta"
       ],
       "ask": "none",
       "personas": [],
       "confidence": 1,
-      "time": "2026-11-18T18:42:44.000Z",
-      "id": "trac:core:changeset:65637",
+      "time": "2026-11-19T17:36:45.000Z",
+      "id": "trac:meta:changeset:15633",
       "type": "commit",
-      "title": "[65637] WordPress 5.6.24.",
-      "url": "https://core.trac.wordpress.org/changeset/65637"
+      "title": "[15633] BuddyPress.org/bbPress.org: Align showcase text on narrow screens.  ...",
+      "url": "https://meta.trac.wordpress.org/changeset/15633"
     },
     {
       "source": "trac",
       "teams": [
-        "core"
+        "meta"
       ],
       "ask": "none",
       "personas": [],
       "confidence": 1,
-      "time": "2026-11-18T18:35:16.000Z",
-      "id": "trac:core:changeset:65636",
+      "time": "2026-11-19T15:53:59.000Z",
+      "id": "trac:meta:changeset:15632",
       "type": "commit",
-      "title": "[65636] WordPress 5.8.20.",
-      "url": "https://core.trac.wordpress.org/changeset/65636"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "core"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-18T18:34:49.000Z",
-      "id": "trac:core:changeset:65635",
-      "type": "commit",
-      "title": "[65635] WordPress 5.9.21.",
-      "url": "https://core.trac.wordpress.org/changeset/65635"
+      "title": "[15632] Make (Get Involved) / P2: Keep code blocks highlighted after following ...",
+      "url": "https://meta.trac.wordpress.org/changeset/15632"
     },
     {
       "source": "trac",
@@ -10888,43 +13844,45 @@
       "url": "https://meta.trac.wordpress.org/ticket/6912#comment:1"
     },
     {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-15T21:28:41.000Z",
-      "id": "trac:meta:changeset:15595",
-      "type": "commit",
-      "title": "[15595] Support Forums: Restore the user options section.  Revert [15594], ...",
-      "url": "https://meta.trac.wordpress.org/changeset/15595"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-15T21:23:47.000Z",
-      "id": "trac:meta:changeset:15594",
-      "type": "commit",
-      "title": "[15594] Support Forums: Clarify posting options.",
-      "url": "https://meta.trac.wordpress.org/changeset/15594"
-    },
-    {
-      "id": "github:WordPress/wordpress-develop#13782",
+      "id": "github:WordPress/wordpress-develop#16103",
       "source": "github",
       "teams": [
         "core"
       ],
       "type": "pull",
-      "title": "Code Quality:Remove resolved identical.alwaysFalse PHPStan baseline:",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/13782",
-      "time": "2026-11-19T15:21:02.000Z",
+      "title": "Build/Test Tools: Move the two PHPStan analyses to a new reusable workflow.",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/16103",
+      "time": "2026-11-19T18:23:48.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-develop#16108",
+      "source": "github",
+      "teams": [
+        "core"
+      ],
+      "type": "pull",
+      "title": "Sitemaps: Demonstrate adding HTTP headers to sitemap responses with existing hooks",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/16108",
+      "time": "2026-11-19T18:03:00.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-develop#16107",
+      "source": "github",
+      "teams": [
+        "core"
+      ],
+      "type": "pull",
+      "title": "45084 - added multiple order by support for term query",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/16107",
+      "time": "2026-11-19T17:56:58.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -10937,159 +13895,144 @@
         "core"
       ],
       "type": "pull",
-      "title": "Comments: Encode emoji for utf8mb3 comment columns in wp_insert_comme…",
+      "title": "Comments: Encode emoji for utf8mb3 comment columns",
       "url": "https://github.com/WordPress/wordpress-develop/pull/12673",
-      "time": "2026-11-19T15:17:02.000Z",
+      "time": "2026-11-19T17:54:03.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/wordpress-develop#16102",
+      "id": "github:WordPress/wordpress-develop#12984",
       "source": "github",
       "teams": [
         "core"
       ],
       "type": "pull",
-      "title": "Abilities API: Add the `core/terms-query`, `core/term-create`, `core/term-update` and `core/term-delete` abilities",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/16102",
-      "time": "2026-11-19T14:58:13.000Z",
+      "title": "7.1 Branch: Build/Test Tools: Skip `pull_request` triggered runs in private repos.",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/12984",
+      "time": "2026-11-19T17:48:56.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/wordpress-develop#13587",
+      "id": "github:WordPress/wordpress-develop#12988",
       "source": "github",
       "teams": [
         "core"
       ],
       "type": "pull",
-      "title": "Docs: Document the missing parameters of `render_block_core_block()`",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/13587",
-      "time": "2026-11-19T14:55:28.000Z",
+      "title": "7.0 Branch: Build/Test Tools: Skip `pull_request` triggered runs in private repos.",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/12988",
+      "time": "2026-11-19T17:48:52.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/wordpress-develop#16074",
+      "id": "github:WordPress/wordpress-develop#12985",
       "source": "github",
       "teams": [
         "core"
       ],
       "type": "pull",
-      "title": "Abilities API: Add the `core/user-create`, `core/user-update` and `core/user-delete` abilities",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/16074",
-      "time": "2026-11-19T14:50:16.000Z",
+      "title": "6.9 Branch: Build/Test Tools: Skip `pull_request` triggered runs in private repos.",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/12985",
+      "time": "2026-11-19T17:48:50.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/wordpress-develop#16103",
+      "id": "github:WordPress/wordpress-develop#12992",
       "source": "github",
       "teams": [
         "core"
       ],
       "type": "pull",
-      "title": "Build/Test Tools: Move the two PHPStan analyses to a new reusable workflow.",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/16103",
-      "time": "2026-11-19T14:46:43.000Z",
+      "title": "6.8 Branch: Build/Test Tools: Skip `pull_request` triggered runs in private repos.",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/12992",
+      "time": "2026-11-19T17:48:48.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/wordpress-develop#2362",
+      "id": "github:WordPress/wordpress-develop#16106",
       "source": "github",
       "teams": [
         "core"
       ],
       "type": "pull",
-      "title": "Add a \"file size\" column to the media library menu",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/2362",
-      "time": "2026-11-19T14:43:50.000Z",
+      "title": "Build/Test Tools: Download and retry the release zip in one job for Installation and Upgrade Tests.",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/16106",
+      "time": "2026-11-19T17:43:01.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/wordpress-develop#10892",
+      "id": "github:WordPress/wordpress-develop#15971",
       "source": "github",
       "teams": [
         "core"
       ],
       "type": "pull",
-      "title": "Abilities API: Add the `core/settings-update` ability",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/10892",
-      "time": "2026-11-19T14:35:49.000Z",
+      "title": "KSES: Keep opening brackets encoded inside allowed code elements",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/15971",
+      "time": "2026-11-19T17:31:25.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/wordpress-develop#14280",
+      "id": "github:WordPress/wordpress-develop#13918",
       "source": "github",
       "teams": [
         "core"
       ],
       "type": "pull",
-      "title": "Administration: Create site icon sizes for exact-size images in General Settings.",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/14280",
-      "time": "2026-11-19T14:15:28.000Z",
+      "title": "Emoji: Skip ignored tags with attributes in `wp_staticize_emoji()`.",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/13918",
+      "time": "2026-11-19T17:10:29.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/wordpress-develop#14501",
+      "id": "github:WordPress/wordpress-develop#16105",
       "source": "github",
       "teams": [
         "core"
       ],
       "type": "pull",
-      "title": "Multisite: Keep patterns when deleting a user from the network",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/14501",
-      "time": "2026-11-19T14:15:05.000Z",
+      "title": "Docs: Correct the indentation of closing braces in hash notation docblocks",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/16105",
+      "time": "2026-11-19T16:48:17.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/wordpress-develop#15911",
+      "id": "github:WordPress/wordpress-develop#16067",
       "source": "github",
       "teams": [
         "core"
       ],
       "type": "pull",
-      "title": "Abilities API: Reject input that sanitization makes invalid",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/15911",
-      "time": "2026-11-19T14:00:16.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/wordpress-develop#14094",
-      "source": "github",
-      "teams": [
-        "core"
-      ],
-      "type": "pull",
-      "title": "Block Supports: Add PHP helpers for block support classes and styles",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/14094",
-      "time": "2026-11-19T13:08:42.000Z",
+      "title": "Editor: Validate the entity in the entity fields reads and REST route",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/16067",
+      "time": "2026-11-19T16:40:29.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -11104,262 +14047,277 @@
       "type": "pull",
       "title": "Administration: Refresh stale post list tables",
       "url": "https://github.com/WordPress/wordpress-develop/pull/13275",
-      "time": "2026-11-19T12:34:53.000Z",
+      "time": "2026-11-19T16:15:37.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/wordpress-develop#15465",
+      "id": "github:WordPress/wordpress-develop#16028",
       "source": "github",
       "teams": [
         "core"
       ],
       "type": "pull",
-      "title": "Block Supports: Add the translate feature to the transform block support",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/15465",
-      "time": "2026-11-19T12:12:52.000Z",
+      "title": "Abilities API: Add the `core/content-create`, `core/content-update` and `core/content-delete` abilities",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/16028",
+      "time": "2026-11-19T15:51:23.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/wordpress-develop#12118",
-      "source": "github",
-      "teams": [
-        "core"
-      ],
-      "type": "pull",
-      "title": "Users: Add capability checks for self-protected users",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/12118",
-      "time": "2026-11-19T11:39:46.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#87078",
+      "id": "github:WordPress/gutenberg#87110",
       "source": "github",
       "teams": [
         "core-editor"
       ],
       "type": "pull",
-      "title": "QueryControls: Migrate ordering to UI SelectControl",
-      "url": "https://github.com/WordPress/gutenberg/pull/87078",
-      "time": "2026-11-19T15:20:56.000Z",
+      "title": "Rich text: Merge blocks on Backspace at an edge with an active format",
+      "url": "https://github.com/WordPress/gutenberg/pull/87110",
+      "time": "2026-11-19T18:24:46.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/gutenberg#87079",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "TimePicker: Migrate the month field to UI SelectControl",
-      "url": "https://github.com/WordPress/gutenberg/pull/87079",
-      "time": "2026-11-19T15:20:18.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#87090",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Writing flow: Fix paste after drag-selecting text past a table cell's edge",
-      "url": "https://github.com/WordPress/gutenberg/pull/87090",
-      "time": "2026-11-19T15:19:54.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#86969",
+      "id": "github:WordPress/gutenberg#72717",
       "source": "github",
       "teams": [
         "core-editor"
       ],
       "type": "issue",
-      "title": "Table Block: Cannot copy/paste when selecting cell text without clicking into cell first [UX]",
-      "url": "https://github.com/WordPress/gutenberg/issues/86969",
-      "time": "2026-11-19T15:15:36.000Z",
+      "title": "New notes (unnested) are not properly attached to a block when post is not saved",
+      "url": "https://github.com/WordPress/gutenberg/issues/72717",
+      "time": "2026-11-19T18:24:01.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/gutenberg#87072",
+      "id": "github:WordPress/gutenberg#87094",
       "source": "github",
       "teams": [
         "core-editor"
       ],
       "type": "pull",
-      "title": "Navigation: Prototype of the WordPress 7.3 menu editing improvements",
-      "url": "https://github.com/WordPress/gutenberg/pull/87072",
-      "time": "2026-11-19T15:14:48.000Z",
+      "title": "File: Keep the block's file when a Replace upload fails",
+      "url": "https://github.com/WordPress/gutenberg/pull/87094",
+      "time": "2026-11-19T18:23:47.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/gutenberg#86451",
+      "id": "github:WordPress/gutenberg#87081",
       "source": "github",
       "teams": [
         "core-editor"
       ],
       "type": "pull",
-      "title": "Storybook: Add Settings Page design system patterns",
-      "url": "https://github.com/WordPress/gutenberg/pull/86451",
-      "time": "2026-11-19T15:14:46.000Z",
+      "title": "Core Data: Move UnsavedChangesWarning from the editor",
+      "url": "https://github.com/WordPress/gutenberg/pull/87081",
+      "time": "2026-11-19T18:23:22.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/gutenberg#87096",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Navigation: Use `areInnerBlocksControlled` to detect controlled inner blocks",
-      "url": "https://github.com/WordPress/gutenberg/pull/87096",
-      "time": "2026-11-19T15:13:15.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#87099",
+      "id": "github:WordPress/gutenberg#81949",
       "source": "github",
       "teams": [
         "core-editor"
       ],
       "type": "issue",
-      "title": "Table: Allow setting the row color of the Stripes style",
-      "url": "https://github.com/WordPress/gutenberg/issues/87099",
-      "time": "2026-11-19T15:09:26.000Z",
+      "title": "Notes: mark threads with unseen activity with a \"New\" dot in the sidebar",
+      "url": "https://github.com/WordPress/gutenberg/issues/81949",
+      "time": "2026-11-19T18:22:35.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/gutenberg#87098",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Scripts: Preserve static and dynamic imports of script modules",
-      "url": "https://github.com/WordPress/gutenberg/pull/87098",
-      "time": "2026-11-19T15:07:18.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#83320",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "DataViews: add per-level hierarchy pagination",
-      "url": "https://github.com/WordPress/gutenberg/pull/83320",
-      "time": "2026-11-19T15:06:25.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#83316",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "DataViews: add controlled hierarchy expansion",
-      "url": "https://github.com/WordPress/gutenberg/pull/83316",
-      "time": "2026-11-19T15:06:24.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#84814",
+      "id": "github:WordPress/gutenberg#81948",
       "source": "github",
       "teams": [
         "core-editor"
       ],
       "type": "issue",
-      "title": "Global Styles: unlinking border sides saves null values and copies a shorthand width into each side",
-      "url": "https://github.com/WordPress/gutenberg/issues/84814",
-      "time": "2026-11-19T14:45:17.000Z",
+      "title": "Notes: show an unseen-notes indicator beside post titles on the post list screen",
+      "url": "https://github.com/WordPress/gutenberg/issues/81948",
+      "time": "2026-11-19T18:22:14.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/gutenberg#86955",
+      "id": "github:WordPress/gutenberg#73418",
       "source": "github",
       "teams": [
         "core-editor"
       ],
-      "type": "pull",
-      "title": "Image: Add transform block support",
-      "url": "https://github.com/WordPress/gutenberg/pull/86955",
-      "time": "2026-11-19T14:39:08.000Z",
+      "type": "issue",
+      "title": "Allow Notes to appear on post previews with a custom capability (aka \"Reviewer-friendly workflow\")",
+      "url": "https://github.com/WordPress/gutenberg/issues/73418",
+      "time": "2026-11-19T18:21:18.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/gutenberg#87065",
+      "id": "github:WordPress/gutenberg#87108",
       "source": "github",
       "teams": [
         "core-editor"
       ],
-      "type": "pull",
-      "title": "List View: Replace useFixedWindowList with a colocated window hook",
-      "url": "https://github.com/WordPress/gutenberg/pull/87065",
-      "time": "2026-11-19T14:27:34.000Z",
+      "type": "issue",
+      "title": "Comment Date: Editor shows the raw date instead of the formatted date",
+      "url": "https://github.com/WordPress/gutenberg/issues/87108",
+      "time": "2026-11-19T18:20:59.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/gutenberg#86737",
+      "id": "github:WordPress/gutenberg#87109",
       "source": "github",
       "teams": [
         "core-editor"
       ],
       "type": "pull",
-      "title": "Design System: Ship agent skills with the theme and UI packages",
-      "url": "https://github.com/WordPress/gutenberg/pull/86737",
-      "time": "2026-11-19T14:26:55.000Z",
+      "title": "Comment Date: Fix the editor showing the raw date instead of the form…",
+      "url": "https://github.com/WordPress/gutenberg/pull/87109",
+      "time": "2026-11-19T18:20:38.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#86806",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "TimePicker: Show the time zone detail in an infotip",
+      "url": "https://github.com/WordPress/gutenberg/pull/86806",
+      "time": "2026-11-19T18:19:32.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#87106",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Navigation: Keep focus after adding a submenu link to a link",
+      "url": "https://github.com/WordPress/gutenberg/pull/87106",
+      "time": "2026-11-19T18:18:19.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#87107",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "issue",
+      "title": "Server error message is replaced by a generic one when creating a template part, overlay or navigation menu fails",
+      "url": "https://github.com/WordPress/gutenberg/issues/87107",
+      "time": "2026-11-19T18:16:16.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#80122",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "issue",
+      "title": "Add a full searchable emoji picker for note reactions",
+      "url": "https://github.com/WordPress/gutenberg/issues/80122",
+      "time": "2026-11-19T18:14:36.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#83538",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Add emoji picker with Autocomplete grid ",
+      "url": "https://github.com/WordPress/gutenberg/pull/83538",
+      "time": "2026-11-19T18:09:28.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#86807",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "AlignmentMatrixControl: Use the `@wordpress/ui` Tooltip for cell tooltips",
+      "url": "https://github.com/WordPress/gutenberg/pull/86807",
+      "time": "2026-11-19T18:03:42.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/performance#2504",
+      "source": "github",
+      "teams": [
+        "core-performance"
+      ],
+      "type": "pull",
+      "title": "Add AI Performance Advisor plugin",
+      "url": "https://github.com/WordPress/performance/pull/2504",
+      "time": "2026-11-19T16:43:50.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/performance#1946",
+      "source": "github",
+      "teams": [
+        "core-performance"
+      ],
+      "type": "pull",
+      "title": "Improve Test Coverage for Webp-Uploads Plugin",
+      "url": "https://github.com/WordPress/performance/pull/1946",
+      "time": "2026-11-19T16:02:50.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -11405,36 +14363,6 @@
       "title": "Enhanced Responsive Images: Account for Post Featured Image inside Column block",
       "url": "https://github.com/WordPress/performance/pull/2728",
       "time": "2026-11-19T13:11:18.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/performance#2504",
-      "source": "github",
-      "teams": [
-        "core-performance"
-      ],
-      "type": "pull",
-      "title": "Add AI Performance Advisor plugin",
-      "url": "https://github.com/WordPress/performance/pull/2504",
-      "time": "2026-11-19T11:12:32.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/performance#1946",
-      "source": "github",
-      "teams": [
-        "core-performance"
-      ],
-      "type": "pull",
-      "title": "Improve Test Coverage for Webp-Uploads Plugin",
-      "url": "https://github.com/WordPress/performance/pull/1946",
-      "time": "2026-11-19T10:04:52.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -11591,15 +14519,30 @@
       "confidence": 1
     },
     {
-      "id": "github:WordPress/ai#1405",
+      "id": "github:WordPress/ai#1402",
+      "source": "github",
+      "teams": [
+        "core-ai"
+      ],
+      "type": "issue",
+      "title": "AI Workspace: add posts and pages to a space as context",
+      "url": "https://github.com/WordPress/ai/issues/1402",
+      "time": "2026-11-19T18:01:52.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/ai#1004",
       "source": "github",
       "teams": [
         "core-ai"
       ],
       "type": "pull",
-      "title": "Type-ahead: Add no space before suggestions in languages written without spaces",
-      "url": "https://github.com/WordPress/ai/pull/1405",
-      "time": "2026-11-19T15:21:30.000Z",
+      "title": "Add the Global AI Workspace",
+      "url": "https://github.com/WordPress/ai/pull/1004",
+      "time": "2026-11-19T17:55:28.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -11681,36 +14624,6 @@
       "confidence": 1
     },
     {
-      "id": "github:WordPress/ai#1408",
-      "source": "github",
-      "teams": [
-        "core-ai"
-      ],
-      "type": "pull",
-      "title": "Announce the bulk alt text notices to screen readers",
-      "url": "https://github.com/WordPress/ai/pull/1408",
-      "time": "2026-11-19T05:24:15.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/ai#1407",
-      "source": "github",
-      "teams": [
-        "core-ai"
-      ],
-      "type": "pull",
-      "title": "Keep focus on the alt text Generate button while it works",
-      "url": "https://github.com/WordPress/ai/pull/1407",
-      "time": "2026-11-19T05:14:29.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
       "id": "github:WordPress/ai#1406",
       "source": "github",
       "teams": [
@@ -11737,21 +14650,6 @@
       "time": "2026-11-19T04:01:13.000Z",
       "status": "open",
       "ask": "join",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/ai#1004",
-      "source": "github",
-      "teams": [
-        "core-ai"
-      ],
-      "type": "pull",
-      "title": "Add the Global AI Workspace",
-      "url": "https://github.com/WordPress/ai/pull/1004",
-      "time": "2026-11-19T01:24:17.000Z",
-      "status": "open",
-      "ask": "none",
       "personas": [],
       "confidence": 1
     },
@@ -11786,21 +14684,6 @@
       "confidence": 1
     },
     {
-      "id": "github:WordPress/ai#1404",
-      "source": "github",
-      "teams": [
-        "core-ai"
-      ],
-      "type": "issue",
-      "title": "Type-ahead: Accepted suggestions start with a space in Japanese, Chinese and Thai",
-      "url": "https://github.com/WordPress/ai/issues/1404",
-      "time": "2026-11-18T19:47:47.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
       "id": "github:WordPress/ai#1068",
       "source": "github",
       "teams": [
@@ -11810,6 +14693,156 @@
       "title": "Feat[Experiment]: Add Agent Users linked with parent user accounts",
       "url": "https://github.com/WordPress/ai/pull/1068",
       "time": "2026-11-18T18:26:42.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/ai#1071",
+      "source": "github",
+      "teams": [
+        "core-ai"
+      ],
+      "type": "issue",
+      "title": "Add media content verification actions",
+      "url": "https://github.com/WordPress/ai/issues/1071",
+      "time": "2026-11-18T17:09:48.000Z",
+      "status": "open",
+      "ask": "join",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/ai#954",
+      "source": "github",
+      "teams": [
+        "core-ai"
+      ],
+      "type": "issue",
+      "title": "C2PA Monitor: In-browser cryptographic verification via @contentauth/sdk",
+      "url": "https://github.com/WordPress/ai/issues/954",
+      "time": "2026-11-18T17:09:43.000Z",
+      "status": "open",
+      "ask": "join",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/ai#1058",
+      "source": "github",
+      "teams": [
+        "core-ai"
+      ],
+      "type": "issue",
+      "title": "C2PA: new Content Credentials for generated sub-sizes",
+      "url": "https://github.com/WordPress/ai/issues/1058",
+      "time": "2026-11-18T17:08:33.000Z",
+      "status": "open",
+      "ask": "join",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-playground#4419",
+      "source": "github",
+      "teams": [
+        "playground"
+      ],
+      "type": "issue",
+      "title": "Ooops! WordPress Playground had a hiccup!",
+      "url": "https://github.com/WordPress/wordpress-playground/issues/4419",
+      "time": "2026-11-19T18:22:57.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-playground#4603",
+      "source": "github",
+      "teams": [
+        "playground"
+      ],
+      "type": "pull",
+      "title": "[MCP] Require per-site user approval for WebMCP agent access",
+      "url": "https://github.com/WordPress/wordpress-playground/pull/4603",
+      "time": "2026-11-19T18:21:31.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-playground#4110",
+      "source": "github",
+      "teams": [
+        "playground"
+      ],
+      "type": "pull",
+      "title": "Fix range-filtered remote ZIP decoding",
+      "url": "https://github.com/WordPress/wordpress-playground/pull/4110",
+      "time": "2026-11-19T17:17:23.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-playground#4644",
+      "source": "github",
+      "teams": [
+        "playground"
+      ],
+      "type": "pull",
+      "title": "[i18n] Translate the JSON Blueprint client guide to pt-BR",
+      "url": "https://github.com/WordPress/wordpress-playground/pull/4644",
+      "time": "2026-11-19T16:44:40.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-playground#4625",
+      "source": "github",
+      "teams": [
+        "playground"
+      ],
+      "type": "issue",
+      "title": "Errors today on playground:",
+      "url": "https://github.com/WordPress/wordpress-playground/issues/4625",
+      "time": "2026-11-19T16:43:02.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-playground#2306",
+      "source": "github",
+      "teams": [
+        "playground"
+      ],
+      "type": "issue",
+      "title": "[Translation] Brazilian Portuguese(pt-BR) documentation translation progress tracker",
+      "url": "https://github.com/WordPress/wordpress-playground/issues/2306",
+      "time": "2026-11-19T16:42:23.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-playground#3186",
+      "source": "github",
+      "teams": [
+        "playground"
+      ],
+      "type": "issue",
+      "title": "[Translation] Bengali translation progress tracker",
+      "url": "https://github.com/WordPress/wordpress-playground/issues/3186",
+      "time": "2026-11-19T16:09:10.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -11861,21 +14894,6 @@
       "confidence": 1
     },
     {
-      "id": "github:WordPress/wordpress-playground#4419",
-      "source": "github",
-      "teams": [
-        "playground"
-      ],
-      "type": "issue",
-      "title": "Ooops! WordPress Playground had a hiccup!",
-      "url": "https://github.com/WordPress/wordpress-playground/issues/4419",
-      "time": "2026-11-19T13:38:14.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
       "id": "github:WordPress/wordpress-playground#4408",
       "source": "github",
       "teams": [
@@ -11900,21 +14918,6 @@
       "title": "[Website] Serve the active service worker directly at /sw.js",
       "url": "https://github.com/WordPress/wordpress-playground/pull/4656",
       "time": "2026-11-19T07:11:41.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/wordpress-playground#4625",
-      "source": "github",
-      "teams": [
-        "playground"
-      ],
-      "type": "issue",
-      "title": "Errors today on playground:",
-      "url": "https://github.com/WordPress/wordpress-playground/issues/4625",
-      "time": "2026-11-19T06:14:58.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -11966,75 +14969,15 @@
       "confidence": 1
     },
     {
-      "id": "github:WordPress/wordpress-playground#4646",
+      "id": "github:WordPress/openverse#255",
       "source": "github",
       "teams": [
-        "playground"
+        "openverse"
       ],
-      "type": "pull",
-      "title": "[Remote Access] Preserve responses when session cleanup fails",
-      "url": "https://github.com/WordPress/wordpress-playground/pull/4646",
-      "time": "2026-11-19T02:53:48.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/wordpress-playground#4650",
-      "source": "github",
-      "teams": [
-        "playground"
-      ],
-      "type": "pull",
-      "title": "[Remote] Show startup errors when bootstrap scripts cannot load",
-      "url": "https://github.com/WordPress/wordpress-playground/pull/4650",
-      "time": "2026-11-19T02:25:38.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/wordpress-playground#4654",
-      "source": "github",
-      "teams": [
-        "playground"
-      ],
-      "type": "pull",
-      "title": "[Remote] Include startup phases and browser details in error reports",
-      "url": "https://github.com/WordPress/wordpress-playground/pull/4654",
-      "time": "2026-11-19T02:25:36.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/wordpress-playground#4649",
-      "source": "github",
-      "teams": [
-        "playground"
-      ],
-      "type": "pull",
-      "title": "[Remote] Keep HTTP downloads working when offline caching fails",
-      "url": "https://github.com/WordPress/wordpress-playground/pull/4649",
-      "time": "2026-11-19T02:25:36.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/wordpress-playground#4653",
-      "source": "github",
-      "teams": [
-        "playground"
-      ],
-      "type": "pull",
-      "title": "[Client] Bound startup stalls without interrupting progress or recovery",
-      "url": "https://github.com/WordPress/wordpress-playground/pull/4653",
-      "time": "2026-11-19T02:25:34.000Z",
+      "type": "issue",
+      "title": "Dependency Dashboard",
+      "url": "https://github.com/WordPress/openverse/issues/255",
+      "time": "2026-11-19T18:14:00.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -12157,21 +15100,6 @@
       "time": "2026-11-19T12:49:43.000Z",
       "status": "open",
       "ask": "join",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/openverse#255",
-      "source": "github",
-      "teams": [
-        "openverse"
-      ],
-      "type": "issue",
-      "title": "Dependency Dashboard",
-      "url": "https://github.com/WordPress/openverse/issues/255",
-      "time": "2026-11-19T12:16:05.000Z",
-      "status": "open",
-      "ask": "none",
       "personas": [],
       "confidence": 1
     },
@@ -12646,17 +15574,6 @@
   ],
   "tickets": [
     {
-      "id": 65817,
-      "title": "PHPStan code quality improvements for 7.2",
-      "url": "https://core.trac.wordpress.org/ticket/65817",
-      "status": "reopened",
-      "type": "task (blessed)",
-      "priority": "normal",
-      "milestone": "7.2",
-      "component": "General",
-      "owner": "westonruter"
-    },
-    {
       "id": 65700,
       "title": "Comments: wp_insert_comment() and wp_update_comment() don't encode emoji for utf8mb3 columns like wp_insert_post() does",
       "url": "https://core.trac.wordpress.org/ticket/65700",
@@ -12668,6 +15585,17 @@
       "owner": "jonsurrell"
     },
     {
+      "id": 66229,
+      "title": "Register and filter fields for DataViews/DataForm in the server",
+      "url": "https://core.trac.wordpress.org/ticket/66229",
+      "status": "reopened",
+      "type": "enhancement",
+      "priority": "normal",
+      "milestone": "7.2",
+      "component": "General",
+      "owner": "oandregal"
+    },
+    {
       "id": 65860,
       "title": "Docblock improvements for 7.2",
       "url": "https://core.trac.wordpress.org/ticket/65860",
@@ -12677,6 +15605,17 @@
       "milestone": "7.2",
       "component": "General",
       "owner": ""
+    },
+    {
+      "id": 65817,
+      "title": "PHPStan code quality improvements for 7.2",
+      "url": "https://core.trac.wordpress.org/ticket/65817",
+      "status": "reopened",
+      "type": "task (blessed)",
+      "priority": "normal",
+      "milestone": "7.2",
+      "component": "General",
+      "owner": "westonruter"
     },
     {
       "id": 65845,
@@ -12825,17 +15764,6 @@
       "id": 66455,
       "title": "Build/Test Tools: improve the reliability and structure of the E2E tests suite",
       "url": "https://core.trac.wordpress.org/ticket/66455",
-      "status": "accepted",
-      "type": "task (blessed)",
-      "priority": "normal",
-      "milestone": "7.2",
-      "component": "Build/Test Tools",
-      "owner": "lancewillett"
-    },
-    {
-      "id": 66211,
-      "title": "Tests: Make PHPUnit data providers public and static",
-      "url": "https://core.trac.wordpress.org/ticket/66211",
       "status": "accepted",
       "type": "task (blessed)",
       "priority": "normal",
@@ -12998,17 +15926,6 @@
       "owner": ""
     },
     {
-      "id": 60552,
-      "title": "Add hook to WP_Sitemaps::render_sitemaps()",
-      "url": "https://core.trac.wordpress.org/ticket/60552",
-      "status": "reopened",
-      "type": "defect (bug)",
-      "priority": "normal",
-      "milestone": "7.2",
-      "component": "Sitemaps",
-      "owner": ""
-    },
-    {
       "id": 66635,
       "title": "Harden reaction and note permissions",
       "url": "https://core.trac.wordpress.org/ticket/66635",
@@ -13152,17 +16069,6 @@
       "owner": "johnbillion"
     },
     {
-      "id": 29792,
-      "title": "Grunt: Add a stylelint precommit task to check for CSS syntax errors",
-      "url": "https://core.trac.wordpress.org/ticket/29792",
-      "status": "accepted",
-      "type": "defect (bug)",
-      "priority": "normal",
-      "milestone": "7.2",
-      "component": "Build/Test Tools",
-      "owner": "joedolson"
-    },
-    {
       "id": 66015,
       "title": "Introduce Axe-core accessibility automated testing for the admin pages",
       "url": "https://core.trac.wordpress.org/ticket/66015",
@@ -13204,17 +16110,6 @@
       "priority": "normal",
       "milestone": "7.2",
       "component": "Interactivity API",
-      "owner": ""
-    },
-    {
-      "id": 56897,
-      "title": "First time contributor welcome message improvements",
-      "url": "https://core.trac.wordpress.org/ticket/56897",
-      "status": "new",
-      "type": "task (blessed)",
-      "priority": "normal",
-      "milestone": "7.2",
-      "component": "General",
       "owner": ""
     },
     {
