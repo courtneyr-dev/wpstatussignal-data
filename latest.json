@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T00:38:16.999Z",
+  "generatedAt": "2026-11-20T03:23:01.227Z",
   "items": [
     {
       "id": "make:core:127244",
@@ -1979,6 +1979,20 @@
       "confidence": 1
     },
     {
+      "id": "make:polyglots:76069",
+      "source": "make",
+      "teams": [
+        "polyglots"
+      ],
+      "type": "post",
+      "title": "PTE Request for GGZ op Orde",
+      "url": "https://make.wordpress.org/polyglots/2026/11/20/pte-request-for-ggz-op-orde/",
+      "time": "2026-11-20T01:17:05Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
       "id": "make:polyglots:76040",
       "source": "make",
       "teams": [
@@ -2380,20 +2394,6 @@
       "title": "PTE Request for Kadeworks EU…",
       "url": "https://make.wordpress.org/polyglots/2026/11/18/pte-request-for-kadeworks-eu/",
       "time": "2026-11-18T12:47:52Z",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "make:polyglots:75948",
-      "source": "make",
-      "teams": [
-        "polyglots"
-      ],
-      "type": "post",
-      "title": "I am the plugin author…",
-      "url": "https://make.wordpress.org/polyglots/2026/11/18/i-am-the-plugin-author-240/",
-      "time": "2026-11-18T12:31:09Z",
       "ask": "none",
       "personas": [],
       "confidence": 1
@@ -12376,6 +12376,48 @@
       "ask": "none",
       "personas": [],
       "confidence": 1,
+      "time": "2026-11-20T02:44:51.000Z",
+      "id": "trac:meta:changeset:15681",
+      "type": "commit",
+      "title": "[15681] BuddyPress.org/bbPress.org: Refresh Trac theme stylesheet URLs.  Bump ...",
+      "url": "https://meta.trac.wordpress.org/changeset/15681"
+    },
+    {
+      "source": "trac",
+      "teams": [
+        "meta"
+      ],
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "time": "2026-11-20T02:43:55.000Z",
+      "id": "trac:meta:changeset:15680",
+      "type": "commit",
+      "title": "[15680] BuddyPress.org/bbPress.org: Refresh shared theme stylesheet URLs.  ...",
+      "url": "https://meta.trac.wordpress.org/changeset/15680"
+    },
+    {
+      "source": "trac",
+      "teams": [
+        "meta"
+      ],
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "time": "2026-11-20T02:28:32.000Z",
+      "id": "trac:meta:changeset:15679",
+      "type": "commit",
+      "title": "[15679] BuddyPress.org: Update the homepage profile preview.  Use the supplied ...",
+      "url": "https://meta.trac.wordpress.org/changeset/15679"
+    },
+    {
+      "source": "trac",
+      "teams": [
+        "meta"
+      ],
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
       "time": "2026-11-19T23:27:01.000Z",
       "id": "trac:meta:changeset:15678",
       "type": "commit",
@@ -13766,49 +13808,19 @@
       "url": "https://meta.trac.wordpress.org/ticket/6858#comment:6"
     },
     {
-      "source": "trac",
+      "id": "github:WordPress/wordpress-develop#12044",
+      "source": "github",
       "teams": [
-        "meta"
+        "core"
       ],
+      "type": "pull",
+      "title": "#60552 - Add wp_doing_sitemaps action hook to WP_Sitemaps::render_sitemaps()",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/12044",
+      "time": "2026-11-20T01:03:38.000Z",
+      "status": "open",
       "ask": "none",
       "personas": [],
-      "confidence": 1,
-      "time": "2026-11-17T20:02:20.000Z",
-      "id": "trac:meta:ticket:5746",
-      "type": "ticket",
-      "title": "#5746 wporg-glossary plugin doesn't correctly handle being run twice over ...",
-      "status": "closed",
-      "url": "https://meta.trac.wordpress.org/ticket/5746#comment:5"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-17T19:51:54.000Z",
-      "id": "trac:meta:ticket:5872",
-      "type": "ticket",
-      "title": "#5872 The Glossary feature of locale teams' P2 sites doesn't work properly.",
-      "status": "closed",
-      "url": "https://meta.trac.wordpress.org/ticket/5872#comment:5"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "meta"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-17T19:10:35.000Z",
-      "id": "trac:meta:ticket:7743",
-      "type": "ticket",
-      "title": "#7743 Plugin review filters by number of stars are incorrect.",
-      "status": "closed",
-      "url": "https://meta.trac.wordpress.org/ticket/7743#comment:3"
+      "confidence": 1
     },
     {
       "id": "github:WordPress/wordpress-develop#16012",
@@ -14021,15 +14033,210 @@
       "confidence": 1
     },
     {
-      "id": "github:WordPress/wordpress-develop#16111",
+      "id": "github:WordPress/gutenberg#86884",
       "source": "github",
       "teams": [
-        "core"
+        "core-editor"
       ],
       "type": "pull",
-      "title": "Build/Test Tools: Improve PHPUnit test isolation for term link rewrite rules.",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/16111",
-      "time": "2026-11-19T23:16:14.000Z",
+      "title": "Block Editor: Resize transformed blocks along their own axes",
+      "url": "https://github.com/WordPress/gutenberg/pull/86884",
+      "time": "2026-11-20T03:21:45.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#86955",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Image: Add transform block support",
+      "url": "https://github.com/WordPress/gutenberg/pull/86955",
+      "time": "2026-11-20T03:21:20.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#87119",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Block sync: Keep Redo when the last change is marked persistent after an undo",
+      "url": "https://github.com/WordPress/gutenberg/pull/87119",
+      "time": "2026-11-20T03:19:58.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#86727",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Block Supports: Add a uniform scale to Transform supports",
+      "url": "https://github.com/WordPress/gutenberg/pull/86727",
+      "time": "2026-11-20T03:19:38.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#86892",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Block Editor: Insert in the right gap between children of a transformed container",
+      "url": "https://github.com/WordPress/gutenberg/pull/86892",
+      "time": "2026-11-20T03:18:20.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#86282",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Block Supports: Add translate property on X and Y axis to Transform supports",
+      "url": "https://github.com/WordPress/gutenberg/pull/86282",
+      "time": "2026-11-20T03:17:43.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#86891",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Block Editor: Fit rotated blocks to their content",
+      "url": "https://github.com/WordPress/gutenberg/pull/86891",
+      "time": "2026-11-20T03:13:23.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#86885",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Block Editor: Lift a child's toolbar above a rotated container",
+      "url": "https://github.com/WordPress/gutenberg/pull/86885",
+      "time": "2026-11-20T03:13:14.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#87122",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Global Styles UI: Convert tests to TypeScript",
+      "url": "https://github.com/WordPress/gutenberg/pull/87122",
+      "time": "2026-11-20T03:08:33.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#87120",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Add CSS Variable to modify table block stripes",
+      "url": "https://github.com/WordPress/gutenberg/pull/87120",
+      "time": "2026-11-20T02:43:01.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#86849",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Avatar: Enable viewport state values for image size",
+      "url": "https://github.com/WordPress/gutenberg/pull/86849",
+      "time": "2026-11-20T02:10:23.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#86230",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Social Links: Enable viewport state values for icon size",
+      "url": "https://github.com/WordPress/gutenberg/pull/86230",
+      "time": "2026-11-20T01:46:29.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#86998",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Fix drag and drop into a Canvas grid",
+      "url": "https://github.com/WordPress/gutenberg/pull/86998",
+      "time": "2026-11-20T01:33:28.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#86911",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Experiment: drag blocks from anywhere until you click in to edit",
+      "url": "https://github.com/WordPress/gutenberg/pull/86911",
+      "time": "2026-11-20T01:01:54.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -14051,210 +14258,15 @@
       "confidence": 1
     },
     {
-      "id": "github:WordPress/gutenberg#87121",
+      "id": "github:WordPress/performance#2504",
       "source": "github",
       "teams": [
-        "core-editor"
-      ],
-      "type": "issue",
-      "title": "Make UploadProgressSnackbar available in screens outside of the editor",
-      "url": "https://github.com/WordPress/gutenberg/issues/87121",
-      "time": "2026-11-20T00:24:04.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#83538",
-      "source": "github",
-      "teams": [
-        "core-editor"
+        "core-performance"
       ],
       "type": "pull",
-      "title": "Add emoji picker with Autocomplete grid ",
-      "url": "https://github.com/WordPress/gutenberg/pull/83538",
-      "time": "2026-11-20T00:05:47.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#86230",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Social Links: Enable viewport state values for icon size",
-      "url": "https://github.com/WordPress/gutenberg/pull/86230",
-      "time": "2026-11-19T23:54:47.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#87120",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Add CSS Variable to modify table block stripes",
-      "url": "https://github.com/WordPress/gutenberg/pull/87120",
-      "time": "2026-11-19T23:50:40.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#87099",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "issue",
-      "title": "Table: Allow setting the row color of the Stripes style",
-      "url": "https://github.com/WordPress/gutenberg/issues/87099",
-      "time": "2026-11-19T23:50:14.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#86338",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Format library: Add a special characters inserter",
-      "url": "https://github.com/WordPress/gutenberg/pull/86338",
-      "time": "2026-11-19T23:41:51.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#86496",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Validate sub-size against maxUploadFileSize before sideloading",
-      "url": "https://github.com/WordPress/gutenberg/pull/86496",
-      "time": "2026-11-19T23:15:15.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#87117",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Style Engine: Add array value types and hold it to PHPStan rule level 10",
-      "url": "https://github.com/WordPress/gutenberg/pull/87117",
-      "time": "2026-11-19T23:07:30.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#86134",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Gallery: Use a distinct icon for the Gallery Grid variation",
-      "url": "https://github.com/WordPress/gutenberg/pull/86134",
-      "time": "2026-11-19T23:05:12.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#86490",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Media Editor: Add a placeholder state with download and copy buttons",
-      "url": "https://github.com/WordPress/gutenberg/pull/86490",
-      "time": "2026-11-19T22:55:05.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#85243",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "issue",
-      "title": "Responsive style states tracking issue",
-      "url": "https://github.com/WordPress/gutenberg/issues/85243",
-      "time": "2026-11-19T22:40:54.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#87086",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "issue",
-      "title": "Enable viewport specific root styles",
-      "url": "https://github.com/WordPress/gutenberg/issues/87086",
-      "time": "2026-11-19T22:40:38.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#87119",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Block sync: Keep Redo when the last change is marked persistent after an undo",
-      "url": "https://github.com/WordPress/gutenberg/pull/87119",
-      "time": "2026-11-19T22:14:05.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#87050",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Admin UI: Configure router Link to match exact to fix duplicate aria-current in breadcrumbs",
-      "url": "https://github.com/WordPress/gutenberg/pull/87050",
-      "time": "2026-11-19T22:02:41.000Z",
+      "title": "Add AI Performance Advisor plugin",
+      "url": "https://github.com/WordPress/performance/pull/2504",
+      "time": "2026-11-20T02:43:00.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -14285,21 +14297,6 @@
       "title": "Enhanced Responsive Images: Use post-thumbnail size for Post Featured Image without sizeSlug",
       "url": "https://github.com/WordPress/performance/pull/2767",
       "time": "2026-11-19T21:01:29.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/performance#2504",
-      "source": "github",
-      "teams": [
-        "core-performance"
-      ],
-      "type": "pull",
-      "title": "Add AI Performance Advisor plugin",
-      "url": "https://github.com/WordPress/performance/pull/2504",
-      "time": "2026-11-19T16:43:50.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -14944,7 +14941,7 @@
       "type": "issue",
       "title": "Dependency Dashboard",
       "url": "https://github.com/WordPress/openverse/issues/255",
-      "time": "2026-11-20T00:25:53.000Z",
+      "time": "2026-11-20T03:22:02.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -15548,6 +15545,17 @@
   ],
   "tickets": [
     {
+      "id": 65116,
+      "title": "Feature request: On This Day dashboard widget",
+      "url": "https://core.trac.wordpress.org/ticket/65116",
+      "status": "reopened",
+      "type": "feature request",
+      "priority": "normal",
+      "milestone": "7.2",
+      "component": "Widgets",
+      "owner": "audrasjb"
+    },
+    {
       "id": 65845,
       "title": "GitHub Actions updates and improvements for 7.2",
       "url": "https://core.trac.wordpress.org/ticket/65845",
@@ -15832,17 +15840,6 @@
       "milestone": "7.2",
       "component": "Build/Test Tools",
       "owner": ""
-    },
-    {
-      "id": 65116,
-      "title": "Feature request: On This Day dashboard widget",
-      "url": "https://core.trac.wordpress.org/ticket/65116",
-      "status": "reopened",
-      "type": "feature request",
-      "priority": "normal",
-      "milestone": "7.2",
-      "component": "Widgets",
-      "owner": "audrasjb"
     },
     {
       "id": 65875,
