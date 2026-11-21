@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T12:23:59.125Z",
+  "generatedAt": "2026-11-21T15:20:04.831Z",
   "items": [
     {
       "id": "make:core:127269",
@@ -10942,6 +10942,21 @@
       "ask": "none",
       "personas": [],
       "confidence": 1,
+      "time": "2026-11-21T14:02:08.000Z",
+      "id": "trac:core:ticket:66771",
+      "type": "ticket",
+      "title": "#66771 Show a summary of changed files when replacing a plugin or theme from ...",
+      "status": "created",
+      "url": "https://core.trac.wordpress.org/ticket/66771"
+    },
+    {
+      "source": "trac",
+      "teams": [
+        "core"
+      ],
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
       "time": "2026-11-21T06:55:08.000Z",
       "id": "trac:core:ticket:38702",
       "type": "ticket",
@@ -12284,20 +12299,6 @@
       "type": "commit",
       "title": "[65675] Build/Test Tools: Remove script to run Gutenberg E2E tests in Core in ...",
       "url": "https://core.trac.wordpress.org/changeset/65675"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "core"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-19T14:25:30.000Z",
-      "id": "trac:core:changeset:65674",
-      "type": "commit",
-      "title": "[65674] Build/Test Tools: Remove script to run Gutenberg E2E tests in Core in ...",
-      "url": "https://core.trac.wordpress.org/changeset/65674"
     },
     {
       "source": "trac",
@@ -13714,6 +13715,81 @@
       "url": "https://meta.trac.wordpress.org/ticket/7354#comment:11"
     },
     {
+      "id": "github:WordPress/wordpress-develop#16148",
+      "source": "github",
+      "teams": [
+        "core"
+      ],
+      "type": "pull",
+      "title": "Tests: Remove a stale style assertion from the customize widgets preview test.",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/16148",
+      "time": "2026-11-21T14:32:19.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-develop#16135",
+      "source": "github",
+      "teams": [
+        "core"
+      ],
+      "type": "pull",
+      "title": "Block Bindings: Add support for the Read More block's content attribute",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/16135",
+      "time": "2026-11-21T14:20:45.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-develop#16147",
+      "source": "github",
+      "teams": [
+        "core"
+      ],
+      "type": "pull",
+      "title": "Tests: Reset `$wp_styles` around the `Tests_Embed_Template` tests.",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/16147",
+      "time": "2026-11-21T14:14:24.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-develop#16146",
+      "source": "github",
+      "teams": [
+        "core"
+      ],
+      "type": "pull",
+      "title": "Tests: Register the default script modules in the core entity actions test.",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/16146",
+      "time": "2026-11-21T14:11:54.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-develop#16145",
+      "source": "github",
+      "teams": [
+        "core"
+      ],
+      "type": "pull",
+      "title": "Tests: Delete the network created by the `wp_prime_network_option_caches()` tests.",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/16145",
+      "time": "2026-11-21T14:09:26.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
       "id": "github:WordPress/wordpress-develop#16022",
       "source": "github",
       "teams": [
@@ -13864,75 +13940,180 @@
       "confidence": 1
     },
     {
-      "id": "github:WordPress/wordpress-develop#16142",
+      "id": "github:WordPress/gutenberg#87065",
       "source": "github",
       "teams": [
-        "core"
+        "core-editor"
       ],
       "type": "pull",
-      "title": "Query: Honor constraining query vars when injecting sticky posts",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/16142",
-      "time": "2026-11-21T05:42:30.000Z",
+      "title": "List View: Replace useFixedWindowList with a colocated window hook",
+      "url": "https://github.com/WordPress/gutenberg/pull/87065",
+      "time": "2026-11-21T14:50:17.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/wordpress-develop#13767",
+      "id": "github:WordPress/gutenberg#87201",
       "source": "github",
       "teams": [
-        "core"
+        "core-editor"
       ],
       "type": "pull",
-      "title": "Code Quality: Fix offsetAccess.nonOffsetAccessible errors by correcting inaccurate type annotations",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/13767",
-      "time": "2026-11-21T04:52:04.000Z",
+      "title": "Layout Support: Remove unused `gutenberg_incremental_id_per_prefix`",
+      "url": "https://github.com/WordPress/gutenberg/pull/87201",
+      "time": "2026-11-21T14:33:26.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/wordpress-develop#13782",
+      "id": "github:WordPress/gutenberg#87164",
       "source": "github",
       "teams": [
-        "core"
+        "core-editor"
       ],
       "type": "pull",
-      "title": "Code Quality:Remove resolved identical.alwaysFalse PHPStan baseline:",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/13782",
-      "time": "2026-11-21T04:25:54.000Z",
+      "title": "Block Bindings: Add support for the Read More block's content attribute",
+      "url": "https://github.com/WordPress/gutenberg/pull/87164",
+      "time": "2026-11-21T14:21:19.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/wordpress-develop#16136",
+      "id": "github:WordPress/gutenberg#87026",
       "source": "github",
       "teams": [
-        "core"
+        "core-editor"
       ],
       "type": "pull",
-      "title": "Revisions: Bound the work in revision diffs to avoid out-of-memory errors",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/16136",
-      "time": "2026-11-21T04:19:28.000Z",
+      "title": "Word Count: Count words separated by a non-breaking space as separate words",
+      "url": "https://github.com/WordPress/gutenberg/pull/87026",
+      "time": "2026-11-21T13:22:33.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/wordpress-develop#13866",
+      "id": "github:WordPress/gutenberg#87200",
       "source": "github",
       "teams": [
-        "core"
+        "core-editor"
+      ],
+      "type": "issue",
+      "title": "Block-level presets: the `wp-settings-…` class and its stylesheet's selector differ once `render_block_data` changes the block (core's elements and layout supports do)",
+      "url": "https://github.com/WordPress/gutenberg/issues/87200",
+      "time": "2026-11-21T13:18:14.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#87146",
+      "source": "github",
+      "teams": [
+        "core-editor"
       ],
       "type": "pull",
-      "title": "List Tables: Keep columns readable with horizontal scrolling.",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/13866",
-      "time": "2026-11-21T04:13:16.000Z",
+      "title": "Theme JSON: Merge templateParts and customTemplates by name",
+      "url": "https://github.com/WordPress/gutenberg/pull/87146",
+      "time": "2026-11-21T13:02:21.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#86443",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Blocks: Support registered handles in the experimental view-script helper",
+      "url": "https://github.com/WordPress/gutenberg/pull/86443",
+      "time": "2026-11-21T12:56:48.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#87083",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Boot: Leave saving the post to the editor's own save shortcut",
+      "url": "https://github.com/WordPress/gutenberg/pull/87083",
+      "time": "2026-11-21T12:55:42.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#87082",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Boot: Read the post being left from the canvas, not the editor store",
+      "url": "https://github.com/WordPress/gutenberg/pull/87082",
+      "time": "2026-11-21T12:53:59.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#86528",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Theme JSON: Flatten spacingScale origin layers in get_data()",
+      "url": "https://github.com/WordPress/gutenberg/pull/86528",
+      "time": "2026-11-21T12:48:32.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#87199",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "issue",
+      "title": "WordPress 7.2 regression: Featured image preview fails for remote image attachments with unknown MIME type",
+      "url": "https://github.com/WordPress/gutenberg/issues/87199",
+      "time": "2026-11-21T12:47:28.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#86419",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Media: Encode spaces in attachment source URLs returned by the REST API",
+      "url": "https://github.com/WordPress/gutenberg/pull/86419",
+      "time": "2026-11-21T12:37:29.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -13984,186 +14165,6 @@
       "confidence": 1
     },
     {
-      "id": "github:WordPress/gutenberg#87120",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Add CSS Variable to modify table block stripes",
-      "url": "https://github.com/WordPress/gutenberg/pull/87120",
-      "time": "2026-11-21T10:40:09.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#87196",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Widgets: PR 2: Convert legacy-widget block subsystem to TypeScript",
-      "url": "https://github.com/WordPress/gutenberg/pull/87196",
-      "time": "2026-11-21T08:02:35.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#87197",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Widgets: PR 3: Add split TypeScript project, convert index.ts, and add types field",
-      "url": "https://github.com/WordPress/gutenberg/pull/87197",
-      "time": "2026-11-21T07:38:54.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#87195",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Widgets: PR 1: Convert widget-group block, utilities, and components to TypeScript",
-      "url": "https://github.com/WordPress/gutenberg/pull/87195",
-      "time": "2026-11-21T07:05:35.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#85895",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "RichText: close non-void inline object elements",
-      "url": "https://github.com/WordPress/gutenberg/pull/85895",
-      "time": "2026-11-21T06:34:59.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#87193",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "issue",
-      "title": "Scripts: BlocksManifestPlugin doesn't wait for build-blocks-manifest and ignores its failure, so a build reports success with a missing or stale manifest",
-      "url": "https://github.com/WordPress/gutenberg/issues/87193",
-      "time": "2026-11-21T05:56:33.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#87194",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Scripts: Wait for the blocks manifest and report its failures",
-      "url": "https://github.com/WordPress/gutenberg/pull/87194",
-      "time": "2026-11-21T05:56:29.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#85801",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "List: Drag a list item by its bullet again",
-      "url": "https://github.com/WordPress/gutenberg/pull/85801",
-      "time": "2026-11-21T04:09:15.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#87192",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Keep the header and block toolbar on screen when the iOS keyboard opens",
-      "url": "https://github.com/WordPress/gutenberg/pull/87192",
-      "time": "2026-11-21T04:00:02.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#82308",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "issue",
-      "title": "iOS Safari: block toolbar isn't viewable consistently on text selection",
-      "url": "https://github.com/WordPress/gutenberg/issues/82308",
-      "time": "2026-11-21T03:14:02.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#84798",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Media Utils: Upload media files sequentially one at a time",
-      "url": "https://github.com/WordPress/gutenberg/pull/84798",
-      "time": "2026-11-21T02:57:14.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#87191",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "issue",
-      "title": "Editor: Limit concurrent server-side media uploads across separate `mediaUpload()` calls (Gallery / Playlist)",
-      "url": "https://github.com/WordPress/gutenberg/issues/87191",
-      "time": "2026-11-21T02:56:19.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
       "id": "github:WordPress/performance#2504",
       "source": "github",
       "teams": [
@@ -14172,7 +14173,7 @@
       "type": "pull",
       "title": "Add AI Performance Advisor plugin",
       "url": "https://github.com/WordPress/performance/pull/2504",
-      "time": "2026-11-21T12:07:50.000Z",
+      "time": "2026-11-21T13:58:35.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -14389,6 +14390,21 @@
       "confidence": 1
     },
     {
+      "id": "github:WordPress/ai#1423",
+      "source": "github",
+      "teams": [
+        "core-ai"
+      ],
+      "type": "issue",
+      "title": "Markdown Feeds: long image URLs are split across lines",
+      "url": "https://github.com/WordPress/ai/issues/1423",
+      "time": "2026-11-21T13:01:39.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
       "id": "github:WordPress/ai#1422",
       "source": "github",
       "teams": [
@@ -14599,15 +14615,75 @@
       "confidence": 1
     },
     {
-      "id": "github:WordPress/ai#1406",
+      "id": "github:WordPress/wordpress-playground#4664",
       "source": "github",
       "teams": [
-        "core-ai"
+        "playground"
+      ],
+      "type": "issue",
+      "title": "[Translation] Hindi translation progress tracker",
+      "url": "https://github.com/WordPress/wordpress-playground/issues/4664",
+      "time": "2026-11-21T14:50:52.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-playground#4693",
+      "source": "github",
+      "teams": [
+        "playground"
       ],
       "type": "pull",
-      "title": "Add WordPress Book sample content to Playground previews",
-      "url": "https://github.com/WordPress/ai/pull/1406",
-      "time": "2026-11-19T04:25:56.000Z",
+      "title": "[Website] Remove unused CSS and static assets",
+      "url": "https://github.com/WordPress/wordpress-playground/pull/4693",
+      "time": "2026-11-21T13:43:52.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-playground#4692",
+      "source": "github",
+      "teams": [
+        "playground"
+      ],
+      "type": "pull",
+      "title": "[i18n] Add pt-BR translation for architecture pages 09-17",
+      "url": "https://github.com/WordPress/wordpress-playground/pull/4692",
+      "time": "2026-11-21T13:20:01.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-playground#4691",
+      "source": "github",
+      "teams": [
+        "playground"
+      ],
+      "type": "pull",
+      "title": "[i18n] Add pt-BR translation for the APIs overview",
+      "url": "https://github.com/WordPress/wordpress-playground/pull/4691",
+      "time": "2026-11-21T13:19:34.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-playground#4675",
+      "source": "github",
+      "teams": [
+        "playground"
+      ],
+      "type": "pull",
+      "title": "[CLI] Write boot constants only once per Playground server",
+      "url": "https://github.com/WordPress/wordpress-playground/pull/4675",
+      "time": "2026-11-21T13:13:24.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -14638,51 +14714,6 @@
       "title": "PHP_SELF keeps the requested path after an internal redirect, so WordPress serves the home page for unknown permalinks",
       "url": "https://github.com/WordPress/wordpress-playground/issues/4689",
       "time": "2026-11-21T11:14:41.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/wordpress-playground#4679",
-      "source": "github",
-      "teams": [
-        "playground"
-      ],
-      "type": "pull",
-      "title": "[i18n] Add pt-BR translation for PHP frameworks guide",
-      "url": "https://github.com/WordPress/wordpress-playground/pull/4679",
-      "time": "2026-11-21T11:05:44.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/wordpress-playground#4681",
-      "source": "github",
-      "teams": [
-        "playground"
-      ],
-      "type": "pull",
-      "title": "[i18n] Add pt-BR translation for GitHub web interface contributing guide",
-      "url": "https://github.com/WordPress/wordpress-playground/pull/4681",
-      "time": "2026-11-21T11:03:09.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/wordpress-playground#4680",
-      "source": "github",
-      "teams": [
-        "playground"
-      ],
-      "type": "pull",
-      "title": "[i18n] Add pt-BR translation for PHP code snippets guide",
-      "url": "https://github.com/WordPress/wordpress-playground/pull/4680",
-      "time": "2026-11-21T11:03:03.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -14803,36 +14834,6 @@
       "title": "[i18n] Add Hindi to the docs locales",
       "url": "https://github.com/WordPress/wordpress-playground/pull/4682",
       "time": "2026-11-21T07:59:53.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/wordpress-playground#4675",
-      "source": "github",
-      "teams": [
-        "playground"
-      ],
-      "type": "pull",
-      "title": "[CLI] Write boot constants only once per Playground server",
-      "url": "https://github.com/WordPress/wordpress-playground/pull/4675",
-      "time": "2026-11-21T04:30:57.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/wordpress-playground#4608",
-      "source": "github",
-      "teams": [
-        "playground"
-      ],
-      "type": "pull",
-      "title": "[website] Verify TLS certificates in the GitHub OAuth token exchange",
-      "url": "https://github.com/WordPress/wordpress-playground/pull/4608",
-      "time": "2026-11-21T03:50:28.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
