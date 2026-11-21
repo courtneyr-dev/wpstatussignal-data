@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T09:20:24.689Z",
+  "generatedAt": "2026-11-21T12:23:59.125Z",
   "items": [
     {
       "id": "make:core:127269",
@@ -1979,6 +1979,62 @@
       "confidence": 1
     },
     {
+      "id": "make:polyglots:76119",
+      "source": "make",
+      "teams": [
+        "polyglots"
+      ],
+      "type": "post",
+      "title": "PTE Request for easyRechtssicher Rechtstexte",
+      "url": "https://make.wordpress.org/polyglots/2026/11/21/pte-request-for-easyrechtssicher-rechtstexte/",
+      "time": "2026-11-21T11:55:10Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "make:polyglots:76125",
+      "source": "make",
+      "teams": [
+        "polyglots"
+      ],
+      "type": "post",
+      "title": "PTE Request for Serkany Direct…",
+      "url": "https://make.wordpress.org/polyglots/2026/11/21/pte-request-for-serkany-direct/",
+      "time": "2026-11-21T11:54:59Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "make:polyglots:76128",
+      "source": "make",
+      "teams": [
+        "polyglots"
+      ],
+      "type": "post",
+      "title": "Hi, I’m a plugin developer….",
+      "url": "https://make.wordpress.org/polyglots/2026/11/21/hi-im-a-plugin-developer/",
+      "time": "2026-11-21T11:54:50Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "make:polyglots:76130",
+      "source": "make",
+      "teams": [
+        "polyglots"
+      ],
+      "type": "post",
+      "title": "Translation review request for LimeHippo Blacklist",
+      "url": "https://make.wordpress.org/polyglots/2026/11/21/translation-review-request-for-limehippo-blacklist/",
+      "time": "2026-11-21T10:28:48Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
       "id": "make:polyglots:76123",
       "source": "make",
       "teams": [
@@ -2338,62 +2394,6 @@
       "title": "PTE Request for Dux Software for WooCommerce",
       "url": "https://make.wordpress.org/polyglots/2026/11/19/pte-request-for-dux-software-for-woocommerce/",
       "time": "2026-11-19T19:35:26Z",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "make:polyglots:76054",
-      "source": "make",
-      "teams": [
-        "polyglots"
-      ],
-      "type": "post",
-      "title": "PTE Request for Openverse (#hi_IN)",
-      "url": "https://make.wordpress.org/polyglots/2026/11/19/pte-request-for-openverse-hindi/",
-      "time": "2026-11-19T18:22:04Z",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "make:polyglots:76010",
-      "source": "make",
-      "teams": [
-        "polyglots"
-      ],
-      "type": "post",
-      "title": "Lūgums pārskatīt Depicter tulkojumu latviešu valodā",
-      "url": "https://make.wordpress.org/polyglots/2026/11/19/lugums-parskatit-depicter-tulkojumu-latviesu-valoda/",
-      "time": "2026-11-19T12:39:06Z",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "make:polyglots:75996",
-      "source": "make",
-      "teams": [
-        "polyglots"
-      ],
-      "type": "post",
-      "title": "PTE Request for ReCons Timesheet",
-      "url": "https://make.wordpress.org/polyglots/2026/11/19/pte-request-for-recons-timesheet/",
-      "time": "2026-11-19T12:22:34Z",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "make:polyglots:76004",
-      "source": "make",
-      "teams": [
-        "polyglots"
-      ],
-      "type": "post",
-      "title": "PTE Request for VilaHub –…",
-      "url": "https://make.wordpress.org/polyglots/2026/11/19/pte-request-for-vilahub/",
-      "time": "2026-11-19T12:22:18Z",
       "ask": "none",
       "personas": [],
       "confidence": 1
@@ -13714,6 +13714,66 @@
       "url": "https://meta.trac.wordpress.org/ticket/7354#comment:11"
     },
     {
+      "id": "github:WordPress/wordpress-develop#16022",
+      "source": "github",
+      "teams": [
+        "core"
+      ],
+      "type": "pull",
+      "title": "Media: Refactor get_post_galleries() to use HTML API",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/16022",
+      "time": "2026-11-21T11:59:54.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-develop#10292",
+      "source": "github",
+      "teams": [
+        "core"
+      ],
+      "type": "pull",
+      "title": "Blocks/refactor post galleries block processor",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/10292",
+      "time": "2026-11-21T11:59:51.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-develop#16144",
+      "source": "github",
+      "teams": [
+        "core"
+      ],
+      "type": "pull",
+      "title": "Media: Save sub-sizes with non-center crop positions to separate files.",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/16144",
+      "time": "2026-11-21T11:09:33.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-develop#16113",
+      "source": "github",
+      "teams": [
+        "core"
+      ],
+      "type": "pull",
+      "title": "Email: Guard against line feeds in untrusted header sources.",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/16113",
+      "time": "2026-11-21T10:52:15.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
       "id": "github:WordPress/wordpress-develop#12311",
       "source": "github",
       "teams": [
@@ -13738,21 +13798,6 @@
       "title": "Comments: Add filter for comment types excluded from queries by default",
       "url": "https://github.com/WordPress/wordpress-develop/pull/12310",
       "time": "2026-11-21T07:18:04.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/wordpress-develop#16144",
-      "source": "github",
-      "teams": [
-        "core"
-      ],
-      "type": "pull",
-      "title": "Media: Save sub-sizes with non-center crop positions to separate files.",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/16144",
-      "time": "2026-11-21T07:00:58.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -13894,45 +13939,60 @@
       "confidence": 1
     },
     {
-      "id": "github:WordPress/wordpress-develop#16118",
+      "id": "github:WordPress/gutenberg#87185",
       "source": "github",
       "teams": [
-        "core"
+        "core-editor"
       ],
       "type": "pull",
-      "title": "Editor: Restore the default editor styles for classic themes.",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/16118",
-      "time": "2026-11-21T04:12:48.000Z",
+      "title": "Block Directory: Encode the search term in the search request",
+      "url": "https://github.com/WordPress/gutenberg/pull/87185",
+      "time": "2026-11-21T11:56:11.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/wordpress-develop#16062",
+      "id": "github:WordPress/gutenberg#87198",
       "source": "github",
       "teams": [
-        "core"
+        "core-editor"
       ],
-      "type": "pull",
-      "title": "Abilities API: Read the schema default in `core/settings-get`",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/16062",
-      "time": "2026-11-21T03:58:27.000Z",
+      "type": "issue",
+      "title": "Text selection highlight invisible in block editor canvas in Safari 27.3 beta (macOS)",
+      "url": "https://github.com/WordPress/gutenberg/issues/87198",
+      "time": "2026-11-21T11:28:32.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/wordpress-develop#14094",
+      "id": "github:WordPress/gutenberg#87068",
       "source": "github",
       "teams": [
-        "core"
+        "core-editor"
       ],
       "type": "pull",
-      "title": "Block Supports: Add PHP helpers for block support classes and styles",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/14094",
-      "time": "2026-11-21T03:51:23.000Z",
+      "title": "Table: Preserve selected cell section and row index when inserting column",
+      "url": "https://github.com/WordPress/gutenberg/pull/87068",
+      "time": "2026-11-21T10:49:42.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#87120",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Add CSS Variable to modify table block stripes",
+      "url": "https://github.com/WordPress/gutenberg/pull/87120",
+      "time": "2026-11-21T10:40:09.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -14104,60 +14164,45 @@
       "confidence": 1
     },
     {
-      "id": "github:WordPress/gutenberg#87182",
+      "id": "github:WordPress/performance#2504",
       "source": "github",
       "teams": [
-        "core-editor"
+        "core-performance"
       ],
       "type": "pull",
-      "title": "Place the caret on a tap after the keyboard is hidden without Done on iOS",
-      "url": "https://github.com/WordPress/gutenberg/pull/87182",
-      "time": "2026-11-21T02:47:53.000Z",
+      "title": "Add AI Performance Advisor plugin",
+      "url": "https://github.com/WordPress/performance/pull/2504",
+      "time": "2026-11-21T12:07:50.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/gutenberg#87190",
+      "id": "github:WordPress/performance#2761",
       "source": "github",
       "teams": [
-        "core-editor"
+        "core-performance"
       ],
       "type": "pull",
-      "title": "Data: Type coreDataStore with its runtime selectors and actions",
-      "url": "https://github.com/WordPress/gutenberg/pull/87190",
-      "time": "2026-11-21T02:23:21.000Z",
+      "title": "Convert WebP uploads to AVIF when fallback output is enabled",
+      "url": "https://github.com/WordPress/performance/pull/2761",
+      "time": "2026-11-21T09:50:52.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/gutenberg#84428",
+      "id": "github:WordPress/performance#1946",
       "source": "github",
       "teams": [
-        "core-editor"
+        "core-performance"
       ],
       "type": "pull",
-      "title": "Block Editor: Include resolved bound content when copying blocks",
-      "url": "https://github.com/WordPress/gutenberg/pull/84428",
-      "time": "2026-11-21T00:29:21.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#85490",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Keyboard shortcuts: expose readable punctuation labels to screen readers",
-      "url": "https://github.com/WordPress/gutenberg/pull/85490",
-      "time": "2026-11-21T00:04:42.000Z",
+      "title": "Improve Test Coverage for Webp-Uploads Plugin",
+      "url": "https://github.com/WordPress/performance/pull/1946",
+      "time": "2026-11-21T09:39:49.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -14173,36 +14218,6 @@
       "title": "Performance Lab: Show filesystem credentials modal on plugin install",
       "url": "https://github.com/WordPress/performance/pull/2482",
       "time": "2026-11-21T05:46:39.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/performance#2504",
-      "source": "github",
-      "teams": [
-        "core-performance"
-      ],
-      "type": "pull",
-      "title": "Add AI Performance Advisor plugin",
-      "url": "https://github.com/WordPress/performance/pull/2504",
-      "time": "2026-11-21T04:22:55.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/performance#1946",
-      "source": "github",
-      "teams": [
-        "core-performance"
-      ],
-      "type": "pull",
-      "title": "Improve Test Coverage for Webp-Uploads Plugin",
-      "url": "https://github.com/WordPress/performance/pull/1946",
-      "time": "2026-11-20T22:08:23.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -14308,21 +14323,6 @@
       "title": "Fix uncropped thumbnails after editing an image in the Media Library",
       "url": "https://github.com/WordPress/performance/pull/2758",
       "time": "2026-11-18T18:06:06.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/performance#2761",
-      "source": "github",
-      "teams": [
-        "core-performance"
-      ],
-      "type": "pull",
-      "title": "Convert WebP uploads to AVIF when fallback output is enabled",
-      "url": "https://github.com/WordPress/performance/pull/2761",
-      "time": "2026-11-17T13:12:23.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -14614,6 +14614,126 @@
       "confidence": 1
     },
     {
+      "id": "github:WordPress/wordpress-playground#4690",
+      "source": "github",
+      "teams": [
+        "playground"
+      ],
+      "type": "pull",
+      "title": "[PHP Request Handler] Set PHP_SELF from the internal redirect target",
+      "url": "https://github.com/WordPress/wordpress-playground/pull/4690",
+      "time": "2026-11-21T11:20:28.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-playground#4689",
+      "source": "github",
+      "teams": [
+        "playground"
+      ],
+      "type": "issue",
+      "title": "PHP_SELF keeps the requested path after an internal redirect, so WordPress serves the home page for unknown permalinks",
+      "url": "https://github.com/WordPress/wordpress-playground/issues/4689",
+      "time": "2026-11-21T11:14:41.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-playground#4679",
+      "source": "github",
+      "teams": [
+        "playground"
+      ],
+      "type": "pull",
+      "title": "[i18n] Add pt-BR translation for PHP frameworks guide",
+      "url": "https://github.com/WordPress/wordpress-playground/pull/4679",
+      "time": "2026-11-21T11:05:44.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-playground#4681",
+      "source": "github",
+      "teams": [
+        "playground"
+      ],
+      "type": "pull",
+      "title": "[i18n] Add pt-BR translation for GitHub web interface contributing guide",
+      "url": "https://github.com/WordPress/wordpress-playground/pull/4681",
+      "time": "2026-11-21T11:03:09.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-playground#4680",
+      "source": "github",
+      "teams": [
+        "playground"
+      ],
+      "type": "pull",
+      "title": "[i18n] Add pt-BR translation for PHP code snippets guide",
+      "url": "https://github.com/WordPress/wordpress-playground/pull/4680",
+      "time": "2026-11-21T11:03:03.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-playground#4688",
+      "source": "github",
+      "teams": [
+        "playground"
+      ],
+      "type": "pull",
+      "title": "[i18n] Translate the Build page into Hindi",
+      "url": "https://github.com/WordPress/wordpress-playground/pull/4688",
+      "time": "2026-11-21T10:37:42.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-playground#4687",
+      "source": "github",
+      "teams": [
+        "playground"
+      ],
+      "type": "issue",
+      "title": "imageavif() writes a 0-byte file for images larger than 512×512 pixels",
+      "url": "https://github.com/WordPress/wordpress-playground/issues/4687",
+      "time": "2026-11-21T10:17:39.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-playground#4686",
+      "source": "github",
+      "teams": [
+        "playground"
+      ],
+      "type": "pull",
+      "title": "[Docs] Fix the Symfony snippet example and handbook screenshot links",
+      "url": "https://github.com/WordPress/wordpress-playground/pull/4686",
+      "time": "2026-11-21T10:16:22.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
       "id": "github:WordPress/wordpress-playground#4685",
       "source": "github",
       "teams": [
@@ -14689,51 +14809,6 @@
       "confidence": 1
     },
     {
-      "id": "github:WordPress/wordpress-playground#4680",
-      "source": "github",
-      "teams": [
-        "playground"
-      ],
-      "type": "pull",
-      "title": "[i18n] Add pt-BR translation for PHP code snippets guide",
-      "url": "https://github.com/WordPress/wordpress-playground/pull/4680",
-      "time": "2026-11-21T07:45:55.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/wordpress-playground#4681",
-      "source": "github",
-      "teams": [
-        "playground"
-      ],
-      "type": "pull",
-      "title": "[i18n] Add pt-BR translation for GitHub web interface contributing guide",
-      "url": "https://github.com/WordPress/wordpress-playground/pull/4681",
-      "time": "2026-11-21T07:45:43.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/wordpress-playground#4679",
-      "source": "github",
-      "teams": [
-        "playground"
-      ],
-      "type": "pull",
-      "title": "[i18n] Add pt-BR translation for PHP frameworks guide",
-      "url": "https://github.com/WordPress/wordpress-playground/pull/4679",
-      "time": "2026-11-21T07:41:37.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
       "id": "github:WordPress/wordpress-playground#4675",
       "source": "github",
       "teams": [
@@ -14764,81 +14839,6 @@
       "confidence": 1
     },
     {
-      "id": "github:WordPress/wordpress-playground#4672",
-      "source": "github",
-      "teams": [
-        "playground"
-      ],
-      "type": "pull",
-      "title": "[website] Fix run blueprint button flowing into surrounding text",
-      "url": "https://github.com/WordPress/wordpress-playground/pull/4672",
-      "time": "2026-11-21T00:14:51.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/wordpress-playground#4674",
-      "source": "github",
-      "teams": [
-        "playground"
-      ],
-      "type": "pull",
-      "title": "[website] Show GitHub authorization errors in the Connect to GitHub dialog",
-      "url": "https://github.com/WordPress/wordpress-playground/pull/4674",
-      "time": "2026-11-21T00:02:23.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/wordpress-playground#4673",
-      "source": "github",
-      "teams": [
-        "playground"
-      ],
-      "type": "pull",
-      "title": "[ php-wasm ] Keep php://stderr reopenable after fclose() on a worker's first request",
-      "url": "https://github.com/WordPress/wordpress-playground/pull/4673",
-      "time": "2026-11-20T20:20:00.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/wordpress-playground#4664",
-      "source": "github",
-      "teams": [
-        "playground"
-      ],
-      "type": "issue",
-      "title": "[Translation] Hindi translation progress tracker",
-      "url": "https://github.com/WordPress/wordpress-playground/issues/4664",
-      "time": "2026-11-20T18:28:44.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/wordpress-playground#4666",
-      "source": "github",
-      "teams": [
-        "playground"
-      ],
-      "type": "issue",
-      "title": "CLI: php://stderr can't be reopened after fclose() on a worker's first request",
-      "url": "https://github.com/WordPress/wordpress-playground/issues/4666",
-      "time": "2026-11-20T16:50:06.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
       "id": "github:WordPress/openverse#255",
       "source": "github",
       "teams": [
@@ -14847,7 +14847,7 @@
       "type": "issue",
       "title": "Dependency Dashboard",
       "url": "https://github.com/WordPress/openverse/issues/255",
-      "time": "2026-11-21T06:17:20.000Z",
+      "time": "2026-11-21T12:14:26.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -15459,17 +15459,6 @@
   ],
   "tickets": [
     {
-      "id": 66762,
-      "title": "Default editor styles are missing for classic themes in 7.2",
-      "url": "https://core.trac.wordpress.org/ticket/66762",
-      "status": "assigned",
-      "type": "defect (bug)",
-      "priority": "normal",
-      "milestone": "7.2",
-      "component": "Editor",
-      "owner": "mukesh27"
-    },
-    {
       "id": 66208,
       "title": "KSES: Re-implement using HTML API",
       "url": "https://core.trac.wordpress.org/ticket/66208",
@@ -15479,6 +15468,17 @@
       "milestone": "7.2",
       "component": "HTML API",
       "owner": ""
+    },
+    {
+      "id": 66762,
+      "title": "Default editor styles are missing for classic themes in 7.2",
+      "url": "https://core.trac.wordpress.org/ticket/66762",
+      "status": "assigned",
+      "type": "defect (bug)",
+      "priority": "normal",
+      "milestone": "7.2",
+      "component": "Editor",
+      "owner": "mukesh27"
     },
     {
       "id": 66769,
