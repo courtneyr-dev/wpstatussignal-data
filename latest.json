@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T00:39:14.805Z",
+  "generatedAt": "2026-11-21T03:22:21.430Z",
   "items": [
     {
       "id": "make:core:127269",
@@ -6503,6 +6503,20 @@
       "confidence": 1
     },
     {
+      "id": "make:updates:24691",
+      "source": "make",
+      "teams": [
+        "core-test"
+      ],
+      "type": "post",
+      "title": "Test Team Update: 20 November, 2026",
+      "url": "https://make.wordpress.org/updates/2026/11/21/test-team-update-20-november-2026/",
+      "time": "2026-11-21T01:00:00Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 0.9
+    },
+    {
       "id": "make:updates:24687",
       "source": "make",
       "teams": [
@@ -6876,20 +6890,6 @@
       "title": "Plugins Team: 14 Sep 2026",
       "url": "https://make.wordpress.org/updates/2026/09/14/plugins-team-14-sep-2026/",
       "time": "2026-09-14T16:50:24Z",
-      "ask": "none",
-      "personas": [],
-      "confidence": 0.9
-    },
-    {
-      "id": "make:updates:24568",
-      "source": "make",
-      "teams": [
-        "docs"
-      ],
-      "type": "post",
-      "title": "Documentation Team Update – September 14, 2026",
-      "url": "https://make.wordpress.org/updates/2026/09/14/documentation-team-update-september-14-2026/",
-      "time": "2026-09-14T08:04:48Z",
       "ask": "none",
       "personas": [],
       "confidence": 0.9
@@ -13759,6 +13759,51 @@
       "url": "https://meta.trac.wordpress.org/ticket/7354#comment:11"
     },
     {
+      "id": "github:WordPress/wordpress-develop#12673",
+      "source": "github",
+      "teams": [
+        "core"
+      ],
+      "type": "pull",
+      "title": "Comments: Encode emoji for utf8mb3 comment columns",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/12673",
+      "time": "2026-11-21T03:04:59.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-develop#16113",
+      "source": "github",
+      "teams": [
+        "core"
+      ],
+      "type": "pull",
+      "title": "Email: Guard against line feeds in untrusted header sources.",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/16113",
+      "time": "2026-11-21T02:50:42.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-develop#13866",
+      "source": "github",
+      "teams": [
+        "core"
+      ],
+      "type": "pull",
+      "title": "List Tables: Keep columns readable with horizontal scrolling.",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/13866",
+      "time": "2026-11-21T01:02:18.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
       "id": "github:WordPress/wordpress-develop#16116",
       "source": "github",
       "teams": [
@@ -13774,36 +13819,6 @@
       "confidence": 1
     },
     {
-      "id": "github:WordPress/wordpress-develop#16113",
-      "source": "github",
-      "teams": [
-        "core"
-      ],
-      "type": "pull",
-      "title": "Email: Guard against line feeds in untrusted header sources.",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/16113",
-      "time": "2026-11-21T00:29:29.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/wordpress-develop#13866",
-      "source": "github",
-      "teams": [
-        "core"
-      ],
-      "type": "pull",
-      "title": "List Tables: Keep columns readable with horizontal scrolling.",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/13866",
-      "time": "2026-11-20T23:27:34.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
       "id": "github:WordPress/wordpress-develop#12522",
       "source": "github",
       "teams": [
@@ -13813,21 +13828,6 @@
       "title": "Editor: Add pattern support to PHP-only blocks.",
       "url": "https://github.com/WordPress/wordpress-develop/pull/12522",
       "time": "2026-11-20T23:00:41.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/wordpress-develop#12673",
-      "source": "github",
-      "teams": [
-        "core"
-      ],
-      "type": "pull",
-      "title": "Comments: Encode emoji for utf8mb3 comment columns",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/12673",
-      "time": "2026-11-20T22:56:44.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -13992,7 +13992,97 @@
       "type": "pull",
       "title": "List: Drag a list item by its bullet again",
       "url": "https://github.com/WordPress/gutenberg/pull/85801",
-      "time": "2026-11-21T00:33:06.000Z",
+      "time": "2026-11-21T03:19:42.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#87192",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Keep the header and block toolbar on screen when the iOS keyboard opens",
+      "url": "https://github.com/WordPress/gutenberg/pull/87192",
+      "time": "2026-11-21T03:19:10.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#82308",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "issue",
+      "title": "iOS Safari: block toolbar isn't viewable consistently on text selection",
+      "url": "https://github.com/WordPress/gutenberg/issues/82308",
+      "time": "2026-11-21T03:14:02.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#84798",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Media Utils: Upload media files sequentially one at a time",
+      "url": "https://github.com/WordPress/gutenberg/pull/84798",
+      "time": "2026-11-21T02:57:14.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#87191",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "issue",
+      "title": "Editor: Limit concurrent server-side media uploads across separate `mediaUpload()` calls (Gallery / Playlist)",
+      "url": "https://github.com/WordPress/gutenberg/issues/87191",
+      "time": "2026-11-21T02:56:19.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#87182",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Place the caret on a tap after the keyboard is hidden without Done on iOS",
+      "url": "https://github.com/WordPress/gutenberg/pull/87182",
+      "time": "2026-11-21T02:47:53.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#87190",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Data: Type coreDataStore with its runtime selectors and actions",
+      "url": "https://github.com/WordPress/gutenberg/pull/87190",
+      "time": "2026-11-21T02:23:21.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -14059,21 +14149,6 @@
       "confidence": 1
     },
     {
-      "id": "github:WordPress/gutenberg#87190",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Data: Type coreDataStore with its runtime selectors and actions",
-      "url": "https://github.com/WordPress/gutenberg/pull/87190",
-      "time": "2026-11-20T23:37:02.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
       "id": "github:WordPress/gutenberg#87092",
       "source": "github",
       "teams": [
@@ -14134,81 +14209,6 @@
       "confidence": 1
     },
     {
-      "id": "github:WordPress/gutenberg#86982",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Admin UI: Update Page breadcrumbs to receive configuration array",
-      "url": "https://github.com/WordPress/gutenberg/pull/86982",
-      "time": "2026-11-20T23:22:17.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#80182",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "PHP-only blocks: try canvas editing with synced patterns",
-      "url": "https://github.com/WordPress/gutenberg/pull/80182",
-      "time": "2026-11-20T23:20:26.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#86614",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Theme: Improve contrast for brand text, fills, and focus rings",
-      "url": "https://github.com/WordPress/gutenberg/pull/86614",
-      "time": "2026-11-20T23:18:30.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#87175",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Theme: Preserve saturation in background surfaces and strokes",
-      "url": "https://github.com/WordPress/gutenberg/pull/87175",
-      "time": "2026-11-20T23:12:01.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#87177",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "List View: Keep selected labels, badges and focus rings readable",
-      "url": "https://github.com/WordPress/gutenberg/pull/87177",
-      "time": "2026-11-20T23:06:42.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
       "id": "github:WordPress/performance#2504",
       "source": "github",
       "teams": [
@@ -14217,7 +14217,7 @@
       "type": "pull",
       "title": "Add AI Performance Advisor plugin",
       "url": "https://github.com/WordPress/performance/pull/2504",
-      "time": "2026-11-20T23:18:50.000Z",
+      "time": "2026-11-21T02:16:44.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -14442,7 +14442,7 @@
       "type": "pull",
       "title": "Feat[Experiment]: Add Agent Users linked with parent user accounts",
       "url": "https://github.com/WordPress/ai/pull/1068",
-      "time": "2026-11-20T23:00:47.000Z",
+      "time": "2026-11-21T01:07:13.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -14659,6 +14659,21 @@
       "confidence": 1
     },
     {
+      "id": "github:WordPress/wordpress-playground#4608",
+      "source": "github",
+      "teams": [
+        "playground"
+      ],
+      "type": "pull",
+      "title": "[website] Verify TLS certificates in the GitHub OAuth token exchange",
+      "url": "https://github.com/WordPress/wordpress-playground/pull/4608",
+      "time": "2026-11-21T03:09:55.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
       "id": "github:WordPress/wordpress-playground#4672",
       "source": "github",
       "teams": [
@@ -14683,21 +14698,6 @@
       "title": "[website] Show GitHub authorization errors in the Connect to GitHub dialog",
       "url": "https://github.com/WordPress/wordpress-playground/pull/4674",
       "time": "2026-11-21T00:02:23.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/wordpress-playground#4608",
-      "source": "github",
-      "teams": [
-        "playground"
-      ],
-      "type": "pull",
-      "title": "[website] Verify TLS certificates in the GitHub OAuth token exchange",
-      "url": "https://github.com/WordPress/wordpress-playground/pull/4608",
-      "time": "2026-11-20T23:41:27.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
