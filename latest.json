@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T18:21:40.174Z",
+  "generatedAt": "2026-11-22T21:20:24.491Z",
   "items": [
     {
       "id": "make:core:127269",
@@ -1979,6 +1979,20 @@
       "confidence": 1
     },
     {
+      "id": "make:polyglots:76239",
+      "source": "make",
+      "teams": [
+        "polyglots"
+      ],
+      "type": "post",
+      "title": "Hello Polyglots team!",
+      "url": "https://make.wordpress.org/polyglots/2026/11/22/hello-polyglots-team-177/",
+      "time": "2026-11-22T20:37:09Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
       "id": "make:polyglots:76223",
       "source": "make",
       "teams": [
@@ -2380,20 +2394,6 @@
       "title": "PTE Request for BlumiDTE",
       "url": "https://make.wordpress.org/polyglots/2026/11/20/pte-request-for-blumidte/",
       "time": "2026-11-20T21:23:23Z",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "make:polyglots:76109",
-      "source": "make",
-      "teams": [
-        "polyglots"
-      ],
-      "type": "post",
-      "title": "PTE Request for Shipment Tracking…",
-      "url": "https://make.wordpress.org/polyglots/2026/11/20/pte-request-for-shipment-tracking/",
-      "time": "2026-11-20T21:23:13Z",
       "ask": "none",
       "personas": [],
       "confidence": 1
@@ -13688,6 +13688,36 @@
       "url": "https://meta.trac.wordpress.org/changeset/15625"
     },
     {
+      "id": "github:WordPress/wordpress-develop#12308",
+      "source": "github",
+      "teams": [
+        "core"
+      ],
+      "type": "pull",
+      "title": "Tests: Cover page-cache-aware default eagerness in wp_get_speculation_rules_configuration()",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/12308",
+      "time": "2026-11-22T20:00:49.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-develop#16160",
+      "source": "github",
+      "teams": [
+        "core"
+      ],
+      "type": "pull",
+      "title": "Posts, Post Types: Check the selected page against `value_field` in `Walker_PageDropdown`",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/16160",
+      "time": "2026-11-22T18:28:19.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
       "id": "github:WordPress/wordpress-develop#16159",
       "source": "github",
       "teams": [
@@ -13883,30 +13913,75 @@
       "confidence": 1
     },
     {
-      "id": "github:WordPress/wordpress-develop#15853",
+      "id": "github:WordPress/gutenberg#87199",
       "source": "github",
       "teams": [
-        "core"
+        "core-editor"
       ],
-      "type": "pull",
-      "title": "Comments: Harden reaction and note permissions.",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/15853",
-      "time": "2026-11-22T04:51:59.000Z",
+      "type": "issue",
+      "title": "WordPress 7.2 regression: Featured image preview fails for remote image attachments with unknown MIME type",
+      "url": "https://github.com/WordPress/gutenberg/issues/87199",
+      "time": "2026-11-22T19:51:50.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/wordpress-develop#16153",
+      "id": "github:WordPress/gutenberg#48716",
       "source": "github",
       "teams": [
-        "core"
+        "core-editor"
+      ],
+      "type": "issue",
+      "title": "`core/template-part` block doesn't render template parts added by the plugin on the frontend side",
+      "url": "https://github.com/WordPress/gutenberg/issues/48716",
+      "time": "2026-11-22T19:14:01.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#87217",
+      "source": "github",
+      "teams": [
+        "core-editor"
       ],
       "type": "pull",
-      "title": "Query: Bring WP_Query query var types to PHPStan rule level 10",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/16153",
-      "time": "2026-11-22T04:43:01.000Z",
+      "title": "Template Part: Render plugin-provided template parts on the front end, as in the editor",
+      "url": "https://github.com/WordPress/gutenberg/pull/87217",
+      "time": "2026-11-22T19:12:03.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#87216",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "issue",
+      "title": "WordPress 7.2 RC2: Media Library browser uploads drop sub-sizes that share dimensions",
+      "url": "https://github.com/WordPress/gutenberg/issues/87216",
+      "time": "2026-11-22T19:04:01.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#87215",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Tests: Isolate block editor settings controller tests and use strict assertion",
+      "url": "https://github.com/WordPress/gutenberg/pull/87215",
+      "time": "2026-11-22T18:35:15.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -14063,75 +14138,15 @@
       "confidence": 1
     },
     {
-      "id": "github:WordPress/gutenberg#43586",
+      "id": "github:WordPress/performance#1946",
       "source": "github",
       "teams": [
-        "core-editor"
-      ],
-      "type": "issue",
-      "title": "Image captions in galleries hide rounded border",
-      "url": "https://github.com/WordPress/gutenberg/issues/43586",
-      "time": "2026-11-22T11:28:14.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#81351",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "issue",
-      "title": "UI Card: document the spacing custom properties as a supported contract",
-      "url": "https://github.com/WordPress/gutenberg/issues/81351",
-      "time": "2026-11-22T11:22:08.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#87145",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "issue",
-      "title": "Dialog: The popup clips the scroll-area focus outline at rounded corners",
-      "url": "https://github.com/WordPress/gutenberg/issues/87145",
-      "time": "2026-11-22T11:11:52.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#87210",
-      "source": "github",
-      "teams": [
-        "core-editor"
+        "core-performance"
       ],
       "type": "pull",
-      "title": "Dialog, Drawer, AlertDialog: Follow the popup corners in the scroll area",
-      "url": "https://github.com/WordPress/gutenberg/pull/87210",
-      "time": "2026-11-22T11:09:02.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#86134",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Gallery: Use a distinct icon for the Gallery Grid variation",
-      "url": "https://github.com/WordPress/gutenberg/pull/86134",
-      "time": "2026-11-22T09:35:37.000Z",
+      "title": "Improve Test Coverage for Webp-Uploads Plugin",
+      "url": "https://github.com/WordPress/performance/pull/1946",
+      "time": "2026-11-22T20:50:55.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -14146,22 +14161,7 @@
       "type": "pull",
       "title": "Add AI Performance Advisor plugin",
       "url": "https://github.com/WordPress/performance/pull/2504",
-      "time": "2026-11-22T17:06:28.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/performance#1946",
-      "source": "github",
-      "teams": [
-        "core-performance"
-      ],
-      "type": "pull",
-      "title": "Improve Test Coverage for Webp-Uploads Plugin",
-      "url": "https://github.com/WordPress/performance/pull/1946",
-      "time": "2026-11-22T12:07:32.000Z",
+      "time": "2026-11-22T20:25:32.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -14363,6 +14363,51 @@
       "confidence": 1
     },
     {
+      "id": "github:WordPress/ai#1425",
+      "source": "github",
+      "teams": [
+        "core-ai"
+      ],
+      "type": "pull",
+      "title": "Support The SEO Framework in Meta Description Generation",
+      "url": "https://github.com/WordPress/ai/pull/1425",
+      "time": "2026-11-22T19:49:53.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/ai#1424",
+      "source": "github",
+      "teams": [
+        "core-ai"
+      ],
+      "type": "issue",
+      "title": "Support The SEO Framework in Meta Description Generation",
+      "url": "https://github.com/WordPress/ai/issues/1424",
+      "time": "2026-11-22T19:23:42.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/ai#858",
+      "source": "github",
+      "teams": [
+        "core-ai"
+      ],
+      "type": "pull",
+      "title": "Abilities API: add core/read-nav-menus ability",
+      "url": "https://github.com/WordPress/ai/pull/858",
+      "time": "2026-11-22T19:20:46.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
       "id": "github:WordPress/ai#1423",
       "source": "github",
       "teams": [
@@ -14543,120 +14588,30 @@
       "confidence": 1
     },
     {
-      "id": "github:WordPress/ai#887",
-      "source": "github",
-      "teams": [
-        "core-ai"
-      ],
-      "type": "pull",
-      "title": "Experiment: Add Internal link suggestions",
-      "url": "https://github.com/WordPress/ai/pull/887",
-      "time": "2026-11-19T09:24:08.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/ai#1306",
-      "source": "github",
-      "teams": [
-        "core-ai"
-      ],
-      "type": "pull",
-      "title": "Experiment: Topic Pages - Introduce narrative guides for category archives",
-      "url": "https://github.com/WordPress/ai/pull/1306",
-      "time": "2026-11-19T21:09:37.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/ai#348",
-      "source": "github",
-      "teams": [
-        "core-ai"
-      ],
-      "type": "issue",
-      "title": "Feature Request: Unified AI Management Layer for WordPress Core",
-      "url": "https://github.com/WordPress/ai/issues/348",
-      "time": "2026-11-19T07:36:22.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/wordpress-playground#4699",
-      "source": "github",
-      "teams": [
-        "playground"
-      ],
-      "type": "pull",
-      "title": "[Docs] Fix the npm steps for adding a new package",
-      "url": "https://github.com/WordPress/wordpress-playground/pull/4699",
-      "time": "2026-11-22T17:18:54.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/wordpress-playground#4697",
-      "source": "github",
-      "teams": [
-        "playground"
-      ],
-      "type": "pull",
-      "title": "[i18n] Translate the Releasing packages page into Hindi",
-      "url": "https://github.com/WordPress/wordpress-playground/pull/4697",
-      "time": "2026-11-22T17:15:32.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/wordpress-playground#4698",
+      "id": "github:WordPress/wordpress-playground#4664",
       "source": "github",
       "teams": [
         "playground"
       ],
       "type": "issue",
-      "title": "[Documentation]: Releasing packages guide has outdated npm steps for adding a new package",
-      "url": "https://github.com/WordPress/wordpress-playground/issues/4698",
-      "time": "2026-11-22T17:14:31.000Z",
+      "title": "[Translation] Hindi translation progress tracker",
+      "url": "https://github.com/WordPress/wordpress-playground/issues/4664",
+      "time": "2026-11-22T20:45:58.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/wordpress-playground#4682",
+      "id": "github:WordPress/wordpress-playground#4692",
       "source": "github",
       "teams": [
         "playground"
       ],
       "type": "pull",
-      "title": "[i18n] Add Hindi to the docs locales",
-      "url": "https://github.com/WordPress/wordpress-playground/pull/4682",
-      "time": "2026-11-22T16:53:57.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/wordpress-playground#4688",
-      "source": "github",
-      "teams": [
-        "playground"
-      ],
-      "type": "pull",
-      "title": "[i18n] Translate the Build page into Hindi",
-      "url": "https://github.com/WordPress/wordpress-playground/pull/4688",
-      "time": "2026-11-22T16:51:06.000Z",
+      "title": "[i18n] Add pt-BR translation for architecture pages 09-17",
+      "url": "https://github.com/WordPress/wordpress-playground/pull/4692",
+      "time": "2026-11-22T20:27:24.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -14672,21 +14627,6 @@
       "title": "[i18n] Translate the Coding principles page into Hindi",
       "url": "https://github.com/WordPress/wordpress-playground/pull/4696",
       "time": "2026-11-22T16:48:43.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/wordpress-playground#4692",
-      "source": "github",
-      "teams": [
-        "playground"
-      ],
-      "type": "pull",
-      "title": "[i18n] Add pt-BR translation for architecture pages 09-17",
-      "url": "https://github.com/WordPress/wordpress-playground/pull/4692",
-      "time": "2026-11-22T16:12:33.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -14753,21 +14693,6 @@
       "confidence": 1
     },
     {
-      "id": "github:WordPress/wordpress-playground#4664",
-      "source": "github",
-      "teams": [
-        "playground"
-      ],
-      "type": "issue",
-      "title": "[Translation] Hindi translation progress tracker",
-      "url": "https://github.com/WordPress/wordpress-playground/issues/4664",
-      "time": "2026-11-22T09:18:23.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
       "id": "github:WordPress/wordpress-playground#4615",
       "source": "github",
       "teams": [
@@ -14807,6 +14732,81 @@
       "title": "[i18n] Add pt-BR translation for the Xdebug trace and profile guide",
       "url": "https://github.com/WordPress/wordpress-playground/pull/4694",
       "time": "2026-11-21T19:33:53.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-playground#4640",
+      "source": "github",
+      "teams": [
+        "playground"
+      ],
+      "type": "pull",
+      "title": "[PHP-WASM] Keep Node Buffer out of browser client declarations",
+      "url": "https://github.com/WordPress/wordpress-playground/pull/4640",
+      "time": "2026-11-21T16:49:58.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-playground#4693",
+      "source": "github",
+      "teams": [
+        "playground"
+      ],
+      "type": "pull",
+      "title": "[Website] Remove unused CSS and static assets",
+      "url": "https://github.com/WordPress/wordpress-playground/pull/4693",
+      "time": "2026-11-21T13:43:52.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-playground#4690",
+      "source": "github",
+      "teams": [
+        "playground"
+      ],
+      "type": "pull",
+      "title": "[PHP Request Handler] Set PHP_SELF from the internal redirect target",
+      "url": "https://github.com/WordPress/wordpress-playground/pull/4690",
+      "time": "2026-11-21T11:20:28.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-playground#4689",
+      "source": "github",
+      "teams": [
+        "playground"
+      ],
+      "type": "issue",
+      "title": "PHP_SELF keeps the requested path after an internal redirect, so WordPress serves the home page for unknown permalinks",
+      "url": "https://github.com/WordPress/wordpress-playground/issues/4689",
+      "time": "2026-11-21T11:14:41.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-playground#4687",
+      "source": "github",
+      "teams": [
+        "playground"
+      ],
+      "type": "issue",
+      "title": "imageavif() writes a 0-byte file for images larger than 512×512 pixels",
+      "url": "https://github.com/WordPress/wordpress-playground/issues/4687",
+      "time": "2026-11-21T10:17:39.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -15038,6 +15038,201 @@
       "confidence": 1
     },
     {
+      "id": "github:WordPress/Learn#3739",
+      "source": "github",
+      "teams": [
+        "training"
+      ],
+      "type": "issue",
+      "title": "Spanish translation for \"Behavioral expectations\"",
+      "url": "https://github.com/WordPress/Learn/issues/3739",
+      "time": "2026-11-22T20:43:45.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/Learn#3728",
+      "source": "github",
+      "teams": [
+        "training"
+      ],
+      "type": "issue",
+      "title": "Feedback - Module 3 Quiz completion not unlocking next lesson (\"Prerequisites are completed and graded\" error)",
+      "url": "https://github.com/WordPress/Learn/issues/3728",
+      "time": "2026-11-22T20:35:20.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/Learn#3735",
+      "source": "github",
+      "teams": [
+        "training"
+      ],
+      "type": "issue",
+      "title": "Spanish translation for \"The WordPress Ecosystem\"",
+      "url": "https://github.com/WordPress/Learn/issues/3735",
+      "time": "2026-11-22T20:20:42.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/Learn#3736",
+      "source": "github",
+      "teams": [
+        "training"
+      ],
+      "type": "issue",
+      "title": "Spanish translation for \"Principles of Free Software and the WordPress project\"",
+      "url": "https://github.com/WordPress/Learn/issues/3736",
+      "time": "2026-11-22T20:20:24.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/Learn#3747",
+      "source": "github",
+      "teams": [
+        "training"
+      ],
+      "type": "issue",
+      "title": "Spanish translation for \"WordPress.org vs WordPress.com: What Educators Need to Know\"",
+      "url": "https://github.com/WordPress/Learn/issues/3747",
+      "time": "2026-11-22T20:16:02.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/Learn#3748",
+      "source": "github",
+      "teams": [
+        "training"
+      ],
+      "type": "issue",
+      "title": "Spanish translation for \"WordPress Core, Themes, and Plugins\"",
+      "url": "https://github.com/WordPress/Learn/issues/3748",
+      "time": "2026-11-22T20:15:39.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/Learn#3749",
+      "source": "github",
+      "teams": [
+        "training"
+      ],
+      "type": "issue",
+      "title": "Spanish translation for \"The Block Editor: Creating Content in WordPress\"",
+      "url": "https://github.com/WordPress/Learn/issues/3749",
+      "time": "2026-11-22T20:15:15.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/Learn#3752",
+      "source": "github",
+      "teams": [
+        "training"
+      ],
+      "type": "issue",
+      "title": "Bangla translation for \"Utilize the Gallery block\"",
+      "url": "https://github.com/WordPress/Learn/issues/3752",
+      "time": "2026-11-22T20:14:22.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/Learn#3753",
+      "source": "github",
+      "teams": [
+        "training"
+      ],
+      "type": "issue",
+      "title": "Bangla translation for \"WordPress showcase for designers\"",
+      "url": "https://github.com/WordPress/Learn/issues/3753",
+      "time": "2026-11-22T20:14:00.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/Learn#3754",
+      "source": "github",
+      "teams": [
+        "training"
+      ],
+      "type": "issue",
+      "title": "Feedback - The Abilities API (prerequisite lock after completing Module 3 quiz)",
+      "url": "https://github.com/WordPress/Learn/issues/3754",
+      "time": "2026-11-22T20:13:35.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/Learn#3755",
+      "source": "github",
+      "teams": [
+        "training"
+      ],
+      "type": "issue",
+      "title": "Hindi translation for \"Open Source Principle 0: With many eyes, all bugs are shallow\"",
+      "url": "https://github.com/WordPress/Learn/issues/3755",
+      "time": "2026-11-22T19:48:48.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/Learn#3756",
+      "source": "github",
+      "teams": [
+        "training"
+      ],
+      "type": "issue",
+      "title": "Hindi translation for \"Open Source Principle 1: Release early, release often\"",
+      "url": "https://github.com/WordPress/Learn/issues/3756",
+      "time": "2026-11-22T19:48:18.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/Learn#3757",
+      "source": "github",
+      "teams": [
+        "training"
+      ],
+      "type": "issue",
+      "title": "Hindi translation for \"Open Source Principle 2: Scratching a “personal itch”\"",
+      "url": "https://github.com/WordPress/Learn/issues/3757",
+      "time": "2026-11-22T19:47:14.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
       "id": "github:WordPress/Learn#3733",
       "source": "github",
       "teams": [
@@ -15062,201 +15257,6 @@
       "title": "Run and document Office Hours on 25 November, 2026",
       "url": "https://github.com/WordPress/Learn/issues/3758",
       "time": "2026-11-20T18:13:46.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/Learn#3757",
-      "source": "github",
-      "teams": [
-        "training"
-      ],
-      "type": "issue",
-      "title": "Hindi translation for \"Open Source Principle 2: Scratching a “personal itch”\"",
-      "url": "https://github.com/WordPress/Learn/issues/3757",
-      "time": "2026-11-20T18:12:31.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/Learn#3756",
-      "source": "github",
-      "teams": [
-        "training"
-      ],
-      "type": "issue",
-      "title": "Hindi translation for \"Open Source Principle 1: Release early, release often\"",
-      "url": "https://github.com/WordPress/Learn/issues/3756",
-      "time": "2026-11-20T18:12:29.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/Learn#3755",
-      "source": "github",
-      "teams": [
-        "training"
-      ],
-      "type": "issue",
-      "title": "Hindi translation for \"Open Source Principle 0: With many eyes, all bugs are shallow\"",
-      "url": "https://github.com/WordPress/Learn/issues/3755",
-      "time": "2026-11-20T16:36:32.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/Learn#3754",
-      "source": "github",
-      "teams": [
-        "training"
-      ],
-      "type": "issue",
-      "title": "Feedback - The Abilities API (prerequisite lock after completing Module 3 quiz)",
-      "url": "https://github.com/WordPress/Learn/issues/3754",
-      "time": "2026-11-20T15:58:14.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/Learn#3674",
-      "source": "github",
-      "teams": [
-        "training"
-      ],
-      "type": "issue",
-      "title": "Proposal: Improve the top section of the Make WordPress Training Team homepage",
-      "url": "https://github.com/WordPress/Learn/issues/3674",
-      "time": "2026-11-19T06:31:23.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/Learn#3753",
-      "source": "github",
-      "teams": [
-        "training"
-      ],
-      "type": "issue",
-      "title": "Bangla translation for \"WordPress showcase for designers\"",
-      "url": "https://github.com/WordPress/Learn/issues/3753",
-      "time": "2026-11-18T17:54:37.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/Learn#3752",
-      "source": "github",
-      "teams": [
-        "training"
-      ],
-      "type": "issue",
-      "title": "Bangla translation for \"Utilize the Gallery block\"",
-      "url": "https://github.com/WordPress/Learn/issues/3752",
-      "time": "2026-11-18T17:25:16.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/Learn#3709",
-      "source": "github",
-      "teams": [
-        "training"
-      ],
-      "type": "pull",
-      "title": "Bump the actions group across 1 directory with 3 updates",
-      "url": "https://github.com/WordPress/Learn/pull/3709",
-      "time": "2026-11-18T17:06:00.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/Learn#3732",
-      "source": "github",
-      "teams": [
-        "training"
-      ],
-      "type": "issue",
-      "title": "Proposal: a learner-consented, read-only progress endpoint for WordPress Credits (Learn Link)",
-      "url": "https://github.com/WordPress/Learn/issues/3732",
-      "time": "2026-11-18T16:39:54.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/Learn#1392",
-      "source": "github",
-      "teams": [
-        "training"
-      ],
-      "type": "issue",
-      "title": "Bengali translation for Lesson Plan \"Dashboard Overview\"",
-      "url": "https://github.com/WordPress/Learn/issues/1392",
-      "time": "2026-11-18T09:24:20.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/Learn#3713",
-      "source": "github",
-      "teams": [
-        "training"
-      ],
-      "type": "issue",
-      "title": "Spanish Course Translation for \"Open source basics and WordPress\"",
-      "url": "https://github.com/WordPress/Learn/issues/3713",
-      "time": "2026-11-18T00:59:47.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/Learn#3736",
-      "source": "github",
-      "teams": [
-        "training"
-      ],
-      "type": "issue",
-      "title": "Spanish translation for \"Principles of Free Software and the WordPress project\"",
-      "url": "https://github.com/WordPress/Learn/issues/3736",
-      "time": "2026-11-18T00:56:59.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/Learn#3750",
-      "source": "github",
-      "teams": [
-        "training"
-      ],
-      "type": "issue",
-      "title": "Spanish translation for \"WordPress in the World: Scale, Impact, and Use Cases\"",
-      "url": "https://github.com/WordPress/Learn/issues/3750",
-      "time": "2026-11-17T08:56:27.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
