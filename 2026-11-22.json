@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T12:24:41.213Z",
+  "generatedAt": "2026-11-22T15:20:10.372Z",
   "items": [
     {
       "id": "make:core:127269",
@@ -1979,6 +1979,20 @@
       "confidence": 1
     },
     {
+      "id": "make:polyglots:76225",
+      "source": "make",
+      "teams": [
+        "polyglots"
+      ],
+      "type": "post",
+      "title": "Translation Review Request for Hitsteps…",
+      "url": "https://make.wordpress.org/polyglots/2026/11/22/translation-review-request-for-hitsteps/",
+      "time": "2026-11-22T15:12:45Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
       "id": "make:polyglots:76182",
       "source": "make",
       "teams": [
@@ -2380,20 +2394,6 @@
       "title": "PTE Request for Sellfluence Loop",
       "url": "https://make.wordpress.org/polyglots/2026/11/20/pte-request-for-sellfluence-loop/",
       "time": "2026-11-20T15:27:55Z",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "make:polyglots:76088",
-      "source": "make",
-      "teams": [
-        "polyglots"
-      ],
-      "type": "post",
-      "title": "PTE Request for MG Orders",
-      "url": "https://make.wordpress.org/polyglots/2026/11/20/pte-request-for-mg-orders/",
-      "time": "2026-11-20T15:27:41Z",
       "ask": "none",
       "personas": [],
       "confidence": 1
@@ -10912,6 +10912,48 @@
       "ask": "none",
       "personas": [],
       "confidence": 1,
+      "time": "2026-11-22T13:04:47.000Z",
+      "id": "trac:core:changeset:65737",
+      "type": "commit",
+      "title": "[65737] Tests: Isolate stylesheet assertions in embed and Customizer tests.  ...",
+      "url": "https://core.trac.wordpress.org/changeset/65737"
+    },
+    {
+      "source": "trac",
+      "teams": [
+        "core"
+      ],
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "time": "2026-11-22T13:03:05.000Z",
+      "id": "trac:core:changeset:65736",
+      "type": "commit",
+      "title": "[65736] Tests: Isolate script module registration in the entity action tests.  ...",
+      "url": "https://core.trac.wordpress.org/changeset/65736"
+    },
+    {
+      "source": "trac",
+      "teams": [
+        "core"
+      ],
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "time": "2026-11-22T13:00:55.000Z",
+      "id": "trac:core:changeset:65735",
+      "type": "commit",
+      "title": "[65735] Tests: Delete the network created by the network option cache tests.  ...",
+      "url": "https://core.trac.wordpress.org/changeset/65735"
+    },
+    {
+      "source": "trac",
+      "teams": [
+        "core"
+      ],
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
       "time": "2026-11-22T08:15:05.000Z",
       "id": "trac:core:ticket:66775",
       "type": "ticket",
@@ -12230,50 +12272,6 @@
       "type": "commit",
       "title": "[65682] Build/Test Tools: Remove script to run Gutenberg E2E tests in Core in ...",
       "url": "https://core.trac.wordpress.org/changeset/65682"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "core"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-19T14:37:33.000Z",
-      "id": "trac:core:ticket:65893",
-      "type": "ticket",
-      "title": "#65893 Many PHPUnit tests are not well isolated",
-      "status": "closed",
-      "url": "https://core.trac.wordpress.org/ticket/65893#comment:693"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "core"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-19T14:36:37.000Z",
-      "id": "trac:core:ticket:66755",
-      "type": "ticket",
-      "title": "#66755 Improve PHPUnit test isolation for 7.3",
-      "status": "created",
-      "url": "https://core.trac.wordpress.org/ticket/66755"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "core"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-19T14:36:15.000Z",
-      "id": "trac:core:changeset:65681",
-      "type": "commit",
-      "title": "[65681] Build/Test Tools: Remove script to run Gutenberg E2E tests in Core in ...",
-      "url": "https://core.trac.wordpress.org/changeset/65681"
     },
     {
       "source": "trac",
@@ -13690,6 +13688,36 @@
       "url": "https://meta.trac.wordpress.org/changeset/15625"
     },
     {
+      "id": "github:WordPress/wordpress-develop#15359",
+      "source": "github",
+      "teams": [
+        "core"
+      ],
+      "type": "pull",
+      "title": "Tests: Cover user_can_richedit()",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/15359",
+      "time": "2026-11-22T12:50:20.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-develop#15358",
+      "source": "github",
+      "teams": [
+        "core"
+      ],
+      "type": "pull",
+      "title": "Tests: Cover wp_default_editor()",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/15358",
+      "time": "2026-11-22T12:50:18.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
       "id": "github:WordPress/wordpress-develop#16157",
       "source": "github",
       "teams": [
@@ -13810,21 +13838,6 @@
       "confidence": 1
     },
     {
-      "id": "github:WordPress/wordpress-develop#16148",
-      "source": "github",
-      "teams": [
-        "core"
-      ],
-      "type": "pull",
-      "title": "Tests: Move the `customize-preview` style assertion to the customize manager test.",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/16148",
-      "time": "2026-11-22T04:59:38.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
       "id": "github:WordPress/wordpress-develop#15853",
       "source": "github",
       "teams": [
@@ -13849,21 +13862,6 @@
       "title": "Query: Bring WP_Query query var types to PHPStan rule level 10",
       "url": "https://github.com/WordPress/wordpress-develop/pull/16153",
       "time": "2026-11-22T04:43:01.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/wordpress-develop#16147",
-      "source": "github",
-      "teams": [
-        "core"
-      ],
-      "type": "pull",
-      "title": "Tests: Reset `$wp_styles` after `Tests_Embed_Template` tests.",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/16147",
-      "time": "2026-11-22T04:24:35.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -13900,15 +13898,105 @@
       "confidence": 1
     },
     {
-      "id": "github:WordPress/wordpress-develop#16146",
+      "id": "github:WordPress/wordpress-develop#12673",
       "source": "github",
       "teams": [
         "core"
       ],
       "type": "pull",
-      "title": "Tests: Register the default script modules in the core entity actions test.",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/16146",
-      "time": "2026-11-21T21:27:53.000Z",
+      "title": "Comments: Encode emoji for utf8mb3 comment columns",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/12673",
+      "time": "2026-11-21T20:31:26.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#87213",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "issue",
+      "title": "Block Bindings > detaching a pattern destroys the binded relation",
+      "url": "https://github.com/WordPress/gutenberg/issues/87213",
+      "time": "2026-11-22T15:05:58.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#87214",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Patterns: Keep block bindings that aren't pattern overrides when detaching",
+      "url": "https://github.com/WordPress/gutenberg/pull/87214",
+      "time": "2026-11-22T15:00:10.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#87212",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Cover: Apply overlay contrast to unstyled buttons",
+      "url": "https://github.com/WordPress/gutenberg/pull/87212",
+      "time": "2026-11-22T13:32:25.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#77275",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "issue",
+      "title": "Packages: Fix sideEffects for any package using CSS modules",
+      "url": "https://github.com/WordPress/gutenberg/issues/77275",
+      "time": "2026-11-22T13:12:43.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#58004",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "issue",
+      "title": "Cover: Auto light/dark styles not applied to button elements",
+      "url": "https://github.com/WordPress/gutenberg/issues/58004",
+      "time": "2026-11-22T13:10:55.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#87211",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "DataViews, Preferences: List build-style in sideEffects so bundlers keep the stylesheet",
+      "url": "https://github.com/WordPress/gutenberg/pull/87211",
+      "time": "2026-11-22T13:07:38.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -14050,90 +14138,15 @@
       "confidence": 1
     },
     {
-      "id": "github:WordPress/gutenberg#84518",
+      "id": "github:WordPress/performance#2504",
       "source": "github",
       "teams": [
-        "core-editor"
+        "core-performance"
       ],
       "type": "pull",
-      "title": "Spacer: Respect disabled custom spacing sizes when resizing",
-      "url": "https://github.com/WordPress/gutenberg/pull/84518",
-      "time": "2026-11-22T09:09:00.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#86850",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Focus the post title when entering the Code Editor",
-      "url": "https://github.com/WordPress/gutenberg/pull/86850",
-      "time": "2026-11-22T08:51:59.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#86638",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Post Content: Respect More in blog template previews",
-      "url": "https://github.com/WordPress/gutenberg/pull/86638",
-      "time": "2026-11-22T08:45:41.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#85439",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Table: Preserve captions when converting pasted HTML",
-      "url": "https://github.com/WordPress/gutenberg/pull/85439",
-      "time": "2026-11-22T08:38:32.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#85443",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Navigation: Give imported classic menus distinct titles",
-      "url": "https://github.com/WordPress/gutenberg/pull/85443",
-      "time": "2026-11-22T08:30:06.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#85537",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Cover: preserve relative height units when resizing",
-      "url": "https://github.com/WordPress/gutenberg/pull/85537",
-      "time": "2026-11-22T08:22:49.000Z",
+      "title": "Add AI Performance Advisor plugin",
+      "url": "https://github.com/WordPress/performance/pull/2504",
+      "time": "2026-11-22T13:30:54.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -14149,21 +14162,6 @@
       "title": "Improve Test Coverage for Webp-Uploads Plugin",
       "url": "https://github.com/WordPress/performance/pull/1946",
       "time": "2026-11-22T12:07:32.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/performance#2504",
-      "source": "github",
-      "teams": [
-        "core-performance"
-      ],
-      "type": "pull",
-      "title": "Add AI Performance Advisor plugin",
-      "url": "https://github.com/WordPress/performance/pull/2504",
-      "time": "2026-11-22T09:42:08.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -14590,6 +14588,81 @@
       "confidence": 1
     },
     {
+      "id": "github:WordPress/wordpress-playground#4580",
+      "source": "github",
+      "teams": [
+        "playground"
+      ],
+      "type": "issue",
+      "title": "reprint wont copy website: error 400",
+      "url": "https://github.com/WordPress/wordpress-playground/issues/4580",
+      "time": "2026-11-22T15:11:15.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-playground#4700",
+      "source": "github",
+      "teams": [
+        "playground"
+      ],
+      "type": "issue",
+      "title": "[Storage] Rebuild Git parser bundles with patched isomorphic-git",
+      "url": "https://github.com/WordPress/wordpress-playground/issues/4700",
+      "time": "2026-11-22T14:23:01.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-playground#4699",
+      "source": "github",
+      "teams": [
+        "playground"
+      ],
+      "type": "pull",
+      "title": "[Docs] Fix the npm ownership steps in the package release guide",
+      "url": "https://github.com/WordPress/wordpress-playground/pull/4699",
+      "time": "2026-11-22T13:32:22.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-playground#4698",
+      "source": "github",
+      "teams": [
+        "playground"
+      ],
+      "type": "issue",
+      "title": "[Documentation]: Releasing packages guide names an `@aspect` npm organization",
+      "url": "https://github.com/WordPress/wordpress-playground/issues/4698",
+      "time": "2026-11-22T13:28:41.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-playground#4697",
+      "source": "github",
+      "teams": [
+        "playground"
+      ],
+      "type": "pull",
+      "title": "[i18n] Translate the Releasing packages page into Hindi",
+      "url": "https://github.com/WordPress/wordpress-playground/pull/4697",
+      "time": "2026-11-22T13:05:49.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
       "id": "github:WordPress/wordpress-playground#3786",
       "source": "github",
       "teams": [
@@ -14734,81 +14807,6 @@
       "title": "[Website] Remove unused CSS and static assets",
       "url": "https://github.com/WordPress/wordpress-playground/pull/4693",
       "time": "2026-11-21T13:43:52.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/wordpress-playground#4692",
-      "source": "github",
-      "teams": [
-        "playground"
-      ],
-      "type": "pull",
-      "title": "[i18n] Add pt-BR translation for architecture pages 09-17",
-      "url": "https://github.com/WordPress/wordpress-playground/pull/4692",
-      "time": "2026-11-21T13:20:01.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/wordpress-playground#4691",
-      "source": "github",
-      "teams": [
-        "playground"
-      ],
-      "type": "pull",
-      "title": "[i18n] Add pt-BR translation for the APIs overview",
-      "url": "https://github.com/WordPress/wordpress-playground/pull/4691",
-      "time": "2026-11-21T13:19:34.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/wordpress-playground#4690",
-      "source": "github",
-      "teams": [
-        "playground"
-      ],
-      "type": "pull",
-      "title": "[PHP Request Handler] Set PHP_SELF from the internal redirect target",
-      "url": "https://github.com/WordPress/wordpress-playground/pull/4690",
-      "time": "2026-11-21T11:20:28.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/wordpress-playground#4689",
-      "source": "github",
-      "teams": [
-        "playground"
-      ],
-      "type": "issue",
-      "title": "PHP_SELF keeps the requested path after an internal redirect, so WordPress serves the home page for unknown permalinks",
-      "url": "https://github.com/WordPress/wordpress-playground/issues/4689",
-      "time": "2026-11-21T11:14:41.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/wordpress-playground#4687",
-      "source": "github",
-      "teams": [
-        "playground"
-      ],
-      "type": "issue",
-      "title": "imageavif() writes a 0-byte file for images larger than 512×512 pixels",
-      "url": "https://github.com/WordPress/wordpress-playground/issues/4687",
-      "time": "2026-11-21T10:17:39.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
