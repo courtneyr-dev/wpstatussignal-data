@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T21:20:30.615Z",
+  "generatedAt": "2026-11-22T00:42:17.271Z",
   "items": [
     {
       "id": "make:core:127269",
@@ -10942,6 +10942,20 @@
       "ask": "none",
       "personas": [],
       "confidence": 1,
+      "time": "2026-11-21T23:38:43.000Z",
+      "id": "trac:core:changeset:65734",
+      "type": "commit",
+      "title": "[65734] Tests: Cover `format_for_editor()`.  Verify that HTML entities are ...",
+      "url": "https://core.trac.wordpress.org/changeset/65734"
+    },
+    {
+      "source": "trac",
+      "teams": [
+        "core"
+      ],
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
       "time": "2026-11-21T19:13:02.000Z",
       "id": "trac:core:ticket:66773",
       "type": "ticket",
@@ -12287,20 +12301,6 @@
       "type": "commit",
       "title": "[65678] Build/Test Tools: Remove script to run Gutenberg E2E tests in Core in ...",
       "url": "https://core.trac.wordpress.org/changeset/65678"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "core"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-19T14:27:48.000Z",
-      "id": "trac:core:changeset:65677",
-      "type": "commit",
-      "title": "[65677] Build/Test Tools: Remove script to run Gutenberg E2E tests in Core in ...",
-      "url": "https://core.trac.wordpress.org/changeset/65677"
     },
     {
       "source": "trac",
@@ -13717,6 +13717,66 @@
       "url": "https://meta.trac.wordpress.org/changeset/15625"
     },
     {
+      "id": "github:WordPress/wordpress-develop#16148",
+      "source": "github",
+      "teams": [
+        "core"
+      ],
+      "type": "pull",
+      "title": "Tests: Remove a stale style assertion from the customize widgets preview test.",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/16148",
+      "time": "2026-11-21T21:27:58.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-develop#16147",
+      "source": "github",
+      "teams": [
+        "core"
+      ],
+      "type": "pull",
+      "title": "Tests: Reset `$wp_styles` around the `Tests_Embed_Template` tests.",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/16147",
+      "time": "2026-11-21T21:27:56.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-develop#16146",
+      "source": "github",
+      "teams": [
+        "core"
+      ],
+      "type": "pull",
+      "title": "Tests: Register the default script modules in the core entity actions test.",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/16146",
+      "time": "2026-11-21T21:27:53.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-develop#16145",
+      "source": "github",
+      "teams": [
+        "core"
+      ],
+      "type": "pull",
+      "title": "Tests: Delete the network created by the `wp_prime_network_option_caches()` tests.",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/16145",
+      "time": "2026-11-21T21:27:51.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
       "id": "github:WordPress/wordpress-develop#12673",
       "source": "github",
       "teams": [
@@ -13882,60 +13942,15 @@
       "confidence": 1
     },
     {
-      "id": "github:WordPress/wordpress-develop#5216",
+      "id": "github:WordPress/gutenberg#87204",
       "source": "github",
       "teams": [
-        "core"
+        "core-editor"
       ],
-      "type": "pull",
-      "title": "docs: document revision handling in get_post_meta()",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/5216",
-      "time": "2026-11-21T18:36:33.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/wordpress-develop#12411",
-      "source": "github",
-      "teams": [
-        "core"
-      ],
-      "type": "pull",
-      "title": "Remove jQuery in the frontend for Twenty Twelve.",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/12411",
-      "time": "2026-11-21T18:36:15.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/wordpress-develop#12410",
-      "source": "github",
-      "teams": [
-        "core"
-      ],
-      "type": "pull",
-      "title": "Remove jQuery in the frontend for Twenty Fifteen.",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/12410",
-      "time": "2026-11-21T18:36:08.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/wordpress-develop#7291",
-      "source": "github",
-      "teams": [
-        "core"
-      ],
-      "type": "pull",
-      "title": "Add `.avif` to image extensions",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/7291",
-      "time": "2026-11-21T18:36:07.000Z",
+      "type": "issue",
+      "title": "Tabs block: Add a vertical layout",
+      "url": "https://github.com/WordPress/gutenberg/issues/87204",
+      "time": "2026-11-21T22:48:18.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -13950,7 +13965,7 @@
       "type": "pull",
       "title": "Navigation: Prototype of the WordPress 7.3 menu editing improvements",
       "url": "https://github.com/WordPress/gutenberg/pull/87072",
-      "time": "2026-11-21T21:16:29.000Z",
+      "time": "2026-11-21T21:36:28.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -14152,15 +14167,15 @@
       "confidence": 1
     },
     {
-      "id": "github:WordPress/gutenberg#83411",
+      "id": "github:WordPress/performance#1946",
       "source": "github",
       "teams": [
-        "core-editor"
+        "core-performance"
       ],
       "type": "pull",
-      "title": "Optimize existing media: compare before and after, with a quality slider",
-      "url": "https://github.com/WordPress/gutenberg/pull/83411",
-      "time": "2026-11-21T19:21:19.000Z",
+      "title": "Improve Test Coverage for Webp-Uploads Plugin",
+      "url": "https://github.com/WordPress/performance/pull/1946",
+      "time": "2026-11-21T22:44:40.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -14251,21 +14266,6 @@
       "title": "Try: add script attribution data",
       "url": "https://github.com/WordPress/performance/pull/1629",
       "time": "2026-11-21T18:16:22.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/performance#1946",
-      "source": "github",
-      "teams": [
-        "core-performance"
-      ],
-      "type": "pull",
-      "title": "Improve Test Coverage for Webp-Uploads Plugin",
-      "url": "https://github.com/WordPress/performance/pull/1946",
-      "time": "2026-11-21T16:11:43.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -15462,6 +15462,17 @@
   ],
   "tickets": [
     {
+      "id": 66360,
+      "title": "Mobile Admin Menu overlaps main content and #wpfooter text when open",
+      "url": "https://core.trac.wordpress.org/ticket/66360",
+      "status": "assigned",
+      "type": "defect (bug)",
+      "priority": "normal",
+      "milestone": "7.2",
+      "component": "Administration",
+      "owner": "hameem1102"
+    },
+    {
       "id": 66208,
       "title": "KSES: Re-implement using HTML API",
       "url": "https://core.trac.wordpress.org/ticket/66208",
@@ -15658,17 +15669,6 @@
       "milestone": "7.2",
       "component": "Help/About",
       "owner": ""
-    },
-    {
-      "id": 66360,
-      "title": "Mobile Admin Menu overlaps main content and #wpfooter text when open",
-      "url": "https://core.trac.wordpress.org/ticket/66360",
-      "status": "assigned",
-      "type": "defect (bug)",
-      "priority": "normal",
-      "milestone": "7.2",
-      "component": "Administration",
-      "owner": "hameem1102"
     },
     {
       "id": 66455,
