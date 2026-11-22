@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T00:42:17.271Z",
+  "generatedAt": "2026-11-22T03:22:54.130Z",
   "items": [
     {
       "id": "make:core:127269",
@@ -1979,6 +1979,20 @@
       "confidence": 1
     },
     {
+      "id": "make:polyglots:76195",
+      "source": "make",
+      "teams": [
+        "polyglots"
+      ],
+      "type": "post",
+      "title": "PTE Request for ZA-ONE Maintenance Report",
+      "url": "https://make.wordpress.org/polyglots/2026/11/22/pte-request-for-za-one-maintenance-report/",
+      "time": "2026-11-22T00:53:47Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
       "id": "make:polyglots:76152",
       "source": "make",
       "teams": [
@@ -2380,20 +2394,6 @@
       "title": "PTE Request for GGZ op Orde",
       "url": "https://make.wordpress.org/polyglots/2026/11/20/pte-request-for-ggz-op-orde/",
       "time": "2026-11-20T01:17:05Z",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "make:polyglots:76040",
-      "source": "make",
-      "teams": [
-        "polyglots"
-      ],
-      "type": "post",
-      "title": "PTE Request for Dasgode Reserve",
-      "url": "https://make.wordpress.org/polyglots/2026/11/19/pte-request-for-dasgode-reserve/",
-      "time": "2026-11-19T21:06:17Z",
       "ask": "none",
       "personas": [],
       "confidence": 1
@@ -13717,6 +13717,36 @@
       "url": "https://meta.trac.wordpress.org/changeset/15625"
     },
     {
+      "id": "github:WordPress/wordpress-develop#5476",
+      "source": "github",
+      "teams": [
+        "core"
+      ],
+      "type": "pull",
+      "title": "Fixed: Inconsistancy in add/get/update/delete_post_meta() functions",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/5476",
+      "time": "2026-11-22T02:25:41.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-develop#5216",
+      "source": "github",
+      "teams": [
+        "core"
+      ],
+      "type": "pull",
+      "title": "docs: document revision handling in get_post_meta()",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/5216",
+      "time": "2026-11-22T02:24:40.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
       "id": "github:WordPress/wordpress-develop#16148",
       "source": "github",
       "teams": [
@@ -13912,30 +13942,210 @@
       "confidence": 1
     },
     {
-      "id": "github:WordPress/wordpress-develop#13027",
+      "id": "github:WordPress/gutenberg#80431",
       "source": "github",
       "teams": [
-        "core"
+        "core-editor"
       ],
       "type": "pull",
-      "title": "Editor: Allow notes on templates and template parts",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/13027",
-      "time": "2026-11-21T18:36:44.000Z",
+      "title": "Suggestion mode 5/10: inline suggestion operations",
+      "url": "https://github.com/WordPress/gutenberg/pull/80431",
+      "time": "2026-11-22T03:09:11.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/wordpress-develop#13026",
+      "id": "github:WordPress/gutenberg#82048",
       "source": "github",
       "teams": [
-        "core"
+        "core-editor"
       ],
       "type": "pull",
-      "title": "Comments: Notes thread followers, and notifications when a thread is resolved or reopened",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/13026",
-      "time": "2026-11-21T18:36:35.000Z",
+      "title": "Suggestion mode 10/10: end-to-end test suite",
+      "url": "https://github.com/WordPress/gutenberg/pull/82048",
+      "time": "2026-11-22T03:06:46.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#78994",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Suggestion mode: combined feature branch for Playground testing (draft)",
+      "url": "https://github.com/WordPress/gutenberg/pull/78994",
+      "time": "2026-11-22T03:05:31.000Z",
+      "status": "open",
+      "ask": "needs-testing",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#87207",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "MediaEdit: Show the image preview when the MIME type is empty",
+      "url": "https://github.com/WordPress/gutenberg/pull/87207",
+      "time": "2026-11-22T03:04:33.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#80433",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Suggestion mode 7/10: inline live wiring",
+      "url": "https://github.com/WordPress/gutenberg/pull/80433",
+      "time": "2026-11-22T03:03:51.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#80432",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Suggestion mode 6/10: review UI (Apply / Reject sidebar and summary)",
+      "url": "https://github.com/WordPress/gutenberg/pull/80432",
+      "time": "2026-11-22T03:03:20.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#82047",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Suggestion mode 9/10: architecture documentation",
+      "url": "https://github.com/WordPress/gutenberg/pull/82047",
+      "time": "2026-11-22T02:43:02.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#86206",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Suggestion mode 8/10: overlapping suggestions",
+      "url": "https://github.com/WordPress/gutenberg/pull/86206",
+      "time": "2026-11-22T02:43:01.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#87199",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "issue",
+      "title": "WordPress 7.2 regression: Featured image preview fails for remote image attachments with unknown MIME type",
+      "url": "https://github.com/WordPress/gutenberg/issues/87199",
+      "time": "2026-11-22T02:42:07.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#80429",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Suggestion mode 3/10: block-level capture (attribute and structural)",
+      "url": "https://github.com/WordPress/gutenberg/pull/80429",
+      "time": "2026-11-22T02:34:33.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#80430",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Suggestion mode 4/10: inline marker primitive",
+      "url": "https://github.com/WordPress/gutenberg/pull/80430",
+      "time": "2026-11-22T02:33:30.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#80428",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Suggestion mode 2/10: suggestion storage, REST controller, and provider",
+      "url": "https://github.com/WordPress/gutenberg/pull/80428",
+      "time": "2026-11-22T02:29:14.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#73411",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "issue",
+      "title": "Add Suggestion mode with Notes",
+      "url": "https://github.com/WordPress/gutenberg/issues/73411",
+      "time": "2026-11-22T01:10:11.000Z",
+      "status": "open",
+      "ask": "needs-testing",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#80427",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Suggestion mode 1/10: editor intent (edit/suggest) and experiment gate",
+      "url": "https://github.com/WordPress/gutenberg/pull/80427",
+      "time": "2026-11-22T01:00:32.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -13951,216 +14161,6 @@
       "title": "Tabs block: Add a vertical layout",
       "url": "https://github.com/WordPress/gutenberg/issues/87204",
       "time": "2026-11-21T22:48:18.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#87072",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Navigation: Prototype of the WordPress 7.3 menu editing improvements",
-      "url": "https://github.com/WordPress/gutenberg/pull/87072",
-      "time": "2026-11-21T21:36:28.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#87010",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "a11y: Use Highlight instead of SelectedItem for pressed and selected states in forced colors",
-      "url": "https://github.com/WordPress/gutenberg/pull/87010",
-      "time": "2026-11-21T21:15:25.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#87206",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "issue",
-      "title": "Site Editor: deleting the selected template leaves the preview on \"an item that doesn't exist\"",
-      "url": "https://github.com/WordPress/gutenberg/issues/87206",
-      "time": "2026-11-21T21:10:44.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#87186",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "issue",
-      "title": "File block: \"PDF settings\" panel is missing when the PDF's URL has a query string",
-      "url": "https://github.com/WordPress/gutenberg/issues/87186",
-      "time": "2026-11-21T20:08:03.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#87205",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "File: Show the PDF settings panel for PDFs whose URL has a query string",
-      "url": "https://github.com/WordPress/gutenberg/pull/87205",
-      "time": "2026-11-21T20:07:28.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#86831",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "issue",
-      "title": "Navigation Block: Deleting a newly created navigation overlay template throws an error: can't access property \"filter\", e.itemIds is undefined",
-      "url": "https://github.com/WordPress/gutenberg/issues/86831",
-      "time": "2026-11-21T19:37:08.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#82048",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Suggestion mode 10/10: end-to-end test suite",
-      "url": "https://github.com/WordPress/gutenberg/pull/82048",
-      "time": "2026-11-21T19:24:06.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#80432",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Suggestion mode 6/10: review UI (Apply / Reject sidebar and summary)",
-      "url": "https://github.com/WordPress/gutenberg/pull/80432",
-      "time": "2026-11-21T19:22:09.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#81886",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Core Data: Discard entity list responses superseded by a newer request",
-      "url": "https://github.com/WordPress/gutenberg/pull/81886",
-      "time": "2026-11-21T19:21:58.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#81938",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Core Data: Cache-bust refetches of an already received resolution",
-      "url": "https://github.com/WordPress/gutenberg/pull/81938",
-      "time": "2026-11-21T19:21:56.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#86834",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Upload Media: warn when an image uploads without all of its sizes, and keep it when the site is out of storage space.",
-      "url": "https://github.com/WordPress/gutenberg/pull/86834",
-      "time": "2026-11-21T19:21:52.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#84043",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Notes: Add filters to customize emoji reactions",
-      "url": "https://github.com/WordPress/gutenberg/pull/84043",
-      "time": "2026-11-21T19:21:47.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#84051",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Notes: Show the highlighted emoji's name in the reaction picker",
-      "url": "https://github.com/WordPress/gutenberg/pull/84051",
-      "time": "2026-11-21T19:21:30.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#80431",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Suggestion mode 5/10: inline suggestion operations",
-      "url": "https://github.com/WordPress/gutenberg/pull/80431",
-      "time": "2026-11-21T19:21:29.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -14842,6 +14842,36 @@
       "confidence": 1
     },
     {
+      "id": "github:WordPress/openverse#5848",
+      "source": "github",
+      "teams": [
+        "openverse"
+      ],
+      "type": "pull",
+      "title": "Enable replicas before promotion and fan alter_data out over fixed ranges",
+      "url": "https://github.com/WordPress/openverse/pull/5848",
+      "time": "2026-11-22T03:18:20.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/openverse#5847",
+      "source": "github",
+      "teams": [
+        "openverse"
+      ],
+      "type": "issue",
+      "title": "Production Elasticsearch rejects searches from live traffic",
+      "url": "https://github.com/WordPress/openverse/issues/5847",
+      "time": "2026-11-22T03:08:45.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
       "id": "github:WordPress/openverse#255",
       "source": "github",
       "teams": [
@@ -15031,36 +15061,6 @@
       "title": "Sentry: Importing a module script failed.",
       "url": "https://github.com/WordPress/openverse/issues/4880",
       "time": "2026-11-19T12:01:23.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/openverse#4879",
-      "source": "github",
-      "teams": [
-        "openverse"
-      ],
-      "type": "issue",
-      "title": "Sentry: Failed to fetch dynamically imported module",
-      "url": "https://github.com/WordPress/openverse/issues/4879",
-      "time": "2026-11-19T12:01:20.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/openverse#4714",
-      "source": "github",
-      "teams": [
-        "openverse"
-      ],
-      "type": "issue",
-      "title": "Unable to preload CSS",
-      "url": "https://github.com/WordPress/openverse/issues/4714",
-      "time": "2026-11-19T12:01:13.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
