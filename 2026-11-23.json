@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T00:42:59.413Z",
+  "generatedAt": "2026-11-23T03:25:02.168Z",
   "items": [
     {
       "id": "make:core:127269",
@@ -13690,6 +13690,51 @@
       "url": "https://meta.trac.wordpress.org/ticket/8504#comment:2"
     },
     {
+      "id": "github:WordPress/wordpress-develop#16062",
+      "source": "github",
+      "teams": [
+        "core"
+      ],
+      "type": "pull",
+      "title": "Abilities API: Read the schema default in `core/settings-get`",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/16062",
+      "time": "2026-11-23T02:45:18.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-develop#13340",
+      "source": "github",
+      "teams": [
+        "core"
+      ],
+      "type": "pull",
+      "title": "Cache API: Do not cache a miss while cache addition is suspended.",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/13340",
+      "time": "2026-11-23T02:32:41.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-develop#16078",
+      "source": "github",
+      "teams": [
+        "core"
+      ],
+      "type": "pull",
+      "title": "About Page: WordPress 7.2",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/16078",
+      "time": "2026-11-23T01:21:39.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
       "id": "github:WordPress/wordpress-develop#16158",
       "source": "github",
       "teams": [
@@ -13699,21 +13744,6 @@
       "title": "Tests: Reset scripts and styles after each `Tests_WP_Customize_Manager` test.",
       "url": "https://github.com/WordPress/wordpress-develop/pull/16158",
       "time": "2026-11-22T22:41:53.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/wordpress-develop#16159",
-      "source": "github",
-      "teams": [
-        "core"
-      ],
-      "type": "pull",
-      "title": "Tests: Reset scripts and styles after each Test_WP_Customize_Nav_Menus test",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/16159",
-      "time": "2026-11-22T22:35:24.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -13885,257 +13915,227 @@
       "confidence": 1
     },
     {
-      "id": "github:WordPress/wordpress-develop#16155",
-      "source": "github",
-      "teams": [
-        "core"
-      ],
-      "type": "pull",
-      "title": "Tests: Add unit tests for custom post types on the home page",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/16155",
-      "time": "2026-11-22T05:47:57.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/wordpress-develop#16154",
-      "source": "github",
-      "teams": [
-        "core"
-      ],
-      "type": "pull",
-      "title": "Login: Ignore a non-string `redirect_to` value on the log out confirmation screen.",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/16154",
-      "time": "2026-11-22T05:32:22.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#87117",
+      "id": "github:WordPress/gutenberg#86665",
       "source": "github",
       "teams": [
         "core-editor"
       ],
       "type": "pull",
-      "title": "Style Engine: Add array value types and hold it to PHPStan rule level 10",
-      "url": "https://github.com/WordPress/gutenberg/pull/87117",
-      "time": "2026-11-23T00:35:01.000Z",
+      "title": "Image Editor: Add applyImageEdit",
+      "url": "https://github.com/WordPress/gutenberg/pull/86665",
+      "time": "2026-11-23T03:25:25.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/gutenberg#87134",
+      "id": "github:WordPress/gutenberg#87222",
       "source": "github",
       "teams": [
         "core-editor"
       ],
       "type": "pull",
-      "title": "Style Engine: Fix a fatal error and empty declarations",
-      "url": "https://github.com/WordPress/gutenberg/pull/87134",
-      "time": "2026-11-23T00:31:44.000Z",
+      "title": "Fields: Hide decorative author avatars from assistive technologies",
+      "url": "https://github.com/WordPress/gutenberg/pull/87222",
+      "time": "2026-11-23T03:25:22.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/gutenberg#86576",
+      "id": "github:WordPress/gutenberg#87224",
       "source": "github",
       "teams": [
         "core-editor"
       ],
       "type": "pull",
-      "title": "Make \"Learn more\" permalink URL translatable",
-      "url": "https://github.com/WordPress/gutenberg/pull/86576",
-      "time": "2026-11-23T00:11:01.000Z",
+      "title": "Media Utils: Show that clicking the media preview replaces it",
+      "url": "https://github.com/WordPress/gutenberg/pull/87224",
+      "time": "2026-11-23T03:25:41.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/gutenberg#86901",
+      "id": "github:WordPress/gutenberg#87223",
       "source": "github",
       "teams": [
         "core-editor"
       ],
       "type": "pull",
-      "title": "Position: Let a header stick when its only child block is sticky",
-      "url": "https://github.com/WordPress/gutenberg/pull/86901",
-      "time": "2026-11-22T22:47:30.000Z",
+      "title": "DataViews: Set the grid selection checkbox apart from the preview",
+      "url": "https://github.com/WordPress/gutenberg/pull/87223",
+      "time": "2026-11-23T03:25:11.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/gutenberg#87215",
+      "id": "github:WordPress/gutenberg#87221",
       "source": "github",
       "teams": [
         "core-editor"
       ],
       "type": "pull",
-      "title": "Tests: Isolate block editor settings controller tests and use strict assertion",
-      "url": "https://github.com/WordPress/gutenberg/pull/87215",
-      "time": "2026-11-22T22:42:55.000Z",
+      "title": "Boot: Only announce the route title when the path changes",
+      "url": "https://github.com/WordPress/gutenberg/pull/87221",
+      "time": "2026-11-23T03:25:09.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/gutenberg#87199",
+      "id": "github:WordPress/gutenberg#87220",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "DataViews: Name the action in selection checkbox labels",
+      "url": "https://github.com/WordPress/gutenberg/pull/87220",
+      "time": "2026-11-23T03:24:54.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#68723",
       "source": "github",
       "teams": [
         "core-editor"
       ],
       "type": "issue",
-      "title": "WordPress 7.2 regression: Featured image preview fails for remote image attachments with unknown MIME type",
-      "url": "https://github.com/WordPress/gutenberg/issues/87199",
-      "time": "2026-11-22T19:51:50.000Z",
+      "title": "Hyperlink text decoration within paragraph, list-item, etc. blocks",
+      "url": "https://github.com/WordPress/gutenberg/issues/68723",
+      "time": "2026-11-23T03:12:51.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/gutenberg#48716",
+      "id": "github:WordPress/gutenberg#43586",
       "source": "github",
       "teams": [
         "core-editor"
       ],
       "type": "issue",
-      "title": "`core/template-part` block doesn't render template parts added by the plugin on the frontend side",
-      "url": "https://github.com/WordPress/gutenberg/issues/48716",
-      "time": "2026-11-22T19:14:01.000Z",
+      "title": "Image captions in galleries hide rounded border",
+      "url": "https://github.com/WordPress/gutenberg/issues/43586",
+      "time": "2026-11-23T02:45:39.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/gutenberg#87217",
+      "id": "github:WordPress/gutenberg#87218",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "issue",
+      "title": "Incorrect use of _n() in WP 7.2",
+      "url": "https://github.com/WordPress/gutenberg/issues/87218",
+      "time": "2026-11-23T01:51:23.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#87219",
       "source": "github",
       "teams": [
         "core-editor"
       ],
       "type": "pull",
-      "title": "Template Part: Render plugin-provided template parts on the front end, as in the editor",
-      "url": "https://github.com/WordPress/gutenberg/pull/87217",
-      "time": "2026-11-22T19:12:03.000Z",
+      "title": "SearchableChipSelect: Use a single string for the chips toolbar label",
+      "url": "https://github.com/WordPress/gutenberg/pull/87219",
+      "time": "2026-11-23T01:50:59.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/gutenberg#87216",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "issue",
-      "title": "WordPress 7.2 RC2: Media Library browser uploads drop sub-sizes that share dimensions",
-      "url": "https://github.com/WordPress/gutenberg/issues/87216",
-      "time": "2026-11-22T19:04:01.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#87149",
+      "id": "github:WordPress/gutenberg#78994",
       "source": "github",
       "teams": [
         "core-editor"
       ],
       "type": "pull",
-      "title": "Stylelint: Update to Stylelint 18",
-      "url": "https://github.com/WordPress/gutenberg/pull/87149",
-      "time": "2026-11-22T18:05:21.000Z",
+      "title": "Suggestion mode: combined feature branch for Playground testing (draft)",
+      "url": "https://github.com/WordPress/gutenberg/pull/78994",
+      "time": "2026-11-23T01:43:04.000Z",
       "status": "open",
-      "ask": "none",
+      "ask": "needs-testing",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/gutenberg#87198",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "issue",
-      "title": "Text selection highlight invisible in block editor canvas in Safari 27.3 beta (macOS)",
-      "url": "https://github.com/WordPress/gutenberg/issues/87198",
-      "time": "2026-11-22T16:54:24.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#87204",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "issue",
-      "title": "Tabs block: Add a vertical layout",
-      "url": "https://github.com/WordPress/gutenberg/issues/87204",
-      "time": "2026-11-22T16:31:41.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#87213",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "issue",
-      "title": "Block Bindings > detaching a pattern destroys the binded relation",
-      "url": "https://github.com/WordPress/gutenberg/issues/87213",
-      "time": "2026-11-22T16:10:34.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#87209",
+      "id": "github:WordPress/gutenberg#82048",
       "source": "github",
       "teams": [
         "core-editor"
       ],
       "type": "pull",
-      "title": "Docs: Fix broken `prefersReducedMotion` link",
-      "url": "https://github.com/WordPress/gutenberg/pull/87209",
-      "time": "2026-11-22T16:05:45.000Z",
+      "title": "Suggestion mode 10/10: end-to-end test suite",
+      "url": "https://github.com/WordPress/gutenberg/pull/82048",
+      "time": "2026-11-23T01:40:37.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/gutenberg#87214",
+      "id": "github:WordPress/gutenberg#76981",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "issue",
+      "title": "Add JPEG XL (JXL) support",
+      "url": "https://github.com/WordPress/gutenberg/issues/76981",
+      "time": "2026-11-23T01:26:01.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#82047",
       "source": "github",
       "teams": [
         "core-editor"
       ],
       "type": "pull",
-      "title": "Patterns: Keep block bindings that aren't pattern overrides when detaching",
-      "url": "https://github.com/WordPress/gutenberg/pull/87214",
-      "time": "2026-11-22T15:00:10.000Z",
+      "title": "Suggestion mode 9/10: architecture documentation",
+      "url": "https://github.com/WordPress/gutenberg/pull/82047",
+      "time": "2026-11-23T01:25:23.000Z",
       "status": "open",
       "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#73411",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "issue",
+      "title": "Add Suggestion mode with Notes",
+      "url": "https://github.com/WordPress/gutenberg/issues/73411",
+      "time": "2026-11-23T01:21:49.000Z",
+      "status": "open",
+      "ask": "needs-testing",
       "personas": [],
       "confidence": 1
     },
@@ -15435,6 +15435,50 @@
   ],
   "tickets": [
     {
+      "id": 64605,
+      "title": "Add WordPress `core/settings-get` ability",
+      "url": "https://core.trac.wordpress.org/ticket/64605",
+      "status": "reopened",
+      "type": "enhancement",
+      "priority": "normal",
+      "milestone": "7.2",
+      "component": "Abilities API",
+      "owner": "jorgefilipecosta"
+    },
+    {
+      "id": 66006,
+      "title": "WP_Post::get_instance() and four others cache a miss while cache addition is suspended",
+      "url": "https://core.trac.wordpress.org/ticket/66006",
+      "status": "reviewing",
+      "type": "defect (bug)",
+      "priority": "normal",
+      "milestone": "7.2",
+      "component": "Cache API",
+      "owner": "westonruter"
+    },
+    {
+      "id": 66769,
+      "title": "Mail: Harden against corrupted header fields.",
+      "url": "https://core.trac.wordpress.org/ticket/66769",
+      "status": "assigned",
+      "type": "defect (bug)",
+      "priority": "normal",
+      "milestone": "7.2",
+      "component": "Mail",
+      "owner": "dmsnell"
+    },
+    {
+      "id": 66202,
+      "title": "About Page - 7.2",
+      "url": "https://core.trac.wordpress.org/ticket/66202",
+      "status": "new",
+      "type": "task (blessed)",
+      "priority": "normal",
+      "milestone": "7.2",
+      "component": "Help/About",
+      "owner": ""
+    },
+    {
       "id": 63927,
       "title": "Send email notification when an application password is added",
       "url": "https://core.trac.wordpress.org/ticket/63927",
@@ -15479,17 +15523,6 @@
       "owner": "mukesh27"
     },
     {
-      "id": 66769,
-      "title": "Mail: Harden against corrupted header fields.",
-      "url": "https://core.trac.wordpress.org/ticket/66769",
-      "status": "assigned",
-      "type": "defect (bug)",
-      "priority": "normal",
-      "milestone": "7.2",
-      "component": "Mail",
-      "owner": "dmsnell"
-    },
-    {
       "id": 65116,
       "title": "Feature request: On This Day dashboard widget",
       "url": "https://core.trac.wordpress.org/ticket/65116",
@@ -15521,17 +15554,6 @@
       "milestone": "7.2",
       "component": "Build/Test Tools",
       "owner": "lancewillett"
-    },
-    {
-      "id": 64605,
-      "title": "Add WordPress `core/settings-get` ability",
-      "url": "https://core.trac.wordpress.org/ticket/64605",
-      "status": "reopened",
-      "type": "enhancement",
-      "priority": "normal",
-      "milestone": "7.2",
-      "component": "Abilities API",
-      "owner": "jorgefilipecosta"
     },
     {
       "id": 65860,
@@ -15641,17 +15663,6 @@
       "priority": "normal",
       "milestone": "7.2",
       "component": "General",
-      "owner": ""
-    },
-    {
-      "id": 66202,
-      "title": "About Page - 7.2",
-      "url": "https://core.trac.wordpress.org/ticket/66202",
-      "status": "new",
-      "type": "task (blessed)",
-      "priority": "normal",
-      "milestone": "7.2",
-      "component": "Help/About",
       "owner": ""
     },
     {
@@ -15917,17 +15928,6 @@
       "milestone": "7.2",
       "component": "Build/Test Tools",
       "owner": "joedolson"
-    },
-    {
-      "id": 66006,
-      "title": "WP_Post::get_instance() and four others cache a miss while cache addition is suspended",
-      "url": "https://core.trac.wordpress.org/ticket/66006",
-      "status": "reviewing",
-      "type": "defect (bug)",
-      "priority": "normal",
-      "milestone": "7.2",
-      "component": "Cache API",
-      "owner": "westonruter"
     },
     {
       "id": 66412,
