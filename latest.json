@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T21:20:24.491Z",
+  "generatedAt": "2026-11-23T00:42:59.413Z",
   "items": [
     {
       "id": "make:core:127269",
@@ -1979,6 +1979,34 @@
       "confidence": 1
     },
     {
+      "id": "make:polyglots:76237",
+      "source": "make",
+      "teams": [
+        "polyglots"
+      ],
+      "type": "post",
+      "title": "PTE Request for Madai for WooCommerce",
+      "url": "https://make.wordpress.org/polyglots/2026/11/23/pte-request-for-madai-for-woocommerce/",
+      "time": "2026-11-23T00:23:05Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "make:polyglots:76242",
+      "source": "make",
+      "teams": [
+        "polyglots"
+      ],
+      "type": "post",
+      "title": "PTE Request for ConsentGate (German and German Formal)",
+      "url": "https://make.wordpress.org/polyglots/2026/11/23/pte-request-for-consentgate-german-and-german-formal/",
+      "time": "2026-11-23T00:15:27Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
       "id": "make:polyglots:76239",
       "source": "make",
       "teams": [
@@ -2366,34 +2394,6 @@
       "title": "Hello Polyglots,",
       "url": "https://make.wordpress.org/polyglots/2026/11/21/hello-polyglots-395/",
       "time": "2026-11-21T08:59:03Z",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "make:polyglots:76121",
-      "source": "make",
-      "teams": [
-        "polyglots"
-      ],
-      "type": "post",
-      "title": "PTE request for Depicter Hello…",
-      "url": "https://make.wordpress.org/polyglots/2026/11/21/pte-request-for-depicter-hello/",
-      "time": "2026-11-21T08:09:15Z",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "make:polyglots:76111",
-      "source": "make",
-      "teams": [
-        "polyglots"
-      ],
-      "type": "post",
-      "title": "PTE Request for BlumiDTE",
-      "url": "https://make.wordpress.org/polyglots/2026/11/20/pte-request-for-blumidte/",
-      "time": "2026-11-20T21:23:23Z",
       "ask": "none",
       "personas": [],
       "confidence": 1
@@ -5103,6 +5103,20 @@
       "confidence": 1
     },
     {
+      "id": "make:openverse:3023",
+      "source": "make",
+      "teams": [
+        "openverse"
+      ],
+      "type": "post",
+      "title": "A week in Openverse: 2026-11-16 – 2026-11-23",
+      "url": "https://make.wordpress.org/openverse/2026/11/23/last-week-openverse-2026-11-16-2026-11-23/",
+      "time": "2026-11-23T00:24:42Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
       "id": "make:openverse:3022",
       "source": "make",
       "teams": [
@@ -5490,20 +5504,6 @@
       "title": "A week in Openverse: 2025-07-28 – 2025-08-04",
       "url": "https://make.wordpress.org/openverse/2025/08/04/last-week-openverse-2025-07-28-2025-08-04/",
       "time": "2025-08-04T00:30:14Z",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "make:openverse:2396",
-      "source": "make",
-      "teams": [
-        "openverse"
-      ],
-      "type": "post",
-      "title": "A week in Openverse: 2025-07-07 – 2025-07-14",
-      "url": "https://make.wordpress.org/openverse/2025/07/14/last-week-openverse-2025-07-07-2025-07-14/",
-      "time": "2025-07-14T00:28:16Z",
       "ask": "none",
       "personas": [],
       "confidence": 1
@@ -10912,6 +10912,21 @@
       "ask": "none",
       "personas": [],
       "confidence": 1,
+      "time": "2026-11-22T22:35:35.000Z",
+      "id": "trac:core:ticket:63927",
+      "type": "ticket",
+      "title": "#63927 Send email notification when an application password is added",
+      "status": "reopened",
+      "url": "https://core.trac.wordpress.org/ticket/63927#comment:35"
+    },
+    {
+      "source": "trac",
+      "teams": [
+        "core"
+      ],
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
       "time": "2026-11-22T16:06:26.000Z",
       "id": "trac:core:ticket:66776",
       "type": "ticket",
@@ -12262,16 +12277,17 @@
     {
       "source": "trac",
       "teams": [
-        "core"
+        "meta"
       ],
       "ask": "none",
       "personas": [],
       "confidence": 1,
-      "time": "2026-11-19T14:38:58.000Z",
-      "id": "trac:core:changeset:65683",
-      "type": "commit",
-      "title": "[65683] Build/Test Tools: Remove script to run Gutenberg E2E tests in Core in ...",
-      "url": "https://core.trac.wordpress.org/changeset/65683"
+      "time": "2026-11-22T23:02:07.000Z",
+      "id": "trac:meta:ticket:8509",
+      "type": "ticket",
+      "title": "#8509 Repeated wporg-match emails continue after unsubscribing",
+      "status": "created",
+      "url": "https://meta.trac.wordpress.org/ticket/8509"
     },
     {
       "source": "trac",
@@ -13674,18 +13690,64 @@
       "url": "https://meta.trac.wordpress.org/ticket/8504#comment:2"
     },
     {
-      "source": "trac",
+      "id": "github:WordPress/wordpress-develop#16158",
+      "source": "github",
       "teams": [
-        "meta"
+        "core"
       ],
+      "type": "pull",
+      "title": "Tests: Reset scripts and styles after each `Tests_WP_Customize_Manager` test.",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/16158",
+      "time": "2026-11-22T22:41:53.000Z",
+      "status": "open",
       "ask": "none",
       "personas": [],
-      "confidence": 1,
-      "time": "2026-11-18T20:55:54.000Z",
-      "id": "trac:meta:changeset:15625",
-      "type": "commit",
-      "title": "[15625] Route Core Trac notifications to each component.  Props desrosj, ...",
-      "url": "https://meta.trac.wordpress.org/changeset/15625"
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-develop#16159",
+      "source": "github",
+      "teams": [
+        "core"
+      ],
+      "type": "pull",
+      "title": "Tests: Reset scripts and styles after each Test_WP_Customize_Nav_Menus test",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/16159",
+      "time": "2026-11-22T22:35:24.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-develop#16065",
+      "source": "github",
+      "teams": [
+        "core"
+      ],
+      "type": "pull",
+      "title": "Application Passwords: Send the created notification in the user's locale",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/16065",
+      "time": "2026-11-22T22:03:19.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-develop#16129",
+      "source": "github",
+      "teams": [
+        "core"
+      ],
+      "type": "pull",
+      "title": "Administration: Update notices to align with the WordPress Design System",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/16129",
+      "time": "2026-11-22T21:53:30.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
     },
     {
       "id": "github:WordPress/wordpress-develop#12308",
@@ -13718,21 +13780,6 @@
       "confidence": 1
     },
     {
-      "id": "github:WordPress/wordpress-develop#16159",
-      "source": "github",
-      "teams": [
-        "core"
-      ],
-      "type": "pull",
-      "title": "Tests: Reset scripts and styles after each Test_WP_Customize_Nav_Menus test",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/16159",
-      "time": "2026-11-22T18:14:21.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
       "id": "github:WordPress/wordpress-develop#16082",
       "source": "github",
       "teams": [
@@ -13742,21 +13789,6 @@
       "title": "Plugins: Pass the correct `$network_wide` value when scraping a network activation error",
       "url": "https://github.com/WordPress/wordpress-develop/pull/16082",
       "time": "2026-11-22T17:42:06.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/wordpress-develop#16158",
-      "source": "github",
-      "teams": [
-        "core"
-      ],
-      "type": "pull",
-      "title": "Tests: Reset scripts and styles after each `Tests_WP_Customize_Manager` test.",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/16158",
-      "time": "2026-11-22T16:41:37.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -13883,30 +13915,75 @@
       "confidence": 1
     },
     {
-      "id": "github:WordPress/wordpress-develop#16116",
+      "id": "github:WordPress/gutenberg#87117",
       "source": "github",
       "teams": [
-        "core"
+        "core-editor"
       ],
       "type": "pull",
-      "title": "Revisions: Avoid a null error in `list-revisions.js` and add TypeScript checking",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/16116",
-      "time": "2026-11-22T05:15:06.000Z",
+      "title": "Style Engine: Add array value types and hold it to PHPStan rule level 10",
+      "url": "https://github.com/WordPress/gutenberg/pull/87117",
+      "time": "2026-11-23T00:35:01.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/wordpress-develop#13152",
+      "id": "github:WordPress/gutenberg#87134",
       "source": "github",
       "teams": [
-        "core"
+        "core-editor"
       ],
       "type": "pull",
-      "title": "Add some whimsical fun with an easter egg",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/13152",
-      "time": "2026-11-22T05:01:13.000Z",
+      "title": "Style Engine: Fix a fatal error and empty declarations",
+      "url": "https://github.com/WordPress/gutenberg/pull/87134",
+      "time": "2026-11-23T00:31:44.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#86576",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Make \"Learn more\" permalink URL translatable",
+      "url": "https://github.com/WordPress/gutenberg/pull/86576",
+      "time": "2026-11-23T00:11:01.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#86901",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Position: Let a header stick when its only child block is sticky",
+      "url": "https://github.com/WordPress/gutenberg/pull/86901",
+      "time": "2026-11-22T22:47:30.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#87215",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Tests: Isolate block editor settings controller tests and use strict assertion",
+      "url": "https://github.com/WordPress/gutenberg/pull/87215",
+      "time": "2026-11-22T22:42:55.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -13967,21 +14044,6 @@
       "title": "WordPress 7.2 RC2: Media Library browser uploads drop sub-sizes that share dimensions",
       "url": "https://github.com/WordPress/gutenberg/issues/87216",
       "time": "2026-11-22T19:04:01.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#87215",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Tests: Isolate block editor settings controller tests and use strict assertion",
-      "url": "https://github.com/WordPress/gutenberg/pull/87215",
-      "time": "2026-11-22T18:35:15.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -14078,60 +14140,15 @@
       "confidence": 1
     },
     {
-      "id": "github:WordPress/gutenberg#87212",
+      "id": "github:WordPress/performance#2570",
       "source": "github",
       "teams": [
-        "core-editor"
+        "core-performance"
       ],
       "type": "pull",
-      "title": "Cover: Apply overlay contrast to unstyled buttons",
-      "url": "https://github.com/WordPress/gutenberg/pull/87212",
-      "time": "2026-11-22T13:32:25.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#77275",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "issue",
-      "title": "Packages: Fix sideEffects for any package using CSS modules",
-      "url": "https://github.com/WordPress/gutenberg/issues/77275",
-      "time": "2026-11-22T13:12:43.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#58004",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "issue",
-      "title": "Cover: Auto light/dark styles not applied to button elements",
-      "url": "https://github.com/WordPress/gutenberg/issues/58004",
-      "time": "2026-11-22T13:10:55.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#87211",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "DataViews, Preferences: List build-style in sideEffects so bundlers keep the stylesheet",
-      "url": "https://github.com/WordPress/gutenberg/pull/87211",
-      "time": "2026-11-22T13:07:38.000Z",
+      "title": "Link to image file should point to original upload regardless of fallback setting",
+      "url": "https://github.com/WordPress/performance/pull/2570",
+      "time": "2026-11-22T21:24:45.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -14348,21 +14365,6 @@
       "confidence": 1
     },
     {
-      "id": "github:WordPress/performance#2758",
-      "source": "github",
-      "teams": [
-        "core-performance"
-      ],
-      "type": "pull",
-      "title": "Fix uncropped thumbnails after editing an image in the Media Library",
-      "url": "https://github.com/WordPress/performance/pull/2758",
-      "time": "2026-11-18T18:06:06.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
       "id": "github:WordPress/ai#1425",
       "source": "github",
       "teams": [
@@ -14387,21 +14389,6 @@
       "title": "Support The SEO Framework in Meta Description Generation",
       "url": "https://github.com/WordPress/ai/issues/1424",
       "time": "2026-11-22T19:23:42.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/ai#858",
-      "source": "github",
-      "teams": [
-        "core-ai"
-      ],
-      "type": "pull",
-      "title": "Abilities API: add core/read-nav-menus ability",
-      "url": "https://github.com/WordPress/ai/pull/858",
-      "time": "2026-11-22T19:20:46.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -14588,6 +14575,21 @@
       "confidence": 1
     },
     {
+      "id": "github:WordPress/ai#887",
+      "source": "github",
+      "teams": [
+        "core-ai"
+      ],
+      "type": "pull",
+      "title": "Experiment: Add Internal link suggestions",
+      "url": "https://github.com/WordPress/ai/pull/887",
+      "time": "2026-11-19T09:24:08.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
       "id": "github:WordPress/wordpress-playground#4664",
       "source": "github",
       "teams": [
@@ -14596,7 +14598,7 @@
       "type": "issue",
       "title": "[Translation] Hindi translation progress tracker",
       "url": "https://github.com/WordPress/wordpress-playground/issues/4664",
-      "time": "2026-11-22T20:45:58.000Z",
+      "time": "2026-11-22T21:32:02.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -15432,6 +15434,17 @@
     }
   ],
   "tickets": [
+    {
+      "id": 63927,
+      "title": "Send email notification when an application password is added",
+      "url": "https://core.trac.wordpress.org/ticket/63927",
+      "status": "reopened",
+      "type": "enhancement",
+      "priority": "normal",
+      "milestone": "7.2",
+      "component": "Application Passwords",
+      "owner": "johnbillion"
+    },
     {
       "id": 66360,
       "title": "Mobile Admin Menu overlaps main content and #wpfooter text when open",
