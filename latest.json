@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T00:37:13.157Z",
+  "generatedAt": "2026-11-24T03:23:29.185Z",
   "items": [
     {
       "id": "make:core:127279",
@@ -1024,7 +1024,7 @@
       "ask": "needs-testing",
       "personas": [],
       "confidence": 1,
-      "deadline": "2026-11-23T23:59:59Z"
+      "deadline": "2026-12-04T23:59:59Z"
     },
     {
       "id": "make:test:12922",
@@ -10897,6 +10897,35 @@
       "ask": "none",
       "personas": [],
       "confidence": 1,
+      "time": "2026-11-24T01:12:19.000Z",
+      "id": "trac:core:ticket:66762",
+      "type": "ticket",
+      "title": "#66762 Default editor styles are missing for classic themes in 7.2",
+      "status": "closed",
+      "url": "https://core.trac.wordpress.org/ticket/66762#comment:5"
+    },
+    {
+      "source": "trac",
+      "teams": [
+        "core"
+      ],
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "time": "2026-11-24T01:12:19.000Z",
+      "id": "trac:core:changeset:65749",
+      "type": "commit",
+      "title": "[65749] Editor: Restore the default block editor styles.  Moves the default ...",
+      "url": "https://core.trac.wordpress.org/changeset/65749"
+    },
+    {
+      "source": "trac",
+      "teams": [
+        "core"
+      ],
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
       "time": "2026-11-23T23:28:41.000Z",
       "id": "trac:core:ticket:66412",
       "type": "ticket",
@@ -11905,21 +11934,6 @@
       "ask": "none",
       "personas": [],
       "confidence": 1,
-      "time": "2026-11-20T05:45:50.000Z",
-      "id": "trac:core:ticket:66762",
-      "type": "ticket",
-      "title": "#66762 Default editor styles are missing for classic themes in 7.2",
-      "status": "created",
-      "url": "https://core.trac.wordpress.org/ticket/66762"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "core"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
       "time": "2026-11-20T04:22:14.000Z",
       "id": "trac:core:ticket:66761",
       "type": "ticket",
@@ -12236,34 +12250,6 @@
       "type": "commit",
       "title": "[65702] Build/Test Tools: Skip `pull_request` triggered runs in private repos ...",
       "url": "https://core.trac.wordpress.org/changeset/65702"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "core"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-19T23:07:33.000Z",
-      "id": "trac:core:changeset:65701",
-      "type": "commit",
-      "title": "[65701] Build/Test Tools: Skip `pull_request` triggered runs in private repos ...",
-      "url": "https://core.trac.wordpress.org/changeset/65701"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "core"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-19T23:06:47.000Z",
-      "id": "trac:core:changeset:65700",
-      "type": "commit",
-      "title": "[65700] Build/Test Tools: Skip `pull_request` triggered runs in private repos ...",
-      "url": "https://core.trac.wordpress.org/changeset/65700"
     },
     {
       "source": "trac",
@@ -13682,6 +13668,21 @@
       "url": "https://meta.trac.wordpress.org/changeset/15634"
     },
     {
+      "id": "github:WordPress/wordpress-develop#16187",
+      "source": "github",
+      "teams": [
+        "core"
+      ],
+      "type": "pull",
+      "title": "Bump the pinned hash for Gutenberg to cff1e71.",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/16187",
+      "time": "2026-11-24T03:21:43.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
       "id": "github:WordPress/wordpress-develop#16078",
       "source": "github",
       "teams": [
@@ -13892,180 +13893,45 @@
       "confidence": 1
     },
     {
-      "id": "github:WordPress/wordpress-develop#16116",
+      "id": "github:WordPress/gutenberg#87192",
       "source": "github",
       "teams": [
-        "core"
+        "core-editor"
       ],
       "type": "pull",
-      "title": "Revisions: Avoid a null error in `list-revisions.js` and add TypeScript checking",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/16116",
-      "time": "2026-11-23T18:17:15.000Z",
+      "title": "Keep the header and block toolbar on screen when the iOS keyboard opens",
+      "url": "https://github.com/WordPress/gutenberg/pull/87192",
+      "time": "2026-11-24T03:21:05.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/gutenberg#73411",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "issue",
-      "title": "Add Suggestion mode with Notes",
-      "url": "https://github.com/WordPress/gutenberg/issues/73411",
-      "time": "2026-11-24T00:35:31.000Z",
-      "status": "open",
-      "ask": "needs-testing",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#87305",
+      "id": "github:WordPress/gutenberg#87238",
       "source": "github",
       "teams": [
         "core-editor"
       ],
       "type": "pull",
-      "title": "[Do not merge] Navigation: Auto add new pages, combined build for testing",
-      "url": "https://github.com/WordPress/gutenberg/pull/87305",
-      "time": "2026-11-24T00:34:44.000Z",
+      "title": "Widget Dashboard: Fix widget content sitting on the footer divider",
+      "url": "https://github.com/WordPress/gutenberg/pull/87238",
+      "time": "2026-11-24T03:15:47.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/gutenberg#87304",
+      "id": "github:WordPress/gutenberg#87312",
       "source": "github",
       "teams": [
         "core-editor"
       ],
       "type": "pull",
-      "title": "Page List: Edit pages in place in a Navigation block and turn on Auto add new pages",
-      "url": "https://github.com/WordPress/gutenberg/pull/87304",
-      "time": "2026-11-24T00:34:51.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#86665",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Image Editor: Add applyImageEdit",
-      "url": "https://github.com/WordPress/gutenberg/pull/86665",
-      "time": "2026-11-24T00:31:07.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#87266",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "List View: Keep fewer rows mounted outside the window",
-      "url": "https://github.com/WordPress/gutenberg/pull/87266",
-      "time": "2026-11-24T00:27:40.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#87261",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Publish date: Show now in the picker of a post that publishes immediately",
-      "url": "https://github.com/WordPress/gutenberg/pull/87261",
-      "time": "2026-11-24T00:27:33.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#87265",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "List View: Mount the Options menu on hover or focus",
-      "url": "https://github.com/WordPress/gutenberg/pull/87265",
-      "time": "2026-11-24T00:25:16.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#86923",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Fix iOS tap into a quote jumping to the caret's block when it's off screen",
-      "url": "https://github.com/WordPress/gutenberg/pull/86923",
-      "time": "2026-11-24T00:25:08.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#85293",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "List View: Show an appender at the end of every expanded nested list",
-      "url": "https://github.com/WordPress/gutenberg/pull/85293",
-      "time": "2026-11-24T00:15:11.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#86732",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Storybook: Add patterns for choosing and uploading files",
-      "url": "https://github.com/WordPress/gutenberg/pull/86732",
-      "time": "2026-11-24T00:07:00.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#84428",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Block Editor: Include resolved bound content when copying blocks",
-      "url": "https://github.com/WordPress/gutenberg/pull/84428",
-      "time": "2026-11-24T00:06:42.000Z",
+      "title": "Block Editor: Return undefined from getBlockTreeBlock for stale controlled blocks",
+      "url": "https://github.com/WordPress/gutenberg/pull/87312",
+      "time": "2026-11-24T02:59:00.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -14080,7 +13946,82 @@
       "type": "pull",
       "title": "Fix `InputControl` allows dragging while disabled ",
       "url": "https://github.com/WordPress/gutenberg/pull/87171",
-      "time": "2026-11-24T00:05:40.000Z",
+      "time": "2026-11-24T02:53:17.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#86665",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Image Editor: Add applyImageEdit",
+      "url": "https://github.com/WordPress/gutenberg/pull/86665",
+      "time": "2026-11-24T02:52:10.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#87314",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Upload Media: Recycle the vips worker so large batches don't run out of memory",
+      "url": "https://github.com/WordPress/gutenberg/pull/87314",
+      "time": "2026-11-24T02:49:08.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#87203",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Media: Recover when wasm-vips crashes mid-upload",
+      "url": "https://github.com/WordPress/gutenberg/pull/87203",
+      "time": "2026-11-24T02:36:09.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#80427",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Suggestion mode 1/10: editor intent (edit/suggest) and experiment gate",
+      "url": "https://github.com/WordPress/gutenberg/pull/80427",
+      "time": "2026-11-24T02:33:02.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#84666",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Theme JSON: Extract sanitization and optionally report what it drops",
+      "url": "https://github.com/WordPress/gutenberg/pull/84666",
+      "time": "2026-11-24T02:31:55.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -14095,37 +14036,112 @@
       "type": "pull",
       "title": "Media Utils: Upload media files sequentially one at a time",
       "url": "https://github.com/WordPress/gutenberg/pull/84798",
-      "time": "2026-11-24T00:03:48.000Z",
+      "time": "2026-11-24T02:29:14.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/gutenberg#85490",
+      "id": "github:WordPress/gutenberg#87313",
       "source": "github",
       "teams": [
         "core-editor"
       ],
-      "type": "pull",
-      "title": "Keyboard shortcuts: expose readable punctuation labels to screen readers",
-      "url": "https://github.com/WordPress/gutenberg/pull/85490",
-      "time": "2026-11-24T00:02:48.000Z",
+      "type": "issue",
+      "title": "Post editor: a new tag can be lost if the post is saved before the tag's create request returns",
+      "url": "https://github.com/WordPress/gutenberg/issues/87313",
+      "time": "2026-11-24T02:21:29.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/gutenberg#85120",
+      "id": "github:WordPress/gutenberg#85801",
       "source": "github",
       "teams": [
         "core-editor"
       ],
       "type": "pull",
-      "title": "Notes: Flag each note thread with unseen activity",
-      "url": "https://github.com/WordPress/gutenberg/pull/85120",
-      "time": "2026-11-24T00:00:55.000Z",
+      "title": "List: Drag a list item by its bullet again",
+      "url": "https://github.com/WordPress/gutenberg/pull/85801",
+      "time": "2026-11-24T02:19:53.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#87119",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Block sync: Keep Redo when the last change is marked persistent after an undo",
+      "url": "https://github.com/WordPress/gutenberg/pull/87119",
+      "time": "2026-11-24T02:18:12.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#87052",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "issue",
+      "title": "Redo is lost about a second after undoing a block change made right after a toolbar Redo of text (WordPress 7.2-RC2; fixed by #86007 in 24.4, not in 7.2)",
+      "url": "https://github.com/WordPress/gutenberg/issues/87052",
+      "time": "2026-11-24T02:01:58.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#87310",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "issue",
+      "title": "Update the cherry-pick workflow to require a second committers approval for back porting PRs.",
+      "url": "https://github.com/WordPress/gutenberg/issues/87310",
+      "time": "2026-11-24T01:49:50.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/performance#2504",
+      "source": "github",
+      "teams": [
+        "core-performance"
+      ],
+      "type": "pull",
+      "title": "Add AI Performance Advisor plugin",
+      "url": "https://github.com/WordPress/performance/pull/2504",
+      "time": "2026-11-24T02:56:36.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/performance#1946",
+      "source": "github",
+      "teams": [
+        "core-performance"
+      ],
+      "type": "pull",
+      "title": "Improve Test Coverage for Webp-Uploads Plugin",
+      "url": "https://github.com/WordPress/performance/pull/1946",
+      "time": "2026-11-24T02:49:23.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -14156,36 +14172,6 @@
       "title": "WebP uploads are not converted to AVIF when fallback output is enabled",
       "url": "https://github.com/WordPress/performance/issues/2760",
       "time": "2026-11-23T19:27:01.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/performance#1946",
-      "source": "github",
-      "teams": [
-        "core-performance"
-      ],
-      "type": "pull",
-      "title": "Improve Test Coverage for Webp-Uploads Plugin",
-      "url": "https://github.com/WordPress/performance/pull/1946",
-      "time": "2026-11-23T18:34:59.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/performance#2504",
-      "source": "github",
-      "teams": [
-        "core-performance"
-      ],
-      "type": "pull",
-      "title": "Add AI Performance Advisor plugin",
-      "url": "https://github.com/WordPress/performance/pull/2504",
-      "time": "2026-11-23T17:27:37.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -15040,7 +15026,7 @@
       "type": "issue",
       "title": "Spanish translation for Course \"WordPress Campus Connect Organizer Orientation\"",
       "url": "https://github.com/WordPress/Learn/issues/3759",
-      "time": "2026-11-23T19:48:55.000Z",
+      "time": "2026-11-24T02:13:03.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -15425,6 +15411,17 @@
       "owner": ""
     },
     {
+      "id": 64605,
+      "title": "Add WordPress `core/settings-get` ability",
+      "url": "https://core.trac.wordpress.org/ticket/64605",
+      "status": "reopened",
+      "type": "enhancement",
+      "priority": "normal",
+      "milestone": "7.2",
+      "component": "Abilities API",
+      "owner": "jorgefilipecosta"
+    },
+    {
       "id": 65700,
       "title": "Comments: wp_insert_comment() and wp_update_comment() don't encode emoji for utf8mb3 columns like wp_insert_post() does",
       "url": "https://core.trac.wordpress.org/ticket/65700",
@@ -15568,17 +15565,6 @@
       "owner": "dmsnell"
     },
     {
-      "id": 64605,
-      "title": "Add WordPress `core/settings-get` ability",
-      "url": "https://core.trac.wordpress.org/ticket/64605",
-      "status": "reopened",
-      "type": "enhancement",
-      "priority": "normal",
-      "milestone": "7.2",
-      "component": "Abilities API",
-      "owner": "jorgefilipecosta"
-    },
-    {
       "id": 66006,
       "title": "WP_Post::get_instance() and four others cache a miss while cache addition is suspended",
       "url": "https://core.trac.wordpress.org/ticket/66006",
@@ -15599,17 +15585,6 @@
       "milestone": "7.2",
       "component": "Administration",
       "owner": "hameem1102"
-    },
-    {
-      "id": 66762,
-      "title": "Default editor styles are missing for classic themes in 7.2",
-      "url": "https://core.trac.wordpress.org/ticket/66762",
-      "status": "assigned",
-      "type": "defect (bug)",
-      "priority": "normal",
-      "milestone": "7.2",
-      "component": "Editor",
-      "owner": "mukesh27"
     },
     {
       "id": 65116,
