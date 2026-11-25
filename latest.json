@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-11-25T00:41:20.729Z",
+  "generatedAt": "2026-11-25T03:23:47.926Z",
   "items": [
+    {
+      "id": "make:core:127367",
+      "source": "make",
+      "teams": [
+        "core"
+      ],
+      "type": "post",
+      "title": "Dev Chat Agenda – November 25, 2026",
+      "url": "https://make.wordpress.org/core/2026/11/25/dev-chat-agenda-nov-25-2026/",
+      "time": "2026-11-25T02:17:17Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
     {
       "id": "make:core:127273",
       "source": "make",
@@ -405,20 +419,6 @@
       "title": "SVG icons in the admin bar and menu in WordPress 7.2",
       "url": "https://make.wordpress.org/core/2026/11/05/svg-icons-in-the-admin-bar-and-menu-in-wordpress-7-2/",
       "time": "2026-11-05T11:15:41Z",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "make:core:126950",
-      "source": "make",
-      "teams": [
-        "core"
-      ],
-      "type": "post",
-      "title": "Your Content Is Going To Get More Random!",
-      "url": "https://make.wordpress.org/core/2026/11/05/your-content-is-going-to-get-more-random/",
-      "time": "2026-11-05T02:59:12Z",
       "ask": "none",
       "personas": [],
       "confidence": 1
@@ -2007,6 +2007,20 @@
       "confidence": 1
     },
     {
+      "id": "make:polyglots:76388",
+      "source": "make",
+      "teams": [
+        "polyglots"
+      ],
+      "type": "post",
+      "title": "「WST Data Tables」のPTEリクエスト",
+      "url": "https://make.wordpress.org/polyglots/2026/11/25/%e3%80%8cwst-data-tables%e3%80%8d%e3%81%aepte%e3%83%aa%e3%82%af%e3%82%a8%e3%82%b9%e3%83%88/",
+      "time": "2026-11-25T03:04:55Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
       "id": "make:polyglots:76382",
       "source": "make",
       "teams": [
@@ -2408,20 +2422,6 @@
       "title": "PTE Request for Nashenski Commerce",
       "url": "https://make.wordpress.org/polyglots/2026/11/23/pte-request-for-nashenski-commerce/",
       "time": "2026-11-23T08:15:11Z",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "make:polyglots:76237",
-      "source": "make",
-      "teams": [
-        "polyglots"
-      ],
-      "type": "post",
-      "title": "PTE Request for Madai for WooCommerce",
-      "url": "https://make.wordpress.org/polyglots/2026/11/23/pte-request-for-madai-for-woocommerce/",
-      "time": "2026-11-23T00:23:05Z",
       "ask": "none",
       "personas": [],
       "confidence": 1
@@ -3183,6 +3183,20 @@
       "confidence": 1
     },
     {
+      "id": "make:community:107837",
+      "source": "make",
+      "teams": [
+        "community"
+      ],
+      "type": "post",
+      "title": "New Slack channels for organizers of flagship and larger WordCamps",
+      "url": "https://make.wordpress.org/community/2026/11/25/new-slack-channels-for-organizers-of-flagship-and-larger-wordcamps/",
+      "time": "2026-11-25T03:22:34Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
       "id": "make:community:107764",
       "source": "make",
       "teams": [
@@ -3488,20 +3502,6 @@
       "url": "https://make.wordpress.org/community/2026/09/18/proposal-rethinking-how-student-clubs-actually-run/",
       "time": "2026-09-18T05:55:33Z",
       "ask": "comment-open",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "make:community:96233",
-      "source": "make",
-      "teams": [
-        "community"
-      ],
-      "type": "post",
-      "title": "Help test mini contributor sessions at WordPress Meetups",
-      "url": "https://make.wordpress.org/community/2026/09/17/help-test-mini-contributor-sessions-at-wordpress-meetups/",
-      "time": "2026-09-17T00:44:34Z",
-      "ask": "needs-testing",
       "personas": [],
       "confidence": 1
     },
@@ -4458,6 +4458,20 @@
       "confidence": 1
     },
     {
+      "id": "make:hosting:209375",
+      "source": "make",
+      "teams": [
+        "hosting"
+      ],
+      "type": "post",
+      "title": "Hosting Team Meeting Agenda 11-25-2026",
+      "url": "https://make.wordpress.org/hosting/2026/11/25/hosting-team-meeting-agenda-2026-11-25/",
+      "time": "2026-11-25T03:10:11Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
       "id": "make:hosting:208559",
       "source": "make",
       "teams": [
@@ -4832,20 +4846,6 @@
       "title": "Hosting Team Meeting Agenda 2026-07-15",
       "url": "https://make.wordpress.org/hosting/2026/07/15/hosting-team-meeting-agenda-2026-07-15/",
       "time": "2026-07-15T03:02:21Z",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "make:hosting:181586",
-      "source": "make",
-      "teams": [
-        "hosting"
-      ],
-      "type": "post",
-      "title": "Hosting Team Meeting Agenda 2026-07-08",
-      "url": "https://make.wordpress.org/hosting/2026/07/08/hosting-team-meeting-agenda-2026-07-08/",
-      "time": "2026-07-08T03:18:55Z",
       "ask": "none",
       "personas": [],
       "confidence": 1
@@ -10925,6 +10925,36 @@
       "ask": "none",
       "personas": [],
       "confidence": 1,
+      "time": "2026-11-25T01:48:37.000Z",
+      "id": "trac:core:ticket:66808",
+      "type": "ticket",
+      "title": "#66808 Block editor: author preload path is never consumed since the DataForm ...",
+      "status": "closed",
+      "url": "https://core.trac.wordpress.org/ticket/66808#comment:2"
+    },
+    {
+      "source": "trac",
+      "teams": [
+        "core"
+      ],
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "time": "2026-11-25T01:46:14.000Z",
+      "id": "trac:core:ticket:66814",
+      "type": "ticket",
+      "title": "#66814 Admin menu: \"Collapse Menu\" label is vertically misaligned depending ...",
+      "status": "created",
+      "url": "https://core.trac.wordpress.org/ticket/66814"
+    },
+    {
+      "source": "trac",
+      "teams": [
+        "core"
+      ],
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
       "time": "2026-11-24T23:34:57.000Z",
       "id": "trac:core:changeset:65768",
       "type": "commit",
@@ -11134,21 +11164,6 @@
       "type": "commit",
       "title": "[65762] Branch 7.2.",
       "url": "https://core.trac.wordpress.org/changeset/65762"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "core"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-24T18:09:14.000Z",
-      "id": "trac:core:ticket:66808",
-      "type": "ticket",
-      "title": "#66808 Block editor: author preload path is never consumed since the DataForm ...",
-      "status": "created",
-      "url": "https://core.trac.wordpress.org/ticket/66808"
     },
     {
       "source": "trac",
@@ -12306,20 +12321,6 @@
       "title": "#66770 REST API: Pattern property helpers document string keys, but receive ...",
       "status": "created",
       "url": "https://core.trac.wordpress.org/ticket/66770"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "core"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-20T23:02:41.000Z",
-      "id": "trac:core:changeset:65733",
-      "type": "commit",
-      "title": "[65733] Tests: Cover `esc_url_raw()`.  Verify that ampersands are not ...",
-      "url": "https://core.trac.wordpress.org/changeset/65733"
     },
     {
       "source": "trac",
@@ -13739,6 +13740,21 @@
       "url": "https://meta.trac.wordpress.org/changeset/15638"
     },
     {
+      "id": "github:WordPress/wordpress-develop#15971",
+      "source": "github",
+      "teams": [
+        "core"
+      ],
+      "type": "pull",
+      "title": "KSES: Keep opening brackets encoded inside allowed code elements",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/15971",
+      "time": "2026-11-25T03:11:49.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
       "id": "github:WordPress/wordpress-develop#16221",
       "source": "github",
       "teams": [
@@ -13747,7 +13763,37 @@
       "type": "pull",
       "title": "Help/About: Optimize the header images with font subsetting.",
       "url": "https://github.com/WordPress/wordpress-develop/pull/16221",
-      "time": "2026-11-25T00:33:44.000Z",
+      "time": "2026-11-25T01:35:17.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-develop#15129",
+      "source": "github",
+      "teams": [
+        "core"
+      ],
+      "type": "pull",
+      "title": "Query: Don't build relevance order clause when there are no title sea…",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/15129",
+      "time": "2026-11-25T01:05:09.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-develop#11079",
+      "source": "github",
+      "teams": [
+        "core"
+      ],
+      "type": "pull",
+      "title": "Application password UX improvements",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/11079",
+      "time": "2026-11-25T01:03:23.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -13919,150 +13965,90 @@
       "confidence": 1
     },
     {
-      "id": "github:WordPress/wordpress-develop#16219",
-      "source": "github",
-      "teams": [
-        "core"
-      ],
-      "type": "pull",
-      "title": "Fix: Return content query dates at the Unix epoch.",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/16219",
-      "time": "2026-11-24T20:32:07.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/wordpress-develop#16209",
-      "source": "github",
-      "teams": [
-        "core"
-      ],
-      "type": "pull",
-      "title": "KSES: Adjust restrictions for non-DATA text content.",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/16209",
-      "time": "2026-11-24T20:15:06.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/wordpress-develop#16029",
-      "source": "github",
-      "teams": [
-        "core"
-      ],
-      "type": "pull",
-      "title": "Build/Test Tools: Add live AI provider tests for the core abilities",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/16029",
-      "time": "2026-11-24T19:52:37.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#87347",
+      "id": "github:WordPress/gutenberg#87374",
       "source": "github",
       "teams": [
         "core-editor"
       ],
       "type": "pull",
-      "title": "Tabs: Show a solid selection indicator in forced colors mode",
-      "url": "https://github.com/WordPress/gutenberg/pull/87347",
-      "time": "2026-11-25T00:34:30.000Z",
+      "title": "Gallery: In a multiselection, hide controls that are unsupported",
+      "url": "https://github.com/WordPress/gutenberg/pull/87374",
+      "time": "2026-11-25T03:09:25.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/gutenberg#87372",
+      "id": "github:WordPress/gutenberg#84201",
       "source": "github",
       "teams": [
         "core-editor"
       ],
       "type": "pull",
-      "title": "Menu: Fix flaky submenu trigger height test",
-      "url": "https://github.com/WordPress/gutenberg/pull/87372",
-      "time": "2026-11-25T00:34:00.000Z",
+      "title": "Global Styles: Hide font family control when only one theme font family is available",
+      "url": "https://github.com/WordPress/gutenberg/pull/84201",
+      "time": "2026-11-25T03:09:09.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/gutenberg#82706",
+      "id": "github:WordPress/gutenberg#85779",
       "source": "github",
       "teams": [
         "core-editor"
       ],
       "type": "pull",
-      "title": "Block Editor: Stop duplicate controllers from taking the selection",
-      "url": "https://github.com/WordPress/gutenberg/pull/82706",
-      "time": "2026-11-25T00:32:27.000Z",
+      "title": "Image: Allow removing custom width and height inside Row, Stack and Grid",
+      "url": "https://github.com/WordPress/gutenberg/pull/85779",
+      "time": "2026-11-25T03:05:56.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/gutenberg#87201",
+      "id": "github:WordPress/gutenberg#86892",
       "source": "github",
       "teams": [
         "core-editor"
       ],
       "type": "pull",
-      "title": "Layout Support: Remove unused `gutenberg_incremental_id_per_prefix`",
-      "url": "https://github.com/WordPress/gutenberg/pull/87201",
-      "time": "2026-11-25T00:31:27.000Z",
+      "title": "Block Editor: Insert in the right gap between children of a transformed container",
+      "url": "https://github.com/WordPress/gutenberg/pull/86892",
+      "time": "2026-11-25T03:05:00.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/gutenberg#87342",
+      "id": "github:WordPress/gutenberg#86955",
       "source": "github",
       "teams": [
         "core-editor"
       ],
       "type": "pull",
-      "title": "Writing Flow: Restore the caret on the next key when iOS clears the selection after a tap",
-      "url": "https://github.com/WordPress/gutenberg/pull/87342",
-      "time": "2026-11-25T00:28:56.000Z",
+      "title": "Image, Video: Add transform block support to the media element",
+      "url": "https://github.com/WordPress/gutenberg/pull/86955",
+      "time": "2026-11-25T03:03:21.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/gutenberg#87314",
+      "id": "github:WordPress/gutenberg#87376",
       "source": "github",
       "teams": [
         "core-editor"
       ],
       "type": "pull",
-      "title": "Upload Media: Recycle the vips worker so large batches don't run out of memory",
-      "url": "https://github.com/WordPress/gutenberg/pull/87314",
-      "time": "2026-11-25T00:17:36.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#87332",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "iOS tests: Retry failed tests on CI",
-      "url": "https://github.com/WordPress/gutenberg/pull/87332",
-      "time": "2026-11-25T00:17:27.000Z",
+      "title": "Image Editor: Remove floating-point noise from the edit read-back",
+      "url": "https://github.com/WordPress/gutenberg/pull/87376",
+      "time": "2026-11-25T02:52:26.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -14077,112 +14063,127 @@
       "type": "pull",
       "title": "Block Supports: Add a uniform scale to Transform supports",
       "url": "https://github.com/WordPress/gutenberg/pull/86727",
-      "time": "2026-11-25T00:15:40.000Z",
+      "time": "2026-11-25T02:50:59.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/gutenberg#87354",
+      "id": "github:WordPress/gutenberg#87118",
       "source": "github",
       "teams": [
         "core-editor"
       ],
       "type": "pull",
-      "title": "Media editor: Isolate IME composition from keyboard actions",
-      "url": "https://github.com/WordPress/gutenberg/pull/87354",
-      "time": "2026-11-25T00:14:07.000Z",
+      "title": "Automated Testing: Update review routing workflow to use GitHub App",
+      "url": "https://github.com/WordPress/gutenberg/pull/87118",
+      "time": "2026-11-25T02:44:31.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/gutenberg#86955",
+      "id": "github:WordPress/gutenberg#87334",
       "source": "github",
       "teams": [
         "core-editor"
       ],
       "type": "pull",
-      "title": "Image: Add transform block support",
-      "url": "https://github.com/WordPress/gutenberg/pull/86955",
-      "time": "2026-11-25T00:04:48.000Z",
+      "title": "Add support for non-contiguous block selection",
+      "url": "https://github.com/WordPress/gutenberg/pull/87334",
+      "time": "2026-11-25T02:41:28.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/gutenberg#86834",
+      "id": "github:WordPress/gutenberg#87375",
       "source": "github",
       "teams": [
         "core-editor"
       ],
       "type": "pull",
-      "title": "Upload Media: warn when an image uploads without all of its sizes, and keep it when the site is out of storage space.",
-      "url": "https://github.com/WordPress/gutenberg/pull/86834",
-      "time": "2026-11-25T00:03:18.000Z",
+      "title": "Editor: Show auto height in viewport status for patterns and template parts",
+      "url": "https://github.com/WordPress/gutenberg/pull/87375",
+      "time": "2026-11-25T02:39:19.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/gutenberg#87373",
+      "id": "github:WordPress/gutenberg#83730",
       "source": "github",
       "teams": [
         "core-editor"
       ],
       "type": "issue",
-      "title": "Categories panel: \"Add Category\" stops working after one failed attempt",
-      "url": "https://github.com/WordPress/gutenberg/issues/87373",
-      "time": "2026-11-25T00:00:14.000Z",
+      "title": "7.2 Microsite",
+      "url": "https://github.com/WordPress/gutenberg/issues/83730",
+      "time": "2026-11-25T02:29:45.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/gutenberg#87341",
+      "id": "github:WordPress/gutenberg#51399",
       "source": "github",
       "teams": [
         "core-editor"
       ],
       "type": "issue",
-      "title": "Icons: the plus icon looks smaller and lighter than the other admin bar icons",
-      "url": "https://github.com/WordPress/gutenberg/issues/87341",
-      "time": "2026-11-24T23:57:00.000Z",
+      "title": "Gallery: Add a MAX_COLUMNS hook",
+      "url": "https://github.com/WordPress/gutenberg/issues/51399",
+      "time": "2026-11-25T02:24:37.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/gutenberg#87010",
+      "id": "github:WordPress/gutenberg#83719",
       "source": "github",
       "teams": [
         "core-editor"
       ],
-      "type": "pull",
-      "title": "a11y: Use Highlight instead of SelectedItem for pressed and selected states in forced colors",
-      "url": "https://github.com/WordPress/gutenberg/pull/87010",
-      "time": "2026-11-24T23:54:06.000Z",
+      "type": "issue",
+      "title": "7.2 release highlight grid (visual asset)",
+      "url": "https://github.com/WordPress/gutenberg/issues/83719",
+      "time": "2026-11-25T02:19:39.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/gutenberg#84010",
+      "id": "github:WordPress/gutenberg#87365",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "issue",
+      "title": "HTML Block preview",
+      "url": "https://github.com/WordPress/gutenberg/issues/87365",
+      "time": "2026-11-25T02:03:44.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#87298",
       "source": "github",
       "teams": [
         "core-editor"
       ],
       "type": "pull",
-      "title": "Navigation: Preserve focus when saving inline menu blocks",
-      "url": "https://github.com/WordPress/gutenberg/pull/84010",
-      "time": "2026-11-24T23:53:26.000Z",
+      "title": "FontSizePicker: Emit onChange when the selected preset is activated again",
+      "url": "https://github.com/WordPress/gutenberg/pull/87298",
+      "time": "2026-11-25T01:54:58.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -14639,6 +14640,21 @@
       "confidence": 1
     },
     {
+      "id": "github:WordPress/wordpress-playground#4580",
+      "source": "github",
+      "teams": [
+        "playground"
+      ],
+      "type": "issue",
+      "title": "reprint wont copy website: error 400",
+      "url": "https://github.com/WordPress/wordpress-playground/issues/4580",
+      "time": "2026-11-25T01:14:50.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
       "id": "github:WordPress/wordpress-playground#4664",
       "source": "github",
       "teams": [
@@ -14849,21 +14865,6 @@
       "confidence": 1
     },
     {
-      "id": "github:WordPress/wordpress-playground#2621",
-      "source": "github",
-      "teams": [
-        "playground"
-      ],
-      "type": "issue",
-      "title": "[Translation] French translation progress tracker",
-      "url": "https://github.com/WordPress/wordpress-playground/issues/2621",
-      "time": "2026-11-24T11:21:43.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
       "id": "github:WordPress/openverse#255",
       "source": "github",
       "teams": [
@@ -14888,21 +14889,6 @@
       "title": "Optimized Analytical Methods for Assessing Carbamate Pesticide and  Phthalate Contamination in Khat (Catha edulis) and Their Health  Implications in Harari Region, Ethiopia",
       "url": "https://github.com/WordPress/openverse/issues/5481",
       "time": "2026-11-24T22:04:13.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/openverse#5466",
-      "source": "github",
-      "teams": [
-        "openverse"
-      ],
-      "type": "issue",
-      "title": "How to ignore broken image links",
-      "url": "https://github.com/WordPress/openverse/issues/5466",
-      "time": "2026-11-24T22:04:12.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -15083,6 +15069,36 @@
       "title": "Production Elasticsearch rejects searches from live traffic",
       "url": "https://github.com/WordPress/openverse/issues/5847",
       "time": "2026-11-22T03:08:45.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/openverse#5832",
+      "source": "github",
+      "teams": [
+        "openverse"
+      ],
+      "type": "issue",
+      "title": "About page: hard-coded English aria-labels on the \"issue\" and \"email\" links override the translated link text",
+      "url": "https://github.com/WordPress/openverse/issues/5832",
+      "time": "2026-11-20T08:05:40.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/Learn#3733",
+      "source": "github",
+      "teams": [
+        "training"
+      ],
+      "type": "issue",
+      "title": "Spanish translation for \"Open Source Principle 3: Egoless participation\"",
+      "url": "https://github.com/WordPress/Learn/issues/3733",
+      "time": "2026-11-25T00:18:44.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -15297,21 +15313,6 @@
       "ask": "none",
       "personas": [],
       "confidence": 1
-    },
-    {
-      "id": "github:WordPress/Learn#3728",
-      "source": "github",
-      "teams": [
-        "training"
-      ],
-      "type": "issue",
-      "title": "Feedback - Module 3 Quiz completion not unlocking next lesson (\"Prerequisites are completed and graded\" error)",
-      "url": "https://github.com/WordPress/Learn/issues/3728",
-      "time": "2026-11-22T20:35:20.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
     }
   ],
   "meetings": [
@@ -15470,6 +15471,28 @@
   ],
   "tickets": [
     {
+      "id": 65700,
+      "title": "Comments: wp_insert_comment() and wp_update_comment() don't encode emoji for utf8mb3 columns like wp_insert_post() does",
+      "url": "https://core.trac.wordpress.org/ticket/65700",
+      "status": "accepted",
+      "type": "defect (bug)",
+      "priority": "highest omg bbq",
+      "milestone": "7.2",
+      "component": "Emoji",
+      "owner": "jonsurrell"
+    },
+    {
+      "id": 66339,
+      "title": "Editor: Update the post editor preload paths for the DataForm inspector",
+      "url": "https://core.trac.wordpress.org/ticket/66339",
+      "status": "assigned",
+      "type": "defect (bug)",
+      "priority": "normal",
+      "milestone": "7.2",
+      "component": "General",
+      "owner": "ntsekouras"
+    },
+    {
       "id": 66208,
       "title": "KSES: Re-implement using HTML API",
       "url": "https://core.trac.wordpress.org/ticket/66208",
@@ -15567,17 +15590,6 @@
       "milestone": "7.2",
       "component": "General",
       "owner": ""
-    },
-    {
-      "id": 65700,
-      "title": "Comments: wp_insert_comment() and wp_update_comment() don't encode emoji for utf8mb3 columns like wp_insert_post() does",
-      "url": "https://core.trac.wordpress.org/ticket/65700",
-      "status": "accepted",
-      "type": "defect (bug)",
-      "priority": "highest omg bbq",
-      "milestone": "7.2",
-      "component": "Emoji",
-      "owner": "jonsurrell"
     },
     {
       "id": 65655,
