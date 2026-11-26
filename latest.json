@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T00:39:54.659Z",
+  "generatedAt": "2026-11-26T03:23:22.818Z",
   "items": [
     {
       "id": "make:core:127371",
@@ -13664,7 +13664,7 @@
       "type": "pull",
       "title": "Help/About: Optimize the header images with font subsetting.",
       "url": "https://github.com/WordPress/wordpress-develop/pull/16221",
-      "time": "2026-11-26T00:23:20.000Z",
+      "time": "2026-11-26T00:41:07.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -13881,195 +13881,150 @@
       "confidence": 1
     },
     {
-      "id": "github:WordPress/gutenberg#82294",
+      "id": "github:WordPress/gutenberg#70847",
       "source": "github",
       "teams": [
         "core-editor"
       ],
       "type": "pull",
-      "title": "Theme: Generate perceptually balanced color ramps",
-      "url": "https://github.com/WordPress/gutenberg/pull/82294",
-      "time": "2026-11-26T00:40:22.000Z",
+      "title": "REST API: Add activate themes endpoint",
+      "url": "https://github.com/WordPress/gutenberg/pull/70847",
+      "time": "2026-11-26T03:14:40.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/gutenberg#31804",
+      "id": "github:WordPress/gutenberg#41836",
       "source": "github",
       "teams": [
         "core-editor"
       ],
       "type": "pull",
-      "title": "Rich text core: remove and derive isSelected",
-      "url": "https://github.com/WordPress/gutenberg/pull/31804",
-      "time": "2026-11-26T00:38:54.000Z",
+      "title": "First pass at themes endpoint.",
+      "url": "https://github.com/WordPress/gutenberg/pull/41836",
+      "time": "2026-11-26T03:14:39.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/gutenberg#53482",
+      "id": "github:WordPress/gutenberg#37838",
       "source": "github",
       "teams": [
         "core-editor"
       ],
       "type": "pull",
-      "title": "Paste: add e2e tests for Webkit and Firefox",
-      "url": "https://github.com/WordPress/gutenberg/pull/53482",
-      "time": "2026-11-26T00:37:11.000Z",
+      "title": "Add default context field",
+      "url": "https://github.com/WordPress/gutenberg/pull/37838",
+      "time": "2026-11-26T03:14:38.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/gutenberg#87400",
+      "id": "github:WordPress/gutenberg#37789",
       "source": "github",
       "teams": [
         "core-editor"
       ],
       "type": "pull",
-      "title": "Tabs: Let a horizontal list shrink inside a flex container",
-      "url": "https://github.com/WordPress/gutenberg/pull/87400",
-      "time": "2026-11-26T00:35:24.000Z",
+      "title": "REST API: Post locking endpoint",
+      "url": "https://github.com/WordPress/gutenberg/pull/37789",
+      "time": "2026-11-26T03:14:37.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/gutenberg#74898",
+      "id": "github:WordPress/gutenberg#2649",
       "source": "github",
       "teams": [
         "core-editor"
       ],
       "type": "pull",
-      "title": "Add block drag tests for webkit (+ one firefox)",
-      "url": "https://github.com/WordPress/gutenberg/pull/74898",
-      "time": "2026-11-26T00:34:36.000Z",
+      "title": "Add block data to REST API",
+      "url": "https://github.com/WordPress/gutenberg/pull/2649",
+      "time": "2026-11-26T03:14:36.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/gutenberg#60746",
+      "id": "github:WordPress/gutenberg#59315",
       "source": "github",
       "teams": [
         "core-editor"
       ],
       "type": "issue",
-      "title": "Copy pasting from a word document sometimes leads to empty links in subheads",
-      "url": "https://github.com/WordPress/gutenberg/issues/60746",
-      "time": "2026-11-26T00:22:31.000Z",
+      "title": "@wordpress/api-fetch improvements for simpler SPA integration",
+      "url": "https://github.com/WordPress/gutenberg/issues/59315",
+      "time": "2026-11-26T03:14:35.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/gutenberg#87428",
+      "id": "github:WordPress/gutenberg#35845",
       "source": "github",
       "teams": [
         "core-editor"
       ],
-      "type": "pull",
-      "title": "Components: Emphasize Link and ExternalLink interaction states",
-      "url": "https://github.com/WordPress/gutenberg/pull/87428",
-      "time": "2026-11-26T00:20:12.000Z",
+      "type": "issue",
+      "title": "Do not hard code 100 in apiFetch fetch-all-middleware ",
+      "url": "https://github.com/WordPress/gutenberg/issues/35845",
+      "time": "2026-11-26T03:14:34.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/gutenberg#87429",
+      "id": "github:WordPress/gutenberg#22002",
       "source": "github",
       "teams": [
         "core-editor"
       ],
-      "type": "pull",
-      "title": "Theme: Swap resting and active fills for strong neutral controls",
-      "url": "https://github.com/WordPress/gutenberg/pull/87429",
-      "time": "2026-11-26T00:19:33.000Z",
+      "type": "issue",
+      "title": "[Latest Posts] Add the ability to sort by comment numbers",
+      "url": "https://github.com/WordPress/gutenberg/issues/22002",
+      "time": "2026-11-26T03:14:34.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/gutenberg#87427",
+      "id": "github:WordPress/gutenberg#6912",
       "source": "github",
       "teams": [
         "core-editor"
       ],
-      "type": "pull",
-      "title": "Components: Use theme colors in Panel and ToolsPanel",
-      "url": "https://github.com/WordPress/gutenberg/pull/87427",
-      "time": "2026-11-26T00:15:26.000Z",
+      "type": "issue",
+      "title": "Custom Taxonomy: Show in REST, Hide default Gutenberg Panel",
+      "url": "https://github.com/WordPress/gutenberg/issues/6912",
+      "time": "2026-11-26T03:14:33.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/gutenberg#87426",
+      "id": "github:WordPress/gutenberg#87123",
       "source": "github",
       "teams": [
         "core-editor"
       ],
       "type": "pull",
-      "title": "Block Editor: Use theme colors in the inserter, inspector, and sidebars",
-      "url": "https://github.com/WordPress/gutenberg/pull/87426",
-      "time": "2026-11-26T00:11:18.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#86890",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "UI: Add an internal Knob angle dial based on Base UI Slider",
-      "url": "https://github.com/WordPress/gutenberg/pull/86890",
-      "time": "2026-11-26T00:09:27.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#87425",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Automated Testing: Add media editor review routing rule",
-      "url": "https://github.com/WordPress/gutenberg/pull/87425",
-      "time": "2026-11-26T00:06:03.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#85120",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Notes: Flag each note thread with unseen activity",
-      "url": "https://github.com/WordPress/gutenberg/pull/85120",
-      "time": "2026-11-25T23:57:55.000Z",
+      "title": "Edit Post: Return to the previous entity after deleting the one being edited",
+      "url": "https://github.com/WordPress/gutenberg/pull/87123",
+      "time": "2026-11-26T03:12:59.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -14084,22 +14039,67 @@
       "type": "pull",
       "title": "Layout: In a multiselection, hide the layout controls if the layout types differ",
       "url": "https://github.com/WordPress/gutenberg/pull/87423",
-      "time": "2026-11-25T23:48:52.000Z",
+      "time": "2026-11-26T02:48:46.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/gutenberg#77952",
+      "id": "github:WordPress/gutenberg#70625",
       "source": "github",
       "teams": [
         "core-editor"
       ],
       "type": "pull",
-      "title": "Table: Account for merged cells when inserting and deleting rows",
-      "url": "https://github.com/WordPress/gutenberg/pull/77952",
-      "time": "2026-11-25T23:46:34.000Z",
+      "title": "DataViews: Wrap data view action modals in `<Suspense>`",
+      "url": "https://github.com/WordPress/gutenberg/pull/70625",
+      "time": "2026-11-26T02:37:49.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#70913",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "issue",
+      "title": "Admin Materials and Surfaces",
+      "url": "https://github.com/WordPress/gutenberg/issues/70913",
+      "time": "2026-11-26T02:37:48.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#61135",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "issue",
+      "title": "Components: move border style utils to `block-editor` package",
+      "url": "https://github.com/WordPress/gutenberg/issues/61135",
+      "time": "2026-11-26T02:37:47.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#60975",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "issue",
+      "title": "Components: remove Framer Motion",
+      "url": "https://github.com/WordPress/gutenberg/issues/60975",
+      "time": "2026-11-26T02:37:45.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -14556,6 +14556,36 @@
       "confidence": 1
     },
     {
+      "id": "github:WordPress/wordpress-playground#4755",
+      "source": "github",
+      "teams": [
+        "playground"
+      ],
+      "type": "issue",
+      "title": "Idea: add a \"prototype/testing\" mode to Playground to minimize additional controls",
+      "url": "https://github.com/WordPress/wordpress-playground/issues/4755",
+      "time": "2026-11-26T02:48:50.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-playground#4754",
+      "source": "github",
+      "teams": [
+        "playground"
+      ],
+      "type": "pull",
+      "title": "[i18n] Add pt-BR translation for the Sites API reference",
+      "url": "https://github.com/WordPress/wordpress-playground/pull/4754",
+      "time": "2026-11-26T02:39:22.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
       "id": "github:WordPress/wordpress-playground#3799",
       "source": "github",
       "teams": [
@@ -14745,36 +14775,6 @@
       "title": "[CLI] Require --follow-symlinks to auto-mount a symlinked wp-content child",
       "url": "https://github.com/WordPress/wordpress-playground/pull/4747",
       "time": "2026-11-25T13:25:49.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/wordpress-playground#4749",
-      "source": "github",
-      "teams": [
-        "playground"
-      ],
-      "type": "pull",
-      "title": "[i18n] Translate the Blueprints tutorial page \"How to load and run Blueprints\" into Hindi",
-      "url": "https://github.com/WordPress/wordpress-playground/pull/4749",
-      "time": "2026-11-25T11:54:22.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/wordpress-playground#4748",
-      "source": "github",
-      "teams": [
-        "playground"
-      ],
-      "type": "pull",
-      "title": "[PHP-WASM Node] Provide default OpenSSL configuration before runtime startup",
-      "url": "https://github.com/WordPress/wordpress-playground/pull/4748",
-      "time": "2026-11-25T11:46:12.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
