@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T21:20:33.175Z",
+  "generatedAt": "2026-11-27T00:40:28.040Z",
   "items": [
     {
       "id": "make:core:127286",
@@ -10955,6 +10955,20 @@
       "ask": "none",
       "personas": [],
       "confidence": 1,
+      "time": "2026-11-26T21:40:16.000Z",
+      "id": "trac:core:changeset:65805",
+      "type": "commit",
+      "title": "[65805] Tests: Cover `_navigation_markup()`.  Verify: - Default navigation ...",
+      "url": "https://core.trac.wordpress.org/changeset/65805"
+    },
+    {
+      "source": "trac",
+      "teams": [
+        "core"
+      ],
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
       "time": "2026-11-26T20:57:27.000Z",
       "id": "trac:core:ticket:66835",
       "type": "ticket",
@@ -12243,17 +12257,17 @@
     {
       "source": "trac",
       "teams": [
-        "core"
+        "meta"
       ],
       "ask": "none",
       "personas": [],
       "confidence": 1,
-      "time": "2026-11-24T19:19:34.000Z",
-      "id": "trac:core:ticket:66809",
+      "time": "2026-11-26T21:36:39.000Z",
+      "id": "trac:meta:ticket:8196",
       "type": "ticket",
-      "title": "#66809 Trash meta stays when a post leaves the Trash through a save",
-      "status": "created",
-      "url": "https://core.trac.wordpress.org/ticket/66809"
+      "title": "#8196 Meta Trac: Ticket #8185 vanished",
+      "status": "reopened",
+      "url": "https://meta.trac.wordpress.org/ticket/8196#comment:4"
     },
     {
       "source": "trac",
@@ -13660,18 +13674,19 @@
       "url": "https://meta.trac.wordpress.org/changeset/15641"
     },
     {
-      "source": "trac",
+      "id": "github:WordPress/wordpress-develop#16278",
+      "source": "github",
       "teams": [
-        "meta"
+        "core"
       ],
+      "type": "pull",
+      "title": "Help/About: Translate `/random` slug displayed in graphic.",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/16278",
+      "time": "2026-11-27T00:09:40.000Z",
+      "status": "open",
       "ask": "none",
       "personas": [],
-      "confidence": 1,
-      "time": "2026-11-19T20:07:02.000Z",
-      "id": "trac:meta:changeset:15640",
-      "type": "commit",
-      "title": "[15640] bbPress.org: Prevent Codex taxonomy headings from overlapping on ...",
-      "url": "https://meta.trac.wordpress.org/changeset/15640"
+      "confidence": 1
     },
     {
       "id": "github:WordPress/wordpress-develop#16155",
@@ -13884,135 +13899,75 @@
       "confidence": 1
     },
     {
-      "id": "github:WordPress/wordpress-develop#16272",
+      "id": "github:WordPress/gutenberg#86998",
       "source": "github",
       "teams": [
-        "core"
+        "core-editor"
       ],
       "type": "pull",
-      "title": "Tests: Remove redundant trailing taxonomy cleanup in `Tests_Query_TaxQuery`",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/16272",
-      "time": "2026-11-26T16:56:23.000Z",
+      "title": "Fix drag and drop into a Canvas grid",
+      "url": "https://github.com/WordPress/gutenberg/pull/86998",
+      "time": "2026-11-27T00:39:23.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/gutenberg#87481",
+      "id": "github:WordPress/gutenberg#87502",
       "source": "github",
       "teams": [
         "core-editor"
       ],
       "type": "issue",
-      "title": "Row Block: Missing 'allow to wrap' toggle initially",
-      "url": "https://github.com/WordPress/gutenberg/issues/87481",
-      "time": "2026-11-26T21:20:30.000Z",
+      "title": "[Block] Query Loop: Enhanced pagination breaks block style variations below the query block on the last page with fewer posts",
+      "url": "https://github.com/WordPress/gutenberg/issues/87502",
+      "time": "2026-11-27T00:20:48.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/gutenberg#86732",
+      "id": "github:WordPress/gutenberg#81914",
       "source": "github",
       "teams": [
         "core-editor"
       ],
       "type": "pull",
-      "title": "Storybook: Add patterns for selecting local files",
-      "url": "https://github.com/WordPress/gutenberg/pull/86732",
-      "time": "2026-11-26T20:13:00.000Z",
+      "title": "Replace core-js-builder with core-js-compat and webpack 5",
+      "url": "https://github.com/WordPress/gutenberg/pull/81914",
+      "time": "2026-11-27T00:16:30.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/gutenberg#86676",
+      "id": "github:WordPress/gutenberg#87410",
       "source": "github",
       "teams": [
         "core-editor"
       ],
       "type": "pull",
-      "title": "UI: Add Item",
-      "url": "https://github.com/WordPress/gutenberg/pull/86676",
-      "time": "2026-11-26T20:07:09.000Z",
+      "title": "Inserter: Try one DataViews browsing UI for the Patterns and Media tabs",
+      "url": "https://github.com/WordPress/gutenberg/pull/87410",
+      "time": "2026-11-27T00:05:58.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/gutenberg#87493",
+      "id": "github:WordPress/gutenberg#85537",
       "source": "github",
       "teams": [
         "core-editor"
       ],
       "type": "pull",
-      "title": "List View: Don't take focus when the first block is added",
-      "url": "https://github.com/WordPress/gutenberg/pull/87493",
-      "time": "2026-11-26T19:53:15.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#87495",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Validation: Check built block-library frontend CSS for admin design tokens",
-      "url": "https://github.com/WordPress/gutenberg/pull/87495",
-      "time": "2026-11-26T19:04:51.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#87494",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Extensible Site Editor: Keep the admin bar on top and stop the editor flashing blank in transitions",
-      "url": "https://github.com/WordPress/gutenberg/pull/87494",
-      "time": "2026-11-26T19:00:37.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#64445",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "issue",
-      "title": "Expand `ItemGroup`",
-      "url": "https://github.com/WordPress/gutenberg/issues/64445",
-      "time": "2026-11-26T18:41:52.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#87476",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "issue",
-      "title": "Extensible Site Editor: Entering the editor animates over the admin bar and can flash white",
-      "url": "https://github.com/WordPress/gutenberg/issues/87476",
-      "time": "2026-11-26T18:30:27.000Z",
+      "title": "Cover: preserve relative height units when resizing",
+      "url": "https://github.com/WordPress/gutenberg/pull/85537",
+      "time": "2026-11-27T00:04:51.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -14027,97 +13982,142 @@
       "type": "pull",
       "title": "Keyboard shortcuts: expose readable punctuation labels to screen readers",
       "url": "https://github.com/WordPress/gutenberg/pull/85490",
-      "time": "2026-11-26T18:18:51.000Z",
+      "time": "2026-11-27T00:01:30.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/gutenberg#87287",
+      "id": "github:WordPress/gutenberg#87417",
       "source": "github",
       "teams": [
         "core-editor"
       ],
       "type": "pull",
-      "title": "Theme: Add shadow tokens that adapt to the background seed",
-      "url": "https://github.com/WordPress/gutenberg/pull/87287",
-      "time": "2026-11-26T18:14:57.000Z",
+      "title": "Routes: Load the editor assets before content that reads the editor",
+      "url": "https://github.com/WordPress/gutenberg/pull/87417",
+      "time": "2026-11-26T23:48:58.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/gutenberg#87487",
+      "id": "github:WordPress/gutenberg#87497",
       "source": "github",
       "teams": [
         "core-editor"
       ],
       "type": "pull",
-      "title": "ESLint Plugin: Add i18n rules for placeholders, HTML-wrapped and concatenated strings",
-      "url": "https://github.com/WordPress/gutenberg/pull/87487",
-      "time": "2026-11-26T18:13:14.000Z",
+      "title": "Lazy Editor: Load wp-editor with the editor assets, and read it only once they are loaded",
+      "url": "https://github.com/WordPress/gutenberg/pull/87497",
+      "time": "2026-11-26T23:48:51.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/gutenberg#87462",
+      "id": "github:WordPress/gutenberg#87501",
       "source": "github",
       "teams": [
         "core-editor"
       ],
       "type": "pull",
-      "title": "Block Inspector: Add Rename button to BlockCard",
-      "url": "https://github.com/WordPress/gutenberg/pull/87462",
-      "time": "2026-11-26T18:12:12.000Z",
+      "title": "Extensible Site Editor: List the entity modules in the page's import map",
+      "url": "https://github.com/WordPress/gutenberg/pull/87501",
+      "time": "2026-11-26T23:45:47.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/gutenberg#86850",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Focus the post title when entering the Code Editor",
-      "url": "https://github.com/WordPress/gutenberg/pull/86850",
-      "time": "2026-11-26T18:12:05.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#87297",
+      "id": "github:WordPress/gutenberg#87481",
       "source": "github",
       "teams": [
         "core-editor"
       ],
       "type": "issue",
-      "title": "List View: Focus moves from the new block to the List View after pressing Enter in the post title",
-      "url": "https://github.com/WordPress/gutenberg/issues/87297",
-      "time": "2026-11-26T18:07:52.000Z",
+      "title": "Row Block: Missing 'allow to wrap' toggle initially",
+      "url": "https://github.com/WordPress/gutenberg/issues/87481",
+      "time": "2026-11-26T23:41:18.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/gutenberg#85497",
+      "id": "github:WordPress/gutenberg#87475",
       "source": "github",
       "teams": [
         "core-editor"
       ],
       "type": "pull",
-      "title": "Style Book: Align keyboard focus with the header layout",
-      "url": "https://github.com/WordPress/gutenberg/pull/85497",
-      "time": "2026-11-26T17:49:45.000Z",
+      "title": "[WP 7.2] Block Editor: Count every rendered inspector group when showing the Styles tab",
+      "url": "https://github.com/WordPress/gutenberg/pull/87475",
+      "time": "2026-11-26T23:36:13.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#87499",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "issue",
+      "title": "[Navigation Block]: High specificity rules in editor.min.css prevent custom styling of the hamburger button via theme.json",
+      "url": "https://github.com/WordPress/gutenberg/issues/87499",
+      "time": "2026-11-26T23:36:03.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#87498",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Editor: Keep the add term form usable after creating a term fails",
+      "url": "https://github.com/WordPress/gutenberg/pull/87498",
+      "time": "2026-11-26T23:28:16.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#87373",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "issue",
+      "title": "Categories panel: \"Add Category\" stops working after one failed attempt",
+      "url": "https://github.com/WordPress/gutenberg/issues/87373",
+      "time": "2026-11-26T23:27:41.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#87500",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "issue",
+      "title": "Document Outline: first heading is never flagged for an incorrect heading level",
+      "url": "https://github.com/WordPress/gutenberg/issues/87500",
+      "time": "2026-11-26T23:26:39.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -14799,6 +14799,21 @@
       "confidence": 1
     },
     {
+      "id": "github:WordPress/openverse#255",
+      "source": "github",
+      "teams": [
+        "openverse"
+      ],
+      "type": "issue",
+      "title": "Dependency Dashboard",
+      "url": "https://github.com/WordPress/openverse/issues/255",
+      "time": "2026-11-27T00:27:39.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
       "id": "github:WordPress/openverse#5872",
       "source": "github",
       "teams": [
@@ -14823,21 +14838,6 @@
       "title": "Links inside sentences are distinguished by colour only",
       "url": "https://github.com/WordPress/openverse/issues/5653",
       "time": "2026-11-26T18:40:19.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/openverse#255",
-      "source": "github",
-      "teams": [
-        "openverse"
-      ],
-      "type": "issue",
-      "title": "Dependency Dashboard",
-      "url": "https://github.com/WordPress/openverse/issues/255",
-      "time": "2026-11-26T18:13:31.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -15024,60 +15024,15 @@
       "confidence": 1
     },
     {
-      "id": "github:WordPress/Learn#3785",
+      "id": "github:WordPress/Learn#3733",
       "source": "github",
       "teams": [
         "training"
       ],
       "type": "issue",
-      "title": "Spanish translation for \"Mentoring and Guiding Students\"",
-      "url": "https://github.com/WordPress/Learn/issues/3785",
-      "time": "2026-11-26T21:20:15.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/Learn#3784",
-      "source": "github",
-      "teams": [
-        "training"
-      ],
-      "type": "issue",
-      "title": "Spanish translation for \"Helping Students Get Started\"",
-      "url": "https://github.com/WordPress/Learn/issues/3784",
-      "time": "2026-11-26T21:19:12.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/Learn#3783",
-      "source": "github",
-      "teams": [
-        "training"
-      ],
-      "type": "issue",
-      "title": "Spanish translation for \"Onboarding to WordPress Credits\"",
-      "url": "https://github.com/WordPress/Learn/issues/3783",
-      "time": "2026-11-26T21:18:25.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/Learn#3782",
-      "source": "github",
-      "teams": [
-        "training"
-      ],
-      "type": "issue",
-      "title": "Spanish translation for \"What Is WordPress Credits?\"",
-      "url": "https://github.com/WordPress/Learn/issues/3782",
-      "time": "2026-11-26T21:16:16.000Z",
+      "title": "Spanish translation for \"Open Source Principle 3: Egoless participation\"",
+      "url": "https://github.com/WordPress/Learn/issues/3733",
+      "time": "2026-11-27T00:01:40.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -15092,7 +15047,7 @@
       "type": "issue",
       "title": "Spanish translation for Course \"Leading WordPress Education Programs\"",
       "url": "https://github.com/WordPress/Learn/issues/3703",
-      "time": "2026-11-26T21:14:55.000Z",
+      "time": "2026-11-26T22:32:29.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -15174,21 +15129,6 @@
       "confidence": 1
     },
     {
-      "id": "github:WordPress/Learn#3733",
-      "source": "github",
-      "teams": [
-        "training"
-      ],
-      "type": "issue",
-      "title": "Spanish translation for \"Open Source Principle 3: Egoless participation\"",
-      "url": "https://github.com/WordPress/Learn/issues/3733",
-      "time": "2026-11-25T17:03:45.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
       "id": "github:WordPress/Learn#3772",
       "source": "github",
       "teams": [
@@ -15247,37 +15187,69 @@
       "ask": "none",
       "personas": [],
       "confidence": 1
+    },
+    {
+      "id": "github:WordPress/Learn#3766",
+      "source": "github",
+      "teams": [
+        "training"
+      ],
+      "type": "issue",
+      "title": "Spanish translation for \"7. Venue, Listing, and Event Scheduling\"",
+      "url": "https://github.com/WordPress/Learn/issues/3766",
+      "time": "2026-11-24T16:44:11.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/Learn#3765",
+      "source": "github",
+      "teams": [
+        "training"
+      ],
+      "type": "issue",
+      "title": "Spanish translation for \"6. Pre-Planning, Budgeting, and Event Support\"",
+      "url": "https://github.com/WordPress/Learn/issues/3765",
+      "time": "2026-11-24T16:43:02.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/Learn#3764",
+      "source": "github",
+      "teams": [
+        "training"
+      ],
+      "type": "issue",
+      "title": "Spanish translation for \"5. Email Address and Website Creation\"",
+      "url": "https://github.com/WordPress/Learn/issues/3764",
+      "time": "2026-11-24T16:41:55.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/Learn#3763",
+      "source": "github",
+      "teams": [
+        "training"
+      ],
+      "type": "issue",
+      "title": "Spanish translation for \"4. Orientation Call\"",
+      "url": "https://github.com/WordPress/Learn/issues/3763",
+      "time": "2026-11-24T16:41:04.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
     }
   ],
   "meetings": [
-    {
-      "team": "core-test",
-      "title": "Test: Patch Testing Session",
-      "startsAt": "2026-11-26T15:00:00Z",
-      "channel": "core-test",
-      "url": "https://make.wordpress.org/test/"
-    },
-    {
-      "team": "tv",
-      "title": "TV: WordPress.tv Team Weekly Chat",
-      "startsAt": "2026-11-26T15:00:00Z",
-      "channel": "wptv",
-      "url": "https://make.wordpress.org/tv/"
-    },
-    {
-      "team": "core-ai",
-      "title": "Core AI: AI Team Office Hours (bi-weekly)",
-      "startsAt": "2026-11-26T17:00:00Z",
-      "channel": "core-ai",
-      "url": "https://make.wordpress.org/ai/"
-    },
-    {
-      "team": "core",
-      "title": "Core: New Core Contributors Bimonthly Chat",
-      "startsAt": "2026-11-26T17:00:00Z",
-      "channel": "core",
-      "url": "https://make.wordpress.org/core/"
-    },
     {
       "team": "sustainability",
       "title": "DEIB Working Group: DEIB Meeting",
@@ -15387,6 +15359,34 @@
       "startsAt": "2026-12-02T18:00:00Z",
       "channel": "hosting",
       "url": "https://make.wordpress.org/hosting/"
+    },
+    {
+      "team": "accessibility",
+      "title": "Accessibility: Accessibility Team Meeting",
+      "startsAt": "2026-12-03T15:00:00Z",
+      "channel": "accessibility",
+      "url": "https://make.wordpress.org/accessibility/"
+    },
+    {
+      "team": "core-dev-blog",
+      "title": "core: Developer Blog Editorial Group",
+      "startsAt": "2026-12-03T15:00:00Z",
+      "channel": "core-dev-blog",
+      "url": "https://make.wordpress.org/core/"
+    },
+    {
+      "team": "core-test",
+      "title": "Test: Test Team Voice Chat",
+      "startsAt": "2026-12-03T15:00:00Z",
+      "channel": "core-test",
+      "url": "https://make.wordpress.org/test/"
+    },
+    {
+      "team": "tv",
+      "title": "TV: WordPress.tv Team Weekly Chat",
+      "startsAt": "2026-12-03T15:00:00Z",
+      "channel": "wptv",
+      "url": "https://make.wordpress.org/tv/"
     }
   ],
   "tickets": [
