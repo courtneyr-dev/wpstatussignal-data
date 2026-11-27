@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T15:20:19.837Z",
+  "generatedAt": "2026-11-27T18:23:07.945Z",
   "items": [
     {
       "id": "make:core:127286",
@@ -2007,6 +2007,76 @@
       "confidence": 1
     },
     {
+      "id": "make:polyglots:76671",
+      "source": "make",
+      "teams": [
+        "polyglots"
+      ],
+      "type": "post",
+      "title": "Hello Polyglots, I am the…",
+      "url": "https://make.wordpress.org/polyglots/2026/11/27/hello-polyglots-i-am-the-659/",
+      "time": "2026-11-27T17:35:53Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "make:polyglots:76656",
+      "source": "make",
+      "teams": [
+        "polyglots"
+      ],
+      "type": "post",
+      "title": "Hello Polyglots Team,",
+      "url": "https://make.wordpress.org/polyglots/2026/11/27/hello-polyglots-team-178/",
+      "time": "2026-11-27T16:25:20Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "make:polyglots:76660",
+      "source": "make",
+      "teams": [
+        "polyglots"
+      ],
+      "type": "post",
+      "title": "PTE Request for Lostlink –…",
+      "url": "https://make.wordpress.org/polyglots/2026/11/27/pte-request-for-lostlink/",
+      "time": "2026-11-27T16:25:12Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "make:polyglots:76658",
+      "source": "make",
+      "teams": [
+        "polyglots"
+      ],
+      "type": "post",
+      "title": "PTE Request for Socalito – Floating Social",
+      "url": "https://make.wordpress.org/polyglots/2026/11/27/pte-request-for-socalito-floating-social/",
+      "time": "2026-11-27T16:25:05Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "make:polyglots:76663",
+      "source": "make",
+      "teams": [
+        "polyglots"
+      ],
+      "type": "post",
+      "title": "PTE Request for Order Summary…",
+      "url": "https://make.wordpress.org/polyglots/2026/11/27/pte-request-for-order-summary/",
+      "time": "2026-11-27T16:16:10Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
       "id": "make:polyglots:76644",
       "source": "make",
       "teams": [
@@ -2352,76 +2422,6 @@
       "title": "PTE Request for Assurio Social Publisher",
       "url": "https://make.wordpress.org/polyglots/2026/11/26/pte-request-for-assurio-social-publisher/",
       "time": "2026-11-26T14:44:18Z",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "make:polyglots:76534",
-      "source": "make",
-      "teams": [
-        "polyglots"
-      ],
-      "type": "post",
-      "title": "I am the plugin author…",
-      "url": "https://make.wordpress.org/polyglots/2026/11/26/i-am-the-plugin-author-247/",
-      "time": "2026-11-26T14:44:08Z",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "make:polyglots:76536",
-      "source": "make",
-      "teams": [
-        "polyglots"
-      ],
-      "type": "post",
-      "title": "Hello Polyglots,",
-      "url": "https://make.wordpress.org/polyglots/2026/11/26/hello-polyglots-398/",
-      "time": "2026-11-26T14:44:01Z",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "make:polyglots:76532",
-      "source": "make",
-      "teams": [
-        "polyglots"
-      ],
-      "type": "post",
-      "title": "I am the plugin author…",
-      "url": "https://make.wordpress.org/polyglots/2026/11/26/i-am-the-plugin-author-246/",
-      "time": "2026-11-26T14:43:54Z",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "make:polyglots:76528",
-      "source": "make",
-      "teams": [
-        "polyglots"
-      ],
-      "type": "post",
-      "title": "PTE Request for FiscoCheckout –…",
-      "url": "https://make.wordpress.org/polyglots/2026/11/26/pte-request-for-fiscocheckout/",
-      "time": "2026-11-26T14:43:47Z",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "make:polyglots:76538",
-      "source": "make",
-      "teams": [
-        "polyglots"
-      ],
-      "type": "post",
-      "title": "PTE Request for LimeHippo Payments and Installments (UA)",
-      "url": "https://make.wordpress.org/polyglots/2026/11/26/pte-request-for-limehippo-payments-and-installments-ua/",
-      "time": "2026-11-26T14:37:01Z",
       "ask": "none",
       "personas": [],
       "confidence": 1
@@ -8098,6 +8098,261 @@
       "via": "do_action events"
     },
     {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/11/27/%d1%81%d0%b0%d0%b9%d1%82%d1%8a%d1%82-%d0%b2%d0%b8-%d0%b2%d0%b5%d1%87%d0%b5-%d0%bd%d0%b5-%d0%b5-%d0%b7%d0%b0-%d1%85%d0%be%d1%80%d0%b0/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Сайтът ви вече не е за хора",
+      "url": "https://wordpress.tv/2026/11/27/%d1%81%d0%b0%d0%b9%d1%82%d1%8a%d1%82-%d0%b2%d0%b8-%d0%b2%d0%b5%d1%87%d0%b5-%d0%bd%d0%b5-%d0%b5-%d0%b7%d0%b0-%d1%85%d0%be%d1%80%d0%b0/",
+      "time": "2026-11-27T17:08:16.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/11/27/%d0%ba%d0%b0%d0%ba-ai-%d0%bf%d1%80%d0%be%d0%bc%d0%b5%d0%bd%d0%b8-%d0%bf%d1%81%d0%b8%d1%85%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%8f%d1%82%d0%b0-%d0%bd%d0%b5%d0%be%d0%b1%d1%85%d0%be%d0%b4%d0%b8%d0%bc%d0%b0/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Как AI промени психологията, необходима за успех онлайн",
+      "url": "https://wordpress.tv/2026/11/27/%d0%ba%d0%b0%d0%ba-ai-%d0%bf%d1%80%d0%be%d0%bc%d0%b5%d0%bd%d0%b8-%d0%bf%d1%81%d0%b8%d1%85%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%8f%d1%82%d0%b0-%d0%bd%d0%b5%d0%be%d0%b1%d1%85%d0%be%d0%b4%d0%b8%d0%bc%d0%b0/",
+      "time": "2026-11-27T17:08:08.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/11/27/stress-testing-and-scaling-wordpress-on-a-12-vps-2/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Stress testing and scaling WordPress on a $12 VPS",
+      "url": "https://wordpress.tv/2026/11/27/stress-testing-and-scaling-wordpress-on-a-12-vps-2/",
+      "time": "2026-11-27T17:07:34.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/11/27/%d0%b0%d0%bc%d0%b0-wordpress-%d1%81%d0%b0%d0%b9%d1%82%d0%be%d0%b2%d0%b5%d1%82%d0%b5-%d0%b8%d0%bc%d0%b0%d0%bb%d0%b8-%d0%bd%d1%83%d0%b6%d0%b4%d0%b0-%d0%be%d1%82-%d0%bf%d0%be%d0%b4%d0%b4%d1%80%d1%8a/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Ама WordPress сайтовете имали нужда от поддръжка ли?!",
+      "url": "https://wordpress.tv/2026/11/27/%d0%b0%d0%bc%d0%b0-wordpress-%d1%81%d0%b0%d0%b9%d1%82%d0%be%d0%b2%d0%b5%d1%82%d0%b5-%d0%b8%d0%bc%d0%b0%d0%bb%d0%b8-%d0%bd%d1%83%d0%b6%d0%b4%d0%b0-%d0%be%d1%82-%d0%bf%d0%be%d0%b4%d0%b4%d1%80%d1%8a/",
+      "time": "2026-11-27T17:05:18.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/11/27/can-we-measure-wordpress-plugin-quality/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Can We Measure WordPress Plugin Quality?",
+      "url": "https://wordpress.tv/2026/11/27/can-we-measure-wordpress-plugin-quality/",
+      "time": "2026-11-27T17:04:51.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/11/27/%d0%bd%d0%b5%d0%b2%d0%b8%d0%b4%d0%b8%d0%bc%d0%b8%d1%82%d0%b5-%d0%bf%d1%80%d0%be%d0%b1%d0%bb%d0%b5%d0%bc%d0%b8-%d0%b7%d0%b0%d0%b4-%d0%bf%d0%b5%d1%80%d1%84%d0%b5%d0%ba%d1%82%d0%bd%d0%b8%d1%8f-wordpress/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Невидимите проблеми зад перфектния WordPress",
+      "url": "https://wordpress.tv/2026/11/27/%d0%bd%d0%b5%d0%b2%d0%b8%d0%b4%d0%b8%d0%bc%d0%b8%d1%82%d0%b5-%d0%bf%d1%80%d0%be%d0%b1%d0%bb%d0%b5%d0%bc%d0%b8-%d0%b7%d0%b0%d0%b4-%d0%bf%d0%b5%d1%80%d1%84%d0%b5%d0%ba%d1%82%d0%bd%d0%b8%d1%8f-wordpress/",
+      "time": "2026-11-27T17:04:41.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/11/27/a-ux-mystery-%d1%81%d1%82%d1%80%d0%b0%d0%bd%d0%bd%d0%b8%d1%8f%d1%82-%d1%81%d0%bb%d1%83%d1%87%d0%b0%d0%b9-%d1%81-%d0%bb%d0%b8%d0%bf%d1%81%d0%b2%d0%b0%d1%89%d0%b0%d1%82%d0%b0-%d0%ba%d0%be%d0%bd%d0%b2/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "A UX Mystery: Странният случай с липсващата конверсия",
+      "url": "https://wordpress.tv/2026/11/27/a-ux-mystery-%d1%81%d1%82%d1%80%d0%b0%d0%bd%d0%bd%d0%b8%d1%8f%d1%82-%d1%81%d0%bb%d1%83%d1%87%d0%b0%d0%b9-%d1%81-%d0%bb%d0%b8%d0%bf%d1%81%d0%b2%d0%b0%d1%89%d0%b0%d1%82%d0%b0-%d0%ba%d0%be%d0%bd%d0%b2/",
+      "time": "2026-11-27T17:04:23.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/11/27/%d0%ba%d0%be%d0%b9-%d0%b4%d1%8a%d1%80%d0%b6%d0%b8-%d0%b3%d0%be%d1%80%d0%b5%d1%89%d0%b8%d1%8f-%d0%ba%d0%b0%d1%80%d1%82%d0%be%d1%84-%d1%81%d0%ba%d1%80%d0%b8%d1%82%d0%b0%d1%82%d0%b0-%d0%b2%d0%b5%d1%80/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Кой държи горещия картоф? Скритата верига на отговорност и договори в WordPress проектите",
+      "url": "https://wordpress.tv/2026/11/27/%d0%ba%d0%be%d0%b9-%d0%b4%d1%8a%d1%80%d0%b6%d0%b8-%d0%b3%d0%be%d1%80%d0%b5%d1%89%d0%b8%d1%8f-%d0%ba%d0%b0%d1%80%d1%82%d0%be%d1%84-%d1%81%d0%ba%d1%80%d0%b8%d1%82%d0%b0%d1%82%d0%b0-%d0%b2%d0%b5%d1%80/",
+      "time": "2026-11-27T17:02:41.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/11/27/surviving-waf-bypass-building-stronger-authentication-defenses-for-wordpress-websites/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Surviving WAF Bypass: Building Stronger Authentication Defenses for WordPress Websites",
+      "url": "https://wordpress.tv/2026/11/27/surviving-waf-bypass-building-stronger-authentication-defenses-for-wordpress-websites/",
+      "time": "2026-11-27T16:59:18.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/11/27/is-your-product-ready-for-ai-agents/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Is Your Product Ready for AI Agents?",
+      "url": "https://wordpress.tv/2026/11/27/is-your-product-ready-for-ai-agents/",
+      "time": "2026-11-27T16:56:10.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/11/27/clients-without-burnout-how-i-build-better-boundaries-while-running-an-agency/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Clients Without Burnout: How I Build Better Boundaries While Running an Agency",
+      "url": "https://wordpress.tv/2026/11/27/clients-without-burnout-how-i-build-better-boundaries-while-running-an-agency/",
+      "time": "2026-11-27T16:55:35.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/11/27/who-are-you-writing-for-anymore/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Who are you writing for anymore?",
+      "url": "https://wordpress.tv/2026/11/27/who-are-you-writing-for-anymore/",
+      "time": "2026-11-27T16:55:35.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/11/27/%d0%be%d1%82-%d0%b4%d0%b0%d0%bd%d0%bd%d0%b8-%d0%ba%d1%8a%d0%bc-%d0%bf%d1%80%d0%be%d0%b4%d0%b0%d0%b6%d0%b1%d0%b8-ai-%d0%b8%d0%bd%d1%81%d1%82%d1%80%d1%83%d0%bc%d0%b5%d0%bd%d1%82%d0%b8-%d0%b7%d0%b0/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "От данни към продажби: AI инструменти за собственици на онлайн магазини",
+      "url": "https://wordpress.tv/2026/11/27/%d0%be%d1%82-%d0%b4%d0%b0%d0%bd%d0%bd%d0%b8-%d0%ba%d1%8a%d0%bc-%d0%bf%d1%80%d0%be%d0%b4%d0%b0%d0%b6%d0%b1%d0%b8-ai-%d0%b8%d0%bd%d1%81%d1%82%d1%80%d1%83%d0%bc%d0%b5%d0%bd%d1%82%d0%b8-%d0%b7%d0%b0/",
+      "time": "2026-11-27T16:54:22.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/11/27/uncopyable-how-to-build-an-advantage-when-ai-can-replicate-everything/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Uncopyable: How to Build an Advantage When AI Can Replicate Everything",
+      "url": "https://wordpress.tv/2026/11/27/uncopyable-how-to-build-an-advantage-when-ai-can-replicate-everything/",
+      "time": "2026-11-27T16:52:26.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/11/27/code-is-cheap-freedom-isnt/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "Code Is Cheap. Freedom Isn’t.",
+      "url": "https://wordpress.tv/2026/11/27/code-is-cheap-freedom-isnt/",
+      "time": "2026-11-27T16:52:13.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/11/27/%d0%be%d1%82-seo-%d0%ba%d1%8a%d0%bc-aeo-%d0%ba%d0%b0%d0%ba-%d0%b4%d0%b0-%d0%bf%d0%be%d0%b4%d0%b3%d0%be%d1%82%d0%b2%d0%b8%d0%bc-wordpress-%d1%81%d0%b0%d0%b9%d1%82-%d0%b7%d0%b0-google-%d0%b8-ai-%d1%82/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "От SEO към AEO: Как да подготвим WordPress сайт за Google и AI търсачките",
+      "url": "https://wordpress.tv/2026/11/27/%d0%be%d1%82-seo-%d0%ba%d1%8a%d0%bc-aeo-%d0%ba%d0%b0%d0%ba-%d0%b4%d0%b0-%d0%bf%d0%be%d0%b4%d0%b3%d0%be%d1%82%d0%b2%d0%b8%d0%bc-wordpress-%d1%81%d0%b0%d0%b9%d1%82-%d0%b7%d0%b0-google-%d0%b8-ai-%d1%82/",
+      "time": "2026-11-27T16:47:29.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
+      "id": "site:wordpress-tv:https://wordpress.tv/2026/11/27/wordpress-meet-your-agent-a-gutenberg-story/",
+      "source": "site",
+      "teams": [
+        "tv"
+      ],
+      "type": "video",
+      "title": "WordPress, Meet Your Agent: A Gutenberg Story",
+      "url": "https://wordpress.tv/2026/11/27/wordpress-meet-your-agent-a-gutenberg-story/",
+      "time": "2026-11-27T16:42:42.000Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "via": "WordPress.tv"
+    },
+    {
       "id": "site:wordpress-tv:https://wordpress.tv/2026/11/27/%d0%b2%d0%b0%d1%88%d0%b8%d1%8f%d1%82-%d0%bd%d0%be%d0%b2-ai-%d0%b3%d0%bb%d0%b0%d1%81%d0%be%d0%b2-%d0%b0%d0%b3%d0%b5%d0%bd%d1%82-%d1%81%d0%bb%d1%83%d0%b6%d0%b8%d1%82%d0%b5%d0%bb-%d0%b8%d0%bb%d0%b8/",
       "source": "site",
       "teams": [
@@ -10955,6 +11210,36 @@
       "ask": "none",
       "personas": [],
       "confidence": 1,
+      "time": "2026-11-27T17:23:28.000Z",
+      "id": "trac:core:ticket:66854",
+      "type": "ticket",
+      "title": "#66854 Administration: Font faces from all theme style variations are printed ...",
+      "status": "created",
+      "url": "https://core.trac.wordpress.org/ticket/66854"
+    },
+    {
+      "source": "trac",
+      "teams": [
+        "core"
+      ],
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "time": "2026-11-27T16:27:56.000Z",
+      "id": "trac:core:ticket:66853",
+      "type": "ticket",
+      "title": "#66853 Parents Vanish After Sort",
+      "status": "created",
+      "url": "https://core.trac.wordpress.org/ticket/66853"
+    },
+    {
+      "source": "trac",
+      "teams": [
+        "core"
+      ],
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
       "time": "2026-11-27T14:52:26.000Z",
       "id": "trac:core:ticket:66852",
       "type": "ticket",
@@ -12246,20 +12531,6 @@
       "type": "commit",
       "title": "[65773] Code Quality: Resolve the `deadCode.unreachable` PHPStan errors.  Only ...",
       "url": "https://core.trac.wordpress.org/changeset/65773"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "core"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-25T08:07:25.000Z",
-      "id": "trac:core:changeset:65772",
-      "type": "commit",
-      "title": "[65772] Editor: Update the post editor preload paths for the DataForm ...",
-      "url": "https://core.trac.wordpress.org/changeset/65772"
     },
     {
       "source": "trac",
@@ -13682,6 +13953,96 @@
       "url": "https://meta.trac.wordpress.org/changeset/15642"
     },
     {
+      "id": "github:WordPress/wordpress-develop#16119",
+      "source": "github",
+      "teams": [
+        "core"
+      ],
+      "type": "pull",
+      "title": "REST API: Skip main file conversion for client side media uploads",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/16119",
+      "time": "2026-11-27T17:38:53.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-develop#16297",
+      "source": "github",
+      "teams": [
+        "core"
+      ],
+      "type": "pull",
+      "title": "Administration: Print font faces only on block editor screens.",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/16297",
+      "time": "2026-11-27T17:34:09.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-develop#16296",
+      "source": "github",
+      "teams": [
+        "core"
+      ],
+      "type": "pull",
+      "title": "Multisite: Allow switch_to_blog() to accept a WP_Site object",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/16296",
+      "time": "2026-11-27T16:15:35.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-develop#15432",
+      "source": "github",
+      "teams": [
+        "core"
+      ],
+      "type": "pull",
+      "title": "Global Styles: Put text clip escapes on a block's feature selectors",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/15432",
+      "time": "2026-11-27T15:58:17.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-develop#16295",
+      "source": "github",
+      "teams": [
+        "core"
+      ],
+      "type": "pull",
+      "title": "Tests: Register the default script modules in the core fields script modules test",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/16295",
+      "time": "2026-11-27T15:36:45.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-develop#15164",
+      "source": "github",
+      "teams": [
+        "core"
+      ],
+      "type": "pull",
+      "title": "Block Bindings: Support innerBlocks bindings on the Group and Column blocks",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/15164",
+      "time": "2026-11-27T15:36:31.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
       "id": "github:WordPress/wordpress-develop#16292",
       "source": "github",
       "teams": [
@@ -13817,285 +14178,15 @@
       "confidence": 1
     },
     {
-      "id": "github:WordPress/wordpress-develop#16255",
-      "source": "github",
-      "teams": [
-        "core"
-      ],
-      "type": "pull",
-      "title": "Posts, Post Types: Fix pagination links for scheduled posts",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/16255",
-      "time": "2026-11-27T13:24:43.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/wordpress-develop#12181",
-      "source": "github",
-      "teams": [
-        "core"
-      ],
-      "type": "pull",
-      "title": "Site Health: Cache the full results and a timestamp in the status transient",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/12181",
-      "time": "2026-11-27T13:19:37.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/wordpress-develop#16029",
-      "source": "github",
-      "teams": [
-        "core"
-      ],
-      "type": "pull",
-      "title": "Build/Test Tools: Add live AI provider tests for the core abilities",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/16029",
-      "time": "2026-11-27T13:16:04.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/wordpress-develop#13657",
-      "source": "github",
-      "teams": [
-        "core"
-      ],
-      "type": "pull",
-      "title": "HTTP API: Add wp_remote_request_multiple() for concurrent requests",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/13657",
-      "time": "2026-11-27T13:01:32.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/wordpress-develop#15510",
-      "source": "github",
-      "teams": [
-        "core"
-      ],
-      "type": "pull",
-      "title": "General: Show the week in the title of weekly archives.",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/15510",
-      "time": "2026-11-27T12:55:29.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/wordpress-develop#16074",
-      "source": "github",
-      "teams": [
-        "core"
-      ],
-      "type": "pull",
-      "title": "Abilities API: Add the `core/user-create`, `core/user-update` and `core/user-delete` abilities",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/16074",
-      "time": "2026-11-27T12:45:48.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#87533",
+      "id": "github:WordPress/gutenberg#87530",
       "source": "github",
       "teams": [
         "core-editor"
       ],
       "type": "pull",
-      "title": "Env, Storybook: Update js-yaml to 5.5.0",
-      "url": "https://github.com/WordPress/gutenberg/pull/87533",
-      "time": "2026-11-27T15:20:51.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#87557",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Block Library: Convert the embed block to TypeScript",
-      "url": "https://github.com/WordPress/gutenberg/pull/87557",
-      "time": "2026-11-27T15:19:41.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#87558",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Block Library: Fix embed block bugs found by the TypeScript conversion",
-      "url": "https://github.com/WordPress/gutenberg/pull/87558",
-      "time": "2026-11-27T15:19:35.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#87564",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "issue",
-      "title": "Gallery: Transforming a Gallery to Image blocks loses \"Enlarge on click\", aspect ratio, borders and block names",
-      "url": "https://github.com/WordPress/gutenberg/issues/87564",
-      "time": "2026-11-27T15:19:31.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#87563",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Blocks: Add the `datetime` and `url` attribute types",
-      "url": "https://github.com/WordPress/gutenberg/pull/87563",
-      "time": "2026-11-27T15:14:40.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#86737",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Design System: Ship agent skills with the theme and UI packages",
-      "url": "https://github.com/WordPress/gutenberg/pull/86737",
-      "time": "2026-11-27T15:14:20.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#87562",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Build: switch React scripts build to Rolldown",
-      "url": "https://github.com/WordPress/gutenberg/pull/87562",
-      "time": "2026-11-27T15:14:14.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#74322",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Add Support for Dynamic Duotone Colors",
-      "url": "https://github.com/WordPress/gutenberg/pull/74322",
-      "time": "2026-11-27T15:08:33.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#86998",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Fix drag and drop into a Canvas grid",
-      "url": "https://github.com/WordPress/gutenberg/pull/86998",
-      "time": "2026-11-27T15:06:51.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#79815",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "issue",
-      "title": "WP 7.0: Default editor styles no longer applied for classic themes without theme.json (regression of #42902)",
-      "url": "https://github.com/WordPress/gutenberg/issues/79815",
-      "time": "2026-11-27T15:02:35.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#87554",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Block Editor: Keep inner block selection on RESET_BLOCKS",
-      "url": "https://github.com/WordPress/gutenberg/pull/87554",
-      "time": "2026-11-27T15:00:36.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#87404",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "issue",
-      "title": "Tabs: Revisit the visual design so it fits the contexts Tabs is used in",
-      "url": "https://github.com/WordPress/gutenberg/issues/87404",
-      "time": "2026-11-27T14:49:49.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#87535",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "ESLint: Allow 'Use with caution' components in all of Storybook",
-      "url": "https://github.com/WordPress/gutenberg/pull/87535",
-      "time": "2026-11-27T14:39:50.000Z",
+      "title": "Components: Note minimum @wordpress/ui version in migration guides",
+      "url": "https://github.com/WordPress/gutenberg/pull/87530",
+      "time": "2026-11-27T18:23:46.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -14110,22 +14201,217 @@
       "type": "pull",
       "title": "Agents: Validate skill frontmatter",
       "url": "https://github.com/WordPress/gutenberg/pull/87534",
-      "time": "2026-11-27T14:39:01.000Z",
+      "time": "2026-11-27T18:22:29.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/gutenberg#87538",
+      "id": "github:WordPress/gutenberg#87581",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "issue",
+      "title": "Gallery: \"Resolution\" shows \"Thumbnail\" when the images have no Large size",
+      "url": "https://github.com/WordPress/gutenberg/issues/87581",
+      "time": "2026-11-27T18:20:06.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#87580",
       "source": "github",
       "teams": [
         "core-editor"
       ],
       "type": "pull",
-      "title": "Date: Update moment-timezone to 0.5.48 for current timezone data",
-      "url": "https://github.com/WordPress/gutenberg/pull/87538",
-      "time": "2026-11-27T14:32:53.000Z",
+      "title": "Search: Add focus-visible outline on button-inside wrapper",
+      "url": "https://github.com/WordPress/gutenberg/pull/87580",
+      "time": "2026-11-27T17:58:47.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#87008",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "issue",
+      "title": "Search block: The \"Button inside\" variation provides no focus outline",
+      "url": "https://github.com/WordPress/gutenberg/issues/87008",
+      "time": "2026-11-27T17:58:21.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#87578",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Block Library: Convert Comments Pagination Numbers block to TypeScript",
+      "url": "https://github.com/WordPress/gutenberg/pull/87578",
+      "time": "2026-11-27T17:53:51.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#87579",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "CI: Include workflow run URL in cherry-pick PR comments",
+      "url": "https://github.com/WordPress/gutenberg/pull/87579",
+      "time": "2026-11-27T17:52:09.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#76575",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "issue",
+      "title": "Include workflow run URL when commenting on PRs",
+      "url": "https://github.com/WordPress/gutenberg/issues/76575",
+      "time": "2026-11-27T17:51:33.000Z",
+      "status": "open",
+      "ask": "join",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#87553",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Background: Replace a text gradient with a gradient picked in the Background panel",
+      "url": "https://github.com/WordPress/gutenberg/pull/87553",
+      "time": "2026-11-27T17:49:13.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#87576",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Storybook: Serve packages from source in the dev server",
+      "url": "https://github.com/WordPress/gutenberg/pull/87576",
+      "time": "2026-11-27T17:48:57.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#87346",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Block editor: Show the hover outline and drag from outside fields while editing text",
+      "url": "https://github.com/WordPress/gutenberg/pull/87346",
+      "time": "2026-11-27T17:48:38.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#87577",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Block Library: Convert Query Pagination Previous block to TypeScript",
+      "url": "https://github.com/WordPress/gutenberg/pull/87577",
+      "time": "2026-11-27T17:45:37.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#86918",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Storybook: Add install tool picker grid to the Design System MCP page",
+      "url": "https://github.com/WordPress/gutenberg/pull/86918",
+      "time": "2026-11-27T17:43:02.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#87135",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Upload Media: Convert the main file in the browser for client side uploads",
+      "url": "https://github.com/WordPress/gutenberg/pull/87135",
+      "time": "2026-11-27T17:41:01.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#87167",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Theme: Add a contrast setting to ThemeProvider",
+      "url": "https://github.com/WordPress/gutenberg/pull/87167",
+      "time": "2026-11-27T17:38:27.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/performance#2774",
+      "source": "github",
+      "teams": [
+        "core-performance"
+      ],
+      "type": "pull",
+      "title": "View Transitions: Document Reading settings in FAQ",
+      "url": "https://github.com/WordPress/performance/pull/2774",
+      "time": "2026-11-27T17:15:42.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -14140,7 +14426,7 @@
       "type": "pull",
       "title": "Feature: CSS Gradient Low Quality Image Placeholders",
       "url": "https://github.com/WordPress/performance/pull/2550",
-      "time": "2026-11-27T14:56:17.000Z",
+      "time": "2026-11-27T16:53:14.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -14342,15 +14628,15 @@
       "confidence": 1
     },
     {
-      "id": "github:WordPress/performance#1629",
+      "id": "github:WordPress/ai#1444",
       "source": "github",
       "teams": [
-        "core-performance"
+        "core-ai"
       ],
       "type": "pull",
-      "title": "Try: add script attribution data",
-      "url": "https://github.com/WordPress/performance/pull/1629",
-      "time": "2026-11-21T18:16:22.000Z",
+      "title": "Title Generation: Re-attach the title toolbar after switching to the Code editor and back",
+      "url": "https://github.com/WordPress/ai/pull/1444",
+      "time": "2026-11-27T17:22:21.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -14567,15 +14853,120 @@
       "confidence": 1
     },
     {
-      "id": "github:WordPress/ai#741",
+      "id": "github:WordPress/wordpress-playground#4770",
       "source": "github",
       "teams": [
-        "core-ai"
+        "playground"
+      ],
+      "type": "pull",
+      "title": "[i18n] Translate the Blueprints Examples page into Hindi",
+      "url": "https://github.com/WordPress/wordpress-playground/pull/4770",
+      "time": "2026-11-27T16:57:53.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-playground#4768",
+      "source": "github",
+      "teams": [
+        "playground"
+      ],
+      "type": "pull",
+      "title": "[i18n] Translate the Using Blueprints page into Hindi",
+      "url": "https://github.com/WordPress/wordpress-playground/pull/4768",
+      "time": "2026-11-27T16:55:23.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-playground#4567",
+      "source": "github",
+      "teams": [
+        "playground"
+      ],
+      "type": "pull",
+      "title": "[Website] Keep Network access changes available after applying site settings",
+      "url": "https://github.com/WordPress/wordpress-playground/pull/4567",
+      "time": "2026-11-27T16:27:23.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-playground#4588",
+      "source": "github",
+      "teams": [
+        "playground"
+      ],
+      "type": "pull",
+      "title": "[CLI] Honor --wp, --php and --login when --blueprint is a file",
+      "url": "https://github.com/WordPress/wordpress-playground/pull/4588",
+      "time": "2026-11-27T16:26:25.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-playground#4620",
+      "source": "github",
+      "teams": [
+        "playground"
+      ],
+      "type": "pull",
+      "title": "Update Japanese translations to quick start guide",
+      "url": "https://github.com/WordPress/wordpress-playground/pull/4620",
+      "time": "2026-11-27T16:10:13.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-playground#2315",
+      "source": "github",
+      "teams": [
+        "playground"
       ],
       "type": "issue",
-      "title": "AI Admin Pages Exhibit Visible Flicker During Initial Render",
-      "url": "https://github.com/WordPress/ai/issues/741",
-      "time": "2026-11-25T06:22:41.000Z",
+      "title": "[ php-wasm ] Follow-up on Xdebug",
+      "url": "https://github.com/WordPress/wordpress-playground/issues/2315",
+      "time": "2026-11-27T16:09:01.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-playground#4781",
+      "source": "github",
+      "teams": [
+        "playground"
+      ],
+      "type": "pull",
+      "title": "[ php-wasm ] Add `xdebug` dynamic extension to PHP.wasm Web",
+      "url": "https://github.com/WordPress/wordpress-playground/pull/4781",
+      "time": "2026-11-27T16:07:44.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-playground#2823",
+      "source": "github",
+      "teams": [
+        "playground"
+      ],
+      "type": "pull",
+      "title": "[website] Add support to internationalization",
+      "url": "https://github.com/WordPress/wordpress-playground/pull/2823",
+      "time": "2026-11-27T15:38:35.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -14591,21 +14982,6 @@
       "title": "[Docs] Fix stale details in the Local Development pages",
       "url": "https://github.com/WordPress/wordpress-playground/pull/4779",
       "time": "2026-11-27T15:15:19.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/wordpress-playground#2823",
-      "source": "github",
-      "teams": [
-        "playground"
-      ],
-      "type": "pull",
-      "title": "[website] Add support to internationalization",
-      "url": "https://github.com/WordPress/wordpress-playground/pull/2823",
-      "time": "2026-11-27T15:14:42.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -14702,111 +15078,6 @@
       "confidence": 1
     },
     {
-      "id": "github:WordPress/wordpress-playground#3186",
-      "source": "github",
-      "teams": [
-        "playground"
-      ],
-      "type": "issue",
-      "title": "[Translation] Bengali translation progress tracker",
-      "url": "https://github.com/WordPress/wordpress-playground/issues/3186",
-      "time": "2026-11-27T13:49:38.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/wordpress-playground#2306",
-      "source": "github",
-      "teams": [
-        "playground"
-      ],
-      "type": "issue",
-      "title": "[Translation] Brazilian Portuguese(pt-BR) documentation translation progress tracker",
-      "url": "https://github.com/WordPress/wordpress-playground/issues/2306",
-      "time": "2026-11-27T13:49:34.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/wordpress-playground#4775",
-      "source": "github",
-      "teams": [
-        "playground"
-      ],
-      "type": "pull",
-      "title": "[i18n] Translate the programmatic Playground CLI guide into Hindi",
-      "url": "https://github.com/WordPress/wordpress-playground/pull/4775",
-      "time": "2026-11-27T13:47:28.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/wordpress-playground#4778",
-      "source": "github",
-      "teams": [
-        "playground"
-      ],
-      "type": "pull",
-      "title": "[i18n] Link Hypernotes to its bundled source in the native iOS app guide",
-      "url": "https://github.com/WordPress/wordpress-playground/pull/4778",
-      "time": "2026-11-27T13:46:53.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/wordpress-playground#4774",
-      "source": "github",
-      "teams": [
-        "playground"
-      ],
-      "type": "pull",
-      "title": "[Docs] Clarify temporary site replacement and local-fs deletion in the Sites API",
-      "url": "https://github.com/WordPress/wordpress-playground/pull/4774",
-      "time": "2026-11-27T13:40:46.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/wordpress-playground#4773",
-      "source": "github",
-      "teams": [
-        "playground"
-      ],
-      "type": "pull",
-      "title": "[i18n] Translate the Blueprints Troubleshoot and debug page into Hindi",
-      "url": "https://github.com/WordPress/wordpress-playground/pull/4773",
-      "time": "2026-11-27T13:00:04.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/wordpress-playground#4772",
-      "source": "github",
-      "teams": [
-        "playground"
-      ],
-      "type": "pull",
-      "title": "[i18n] Translate the Blueprints tutorial page \"Build your first Blueprint\" into Hindi",
-      "url": "https://github.com/WordPress/wordpress-playground/pull/4772",
-      "time": "2026-11-27T13:00:02.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
       "id": "github:WordPress/openverse#255",
       "source": "github",
       "teams": [
@@ -14815,7 +15086,7 @@
       "type": "issue",
       "title": "Dependency Dashboard",
       "url": "https://github.com/WordPress/openverse/issues/255",
-      "time": "2026-11-27T12:16:28.000Z",
+      "time": "2026-11-27T17:53:05.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -15032,6 +15303,21 @@
       "confidence": 1
     },
     {
+      "id": "github:WordPress/Learn#3801",
+      "source": "github",
+      "teams": [
+        "training"
+      ],
+      "type": "pull",
+      "title": "Courses: Remove duplicate archive_language query filter",
+      "url": "https://github.com/WordPress/Learn/pull/3801",
+      "time": "2026-11-27T18:22:12.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
       "id": "github:WordPress/Learn#3800",
       "source": "github",
       "teams": [
@@ -15236,21 +15522,6 @@
       "title": "Spanish translation for \"8. Hosting the Event\"",
       "url": "https://github.com/WordPress/Learn/issues/3767",
       "time": "2026-11-24T16:44:52.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/Learn#3766",
-      "source": "github",
-      "teams": [
-        "training"
-      ],
-      "type": "issue",
-      "title": "Spanish translation for \"7. Venue, Listing, and Event Scheduling\"",
-      "url": "https://github.com/WordPress/Learn/issues/3766",
-      "time": "2026-11-24T16:44:11.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
