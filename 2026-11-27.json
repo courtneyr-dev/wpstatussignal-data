@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T09:22:31.081Z",
+  "generatedAt": "2026-11-27T12:27:29.664Z",
   "items": [
     {
       "id": "make:core:127286",
@@ -839,174 +839,6 @@
       "title": "Announcing a new Core Performance Team Rep",
       "url": "https://make.wordpress.org/performance/2023/02/28/announcing-a-new-core-performance-team-rep/",
       "time": "2023-02-28T21:26:47Z",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "make:program:131",
-      "source": "make",
-      "teams": [
-        "core-program"
-      ],
-      "type": "post",
-      "title": "This week in Core Program #8",
-      "url": "https://make.wordpress.org/program/2025/11/10/this-week-in-core-program-8/",
-      "time": "2025-11-10T16:40:24Z",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "make:program:125",
-      "source": "make",
-      "teams": [
-        "core-program"
-      ],
-      "type": "post",
-      "title": "Proposal: Q4 focuses for the Core Program team",
-      "url": "https://make.wordpress.org/program/2025/11/07/proposal-q4-focuses-for-the-core-program-team/",
-      "time": "2025-11-07T14:45:58Z",
-      "ask": "comment-open",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "make:program:119",
-      "source": "make",
-      "teams": [
-        "core-program"
-      ],
-      "type": "post",
-      "title": "This week in Core Program #7",
-      "url": "https://make.wordpress.org/program/2025/11/03/this-week-in-core-program-7/",
-      "time": "2025-11-03T11:44:32Z",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "make:program:111",
-      "source": "make",
-      "teams": [
-        "core-program"
-      ],
-      "type": "post",
-      "title": "This week in Core Program #6",
-      "url": "https://make.wordpress.org/program/2025/10/27/this-week-in-core-program-6/",
-      "time": "2025-10-27T09:20:38Z",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "make:program:105",
-      "source": "make",
-      "teams": [
-        "core-program"
-      ],
-      "type": "post",
-      "title": "Recognising contributors work: discussion notes and potential opportunities",
-      "url": "https://make.wordpress.org/program/2025/10/26/recognising-contributors-work-discussion-notes-and-potential-opportunities/",
-      "time": "2025-10-26T09:33:07Z",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "make:program:102",
-      "source": "make",
-      "teams": [
-        "core-program"
-      ],
-      "type": "post",
-      "title": "This week in Core Program #5",
-      "url": "https://make.wordpress.org/program/2025/10/20/this-week-in-core-program-5/",
-      "time": "2025-10-20T15:46:15Z",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "make:program:91",
-      "source": "make",
-      "teams": [
-        "core-program"
-      ],
-      "type": "post",
-      "title": "This week in Core Program #4",
-      "url": "https://make.wordpress.org/program/2025/10/13/this-week-in-core-program-4/",
-      "time": "2025-10-13T10:29:12Z",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "make:program:72",
-      "source": "make",
-      "teams": [
-        "core-program"
-      ],
-      "type": "post",
-      "title": "This week in Core Program #3",
-      "url": "https://make.wordpress.org/program/2025/10/06/this-week-in-core-program-3/",
-      "time": "2025-10-06T09:18:06Z",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "make:program:56",
-      "source": "make",
-      "teams": [
-        "core-program"
-      ],
-      "type": "post",
-      "title": "This week in Core Program #2",
-      "url": "https://make.wordpress.org/program/2025/09/29/this-week-in-core-program-2/",
-      "time": "2025-09-29T09:33:54Z",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "make:program:44",
-      "source": "make",
-      "teams": [
-        "core-program"
-      ],
-      "type": "post",
-      "title": "Proposal: team communication flows",
-      "url": "https://make.wordpress.org/program/2025/09/27/proposal-team-communication-flows/",
-      "time": "2025-09-27T10:52:57Z",
-      "ask": "comment-open",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "make:program:26",
-      "source": "make",
-      "teams": [
-        "core-program"
-      ],
-      "type": "post",
-      "title": "This week in Core Program #1",
-      "url": "https://make.wordpress.org/program/2025/09/22/this-week-in-core-program-1/",
-      "time": "2025-09-22T09:21:10Z",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "make:program:12",
-      "source": "make",
-      "teams": [
-        "core-program"
-      ],
-      "type": "post",
-      "title": "Welcome to the Core Program Team",
-      "url": "https://make.wordpress.org/program/2025/09/12/welcome-to-the-core-program-team/",
-      "time": "2025-09-12T19:17:26Z",
       "ask": "none",
       "personas": [],
       "confidence": 1
@@ -2007,6 +1839,132 @@
       "confidence": 1
     },
     {
+      "id": "make:polyglots:76638",
+      "source": "make",
+      "teams": [
+        "polyglots"
+      ],
+      "type": "post",
+      "title": "PTE Request for Notification Father",
+      "url": "https://make.wordpress.org/polyglots/2026/11/27/pte-request-for-notification-father/",
+      "time": "2026-11-27T11:36:37Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "make:polyglots:76631",
+      "source": "make",
+      "teams": [
+        "polyglots"
+      ],
+      "type": "post",
+      "title": "PTE Request for Bloom Desktop…",
+      "url": "https://make.wordpress.org/polyglots/2026/11/27/pte-request-for-bloom-desktop/",
+      "time": "2026-11-27T10:40:27Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "make:polyglots:76629",
+      "source": "make",
+      "teams": [
+        "polyglots"
+      ],
+      "type": "post",
+      "title": "PTE Request for MyChatbot.es Integration…",
+      "url": "https://make.wordpress.org/polyglots/2026/11/27/pte-request-for-mychatbot-es-integration/",
+      "time": "2026-11-27T10:40:21Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "make:polyglots:76621",
+      "source": "make",
+      "teams": [
+        "polyglots"
+      ],
+      "type": "post",
+      "title": "PTE Request for GlocalSaino plugins – Spanish (Spain) es_ES",
+      "url": "https://make.wordpress.org/polyglots/2026/11/27/pte-request-for-glocalsaino-plugins-spanish-spain-es_es/",
+      "time": "2026-11-27T10:21:56Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "make:polyglots:76614",
+      "source": "make",
+      "teams": [
+        "polyglots"
+      ],
+      "type": "post",
+      "title": "I am the plugin author…",
+      "url": "https://make.wordpress.org/polyglots/2026/11/27/i-am-the-plugin-author-248/",
+      "time": "2026-11-27T10:21:49Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "make:polyglots:76616",
+      "source": "make",
+      "teams": [
+        "polyglots"
+      ],
+      "type": "post",
+      "title": "PTE Request for Nitida Tables",
+      "url": "https://make.wordpress.org/polyglots/2026/11/27/pte-request-for-nitida-tables/",
+      "time": "2026-11-27T10:21:42Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "make:polyglots:76608",
+      "source": "make",
+      "teams": [
+        "polyglots"
+      ],
+      "type": "post",
+      "title": "PTE Request for WeShareAI Share Buttons (E-MAILiT)",
+      "url": "https://make.wordpress.org/polyglots/2026/11/27/pte-request-for-weshareai-share-buttons-e-mailit/",
+      "time": "2026-11-27T10:21:35Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "make:polyglots:76606",
+      "source": "make",
+      "teams": [
+        "polyglots"
+      ],
+      "type": "post",
+      "title": "PTE Request for Facilo Botón…",
+      "url": "https://make.wordpress.org/polyglots/2026/11/27/pte-request-for-facilo-boton/",
+      "time": "2026-11-27T10:21:29Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "make:polyglots:76612",
+      "source": "make",
+      "teams": [
+        "polyglots"
+      ],
+      "type": "post",
+      "title": "PTE Request for TPVStream for WooCommerce",
+      "url": "https://make.wordpress.org/polyglots/2026/11/27/pte-request-for-tpvstream-for-woocommerce/",
+      "time": "2026-11-27T10:21:20Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
       "id": "make:polyglots:76610",
       "source": "make",
       "teams": [
@@ -2296,132 +2254,6 @@
       "title": "PTE Request for wplabru Receipt Delivery for Self-Employed",
       "url": "https://make.wordpress.org/polyglots/2026/11/26/pte-request-for-wplabru-receipt-delivery-for-self-employed/",
       "time": "2026-11-26T09:55:17Z",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "make:polyglots:76494",
-      "source": "make",
-      "teams": [
-        "polyglots"
-      ],
-      "type": "post",
-      "title": "PTE Request for One-V LLM Serve",
-      "url": "https://make.wordpress.org/polyglots/2026/11/26/pte-request-for-one-v-llm-serve/",
-      "time": "2026-11-26T09:55:10Z",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "make:polyglots:76496",
-      "source": "make",
-      "teams": [
-        "polyglots"
-      ],
-      "type": "post",
-      "title": "PTE Request for Tagbreeze",
-      "url": "https://make.wordpress.org/polyglots/2026/11/26/pte-request-for-tagbreeze/",
-      "time": "2026-11-26T09:55:03Z",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "make:polyglots:76491",
-      "source": "make",
-      "teams": [
-        "polyglots"
-      ],
-      "type": "post",
-      "title": "Request for de_DE PTE",
-      "url": "https://make.wordpress.org/polyglots/2026/11/26/request-for-de_de-pte/",
-      "time": "2026-11-26T09:54:56Z",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "make:polyglots:76477",
-      "source": "make",
-      "teams": [
-        "polyglots"
-      ],
-      "type": "post",
-      "title": "PTE Request for Hinsight Security",
-      "url": "https://make.wordpress.org/polyglots/2026/11/26/pte-request-for-hinsight-security/",
-      "time": "2026-11-26T09:54:49Z",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "make:polyglots:76489",
-      "source": "make",
-      "teams": [
-        "polyglots"
-      ],
-      "type": "post",
-      "title": "Hello Polyglots, I am the…",
-      "url": "https://make.wordpress.org/polyglots/2026/11/26/hello-polyglots-i-am-the-658/",
-      "time": "2026-11-26T06:18:47Z",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "make:polyglots:76475",
-      "source": "make",
-      "teams": [
-        "polyglots"
-      ],
-      "type": "post",
-      "title": "PTE Request for Gutenberg",
-      "url": "https://make.wordpress.org/polyglots/2026/11/25/pte-request-for-gutenberg-3/",
-      "time": "2026-11-25T20:17:28Z",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "make:polyglots:76464",
-      "source": "make",
-      "teams": [
-        "polyglots"
-      ],
-      "type": "post",
-      "title": "Hello Polyglots,",
-      "url": "https://make.wordpress.org/polyglots/2026/11/25/hello-polyglots-397/",
-      "time": "2026-11-25T18:36:32Z",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "make:polyglots:76466",
-      "source": "make",
-      "teams": [
-        "polyglots"
-      ],
-      "type": "post",
-      "title": "PTE Request for Bazantik Photo Gallery",
-      "url": "https://make.wordpress.org/polyglots/2026/11/25/pte-request-for-bazantik-photo-gallery/",
-      "time": "2026-11-25T18:36:25Z",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "make:polyglots:76469",
-      "source": "make",
-      "teams": [
-        "polyglots"
-      ],
-      "type": "post",
-      "title": "PTE Request for SDAweb Social Galleri Feed",
-      "url": "https://make.wordpress.org/polyglots/2026/11/25/pte-request-for-sdaweb-social-galleri-feed/",
-      "time": "2026-11-25T18:33:55Z",
       "ask": "none",
       "personas": [],
       "confidence": 1
@@ -10910,6 +10742,111 @@
       "ask": "none",
       "personas": [],
       "confidence": 1,
+      "time": "2026-11-27T12:15:06.000Z",
+      "id": "trac:core:ticket:66848",
+      "type": "ticket",
+      "title": "#66848 Reading Settings: Front page dropdowns remain disabled after browser ...",
+      "status": "created",
+      "url": "https://core.trac.wordpress.org/ticket/66848"
+    },
+    {
+      "source": "trac",
+      "teams": [
+        "core"
+      ],
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "time": "2026-11-27T11:58:40.000Z",
+      "id": "trac:core:ticket:66847",
+      "type": "ticket",
+      "title": "#66847 Abilities API: `core/content-query` raw content leaves out hooked blocks",
+      "status": "created",
+      "url": "https://core.trac.wordpress.org/ticket/66847"
+    },
+    {
+      "source": "trac",
+      "teams": [
+        "core"
+      ],
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "time": "2026-11-27T11:35:42.000Z",
+      "id": "trac:core:ticket:66846",
+      "type": "ticket",
+      "title": "#66846 Block instance custom CSS cannot override generated layout styles ...",
+      "status": "created",
+      "url": "https://core.trac.wordpress.org/ticket/66846"
+    },
+    {
+      "source": "trac",
+      "teams": [
+        "core"
+      ],
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "time": "2026-11-27T11:34:01.000Z",
+      "id": "trac:core:ticket:66845",
+      "type": "ticket",
+      "title": "#66845 Screen Options: \"View mode\" (Compact / Extended view) is displayed for ...",
+      "status": "created",
+      "url": "https://core.trac.wordpress.org/ticket/66845"
+    },
+    {
+      "source": "trac",
+      "teams": [
+        "core"
+      ],
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "time": "2026-11-27T11:14:15.000Z",
+      "id": "trac:core:ticket:66844",
+      "type": "ticket",
+      "title": "#66844 Abilities API: Allow marking an object exposed through ...",
+      "status": "created",
+      "url": "https://core.trac.wordpress.org/ticket/66844"
+    },
+    {
+      "source": "trac",
+      "teams": [
+        "core"
+      ],
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "time": "2026-11-27T10:57:49.000Z",
+      "id": "trac:core:ticket:66843",
+      "type": "ticket",
+      "title": "#66843 Block styles enqueued during wp_head print after the theme stylesheet ...",
+      "status": "created",
+      "url": "https://core.trac.wordpress.org/ticket/66843"
+    },
+    {
+      "source": "trac",
+      "teams": [
+        "core"
+      ],
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
+      "time": "2026-11-27T10:53:55.000Z",
+      "id": "trac:core:ticket:66842",
+      "type": "ticket",
+      "title": "#66842 Legacy core-embed/* blocks get no block styles when block styles load ...",
+      "status": "created",
+      "url": "https://core.trac.wordpress.org/ticket/66842"
+    },
+    {
+      "source": "trac",
+      "teams": [
+        "core"
+      ],
+      "ask": "none",
+      "personas": [],
+      "confidence": 1,
       "time": "2026-11-27T07:08:50.000Z",
       "id": "trac:core:ticket:66841",
       "type": "ticket",
@@ -12093,108 +12030,6 @@
       "title": "#43585 Dynamically created setting not received on previewer",
       "status": "closed",
       "url": "https://core.trac.wordpress.org/ticket/43585#comment:4"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "core"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-25T04:23:39.000Z",
-      "id": "trac:core:ticket:66815",
-      "type": "ticket",
-      "title": "#66815 REST API: Use consistent ISO 8601 spelling in parameter descriptions",
-      "status": "created",
-      "url": "https://core.trac.wordpress.org/ticket/66815"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "core"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-25T04:09:19.000Z",
-      "id": "trac:core:changeset:65769",
-      "type": "commit",
-      "title": "[65769] Build/Test Tools: Update PHPStan to 2.3.7.  This also updates ...",
-      "url": "https://core.trac.wordpress.org/changeset/65769"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "core"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-25T03:56:01.000Z",
-      "id": "trac:core:ticket:66614",
-      "type": "ticket",
-      "title": "#66614 Tests: Add unit test coverage for wp_heartbeat_settings()",
-      "status": "closed",
-      "url": "https://core.trac.wordpress.org/ticket/66614#comment:4"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "core"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-25T01:48:37.000Z",
-      "id": "trac:core:ticket:66808",
-      "type": "ticket",
-      "title": "#66808 Block editor: author preload path is never consumed since the DataForm ...",
-      "status": "closed",
-      "url": "https://core.trac.wordpress.org/ticket/66808#comment:2"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "core"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-25T01:46:14.000Z",
-      "id": "trac:core:ticket:66814",
-      "type": "ticket",
-      "title": "#66814 Admin menu: \"Collapse Menu\" label is vertically misaligned depending ...",
-      "status": "created",
-      "url": "https://core.trac.wordpress.org/ticket/66814"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "core"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-24T23:34:57.000Z",
-      "id": "trac:core:changeset:65768",
-      "type": "commit",
-      "title": "[65768] Tests: Cover `wp_heartbeat_settings()`.  Verify: - Injecting the ...",
-      "url": "https://core.trac.wordpress.org/changeset/65768"
-    },
-    {
-      "source": "trac",
-      "teams": [
-        "core"
-      ],
-      "ask": "none",
-      "personas": [],
-      "confidence": 1,
-      "time": "2026-11-24T23:15:29.000Z",
-      "id": "trac:core:changeset:65767",
-      "type": "commit",
-      "title": "[65767] Build/Test Tools: Show individual end-to-end test names in CI.  Enable ...",
-      "url": "https://core.trac.wordpress.org/changeset/65767"
     },
     {
       "source": "trac",
@@ -13617,6 +13452,216 @@
       "url": "https://meta.trac.wordpress.org/changeset/15642"
     },
     {
+      "id": "github:WordPress/wordpress-develop#16029",
+      "source": "github",
+      "teams": [
+        "core"
+      ],
+      "type": "pull",
+      "title": "Build/Test Tools: Add live AI provider tests for the core abilities",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/16029",
+      "time": "2026-11-27T12:20:52.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-develop#16028",
+      "source": "github",
+      "teams": [
+        "core"
+      ],
+      "type": "pull",
+      "title": "Abilities API: Add the `core/content-create`, `core/content-update` and `core/content-delete` abilities",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/16028",
+      "time": "2026-11-27T12:08:43.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-develop#16287",
+      "source": "github",
+      "teams": [
+        "core"
+      ],
+      "type": "pull",
+      "title": "Abilities API: Insert hooked blocks into the raw content of `core/content-query`.",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/16287",
+      "time": "2026-11-27T11:59:13.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-develop#16074",
+      "source": "github",
+      "teams": [
+        "core"
+      ],
+      "type": "pull",
+      "title": "Abilities API: Add the `core/user-create`, `core/user-update` and `core/user-delete` abilities",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/16074",
+      "time": "2026-11-27T11:39:01.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-develop#16288",
+      "source": "github",
+      "teams": [
+        "core"
+      ],
+      "type": "pull",
+      "title": "Abilities API: Allow marking a `show_in_abilities` object as read only",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/16288",
+      "time": "2026-11-27T11:19:03.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-develop#16138",
+      "source": "github",
+      "teams": [
+        "core"
+      ],
+      "type": "pull",
+      "title": "Abilities API: Add the `core/media-query`, `core/media-upload`, `core/media-update` and `core/media-delete` abilities",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/16138",
+      "time": "2026-11-27T11:18:02.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-develop#10892",
+      "source": "github",
+      "teams": [
+        "core"
+      ],
+      "type": "pull",
+      "title": "Abilities API: Add the `core/settings-update` ability",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/10892",
+      "time": "2026-11-27T11:08:27.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-develop#16210",
+      "source": "github",
+      "teams": [
+        "core"
+      ],
+      "type": "pull",
+      "title": "Upgrade/Install: Count each translation update in the update counts.",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/16210",
+      "time": "2026-11-27T11:07:17.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-develop#13754",
+      "source": "github",
+      "teams": [
+        "core"
+      ],
+      "type": "pull",
+      "title": "Users: Separate `WP_User_Query` cache entries by result format",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/13754",
+      "time": "2026-11-27T10:30:05.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-develop#16161",
+      "source": "github",
+      "teams": [
+        "core"
+      ],
+      "type": "pull",
+      "title": "Coding Standards: Fix equals sign alignment in WP_Theme and the template autosaves controller",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/16161",
+      "time": "2026-11-27T10:29:58.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-develop#16265",
+      "source": "github",
+      "teams": [
+        "core"
+      ],
+      "type": "pull",
+      "title": "Themes: Fix stale Favorites state when switching to Feature Filters.",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/16265",
+      "time": "2026-11-27T09:59:24.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-develop#16102",
+      "source": "github",
+      "teams": [
+        "core"
+      ],
+      "type": "pull",
+      "title": "Abilities API: Add the `core/terms-query`, `core/term-create`, `core/term-update` and `core/term-delete` abilities",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/16102",
+      "time": "2026-11-27T09:58:13.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-develop#16236",
+      "source": "github",
+      "teams": [
+        "core"
+      ],
+      "type": "pull",
+      "title": "Tests: Cover `wp_enqueue_editor()` default asset enqueue",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/16236",
+      "time": "2026-11-27T09:52:53.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-develop#16262",
+      "source": "github",
+      "teams": [
+        "core"
+      ],
+      "type": "pull",
+      "title": "Tests: Preserve development state during E2E runs",
+      "url": "https://github.com/WordPress/wordpress-develop/pull/16262",
+      "time": "2026-11-27T09:26:55.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
       "id": "github:WordPress/wordpress-develop#16284",
       "source": "github",
       "teams": [
@@ -13632,435 +13677,240 @@
       "confidence": 1
     },
     {
-      "id": "github:WordPress/wordpress-develop#16286",
-      "source": "github",
-      "teams": [
-        "core"
-      ],
-      "type": "pull",
-      "title": "Tests: Add baseline tests for sticky handling in edit_post() and mw_editPost()",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/16286",
-      "time": "2026-11-27T06:59:29.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/wordpress-develop#16285",
-      "source": "github",
-      "teams": [
-        "core"
-      ],
-      "type": "pull",
-      "title": "Feeds: Fix Atom content types for XHTML sites.",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/16285",
-      "time": "2026-11-27T06:48:58.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/wordpress-develop#16277",
-      "source": "github",
-      "teams": [
-        "core"
-      ],
-      "type": "pull",
-      "title": "Media: Update the attachment MIME type when an image is converted on upload",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/16277",
-      "time": "2026-11-27T06:04:02.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/wordpress-develop#16279",
-      "source": "github",
-      "teams": [
-        "core"
-      ],
-      "type": "pull",
-      "title": "Backport: [Block] Query Loop: Enhanced pagination breaks block style variations below the query block on the last page with fewer posts",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/16279",
-      "time": "2026-11-27T05:57:15.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/wordpress-develop#16259",
-      "source": "github",
-      "teams": [
-        "core"
-      ],
-      "type": "pull",
-      "title": "Tests: Reset the entity actions registry before each `Tests_Entity_Actions` test.",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/16259",
-      "time": "2026-11-27T05:47:53.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/wordpress-develop#16283",
-      "source": "github",
-      "teams": [
-        "core"
-      ],
-      "type": "pull",
-      "title": "Tests: Set up the scripts before checking the script modules of the core fields.",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/16283",
-      "time": "2026-11-27T05:47:52.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/wordpress-develop#16281",
-      "source": "github",
-      "teams": [
-        "core"
-      ],
-      "type": "pull",
-      "title": "Tests: Fix invalid JSON in the block-theme-non-latin test theme",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/16281",
-      "time": "2026-11-27T05:28:08.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/wordpress-develop#16278",
-      "source": "github",
-      "teams": [
-        "core"
-      ],
-      "type": "pull",
-      "title": "Help/About: Translate `/random` slug displayed in graphic.",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/16278",
-      "time": "2026-11-27T05:17:25.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/wordpress-develop#12596",
-      "source": "github",
-      "teams": [
-        "core"
-      ],
-      "type": "pull",
-      "title": "Upgrade/Install: Retry an update check whose result could not be stored.",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/12596",
-      "time": "2026-11-27T05:13:39.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/wordpress-develop#12595",
-      "source": "github",
-      "teams": [
-        "core"
-      ],
-      "type": "pull",
-      "title": "Options, Meta APIs: Avoid caching options as nonexistent after database errors.",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/12595",
-      "time": "2026-11-27T05:13:39.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/wordpress-develop#16280",
-      "source": "github",
-      "teams": [
-        "core"
-      ],
-      "type": "pull",
-      "title": "Editor: Move theme.json sanitization into its own class and record what it removes",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/16280",
-      "time": "2026-11-27T05:11:34.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/wordpress-develop#16061",
-      "source": "github",
-      "teams": [
-        "core"
-      ],
-      "type": "pull",
-      "title": "Themes: Display error details when theme API request fails.",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/16061",
-      "time": "2026-11-27T05:08:07.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/wordpress-develop#14901",
-      "source": "github",
-      "teams": [
-        "core"
-      ],
-      "type": "pull",
-      "title": "Check for a non-string _method parameter in WP_REST_Server::serve_request()",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/14901",
-      "time": "2026-11-27T04:56:12.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/wordpress-develop#16264",
-      "source": "github",
-      "teams": [
-        "core"
-      ],
-      "type": "pull",
-      "title": "Formatting: Avoid nested links in make_clickable() when link text has surrounding content",
-      "url": "https://github.com/WordPress/wordpress-develop/pull/16264",
-      "time": "2026-11-27T04:53:38.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#86918",
+      "id": "github:WordPress/gutenberg#87551",
       "source": "github",
       "teams": [
         "core-editor"
       ],
       "type": "pull",
-      "title": "Storybook: Add install tool picker grid to the Design System MCP page",
-      "url": "https://github.com/WordPress/gutenberg/pull/86918",
-      "time": "2026-11-27T09:22:46.000Z",
+      "title": "Block Library: Convert Categories block to TypeScript",
+      "url": "https://github.com/WordPress/gutenberg/pull/87551",
+      "time": "2026-11-27T12:27:00.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/gutenberg#87472",
+      "id": "github:WordPress/gutenberg#81914",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Replace core-js-builder with core-js-compat and rolldown",
+      "url": "https://github.com/WordPress/gutenberg/pull/81914",
+      "time": "2026-11-27T12:26:54.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#86782",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "ColorPalette, GradientPicker: Keep focus when origins are reordered or removed",
+      "url": "https://github.com/WordPress/gutenberg/pull/86782",
+      "time": "2026-11-27T12:26:43.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#87548",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Block Library: Convert Read More block to TypeScript",
+      "url": "https://github.com/WordPress/gutenberg/pull/87548",
+      "time": "2026-11-27T12:26:25.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#87549",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Block Library: Convert Calendar block to TypeScript",
+      "url": "https://github.com/WordPress/gutenberg/pull/87549",
+      "time": "2026-11-27T12:24:12.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#77902",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Add runtime configuration support to wp-env JSON files",
+      "url": "https://github.com/WordPress/gutenberg/pull/77902",
+      "time": "2026-11-27T12:23:50.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#87558",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Block Library: Fix embed block bugs found by the TypeScript conversion",
+      "url": "https://github.com/WordPress/gutenberg/pull/87558",
+      "time": "2026-11-27T12:23:46.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#87557",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Block Library: Convert the embed block to TypeScript",
+      "url": "https://github.com/WordPress/gutenberg/pull/87557",
+      "time": "2026-11-27T12:23:26.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#86765",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "PaletteEdit: Close the swatch editor when its preset changes",
+      "url": "https://github.com/WordPress/gutenberg/pull/86765",
+      "time": "2026-11-27T12:22:16.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#80454",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Post Excerpt: Add accessible name to 'Read more' link",
+      "url": "https://github.com/WordPress/gutenberg/pull/80454",
+      "time": "2026-11-27T12:21:34.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#87555",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Bulk edit: Replay the picked values against every post",
+      "url": "https://github.com/WordPress/gutenberg/pull/87555",
+      "time": "2026-11-27T12:19:39.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#86780",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "GradientPicker: Keep focus on a control point moved past another one",
+      "url": "https://github.com/WordPress/gutenberg/pull/86780",
+      "time": "2026-11-27T12:18:37.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#87504",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Customize Widgets: Polish the header",
+      "url": "https://github.com/WordPress/gutenberg/pull/87504",
+      "time": "2026-11-27T12:18:16.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#87245",
       "source": "github",
       "teams": [
         "core-editor"
       ],
       "type": "issue",
-      "title": "Tabs Block: Add styling option for currently selected item of Tabs List",
-      "url": "https://github.com/WordPress/gutenberg/issues/87472",
-      "time": "2026-11-27T09:20:12.000Z",
+      "title": "DataViews, DataForm, and Fields in WordPress 7.3",
+      "url": "https://github.com/WordPress/gutenberg/issues/87245",
+      "time": "2026-11-27T12:17:14.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/gutenberg#86356",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Post Content: Align More links in constrained layouts",
-      "url": "https://github.com/WordPress/gutenberg/pull/86356",
-      "time": "2026-11-27T09:19:21.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#85490",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Keyboard shortcuts: expose readable punctuation labels to screen readers",
-      "url": "https://github.com/WordPress/gutenberg/pull/85490",
-      "time": "2026-11-27T09:19:18.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#87528",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Fix: Social Icons: Logos Only clears and restores the icon background on mount, breaking Undo and saved markup",
-      "url": "https://github.com/WordPress/gutenberg/pull/87528",
-      "time": "2026-11-27T09:18:13.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#86411",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Site editor: Add a Revisions button to the Styles panel",
-      "url": "https://github.com/WordPress/gutenberg/pull/86411",
-      "time": "2026-11-27T09:17:48.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#87534",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Agents: Validate skill frontmatter",
-      "url": "https://github.com/WordPress/gutenberg/pull/87534",
-      "time": "2026-11-27T09:17:31.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#84811",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Add  support for value attribute in List Item",
-      "url": "https://github.com/WordPress/gutenberg/pull/84811",
-      "time": "2026-11-27T09:16:03.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#87377",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Add text shadow support for Post Title block",
-      "url": "https://github.com/WordPress/gutenberg/pull/87377",
-      "time": "2026-11-27T09:15:39.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#85443",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Navigation: Give imported classic menus distinct titles",
-      "url": "https://github.com/WordPress/gutenberg/pull/85443",
-      "time": "2026-11-27T09:15:36.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#84518",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Spacer: Respect disabled custom spacing sizes when resizing",
-      "url": "https://github.com/WordPress/gutenberg/pull/84518",
-      "time": "2026-11-27T09:14:59.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#87537",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "DataViews: Keep picker focus outlines visible at scroll boundaries",
-      "url": "https://github.com/WordPress/gutenberg/pull/87537",
-      "time": "2026-11-27T09:14:43.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#67691",
+      "id": "github:WordPress/gutenberg#87556",
       "source": "github",
       "teams": [
         "core-editor"
       ],
       "type": "issue",
-      "title": "Convert packages to TypeScript",
-      "url": "https://github.com/WordPress/gutenberg/issues/67691",
-      "time": "2026-11-27T09:14:14.000Z",
-      "status": "open",
-      "ask": "join",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#87527",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Block Library: Convert Archives block to TypeScript",
-      "url": "https://github.com/WordPress/gutenberg/pull/87527",
-      "time": "2026-11-27T09:14:11.000Z",
+      "title": "Remove field-specific logic from screens (surfaces, modals, components)",
+      "url": "https://github.com/WordPress/gutenberg/issues/87556",
+      "time": "2026-11-27T12:17:08.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
       "confidence": 1
     },
     {
-      "id": "github:WordPress/gutenberg#87533",
+      "id": "github:WordPress/performance#2773",
       "source": "github",
       "teams": [
-        "core-editor"
+        "core-performance"
       ],
       "type": "pull",
-      "title": "Env: Update js-yaml to 5.5.0",
-      "url": "https://github.com/WordPress/gutenberg/pull/87533",
-      "time": "2026-11-27T09:13:45.000Z",
+      "title": "Feat: auto sizes ability",
+      "url": "https://github.com/WordPress/performance/pull/2773",
+      "time": "2026-11-27T11:09:05.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -14271,21 +14121,6 @@
       "title": "Try: add script attribution data",
       "url": "https://github.com/WordPress/performance/pull/1629",
       "time": "2026-11-21T18:16:22.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/performance#2761",
-      "source": "github",
-      "teams": [
-        "core-performance"
-      ],
-      "type": "pull",
-      "title": "Convert WebP uploads to AVIF when fallback output is enabled",
-      "url": "https://github.com/WordPress/performance/pull/2761",
-      "time": "2026-11-21T09:50:52.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -14517,6 +14352,51 @@
       "confidence": 1
     },
     {
+      "id": "github:WordPress/wordpress-playground#4567",
+      "source": "github",
+      "teams": [
+        "playground"
+      ],
+      "type": "pull",
+      "title": "[Website] Keep Network access changes available after applying site settings",
+      "url": "https://github.com/WordPress/wordpress-playground/pull/4567",
+      "time": "2026-11-27T11:03:04.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-playground#2823",
+      "source": "github",
+      "teams": [
+        "playground"
+      ],
+      "type": "pull",
+      "title": "[website] Add support to internationalization",
+      "url": "https://github.com/WordPress/wordpress-playground/pull/2823",
+      "time": "2026-11-27T10:46:30.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-playground#4777",
+      "source": "github",
+      "teams": [
+        "playground"
+      ],
+      "type": "pull",
+      "title": "[i18n] Translate the native iOS app guide into Hindi",
+      "url": "https://github.com/WordPress/wordpress-playground/pull/4777",
+      "time": "2026-11-27T10:06:10.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
       "id": "github:WordPress/wordpress-playground#4767",
       "source": "github",
       "teams": [
@@ -14652,36 +14532,6 @@
       "confidence": 1
     },
     {
-      "id": "github:WordPress/wordpress-playground#4567",
-      "source": "github",
-      "teams": [
-        "playground"
-      ],
-      "type": "pull",
-      "title": "[Website] Keep Network access changes available after applying site settings",
-      "url": "https://github.com/WordPress/wordpress-playground/pull/4567",
-      "time": "2026-11-27T00:42:00.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/wordpress-playground#2823",
-      "source": "github",
-      "teams": [
-        "playground"
-      ],
-      "type": "pull",
-      "title": "[website] Add support to internationalization",
-      "url": "https://github.com/WordPress/wordpress-playground/pull/2823",
-      "time": "2026-11-26T20:38:27.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
       "id": "github:WordPress/wordpress-playground#4775",
       "source": "github",
       "teams": [
@@ -14727,111 +14577,6 @@
       "confidence": 1
     },
     {
-      "id": "github:WordPress/wordpress-playground#4664",
-      "source": "github",
-      "teams": [
-        "playground"
-      ],
-      "type": "issue",
-      "title": "[Translation] Hindi translation progress tracker",
-      "url": "https://github.com/WordPress/wordpress-playground/issues/4664",
-      "time": "2026-11-26T19:44:00.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/openverse#5883",
-      "source": "github",
-      "teams": [
-        "openverse"
-      ],
-      "type": "pull",
-      "title": "Proxy API requests in production and limit page loads by session",
-      "url": "https://github.com/WordPress/openverse/pull/5883",
-      "time": "2026-11-27T09:21:16.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/openverse#5884",
-      "source": "github",
-      "teams": [
-        "openverse"
-      ],
-      "type": "pull",
-      "title": "Install native packages for both macOS and Linux",
-      "url": "https://github.com/WordPress/openverse/pull/5884",
-      "time": "2026-11-27T09:19:35.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/openverse#5835",
-      "source": "github",
-      "teams": [
-        "openverse"
-      ],
-      "type": "issue",
-      "title": "English strings mix British and American spelling (\"recognises\", \"judgement\")",
-      "url": "https://github.com/WordPress/openverse/issues/5835",
-      "time": "2026-11-27T09:05:35.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/openverse#5882",
-      "source": "github",
-      "teams": [
-        "openverse"
-      ],
-      "type": "pull",
-      "title": "Use US English spelling for recognizes and judgment in en.json5",
-      "url": "https://github.com/WordPress/openverse/pull/5882",
-      "time": "2026-11-27T09:05:29.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/openverse#5877",
-      "source": "github",
-      "teams": [
-        "openverse"
-      ],
-      "type": "pull",
-      "title": "Run Elasticsearch 8.19.26 in local development and CI",
-      "url": "https://github.com/WordPress/openverse/pull/5877",
-      "time": "2026-11-27T07:01:03.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/openverse#5878",
-      "source": "github",
-      "teams": [
-        "openverse"
-      ],
-      "type": "pull",
-      "title": "Update the local Postgres and Redis to the versions closest to production",
-      "url": "https://github.com/WordPress/openverse/pull/5878",
-      "time": "2026-11-27T07:00:50.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
       "id": "github:WordPress/openverse#255",
       "source": "github",
       "teams": [
@@ -14840,7 +14585,52 @@
       "type": "issue",
       "title": "Dependency Dashboard",
       "url": "https://github.com/WordPress/openverse/issues/255",
-      "time": "2026-11-27T06:18:26.000Z",
+      "time": "2026-11-27T12:16:28.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/openverse#5887",
+      "source": "github",
+      "teams": [
+        "openverse"
+      ],
+      "type": "pull",
+      "title": "Publish changelog for api-2026.11.27.10.56.45",
+      "url": "https://github.com/WordPress/openverse/pull/5887",
+      "time": "2026-11-27T11:25:28.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/openverse#5886",
+      "source": "github",
+      "teams": [
+        "openverse"
+      ],
+      "type": "pull",
+      "title": "Publish changelog for frontend-2026.11.27.10.56.45",
+      "url": "https://github.com/WordPress/openverse/pull/5886",
+      "time": "2026-11-27T11:10:17.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/openverse#5885",
+      "source": "github",
+      "teams": [
+        "openverse"
+      ],
+      "type": "pull",
+      "title": "Keep search timing events for responses within the request's second",
+      "url": "https://github.com/WordPress/openverse/pull/5885",
+      "time": "2026-11-27T11:06:05.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -14961,6 +14751,51 @@
       "title": "OpenAPI schema does not match API behaviour",
       "url": "https://github.com/WordPress/openverse/issues/5647",
       "time": "2026-11-26T06:36:26.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/openverse#472",
+      "source": "github",
+      "teams": [
+        "openverse"
+      ],
+      "type": "issue",
+      "title": "Integrate Stylelint",
+      "url": "https://github.com/WordPress/openverse/issues/472",
+      "time": "2026-11-25T11:24:50.000Z",
+      "status": "open",
+      "ask": "join",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/openverse#5481",
+      "source": "github",
+      "teams": [
+        "openverse"
+      ],
+      "type": "issue",
+      "title": "Optimized Analytical Methods for Assessing Carbamate Pesticide and  Phthalate Contamination in Khat (Catha edulis) and Their Health  Implications in Harari Region, Ethiopia",
+      "url": "https://github.com/WordPress/openverse/issues/5481",
+      "time": "2026-11-24T22:04:13.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/openverse#5440",
+      "source": "github",
+      "teams": [
+        "openverse"
+      ],
+      "type": "issue",
+      "title": "Broken translation string",
+      "url": "https://github.com/WordPress/openverse/issues/5440",
+      "time": "2026-11-24T22:04:10.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -15334,6 +15169,17 @@
   ],
   "tickets": [
     {
+      "id": 66806,
+      "title": "Update counts for language packs is wrong",
+      "url": "https://core.trac.wordpress.org/ticket/66806",
+      "status": "new",
+      "type": "defect (bug)",
+      "priority": "normal",
+      "milestone": "7.2",
+      "component": "Upgrade/Install",
+      "owner": ""
+    },
+    {
       "id": 66839,
       "title": "Formatting: excerpt_remove_footnotes() pre-check does not recognize uppercase DATA-FN attributes",
       "url": "https://core.trac.wordpress.org/ticket/66839",
@@ -15398,17 +15244,6 @@
       "milestone": "7.2",
       "component": "Widgets",
       "owner": "audrasjb"
-    },
-    {
-      "id": 66806,
-      "title": "Update counts for language packs is wrong",
-      "url": "https://core.trac.wordpress.org/ticket/66806",
-      "status": "new",
-      "type": "defect (bug)",
-      "priority": "normal",
-      "milestone": "7.2",
-      "component": "Upgrade/Install",
-      "owner": ""
     },
     {
       "id": 66695,
