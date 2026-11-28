@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T09:20:42.175Z",
+  "generatedAt": "2026-11-28T12:24:45.607Z",
   "items": [
     {
       "id": "make:core:127286",
@@ -2007,6 +2007,20 @@
       "confidence": 1
     },
     {
+      "id": "make:polyglots:76727",
+      "source": "make",
+      "teams": [
+        "polyglots"
+      ],
+      "type": "post",
+      "title": "PTE Request for Seonardo Editorial…",
+      "url": "https://make.wordpress.org/polyglots/2026/11/28/pte-request-for-seonardo-editorial/",
+      "time": "2026-11-28T09:37:43Z",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
       "id": "make:polyglots:76706",
       "source": "make",
       "teams": [
@@ -2408,20 +2422,6 @@
       "title": "PTE Request for TPVStream for WooCommerce",
       "url": "https://make.wordpress.org/polyglots/2026/11/27/pte-request-for-tpvstream-for-woocommerce/",
       "time": "2026-11-27T10:21:20Z",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "make:polyglots:76610",
-      "source": "make",
-      "teams": [
-        "polyglots"
-      ],
-      "type": "post",
-      "title": "Translation review request: Forvault Security…",
-      "url": "https://make.wordpress.org/polyglots/2026/11/27/translation-review-request-forvault-security/",
-      "time": "2026-11-27T07:08:49Z",
       "ask": "none",
       "personas": [],
       "confidence": 1
@@ -14196,6 +14196,36 @@
       "confidence": 1
     },
     {
+      "id": "github:WordPress/gutenberg#85443",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Navigation: Give imported classic menus distinct titles",
+      "url": "https://github.com/WordPress/gutenberg/pull/85443",
+      "time": "2026-11-28T09:32:50.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/gutenberg#85497",
+      "source": "github",
+      "teams": [
+        "core-editor"
+      ],
+      "type": "pull",
+      "title": "Style Book: Align keyboard focus with the header layout",
+      "url": "https://github.com/WordPress/gutenberg/pull/85497",
+      "time": "2026-11-28T09:27:49.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
       "id": "github:WordPress/gutenberg#85496",
       "source": "github",
       "teams": [
@@ -14391,36 +14421,6 @@
       "confidence": 1
     },
     {
-      "id": "github:WordPress/gutenberg#85723",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Blocks: preserve registered custom attributes through deprecations",
-      "url": "https://github.com/WordPress/gutenberg/pull/85723",
-      "time": "2026-11-28T08:13:06.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/gutenberg#84805",
-      "source": "github",
-      "teams": [
-        "core-editor"
-      ],
-      "type": "pull",
-      "title": "Block Editor: respect nested template ownership",
-      "url": "https://github.com/WordPress/gutenberg/pull/84805",
-      "time": "2026-11-28T08:04:48.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
       "id": "github:WordPress/performance#2550",
       "source": "github",
       "teams": [
@@ -14429,7 +14429,7 @@
       "type": "pull",
       "title": "Feature: CSS Gradient Low Quality Image Placeholders",
       "url": "https://github.com/WordPress/performance/pull/2550",
-      "time": "2026-11-28T07:53:47.000Z",
+      "time": "2026-11-28T12:18:40.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -14871,6 +14871,66 @@
       "confidence": 1
     },
     {
+      "id": "github:WordPress/wordpress-playground#4787",
+      "source": "github",
+      "teams": [
+        "playground"
+      ],
+      "type": "pull",
+      "title": "[i18n] Translate the Playground CLI page into Hindi",
+      "url": "https://github.com/WordPress/wordpress-playground/pull/4787",
+      "time": "2026-11-28T11:13:42.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-playground#4786",
+      "source": "github",
+      "teams": [
+        "playground"
+      ],
+      "type": "pull",
+      "title": "[i18n] Translate the VS Code extension page into Hindi",
+      "url": "https://github.com/WordPress/wordpress-playground/pull/4786",
+      "time": "2026-11-28T10:29:19.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-playground#4785",
+      "source": "github",
+      "teams": [
+        "playground"
+      ],
+      "type": "pull",
+      "title": "[i18n] Translate the Local Development intro page into Hindi",
+      "url": "https://github.com/WordPress/wordpress-playground/pull/4785",
+      "time": "2026-11-28T10:29:16.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
+      "id": "github:WordPress/wordpress-playground#4784",
+      "source": "github",
+      "teams": [
+        "playground"
+      ],
+      "type": "issue",
+      "title": "[Documentation]: Full documentation & Blueprint examples audit",
+      "url": "https://github.com/WordPress/wordpress-playground/issues/4784",
+      "time": "2026-11-28T09:45:39.000Z",
+      "status": "open",
+      "ask": "none",
+      "personas": [],
+      "confidence": 1
+    },
+    {
       "id": "github:WordPress/wordpress-playground#4763",
       "source": "github",
       "teams": [
@@ -15036,60 +15096,15 @@
       "confidence": 1
     },
     {
-      "id": "github:WordPress/wordpress-playground#4781",
+      "id": "github:WordPress/openverse#255",
       "source": "github",
       "teams": [
-        "playground"
-      ],
-      "type": "pull",
-      "title": "[ php-wasm ] Add `xdebug` dynamic extension to PHP.wasm Web",
-      "url": "https://github.com/WordPress/wordpress-playground/pull/4781",
-      "time": "2026-11-27T16:07:44.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/wordpress-playground#2823",
-      "source": "github",
-      "teams": [
-        "playground"
-      ],
-      "type": "pull",
-      "title": "[website] Add support to internationalization",
-      "url": "https://github.com/WordPress/wordpress-playground/pull/2823",
-      "time": "2026-11-27T15:38:35.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/wordpress-playground#4755",
-      "source": "github",
-      "teams": [
-        "playground"
+        "openverse"
       ],
       "type": "issue",
-      "title": "Idea: add a \"prototype/testing\" mode to Playground to minimize additional controls",
-      "url": "https://github.com/WordPress/wordpress-playground/issues/4755",
-      "time": "2026-11-27T14:21:28.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/wordpress-playground#4752",
-      "source": "github",
-      "teams": [
-        "playground"
-      ],
-      "type": "pull",
-      "title": "[php-wasm] Decide PHP.cli() runtime rotation after acquiring the semaphore",
-      "url": "https://github.com/WordPress/wordpress-playground/pull/4752",
-      "time": "2026-11-27T13:59:02.000Z",
+      "title": "Dependency Dashboard",
+      "url": "https://github.com/WordPress/openverse/issues/255",
+      "time": "2026-11-28T12:14:58.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
@@ -15135,21 +15150,6 @@
       "title": "Log a token prefix instead of the full Authorization header",
       "url": "https://github.com/WordPress/openverse/pull/5888",
       "time": "2026-11-28T03:56:06.000Z",
-      "status": "open",
-      "ask": "none",
-      "personas": [],
-      "confidence": 1
-    },
-    {
-      "id": "github:WordPress/openverse#255",
-      "source": "github",
-      "teams": [
-        "openverse"
-      ],
-      "type": "issue",
-      "title": "Dependency Dashboard",
-      "url": "https://github.com/WordPress/openverse/issues/255",
-      "time": "2026-11-28T00:26:17.000Z",
       "status": "open",
       "ask": "none",
       "personas": [],
